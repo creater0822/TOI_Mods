@@ -1,4 +1,4 @@
-i# Overview to modding Tale of Immortal
+# Overview to modding Tale of Immortal
 > Written by Creater Cyfire, last revision: Jun 12, 2024
 
 Modding in Tale of Immortal *-e.g. using the game's API-* is best described as *<ins>'appreciating modern art'</ins>*, or in other words:
@@ -21,16 +21,21 @@ From here you can either skip to the [Table of content](#table-of-content), or c
 With all of that said: This summary is basically written in the perspective of (dare I say it) **overwhelming amount of brute- logic**, but <ins>barely any</ins> specialized 'convention-related' knowledge. It (indeed) means that I'll be assuming any 1+1=2 equivalently-easy facts to be better self-discovered; Whilst spending time/effort to write about what kind of logic-based implementations are relevant to modding this game, so you can begin your own exploration knowing what and where to find your way out.
 
 ## Table of content
-- [My story...](#my-story)
-- [Table of content](#table-of-content)
-- [How/where to start?](#howwhere-to-start)
-- [1. Tools](#1-tools)
-- [2. All creation categories](#2-all-creation-categories)
-- [3. Mod Creator](#3-mod-creator)
-  - [3.1 soleID, namespace and ExcelMID](#31-soleid-namespace-and-excelmid)
-  - [3.2 Mod creator features](#32-mod-creator-features)
-- [4. ModExcel (json/xlsx)](#4-modexcel-jsonxlsx)
-- [5. ModCode (using C#.Net)](#5-modcode-using-cnet)
+- [Overview to modding Tale of Immortal](#overview-to-modding-tale-of-immortal)
+  - [My story...](#my-story)
+  - [Table of content](#table-of-content)
+  - [How/where to start?](#howwhere-to-start)
+  - [1. Tools](#1-tools)
+  - [2. All creation categories](#2-all-creation-categories)
+  - [3. Mod Creator](#3-mod-creator)
+    - [3.1 soleID, namespace and ExcelMID](#31-soleid-namespace-and-excelmid)
+    - [3.2 Mod creator features](#32-mod-creator-features)
+  - [4. ModExcel (json/xlsx)](#4-modexcel-jsonxlsx)
+    - [4.1 Data file convention](#41-data-file-convention)
+    - [4.2 References and meta-data](#42-references-and-meta-data)
+    - [4.3 File-topics of interest](#43-file-topics-of-interest)
+  - [5. ModCode (using C#.Net)](#5-modcode-using-cnet)
+  - [6. Source reconstruction](#6-source-reconstruction)
 
 ## How/where to start?
 Let's start with some quick info:
@@ -165,7 +170,60 @@ Creates battle instances, which I've only superficially tried out once. So idk h
 - **Modify Resources**: Clicking this button for the first time generates the ModRes folder, which contains the default Unity project template that's been given to us by the devs.
 
 ## 4. ModExcel (json/xlsx)
+This is none of other than a proportion of the game's data (incl. configs) that has been exposed, in the form of a relational database-like manner of data-files. First we'll look at the file structure conventions. Then a summary of places *(read: official game files that are included with the game)* from which we can obtain our meta-data, however low the quality and quantity may be. Lastly I'll attempt to describe some of the files of interest that I have seen throughout my time of modding. *(This last part will be a work-in-progress, depending on my mood/motivation to write more/less.)*
+
+### 4.1 Data file convention
+- The file name equals the data-construct which it pertains to (case-sensitive) and is defined in either json- or xlsx-format.
+- The game reads from the json-style, which is the extension type that you'll obtain (even) if you "Export" an xlsx-version of the data-file into a playable Mod-folder.
+- Within the `ModExcel` folder you can create multiple sub-folder layers given any name to topic-separate a data-file. For example separate the lines in `LocalText` per skill, per quest dialogue, etc..
+- In order to patch the value of 1 variable, the (patch)data file only needs that object's ID and variable & value defined. You don't need to copy/paste the other N-variables of that object.
+- **Most** of the data files support both positive and negative integer ids, but not every data file does! *(As far as I know, only `SchoolSlogan` doesn't accept negative ids.)*
+- The majority of the game's text are defined in either `LocalText` or `RoleLogLocal`, while other data-files would key-reference their text to those files.
+- You **can** make use of both json and xlsx in the same `ModExcel` project, for example `LocalText.xlsx` with `RoleCreateFeature.json`. But!!
+- You **cannot** have define both a json and xlsx of the same data-file within the same directory-level. *(I forgot which of the 2 has priority, but that's not really important.)*
+  - Bad Example: `/ModExcel/LocalText.json` + `/ModExcel/LocalText.xlsx`
+  - Good example: `/ModExcel/LocalText.json` + `/ModExcel/CheatDialogue/LocalText.xlsx`
+
+**Json format:**
+- Accepts non-quoted values (e.g. boolean and numerical)
+- Supports both trailing commas
+- Supports Java-style comments, e.g. // this is comment
+- Within the objects, any key-order is fine.
+- The Java-style comments *are preserved* after becoming part of a playable mod.
+- Doesn't support the `ExcelMID` feature.
+
+**Xlsx format:**
+- The data is defined in the first sheet and the sheet name must equal the file name (minus extension type ofc.)
+- A conventional data-table with variable per column and observation per row.
+- The 1st row of the data-table **must** be comments or empty, while <ins>the variable names must be defined on the 2nd row</ins>. The 3rd row is used to define the data type of the variable, e.g. string or integer.
+- To input negative values in a cell, you must use a single-quote `'` prefix before the value. Otherwise Excel considers it a function- / formula-cell.
+- I've never tried using cell-functions in ModExcel data, therefore don't recommend it as I don't even know if it's allowed.
+- The first empty row at the bottom of your table marks the end of the table. Any data-row below it are considered comments.
+- Empty columns on the right can be used for per-row comments as well, but I recommend:
+  1. Defining the data table with every variable that the respective data-file has.
+  2. (Similar to the row-rule) leave one column empty before picking the next column(s) for comments.
+- Any Excel sheet other than the first/main one can be used to save more comments, be used to store reference-data, or whatever..
+- When the xlsx file is transformed into Json, all of its 'comment cells' are ignored and *will not be stored* in the playable Mod folder.
+- Supports `ExcelMID` for object IDs. Syntax example: 
+  - ExcelMID = `123456000`
+  - You want your destiny's name text in `LocalText` to have the id `123456001` and the description's text id to be `123456002`
+  - Thus destiny name id = `MID&001` and description id = `MID&002`
+- You can decorate your cells and text with fancy colors and line-borders to make your files easier for yourself to navigate through.
+- Windows users that have used custom UX-color profiles might be cursed in Microsoft Office software, as those applications depend on your system-UX whilst the actual file-defined color values aren't! For example: Your World file with dark background and white text is in fact still a white background on black text on any other vanilla Windows config.
+
+With all of that summarized, I would personally like to use the json-style more. Plain-text editors are significantly faster (read: more responsive) than Excel and you can comment per line, opposed to Excel where you can only add comments at the far-bottom or far-right. *(Yes you can add mouse-hover comments per cell, but I'm not a fan of that..)* Making it worse, Excel doesn't let you open two workbooks with identical names..<br>
+On large-scale mods (example: hundreds of dialogues panels & options) however, Excel might become a more suitable choice. *(Cause yea.. Its drag-fill feature and per-row observation vs Json's multiple-row per-observation making it easier to skim over in Excel.)*
+
+Long story short: Neither implementation styles are perfect as both have their pros and cons. So this is where you're on your own to figure out how you'd want to get things done.
+
+### 4.2 References and meta-data
 ...
 
+### 4.3 File-topics of interest
+*Coming soon (maybe...)*
+
 ## 5. ModCode (using C#.Net)
+...
+
+## 6. Source reconstruction
 ...
