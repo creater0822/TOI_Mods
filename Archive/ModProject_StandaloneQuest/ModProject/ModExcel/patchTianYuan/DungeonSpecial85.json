@@ -1,0 +1,8 @@
+[
+  // Walk towards Nuwa faster
+  {
+    "id": "1",
+    "key": "fixedMoveSpeed",
+    "value": "999"
+  }
+]

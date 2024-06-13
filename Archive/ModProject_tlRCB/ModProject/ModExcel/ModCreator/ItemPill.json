@@ -1,0 +1,110 @@
+[
+  {
+    "id": "1201938131",
+    "effectType": "101",
+    "operUse": "1",
+    "operEquip": "0",
+    "autoUse": "0",
+    "effectValue": "725057533",
+    "basType": "0",
+    "basRequire": "0",
+    "grade": "1",
+    "carryCount": "0"
+  },
+  {
+    "id": "-533659860",
+    "effectType": "101",
+    "operUse": "1",
+    "operEquip": "0",
+    "autoUse": "0",
+    "effectValue": "-552029588",
+    "basType": "0",
+    "basRequire": "0",
+    "grade": "1",
+    "carryCount": "0"
+  },
+  {
+    "id": "-1673330083",
+    "effectType": "101",
+    "operUse": "1",
+    "operEquip": "0",
+    "autoUse": "0",
+    "effectValue": "-1187857786",
+    "basType": "0",
+    "basRequire": "0",
+    "grade": "1",
+    "carryCount": "0"
+  },
+  {
+    "id": "-1326109085",
+    "effectType": "101",
+    "operUse": "1",
+    "operEquip": "0",
+    "autoUse": "0",
+    "effectValue": "1773918638",
+    "basType": "0",
+    "basRequire": "0",
+    "grade": "1",
+    "carryCount": "0"
+  },
+  {
+    "id": "1697786759",
+    "effectType": "101",
+    "operUse": "1",
+    "operEquip": "0",
+    "autoUse": "0",
+    "effectValue": "-1213748610",
+    "basType": "0",
+    "basRequire": "0",
+    "grade": "1",
+    "carryCount": "0"
+  },
+  {
+    "id": "-829499283",
+    "effectType": "101",
+    "operUse": "1",
+    "operEquip": "0",
+    "autoUse": "0",
+    "effectValue": "-57333469",
+    "basType": "0",
+    "basRequire": "0",
+    "grade": "1",
+    "carryCount": "0"
+  },
+  {
+    "id": "-1442461760",
+    "effectType": "101",
+    "operUse": "1",
+    "operEquip": "0",
+    "autoUse": "0",
+    "effectValue": "1953486896",
+    "basType": "0",
+    "basRequire": "0",
+    "grade": "1",
+    "carryCount": "0"
+  },
+  {
+    "id": "-2067379527",
+    "effectType": "101",
+    "operUse": "1",
+    "operEquip": "1",
+    "autoUse": "0",
+    "effectValue": "1717264099",
+    "basType": "0",
+    "basRequire": "0",
+    "grade": "1",
+    "carryCount": "1000"
+  },
+  {
+    "id": "635604499",
+    "effectType": "101",
+    "operUse": "1",
+    "operEquip": "0",
+    "autoUse": "0",
+    "effectValue": "-641877259",
+    "basType": "0",
+    "basRequire": "0",
+    "grade": "1",
+    "carryCount": "0"
+  }
+]

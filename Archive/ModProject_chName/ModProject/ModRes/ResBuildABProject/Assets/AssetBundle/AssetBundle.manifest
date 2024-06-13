@@ -1,0 +1,62 @@
+ManifestFileVersion: 0
+CRC: 3741717393
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: ab/ui/btnxm1.ab
+      Dependencies: {}
+    Info_1:
+      Name: ab/ui/btnxm2.ab
+      Dependencies:
+        Dependency_0: assets/texture/atlas/common/taohua.png.ab
+    Info_2:
+      Name: assets/texture/atlas/common/taohua.png.ab
+      Dependencies: {}
+    Info_3:
+      Name: ab/ui/inputitem.ab
+      Dependencies:
+        Dependency_0: assets/texture/atlas/common/hy_btn_tongyi.png.ab
+        Dependency_1: assets/texture/atlas/common/hy_btn_jujue.png.ab
+        Dependency_2: assets/texture/atlas/common/shuxingbg.png.ab
+    Info_4:
+      Name: assets/texture/atlas/common/hy_btn_tongyi.png.ab
+      Dependencies: {}
+    Info_5:
+      Name: assets/texture/atlas/common/hy_btn_jujue.png.ab
+      Dependencies: {}
+    Info_6:
+      Name: assets/texture/atlas/common/shuxingbg.png.ab
+      Dependencies: {}
+    Info_7:
+      Name: ab/ui/lizi.ab
+      Dependencies:
+        Dependency_0: assets/texture/atlas/common/qw/shuidi1.png.ab
+        Dependency_1: assets/texture/atlas/common/qw/shuidi3.png.ab
+        Dependency_2: assets/texture/atlas/common/qw/shuidi6.png.ab
+        Dependency_3: assets/texture/atlas/common/qw/shuidi2.png.ab
+        Dependency_4: assets/texture/atlas/common/qw/shuidi5.png.ab
+        Dependency_5: assets/texture/atlas/common/qw/shuidi4.png.ab
+    Info_8:
+      Name: assets/texture/atlas/common/qw/shuidi1.png.ab
+      Dependencies: {}
+    Info_9:
+      Name: assets/texture/atlas/common/qw/shuidi3.png.ab
+      Dependencies: {}
+    Info_10:
+      Name: assets/texture/atlas/common/qw/shuidi6.png.ab
+      Dependencies: {}
+    Info_11:
+      Name: assets/texture/atlas/common/qw/shuidi2.png.ab
+      Dependencies: {}
+    Info_12:
+      Name: assets/texture/atlas/common/qw/shuidi5.png.ab
+      Dependencies: {}
+    Info_13:
+      Name: assets/texture/atlas/common/qw/shuidi4.png.ab
+      Dependencies: {}
+    Info_14:
+      Name: ab/ui/testexample.ab
+      Dependencies: {}
+    Info_15:
+      Name: ab/ui/testexample122.ab
+      Dependencies: {}

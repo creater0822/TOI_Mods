@@ -1,0 +1,37 @@
+[
+  {
+    "key": "hateReduceMin",
+    "value": 0,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "hateReduceMax",
+    "value": 0,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "itemScorePara",
+    "value": 100,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "itemScoreParaA",
+    "value": 1,
+    "id": 9,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "itemScoreParaB",
+    "value": 1,
+    "id": 10,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "key": "npcID",
+    "value": "8201",
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "dramaID",
+    "value": "9003000|9003011|9003023",
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "skyMountDramaID",
+    "value": "2260000",
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "lisiDramaID",
+    "value": "2201001|2201701|2270091|2270092",
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "npcIDLisi",
+    "value": "6088",
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "pandaTipShow",
+    "value": "dialogue_9003070_0|grade_0_9_10",
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "mountShow",
+    "value": "or|dialogue_9003070_1|dialogue_2200001_1",
+    "id": 7,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

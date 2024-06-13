@@ -1,0 +1,82 @@
+[
+  {
+    "dungeonID": 139,
+    "bossID": 7991,
+    "failEffLimit": 1000,
+    "delEffLayers": 25,
+    "specEffects": "400001",
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dungeonID": 2308,
+    "bossID": 7991,
+    "failEffLimit": 1000,
+    "delEffLayers": 25,
+    "specEffects": "400001",
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dungeonID": 2309,
+    "bossID": 8031,
+    "failEffLimit": 1000,
+    "delEffLayers": 25,
+    "specEffects": "400001",
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dungeonID": 2310,
+    "bossID": 8011,
+    "failEffLimit": 1000,
+    "delEffLayers": 25,
+    "specEffects": "400001",
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dungeonID": 2311,
+    "bossID": 8021,
+    "failEffLimit": 1000,
+    "delEffLayers": 25,
+    "specEffects": "400001",
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dungeonID": 2312,
+    "bossID": 8451,
+    "failEffLimit": 1000,
+    "delEffLayers": 25,
+    "specEffects": "400001",
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dungeonID": 2319,
+    "bossID": 7991,
+    "failEffLimit": 1000,
+    "delEffLayers": 25,
+    "specEffects": "400001",
+    "id": 7,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dungeonID": 2320,
+    "bossID": 8011,
+    "failEffLimit": 1000,
+    "delEffLayers": 25,
+    "specEffects": "400001",
+    "id": 8,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

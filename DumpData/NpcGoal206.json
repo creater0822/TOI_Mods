@@ -1,0 +1,37 @@
+[
+  {
+    "key": "defameRateA",
+    "value": 25,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "defameRateB",
+    "value": 30,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "notifyRate",
+    "value": 40,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "notifyDramaID",
+    "value": 731301,
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "weightAdd",
+    "value": 2000000,
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

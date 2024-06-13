@@ -1,0 +1,16 @@
+[
+  {
+    "key": "costDayMin",
+    "value": 5,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "costDayMax",
+    "value": 10,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

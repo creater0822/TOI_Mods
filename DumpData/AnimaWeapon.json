@@ -1,0 +1,29 @@
+[
+  {
+    "name": "intoGame_text16",
+    "icon": "shuangyupei",
+    "desc": "intoGame_text17",
+    "backstory": "intoGame_text18",
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "name": "intoGame_text13",
+    "icon": "haotianyan",
+    "desc": "intoGame_text14",
+    "backstory": "intoGame_text15",
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "name": "intoGame_text19",
+    "icon": "lianyaohu",
+    "desc": "intoGame_text20",
+    "backstory": "intoGame_text21",
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

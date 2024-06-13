@@ -1,0 +1,980 @@
+[
+  {
+    "dramaId": 1610101,
+    "dramaUnitLeft": "0",
+    "dramaUnitRight": "intimSchool",
+    "weight": 5000,
+    "triggerConditions": [
+      [
+        "isBattleUnit",
+        "1"
+      ],
+      [
+        "months",
+        "0",
+        "3"
+      ],
+      [
+        "intimSchool",
+        "1",
+        "2",
+        "3"
+      ],
+      [
+        "unitPost",
+        "4"
+      ]
+    ],
+    "triggerGroup": 0,
+    "triggerMonths": 108,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dramaId": 1610201,
+    "dramaUnitLeft": "0",
+    "dramaUnitRight": "masterSchool_intim:1_post:0_1",
+    "weight": 1000,
+    "triggerConditions": [
+      [
+        "isBattleUnit",
+        "1"
+      ],
+      [
+        "months",
+        "0",
+        "3"
+      ],
+      [
+        "masterSchool",
+        "2",
+        "0"
+      ]
+    ],
+    "triggerGroup": 0,
+    "triggerMonths": 72,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dramaId": 1610301,
+    "dramaUnitLeft": "0",
+    "dramaUnitRight": "masterSchool_intim:1_post:0_1",
+    "weight": 2500,
+    "triggerConditions": [
+      [
+        "isBattleUnit",
+        "1"
+      ],
+      [
+        "months",
+        "0",
+        "3"
+      ],
+      [
+        "masterSchool",
+        "2",
+        "0"
+      ]
+    ],
+    "triggerGroup": 1,
+    "triggerMonths": 36,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dramaId": 1610401,
+    "dramaUnitLeft": "0",
+    "dramaUnitRight": "intimSchool",
+    "weight": 2500,
+    "triggerConditions": [
+      [
+        "isBattleUnit",
+        "1"
+      ],
+      [
+        "months",
+        "0",
+        "3"
+      ],
+      [
+        "intimSchool",
+        "2",
+        "3",
+        "2",
+        "0"
+      ],
+      [
+        "unitPost",
+        "4"
+      ]
+    ],
+    "triggerGroup": 1,
+    "triggerMonths": 36,
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dramaId": 1610501,
+    "dramaUnitLeft": "0",
+    "dramaUnitRight": "intimSchool",
+    "weight": 1000,
+    "triggerConditions": [
+      [
+        "isBattleUnit",
+        "0"
+      ],
+      [
+        "months",
+        "0",
+        "3"
+      ],
+      [
+        "intimSchool",
+        "2",
+        "3",
+        "2",
+        "0"
+      ],
+      [
+        "unitPost",
+        "5"
+      ]
+    ],
+    "triggerGroup": 0,
+    "triggerMonths": 72,
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dramaId": 1610601,
+    "dramaUnitLeft": "0",
+    "dramaUnitRight": "intimSchool",
+    "weight": 2500,
+    "triggerConditions": [
+      [
+        "isBattleUnit",
+        "1"
+      ],
+      [
+        "months",
+        "0",
+        "3"
+      ],
+      [
+        "intimSchool",
+        "5",
+        "6",
+        "0",
+        "2"
+      ],
+      [
+        "unitPost",
+        "4"
+      ]
+    ],
+    "triggerGroup": 2,
+    "triggerMonths": 36,
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dramaId": 1610701,
+    "dramaUnitLeft": "0",
+    "dramaUnitRight": "intimSchool",
+    "weight": 2500,
+    "triggerConditions": [
+      [
+        "isBattleUnit",
+        "1"
+      ],
+      [
+        "months",
+        "0",
+        "3"
+      ],
+      [
+        "intimSchool",
+        "5",
+        "6",
+        "0",
+        "2"
+      ],
+      [
+        "unitPost",
+        "4"
+      ]
+    ],
+    "triggerGroup": 2,
+    "triggerMonths": 36,
+    "id": 7,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dramaId": 1610801,
+    "dramaUnitLeft": "0",
+    "dramaUnitRight": "intimSchool",
+    "weight": 2500,
+    "triggerConditions": [
+      [
+        "isBattleUnit",
+        "1"
+      ],
+      [
+        "months",
+        "0",
+        "3"
+      ],
+      [
+        "intimSchool",
+        "5",
+        "6",
+        "0",
+        "2"
+      ],
+      [
+        "unitPost",
+        "4"
+      ]
+    ],
+    "triggerGroup": 2,
+    "triggerMonths": 36,
+    "id": 8,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dramaId": 1610901,
+    "dramaUnitLeft": "0",
+    "dramaUnitRight": "intimSchool",
+    "weight": 2500,
+    "triggerConditions": [
+      [
+        "isBattleUnit",
+        "1"
+      ],
+      [
+        "months",
+        "0",
+        "3"
+      ],
+      [
+        "intimSchool",
+        "4",
+        "1",
+        "2"
+      ],
+      [
+        "unitPost",
+        "4"
+      ]
+    ],
+    "triggerGroup": 2,
+    "triggerMonths": 36,
+    "id": 9,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dramaId": 1611001,
+    "dramaUnitLeft": "0",
+    "dramaUnitRight": "intimSchool",
+    "weight": 2500,
+    "triggerConditions": [
+      [
+        "isBattleUnit",
+        "1"
+      ],
+      [
+        "months",
+        "0",
+        "3"
+      ],
+      [
+        "intimSchool",
+        "4",
+        "0",
+        "-2"
+      ],
+      [
+        "unitPost",
+        "4"
+      ]
+    ],
+    "triggerGroup": 3,
+    "triggerMonths": 36,
+    "id": 10,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dramaId": 1611101,
+    "dramaUnitLeft": "0",
+    "dramaUnitRight": "intimSchool",
+    "weight": 2500,
+    "triggerConditions": [
+      [
+        "isBattleUnit",
+        "1"
+      ],
+      [
+        "months",
+        "0",
+        "3"
+      ],
+      [
+        "intimSchool",
+        "5",
+        "6",
+        "0",
+        "-2"
+      ],
+      [
+        "unitPost",
+        "4"
+      ]
+    ],
+    "triggerGroup": 3,
+    "triggerMonths": 36,
+    "id": 11,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dramaId": 1611201,
+    "dramaUnitLeft": "0",
+    "dramaUnitRight": "intimSchool",
+    "weight": 2500,
+    "triggerConditions": [
+      [
+        "isBattleUnit",
+        "1"
+      ],
+      [
+        "months",
+        "0",
+        "3"
+      ],
+      [
+        "intimSchool",
+        "5",
+        "6",
+        "0",
+        "-2"
+      ],
+      [
+        "unitPost",
+        "4"
+      ]
+    ],
+    "triggerGroup": 3,
+    "triggerMonths": 36,
+    "id": 12,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dramaId": 1611301,
+    "dramaUnitLeft": "0",
+    "dramaUnitRight": "intimSchool",
+    "weight": 5000,
+    "triggerConditions": [
+      [
+        "isBattleUnit",
+        "1"
+      ],
+      [
+        "months",
+        "0",
+        "3"
+      ],
+      [
+        "intimSchool",
+        "5",
+        "6",
+        "0",
+        "-4"
+      ],
+      [
+        "unitPost",
+        "4"
+      ]
+    ],
+    "triggerGroup": 0,
+    "triggerMonths": 108,
+    "id": 13,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dramaId": 1611401,
+    "dramaUnitLeft": "0",
+    "dramaUnitRight": "intimSchool",
+    "weight": 0,
+    "triggerConditions": [
+      [
+        "isBattleUnit",
+        "1"
+      ],
+      [
+        "months",
+        "0",
+        "3"
+      ],
+      [
+        "intimSchool",
+        "5",
+        "6",
+        "2",
+        "2"
+      ],
+      [
+        "unitPost",
+        "1"
+      ]
+    ],
+    "triggerGroup": 4,
+    "triggerMonths": 36,
+    "id": 14,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dramaId": 1611501,
+    "dramaUnitLeft": "0",
+    "dramaUnitRight": "intimSchool",
+    "weight": 0,
+    "triggerConditions": [
+      [
+        "isBattleUnit",
+        "1"
+      ],
+      [
+        "months",
+        "0",
+        "3"
+      ],
+      [
+        "intimSchool",
+        "5",
+        "6",
+        "2",
+        "2"
+      ],
+      [
+        "unitPost",
+        "1"
+      ]
+    ],
+    "triggerGroup": 4,
+    "triggerMonths": 36,
+    "id": 15,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dramaId": 1611601,
+    "dramaUnitLeft": "0",
+    "dramaUnitRight": "intimSchool",
+    "weight": 0,
+    "triggerConditions": [
+      [
+        "isBattleUnit",
+        "1"
+      ],
+      [
+        "months",
+        "0",
+        "3"
+      ],
+      [
+        "intimSchool",
+        "2",
+        "3",
+        "2",
+        "2"
+      ],
+      [
+        "unitPost",
+        "1"
+      ]
+    ],
+    "triggerGroup": 0,
+    "triggerMonths": 36,
+    "id": 16,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dramaId": 1611701,
+    "dramaUnitLeft": "0",
+    "dramaUnitRight": "intimSchool",
+    "weight": 1000,
+    "triggerConditions": [
+      [
+        "isBattleUnit",
+        "1"
+      ],
+      [
+        "months",
+        "0",
+        "3"
+      ],
+      [
+        "intimSchool",
+        "4",
+        "2",
+        "3"
+      ],
+      [
+        "unitPost",
+        "2",
+        "3"
+      ]
+    ],
+    "triggerGroup": 0,
+    "triggerMonths": 72,
+    "id": 17,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dramaId": 1611801,
+    "dramaUnitLeft": "0",
+    "dramaUnitRight": "intimSchool",
+    "weight": 0,
+    "triggerConditions": [
+      [
+        "isBattleUnit",
+        "1"
+      ],
+      [
+        "months",
+        "0",
+        "3"
+      ],
+      [
+        "intimSchool",
+        "5",
+        "6",
+        "2",
+        "2"
+      ],
+      [
+        "unitPost",
+        "2",
+        "3"
+      ]
+    ],
+    "triggerGroup": 0,
+    "triggerMonths": 36,
+    "id": 18,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dramaId": 1611901,
+    "dramaUnitLeft": "0",
+    "dramaUnitRight": "intimSchool",
+    "weight": 2500,
+    "triggerConditions": [
+      [
+        "isBattleUnit",
+        "1"
+      ],
+      [
+        "months",
+        "1",
+        "36"
+      ],
+      [
+        "intimSchool",
+        "5",
+        "6",
+        "2",
+        "2"
+      ],
+      [
+        "unitPost",
+        "1"
+      ]
+    ],
+    "triggerGroup": 5,
+    "triggerMonths": 36,
+    "id": 19,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dramaId": 1612001,
+    "dramaUnitLeft": "0",
+    "dramaUnitRight": "intimSchool",
+    "weight": 2500,
+    "triggerConditions": [
+      [
+        "isBattleUnit",
+        "1"
+      ],
+      [
+        "months",
+        "1",
+        "36"
+      ],
+      [
+        "intimSchool",
+        "2",
+        "3",
+        "2",
+        "0.1"
+      ],
+      [
+        "unitPost",
+        "1"
+      ]
+    ],
+    "triggerGroup": 5,
+    "triggerMonths": 36,
+    "id": 20,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dramaId": 1612101,
+    "dramaUnitLeft": "0",
+    "dramaUnitRight": "intimSchool",
+    "weight": 0,
+    "triggerConditions": [
+      [
+        "isBattleUnit",
+        "1"
+      ],
+      [
+        "months",
+        "1",
+        "36"
+      ],
+      [
+        "intimSchool",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "2",
+        "2"
+      ],
+      [
+        "unitPost",
+        "1"
+      ]
+    ],
+    "triggerGroup": 0,
+    "triggerMonths": 72,
+    "id": 21,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dramaId": 1612201,
+    "dramaUnitLeft": "0",
+    "dramaUnitRight": "intimSchool",
+    "weight": 0,
+    "triggerConditions": [
+      [
+        "isBattleUnit",
+        "1"
+      ],
+      [
+        "months",
+        "1",
+        "36"
+      ],
+      [
+        "intimSchool",
+        "2",
+        "3",
+        "2",
+        "2"
+      ],
+      [
+        "unitPost",
+        "1"
+      ]
+    ],
+    "triggerGroup": 0,
+    "triggerMonths": 72,
+    "id": 22,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dramaId": 1612301,
+    "dramaUnitLeft": "0",
+    "dramaUnitRight": "intimSchool",
+    "weight": 0,
+    "triggerConditions": [
+      [
+        "isBattleUnit",
+        "1"
+      ],
+      [
+        "months",
+        "1",
+        "36"
+      ],
+      [
+        "intimSchool",
+        "4",
+        "5",
+        "6",
+        "2",
+        "2"
+      ],
+      [
+        "unitPost",
+        "1"
+      ]
+    ],
+    "triggerGroup": 0,
+    "triggerMonths": 72,
+    "id": 23,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dramaId": 1612401,
+    "dramaUnitLeft": "0",
+    "dramaUnitRight": "intimSchool",
+    "weight": 0,
+    "triggerConditions": [
+      [
+        "isBattleUnit",
+        "1"
+      ],
+      [
+        "months",
+        "1",
+        "36"
+      ],
+      [
+        "intimSchool",
+        "4",
+        "5",
+        "2",
+        "2"
+      ],
+      [
+        "unitPost",
+        "2"
+      ]
+    ],
+    "triggerGroup": 0,
+    "triggerMonths": 72,
+    "id": 24,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dramaId": 1612501,
+    "dramaUnitLeft": "0",
+    "dramaUnitRight": "intimSchool",
+    "weight": 0,
+    "triggerConditions": [
+      [
+        "isBattleUnit",
+        "1"
+      ],
+      [
+        "months",
+        "1",
+        "36"
+      ],
+      [
+        "intimSchool",
+        "4",
+        "5",
+        "0",
+        "-2"
+      ],
+      [
+        "unitPost",
+        "4"
+      ]
+    ],
+    "triggerGroup": 0,
+    "triggerMonths": 72,
+    "id": 25,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dramaId": 1612601,
+    "dramaUnitLeft": "0",
+    "dramaUnitRight": "intimSchool",
+    "weight": 0,
+    "triggerConditions": [
+      [
+        "isBattleUnit",
+        "1"
+      ],
+      [
+        "months",
+        "0",
+        "3"
+      ],
+      [
+        "intimSchool",
+        "5",
+        "6",
+        "2",
+        "2"
+      ],
+      [
+        "unitPost",
+        "4"
+      ]
+    ],
+    "triggerGroup": 0,
+    "triggerMonths": 36,
+    "id": 26,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dramaId": 1612701,
+    "dramaUnitLeft": "0",
+    "dramaUnitRight": "intimSchool",
+    "weight": 0,
+    "triggerConditions": [
+      [
+        "isBattleUnit",
+        "1"
+      ],
+      [
+        "months",
+        "0",
+        "3"
+      ],
+      [
+        "intimSchool",
+        "5",
+        "6",
+        "2",
+        "2"
+      ],
+      [
+        "unitPost",
+        "4"
+      ]
+    ],
+    "triggerGroup": 0,
+    "triggerMonths": 36,
+    "id": 27,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dramaId": 1612801,
+    "dramaUnitLeft": "0",
+    "dramaUnitRight": "intimSchool",
+    "weight": 0,
+    "triggerConditions": [
+      [
+        "isBattleUnit",
+        "1"
+      ],
+      [
+        "months",
+        "0",
+        "3"
+      ],
+      [
+        "intimSchool",
+        "5",
+        "6",
+        "2",
+        "0"
+      ],
+      [
+        "unitPost",
+        "4"
+      ]
+    ],
+    "triggerGroup": 0,
+    "triggerMonths": 36,
+    "id": 28,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dramaId": 1009105,
+    "dramaUnitLeft": "0",
+    "dramaUnitRight": "0",
+    "weight": 5000,
+    "triggerConditions": [
+      [
+        "isBattleUnit",
+        "0"
+      ],
+      [
+        "months",
+        "1",
+        "3"
+      ],
+      [
+        "count",
+        "1"
+      ],
+      [
+        "unitPost",
+        "5",
+        "6"
+      ]
+    ],
+    "triggerGroup": 0,
+    "triggerMonths": 36,
+    "id": 29,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dramaId": 1009107,
+    "dramaUnitLeft": "0",
+    "dramaUnitRight": "0",
+    "weight": 5000,
+    "triggerConditions": [
+      [
+        "isBattleUnit",
+        "1"
+      ],
+      [
+        "months",
+        "1",
+        "3"
+      ],
+      [
+        "count",
+        "1"
+      ],
+      [
+        "unitPost",
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    ],
+    "triggerGroup": 0,
+    "triggerMonths": 36,
+    "id": 30,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

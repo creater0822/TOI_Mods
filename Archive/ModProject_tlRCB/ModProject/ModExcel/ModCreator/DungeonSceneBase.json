@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1576851623",
+    "type": "1",
+    "name": "0",
+    "bgColor": "767872",
+    "floor": "901_902_903",
+    "floorWidth": "7.5",
+    "decoration": "90101|90201|90601|91001|91201|91701",
+    "edgeDecoration": "91001|90901",
+    "bg": "miwuzhulinbg",
+    "sounds": "fuben/BOSS",
+    "soundEffect": "0",
+    "weight": "10000"
+  },
+  {
+    "id": "-1476152344",
+    "type": "2",
+    "name": "0",
+    "bgColor": "767872",
+    "floor": "901_902_903",
+    "floorWidth": "7.5",
+    "decoration": "90101|90201|90601|91001|91201|91701",
+    "edgeDecoration": "91001|90901",
+    "bg": "miwuzhulinbg",
+    "sounds": "fuben/BOSS",
+    "soundEffect": "0",
+    "weight": "10000"
+  }
+]

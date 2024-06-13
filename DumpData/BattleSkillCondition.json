@@ -1,0 +1,1973 @@
+[
+  {
+    "condition": "lose",
+    "type": "hp",
+    "value": "&32111_conditionValue",
+    "desc": "skillCondition32111",
+    "id": 32111,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "buff",
+    "type": "3321122",
+    "value": "&32112_conditionValue",
+    "desc": "skillCondition32112",
+    "id": 32112,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "buff",
+    "type": "3331114",
+    "value": "&33111_conditionValue",
+    "desc": "skillCondition33111",
+    "id": 33111,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unit",
+    "type": "33111",
+    "value": "&33112_conditionValue",
+    "desc": "skillCondition33112",
+    "id": 33112,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unit",
+    "type": "34111",
+    "value": "&34111_conditionValue",
+    "desc": "skillCondition34111",
+    "id": 34111,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "buff",
+    "type": "3341124",
+    "value": "&34112_conditionValue",
+    "desc": "skillCondition34112",
+    "id": 34112,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "buff",
+    "type": "313111",
+    "value": "1",
+    "desc": "0",
+    "id": 3231131,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unit",
+    "type": "35111",
+    "value": "&35111_conditionValue",
+    "desc": "skillCondition35111",
+    "id": 35111,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "buff",
+    "type": "3351124",
+    "value": "&35112_conditionValue",
+    "desc": "skillCondition35112",
+    "id": 35112,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "buff",
+    "type": "3361113",
+    "value": "&36111_conditionValue",
+    "desc": "skillCondition36111",
+    "id": 36111,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unit",
+    "type": "36112",
+    "value": "&36112_conditionValue",
+    "desc": "skillCondition36112",
+    "id": 36112,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "buff",
+    "type": "3371112",
+    "value": "&37111_conditionValue",
+    "desc": "skillCondition37111",
+    "id": 37111,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unit",
+    "type": "37112",
+    "value": "&37112_conditionValue",
+    "desc": "skillCondition37112",
+    "id": 37112,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unit",
+    "type": "61112",
+    "value": "&61111_conditionValue",
+    "desc": "skillCondition61111",
+    "id": 61111,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "buff",
+    "type": "3611122",
+    "value": "&61112_conditionValue",
+    "desc": "skillCondition61112",
+    "id": 61112,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "buff",
+    "type": "3621112",
+    "value": "&62111_conditionValue",
+    "desc": "skillCondition62111",
+    "id": 62111,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "halo",
+    "type": "342113|3421131",
+    "value": "&62112_conditionValue",
+    "desc": "skillCondition62112",
+    "id": 62112,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unit",
+    "type": "63112",
+    "value": "&63111_conditionValue",
+    "desc": "skillCondition63111",
+    "id": 63111,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "buff",
+    "type": "3631122",
+    "value": "&63112_conditionValue",
+    "desc": "skillCondition63112",
+    "id": 63112,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "buff",
+    "type": "3641112",
+    "value": "&64111_conditionValue",
+    "desc": "skillCondition64111",
+    "id": 64111,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "buff",
+    "type": "3641124",
+    "value": "&64112_conditionValue",
+    "desc": "skillCondition64112",
+    "id": 64112,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unit",
+    "type": "65111",
+    "value": "&65111_conditionValue",
+    "desc": "skillCondition65111",
+    "id": 65111,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unit",
+    "type": "65111",
+    "value": "&65112_conditionValue",
+    "desc": "skillCondition65111",
+    "id": 65112,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "buff",
+    "type": "3661112",
+    "value": "&66111_conditionValue",
+    "desc": "skillCondition66111",
+    "id": 66111,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unit",
+    "type": "66113",
+    "value": "&66112_conditionValue",
+    "desc": "skillCondition66112",
+    "id": 66112,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unitTypeMax",
+    "type": "1",
+    "value": "15",
+    "desc": "0",
+    "id": 300021,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unitTypeMax",
+    "type": "1",
+    "value": "10",
+    "desc": "0",
+    "id": 110061,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unitTypeMax",
+    "type": "2",
+    "value": "1",
+    "desc": "0",
+    "id": 110065,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unitTypeMax",
+    "type": "1",
+    "value": "15",
+    "desc": "0",
+    "id": 110016,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unitTypeMax",
+    "type": "1",
+    "value": "15",
+    "desc": "0",
+    "id": 110025,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unitTypeMax",
+    "type": "1",
+    "value": "15",
+    "desc": "0",
+    "id": 110035,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unitTypeMax",
+    "type": "1",
+    "value": "15",
+    "desc": "0",
+    "id": 110044,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unitTypeMax",
+    "type": "1",
+    "value": "15",
+    "desc": "0",
+    "id": 110078,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unitTypeMax",
+    "type": "1",
+    "value": "15",
+    "desc": "0",
+    "id": 7115,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unitTypeMax",
+    "type": "1",
+    "value": "15",
+    "desc": "0",
+    "id": 7127,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unitTypeMax",
+    "type": "1",
+    "value": "15",
+    "desc": "0",
+    "id": 7135,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unitTypeMax",
+    "type": "1",
+    "value": "15",
+    "desc": "0",
+    "id": 7144,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unitTypeMax",
+    "type": "1",
+    "value": "15",
+    "desc": "0",
+    "id": 7155,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unitTypeMax",
+    "type": "1",
+    "value": "15",
+    "desc": "0",
+    "id": 7164,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unitTypeMax",
+    "type": "1",
+    "value": "15",
+    "desc": "0",
+    "id": 7195,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unitTypeMax",
+    "type": "1",
+    "value": "15",
+    "desc": "0",
+    "id": 7205,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unitTypeMax",
+    "type": "1",
+    "value": "15",
+    "desc": "0",
+    "id": 7215,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unitTypeMax",
+    "type": "1",
+    "value": "15",
+    "desc": "0",
+    "id": 72251,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unitTypeMax",
+    "type": "1",
+    "value": "8",
+    "desc": "0",
+    "id": 7272,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unitTypeMax",
+    "type": "1",
+    "value": "15",
+    "desc": "0",
+    "id": 7285,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unitTypeMax",
+    "type": "1",
+    "value": "8",
+    "desc": "0",
+    "id": 7303,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unitID",
+    "type": "56115|56113",
+    "value": "1",
+    "desc": "0",
+    "id": 661114,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unitID",
+    "type": "46112",
+    "value": "1",
+    "desc": "0",
+    "id": 661124,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unitMax",
+    "type": "5011",
+    "value": "5",
+    "desc": "0",
+    "id": 5172,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unit",
+    "type": "0",
+    "value": "2",
+    "desc": "0",
+    "id": 5142,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unit",
+    "type": "0",
+    "value": "2",
+    "desc": "0",
+    "id": 5161,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "lose",
+    "type": "hp",
+    "value": "70",
+    "desc": "0",
+    "id": 7283,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unit",
+    "type": "1491",
+    "value": "1",
+    "desc": "0",
+    "id": 72841,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "lose",
+    "type": "hp",
+    "value": "30",
+    "desc": "0",
+    "id": 72842,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unitTypeMax",
+    "type": "1",
+    "value": "15",
+    "desc": "0",
+    "id": 73151,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unitMax",
+    "type": "0",
+    "value": "10",
+    "desc": "0",
+    "id": 7004001,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unitMax",
+    "type": "0",
+    "value": "10",
+    "desc": "0",
+    "id": 7201001,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unitTypeMax",
+    "type": "2",
+    "value": "1",
+    "desc": "0",
+    "id": 7201002,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "upAttrSummonUnit",
+    "type": "mp",
+    "value": "&700103_xhll",
+    "desc": "0",
+    "id": 7001011,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "lose",
+    "type": "hp",
+    "value": "0",
+    "desc": "0",
+    "id": 45111,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unitTypeMax",
+    "type": "1",
+    "value": "15",
+    "desc": "0",
+    "id": 7325,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unitTypeMax",
+    "type": "1",
+    "value": "15",
+    "desc": "0",
+    "id": 7055,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "lose",
+    "type": "hp",
+    "value": "80",
+    "desc": "0",
+    "id": 110073,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unitTypeMax",
+    "type": "1",
+    "value": "10",
+    "desc": "0",
+    "id": 5154,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unitMax",
+    "type": "0",
+    "value": "10",
+    "desc": "0",
+    "id": 200111,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unitType",
+    "type": "&110063_mblx",
+    "value": "0",
+    "desc": "0",
+    "id": 110063,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unitTypeMax",
+    "type": "1",
+    "value": "10",
+    "desc": "0",
+    "id": 7345,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "monstDistance",
+    "type": "0",
+    "value": "250",
+    "desc": "0",
+    "id": 790267,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unitMax",
+    "type": "0",
+    "value": "10",
+    "desc": "0",
+    "id": 722101,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unitMax",
+    "type": "0",
+    "value": "10",
+    "desc": "0",
+    "id": 722201,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "lose",
+    "type": "hp",
+    "value": "50",
+    "desc": "0",
+    "id": 10000001,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "lose",
+    "type": "hp",
+    "value": "50",
+    "desc": "0",
+    "id": 10000002,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unitMonstType",
+    "type": "0",
+    "value": "50",
+    "desc": "0",
+    "id": 76411,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unitMax",
+    "type": "0",
+    "value": "15",
+    "desc": "0",
+    "id": 76261,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unitTypeMin",
+    "type": "2",
+    "value": "0",
+    "desc": "0",
+    "id": 76262,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unitTargetNotBaseID",
+    "type": "746",
+    "value": "0",
+    "desc": "0",
+    "id": 7001311,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unitMax",
+    "type": "1941",
+    "value": "10",
+    "desc": "0",
+    "id": 7603,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unit",
+    "type": "1941",
+    "value": "1",
+    "desc": "0",
+    "id": 7604,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unitMax",
+    "type": "0",
+    "value": "10",
+    "desc": "0",
+    "id": 10012101,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unitTypeMax",
+    "type": "3",
+    "value": "1",
+    "desc": "0",
+    "id": 10012102,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unitTypeMax",
+    "type": "2",
+    "value": "1",
+    "desc": "0",
+    "id": 10012103,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unitTypeMax",
+    "type": "3",
+    "value": "1",
+    "desc": "0",
+    "id": 10012201,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unitTypeMin",
+    "type": "-1",
+    "value": "23",
+    "desc": "0",
+    "id": 10012202,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unitMax",
+    "type": "935151",
+    "value": "1",
+    "desc": "0",
+    "id": 10012203,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unitMax",
+    "type": "0",
+    "value": "10",
+    "desc": "0",
+    "id": 10012204,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unitTypeMax",
+    "type": "3",
+    "value": "1",
+    "desc": "0",
+    "id": 10012205,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unitTypeMax",
+    "type": "2",
+    "value": "1",
+    "desc": "0",
+    "id": 10012206,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "loseUnit",
+    "type": "2",
+    "value": "hp_50",
+    "desc": "0",
+    "id": 81061132,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "loseUnit",
+    "type": "2",
+    "value": "mp_50",
+    "desc": "0",
+    "id": 81061133,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "roleSkillCD",
+    "type": "4",
+    "value": "2_1",
+    "desc": "0",
+    "id": 81061134,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unitTypeNotEquip",
+    "type": "1",
+    "value": "1",
+    "desc": "0",
+    "id": 9101211,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unitTypeNotEquip",
+    "type": "1",
+    "value": "3",
+    "desc": "0",
+    "id": 9101212,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "buff",
+    "type": "910123",
+    "value": "&91011_bmxq",
+    "desc": "0",
+    "id": 910131,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "buffAmount",
+    "type": "2",
+    "value": "9101411_2_&91011_mjcs&",
+    "desc": "0",
+    "id": 910151,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "buff",
+    "type": "910212",
+    "value": "&91021_mhcs",
+    "desc": "0",
+    "id": 9102111,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "buffAmount",
+    "type": "2",
+    "value": "9102311_2_&91021_bmxq&",
+    "desc": "0",
+    "id": 910231,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "loseUnit",
+    "type": "2",
+    "value": "hp_50",
+    "desc": "0",
+    "id": 910321,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "buffAmount",
+    "type": "2",
+    "value": "9103311_2_1",
+    "desc": "0",
+    "id": 910331,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "buffAmount",
+    "type": "2",
+    "value": "9103312_2_1",
+    "desc": "0",
+    "id": 910332,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "buff",
+    "type": "910412",
+    "value": "&91041_pgcs",
+    "desc": "0",
+    "id": 910421,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "buffAmount",
+    "type": "2",
+    "value": "9104112_2_&91041_ctcs&",
+    "desc": "0",
+    "id": 910431,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "buff",
+    "type": "9105113",
+    "value": "&91051_sxcs",
+    "desc": "0",
+    "id": 910521,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "buffAmount",
+    "type": "2",
+    "value": "9105221_2_&91051_bmcs&",
+    "desc": "0",
+    "id": 910531,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "effectLayerHPRate",
+    "type": "2_9106461",
+    "value": "0_&91061_hdbl&",
+    "desc": "0",
+    "id": 910631,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "buff",
+    "type": "9107112",
+    "value": "30",
+    "desc": "0",
+    "id": 910721,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "buff",
+    "type": "910721",
+    "value": "3",
+    "desc": "0",
+    "id": 970731,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "buff",
+    "type": "920112",
+    "value": "&92011_pgcs",
+    "desc": "0",
+    "id": 92012,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "buff",
+    "type": "920213",
+    "value": "&92021_mhcs",
+    "desc": "0",
+    "id": 92022,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "buff",
+    "type": "920312",
+    "value": "&92031_pgcs",
+    "desc": "0",
+    "id": 920321,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "buffAmount",
+    "type": "0",
+    "value": "920321_0_0",
+    "desc": "0",
+    "id": 920322,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "buffAmount",
+    "type": "0",
+    "value": "920412_0_&92041_pgcs|-1|f0&",
+    "desc": "0",
+    "id": 92041,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "buff",
+    "type": "920412",
+    "value": "&92041_pgcs",
+    "desc": "0",
+    "id": 92042,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unit",
+    "type": "936102",
+    "value": "&92051_pgcs",
+    "desc": "0",
+    "id": 92052,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unitID",
+    "type": "1951",
+    "value": "1",
+    "desc": "0",
+    "id": 920611,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unit",
+    "type": "936104",
+    "value": "&92061_stsl",
+    "desc": "0",
+    "id": 92062,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "buff",
+    "type": "920713",
+    "value": "&92071_fjcs",
+    "desc": "0",
+    "id": 920721,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "battleUnitShield",
+    "type": "0",
+    "value": "2_&92081_sxhd&",
+    "desc": "0",
+    "id": 920821,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "battleUnitShield",
+    "type": "2",
+    "value": "1_0",
+    "desc": "0",
+    "id": 920921,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "buff",
+    "type": "9210112",
+    "value": "&92101_xfcs",
+    "desc": "0",
+    "id": 921021,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "buff",
+    "type": "921112",
+    "value": "&92111_pgcs",
+    "desc": "0",
+    "id": 921121,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "buff",
+    "type": "921212",
+    "value": "&92121_pgcs",
+    "desc": "0",
+    "id": 921221,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unit",
+    "type": "67211",
+    "value": "&92131_hzsl",
+    "desc": "0",
+    "id": 921321,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "buff",
+    "type": "921412",
+    "value": "&92141_pgcs",
+    "desc": "0",
+    "id": 921421,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "loseUnit",
+    "type": "2",
+    "value": "hp_&92151_zntj&",
+    "desc": "0",
+    "id": 921521,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "buff",
+    "type": "921612",
+    "value": "&92161_lxcs",
+    "desc": "0",
+    "id": 921621,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "lose",
+    "type": "hp",
+    "value": "0",
+    "desc": "0",
+    "id": 921821,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "lose",
+    "type": "hp",
+    "value": "0",
+    "desc": "0",
+    "id": 9218211,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "dungeonBuff",
+    "type": "80101",
+    "value": "20",
+    "desc": "0",
+    "id": 40220211,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "dungeonBuff",
+    "type": "80101",
+    "value": "35",
+    "desc": "0",
+    "id": 40220212,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "dungeonBuff",
+    "type": "80101",
+    "value": "50",
+    "desc": "0",
+    "id": 40220213,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "dungeonBuff",
+    "type": "80102",
+    "value": "20",
+    "desc": "0",
+    "id": 40220311,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "dungeonBuff",
+    "type": "80102",
+    "value": "35",
+    "desc": "0",
+    "id": 40220312,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "dungeonBuff",
+    "type": "80102",
+    "value": "50",
+    "desc": "0",
+    "id": 40220313,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "dungeonBuff",
+    "type": "80103",
+    "value": "20",
+    "desc": "0",
+    "id": 40220411,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "dungeonBuff",
+    "type": "80103",
+    "value": "35",
+    "desc": "0",
+    "id": 40220412,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "dungeonBuff",
+    "type": "80103",
+    "value": "50",
+    "desc": "0",
+    "id": 40220413,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "dungeonBuff",
+    "type": "80104",
+    "value": "20",
+    "desc": "0",
+    "id": 40220511,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "dungeonBuff",
+    "type": "80104",
+    "value": "35",
+    "desc": "0",
+    "id": 40220512,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "dungeonBuff",
+    "type": "80104",
+    "value": "50",
+    "desc": "0",
+    "id": 40220513,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "loseUp",
+    "type": "mp",
+    "value": "50",
+    "desc": "0",
+    "id": 900312,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unitAllyHuman",
+    "type": "0",
+    "value": "2",
+    "desc": "0",
+    "id": 700164,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unitAllyHuman",
+    "type": "0",
+    "value": "2",
+    "desc": "0",
+    "id": 700167,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unitAllyHuman",
+    "type": "0",
+    "value": "2",
+    "desc": "0",
+    "id": 700168,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "allyLosePercent",
+    "type": "6",
+    "value": "&700168_tlbl&",
+    "desc": "0",
+    "id": 7001681,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unitAllyHuman",
+    "type": "0",
+    "value": "2",
+    "desc": "0",
+    "id": 700169,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unitAllyHuman",
+    "type": "0",
+    "value": "2",
+    "desc": "0",
+    "id": 700174,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unitAllyHuman",
+    "type": "0",
+    "value": "2",
+    "desc": "0",
+    "id": 700175,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unitAllyHuman",
+    "type": "0",
+    "value": "2",
+    "desc": "0",
+    "id": 700176,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unitAllyHuman",
+    "type": "0",
+    "value": "2",
+    "desc": "0",
+    "id": 700177,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unitAllyHuman",
+    "type": "0",
+    "value": "2",
+    "desc": "0",
+    "id": 700178,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unitAllyHuman",
+    "type": "0",
+    "value": "2",
+    "desc": "0",
+    "id": 700179,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unitAllyHuman",
+    "type": "0",
+    "value": "2",
+    "desc": "0",
+    "id": 700180,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "0",
+    "type": "0",
+    "value": "0",
+    "desc": "0",
+    "id": 1081001,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "0",
+    "type": "0",
+    "value": "0",
+    "desc": "0",
+    "id": 1081002,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "lose",
+    "type": "hp",
+    "value": "&1081003_sytj&",
+    "desc": "0",
+    "id": 1081003,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "lose",
+    "type": "hp",
+    "value": "&1081004_sytj&",
+    "desc": "0",
+    "id": 1081004,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "lose",
+    "type": "hp",
+    "value": "&1081005_sytj&",
+    "desc": "0",
+    "id": 1081005,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "lose",
+    "type": "hp",
+    "value": "&1081006_sytj&",
+    "desc": "0",
+    "id": 1081006,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "timeDelay",
+    "type": "0",
+    "value": "&1081007_sytj&",
+    "desc": "0",
+    "id": 1081007,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "timeDelay",
+    "type": "0",
+    "value": "&1081008_sytj&",
+    "desc": "0",
+    "id": 1081008,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "lose",
+    "type": "hp",
+    "value": "&1081009_sytj&",
+    "desc": "0",
+    "id": 1081009,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "lose",
+    "type": "hp",
+    "value": "&1081010_sytj&",
+    "desc": "0",
+    "id": 1081010,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unitTypeMin",
+    "type": "1",
+    "value": "&1081012_sytj&",
+    "desc": "0",
+    "id": 1081012,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "lose",
+    "type": "hp",
+    "value": "&1081013_sytj&",
+    "desc": "0",
+    "id": 1081013,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "attrCompare",
+    "type": "3",
+    "value": "0",
+    "desc": "0",
+    "id": 1081014,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "loseUp",
+    "type": "hp",
+    "value": "&1081015_sytj&",
+    "desc": "0",
+    "id": 1081015,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "loseUp",
+    "type": "hp",
+    "value": "&1081016_sytj&",
+    "desc": "0",
+    "id": 1081016,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "loseUnit",
+    "type": "1",
+    "value": "hp_&1081017_sytj&",
+    "desc": "0",
+    "id": 1081017,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "attrCompare",
+    "type": "1",
+    "value": "1",
+    "desc": "0",
+    "id": 1081018,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "attrCompare",
+    "type": "3",
+    "value": "0",
+    "desc": "0",
+    "id": 1081019,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "buff",
+    "type": "9901102",
+    "value": "1",
+    "desc": "0",
+    "id": 7000071,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "buff",
+    "type": "9901103",
+    "value": "1",
+    "desc": "0",
+    "id": 7000073,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "buff",
+    "type": "9901111",
+    "value": "1",
+    "desc": "0",
+    "id": 7000081,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "buff",
+    "type": "99011133",
+    "value": "1",
+    "desc": "0",
+    "id": 70000831,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "loseUnit",
+    "type": "2",
+    "value": "hp_&9901113_tldy&",
+    "desc": "0",
+    "id": 70000832,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "buff",
+    "type": "9901124",
+    "value": "1",
+    "desc": "0",
+    "id": 7000093,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unitMax",
+    "type": "2321",
+    "value": "8",
+    "desc": "0",
+    "id": 78911,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unitMax",
+    "type": "2511",
+    "value": "30",
+    "desc": "0",
+    "id": 7911,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "sunmUnit",
+    "type": "700028",
+    "value": "1",
+    "desc": "0",
+    "id": 7001931,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "buff",
+    "type": "794112",
+    "value": "1",
+    "desc": "0",
+    "id": 7943,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unitMax",
+    "type": "5551",
+    "value": "1",
+    "desc": "0",
+    "id": 7994,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "buff",
+    "type": "30000012",
+    "value": "&30000012_djcs",
+    "desc": "0",
+    "id": 80001,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "buff",
+    "type": "3100002",
+    "value": "1",
+    "desc": "0",
+    "id": 80002,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "buff",
+    "type": "32000012",
+    "value": "&32000012_djcs",
+    "desc": "0",
+    "id": 80003,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "buff",
+    "type": "33000011",
+    "value": "&33000011_tjcs",
+    "desc": "0",
+    "id": 80004,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "buff",
+    "type": "34000012",
+    "value": "&34000012_djcs",
+    "desc": "0",
+    "id": 80005,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "buffAmount",
+    "type": "0",
+    "value": "34000502_1_&34000502_shcs&",
+    "desc": "0",
+    "id": 800041,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "buff",
+    "type": "37000012",
+    "value": "&37000012_djcs",
+    "desc": "0",
+    "id": 80006,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "buffAmount",
+    "type": "0",
+    "value": "3500012_1_0",
+    "desc": "0",
+    "id": 80007,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "buff",
+    "type": "3600001",
+    "value": "1",
+    "desc": "0",
+    "id": 80008,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "buff",
+    "type": "38000012",
+    "value": "&38000012_sfcs",
+    "desc": "0",
+    "id": 80009,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "buff",
+    "type": "39000012",
+    "value": "&39000012_bjcs",
+    "desc": "0",
+    "id": 80010,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "buff",
+    "type": "4000002",
+    "value": "1",
+    "desc": "0",
+    "id": 80011,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "buff",
+    "type": "3101002",
+    "value": "&31000012_cd|x0.001|f0&",
+    "desc": "0",
+    "id": 80102,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "buff",
+    "type": "3501002",
+    "value": "&80005_jnlq|x0.001|f0&",
+    "desc": "0",
+    "id": 80107,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "buff",
+    "type": "4001002",
+    "value": "&4000001_cd|x0.001|f0&",
+    "desc": "0",
+    "id": 80111,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unitTargetNotBaseID",
+    "type": "556|557|558|559",
+    "value": "0",
+    "desc": "0",
+    "id": 1016,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unitTargetNotBaseID",
+    "type": "556|557|558|559",
+    "value": "0",
+    "desc": "0",
+    "id": 1017,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unitMax",
+    "type": "2771",
+    "value": "2",
+    "desc": "0",
+    "id": 8241,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unitMax",
+    "type": "5631",
+    "value": "1",
+    "desc": "0",
+    "id": 81541,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "buffAmount",
+    "type": "0",
+    "value": "81906_1_0",
+    "desc": "0",
+    "id": 8191,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "bullet",
+    "type": "81911",
+    "value": "1",
+    "desc": "0",
+    "id": 8193,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "buff",
+    "type": "838913",
+    "value": "1",
+    "desc": "0",
+    "id": 83741,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "buffAmount",
+    "type": "2",
+    "value": "9107217_2_&91073_xlcs&",
+    "desc": "0",
+    "id": 91073,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "buffAmount",
+    "type": "2",
+    "value": "9108141_2_&91082_xjcs&",
+    "desc": "0",
+    "id": 91082,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "buffAmount",
+    "type": "2",
+    "value": "9108222_2_&91083_dwcs&",
+    "desc": "0",
+    "id": 91083,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "monstDistance",
+    "type": "0",
+    "value": "&91082_ljfw",
+    "desc": "0",
+    "id": 91084,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "buffAmount",
+    "type": "2",
+    "value": "922014_2_&92212_dwcs&",
+    "desc": "0",
+    "id": 92212,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "buffAmount",
+    "type": "2",
+    "value": "923012_2_&92311_hfcs&",
+    "desc": "0",
+    "id": 92311,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "buffAmount",
+    "type": "2",
+    "value": "923214_2_&92321_dwcs&",
+    "desc": "0",
+    "id": 92331,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "buffAmount",
+    "type": "2",
+    "value": "923413_2_&92341_hdcs&",
+    "desc": "0",
+    "id": 92351,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "buffAmount",
+    "type": "2",
+    "value": "9236111_2_&92361_cfcsxq&",
+    "desc": "0",
+    "id": 92371,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "buffAmount",
+    "type": "2",
+    "value": "923813_2_&92381_lzcs&",
+    "desc": "0",
+    "id": 92391,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "loseUp",
+    "type": "sp",
+    "value": "99",
+    "desc": "0",
+    "id": 282001,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unitIDMax",
+    "type": "812232",
+    "value": "5",
+    "desc": "0",
+    "id": 80030011,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unitIDMax",
+    "type": "812233",
+    "value": "10",
+    "desc": "0",
+    "id": 80030012,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unitIDMax",
+    "type": "812241",
+    "value": "5",
+    "desc": "0",
+    "id": 80030015,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unitIDMax",
+    "type": "812242",
+    "value": "5",
+    "desc": "0",
+    "id": 80030016,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "unitIDMax",
+    "type": "812243",
+    "value": "5",
+    "desc": "0",
+    "id": 80030017,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

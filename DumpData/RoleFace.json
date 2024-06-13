@@ -1,0 +1,107 @@
+[
+  {
+    "key": "offsetMouthLevel1",
+    "value": 30,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "offsetMouthLevel2",
+    "value": 60,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "offsetMouthLevel3",
+    "value": 120,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "offsetNoseLevel1",
+    "value": 20,
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "offsetNoseLevel2",
+    "value": 50,
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "offsetNoseLevel3",
+    "value": 100,
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "offsetEyesLevel1",
+    "value": 50,
+    "id": 7,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "offsetEyesLevel2",
+    "value": 100,
+    "id": 8,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "offsetEyesLevel3",
+    "value": 200,
+    "id": 9,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "offsetEyebrowsLevel1",
+    "value": 50,
+    "id": 10,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "offsetEyebrowsLevel2",
+    "value": 100,
+    "id": 11,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "offsetEyebrowsLevel3",
+    "value": 200,
+    "id": 12,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "offsetLevel1Weight",
+    "value": 100,
+    "id": 13,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "offsetLevel2Weight",
+    "value": 30,
+    "id": 14,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "offsetLevel3Weight",
+    "value": 10,
+    "id": 15,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

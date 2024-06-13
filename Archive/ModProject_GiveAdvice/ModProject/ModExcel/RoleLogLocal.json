@@ -1,0 +1,21 @@
+[
+  {
+    "id": "303457170",
+    "keyID": "LE2lAt_drama_success",
+    "part": "0",
+    "goal": "0",
+    "active": "0",
+    "characterGroup": "0",
+    "relation": "0",
+    "condition": "0",
+    "weight": "1",
+    "group": "0",
+    "icon": "0",
+    "pointColor": "0",
+    "vocal": "0",
+    "emotionID": "0",
+    "ch": "谢谢你{call|B|A}，此番交谈令我受益良多。",
+    "tc": "谢谢你{call|B|A}，此番交谈令我受益良多。",
+    "en": "Thank you{call|B|A}，I benefited a lot from this conversation."
+  }
+]

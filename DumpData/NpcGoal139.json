@@ -1,0 +1,23 @@
+[
+  {
+    "key": "refugeeLookValue",
+    "value": 500,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "eliteLookValue",
+    "value": 900,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "npcGoalWeight139",
+    "value": 300,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

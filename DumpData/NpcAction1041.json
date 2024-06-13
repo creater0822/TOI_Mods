@@ -1,0 +1,16 @@
+[
+  {
+    "key": "addMoodMin",
+    "value": 30,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "addMoodMax",
+    "value": 50,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

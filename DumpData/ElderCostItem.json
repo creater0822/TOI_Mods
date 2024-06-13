@@ -1,0 +1,66 @@
+[
+  {
+    "item": 5021734,
+    "money": 4000,
+    "exp": 200,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "item": 5021734,
+    "money": 4000,
+    "exp": 200,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "item": 5021744,
+    "money": 5000,
+    "exp": 400,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "item": 5021744,
+    "money": 5000,
+    "exp": 400,
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "item": 5021754,
+    "money": 6500,
+    "exp": 600,
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "item": 5021754,
+    "money": 6500,
+    "exp": 600,
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "item": 5021764,
+    "money": 8000,
+    "exp": 800,
+    "id": 7,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "item": 5021764,
+    "money": 8000,
+    "exp": 800,
+    "id": 8,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

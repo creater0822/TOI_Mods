@@ -1,0 +1,58 @@
+[
+  {
+    "bulletNum": "5",
+    "bulletDegree": "100",
+    "bulletDegreeTrend": 80,
+    "id": 21001,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "bulletNum": "2",
+    "bulletDegree": "150",
+    "bulletDegreeTrend": 300,
+    "id": 21004,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "bulletNum": "3",
+    "bulletDegree": "150",
+    "bulletDegreeTrend": 200,
+    "id": 21005,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "bulletNum": "3",
+    "bulletDegree": "100",
+    "bulletDegreeTrend": 300,
+    "id": 21006,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "bulletNum": "3",
+    "bulletDegree": "150",
+    "bulletDegreeTrend": 200,
+    "id": 21007,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "bulletNum": "&7051_ddsl",
+    "bulletDegree": "&7051_ddjd",
+    "bulletDegreeTrend": 300,
+    "id": 21008,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "bulletNum": "&7372_ddsl",
+    "bulletDegree": "&7372_ddjd",
+    "bulletDegreeTrend": 200,
+    "id": 21009,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

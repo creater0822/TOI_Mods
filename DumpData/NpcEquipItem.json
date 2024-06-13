@@ -1,0 +1,37 @@
+[
+  {
+    "key": "replaceItemRequire",
+    "value": 1,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "useItemMin",
+    "value": 10,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "useItemMax",
+    "value": 20,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "useItemChestMin",
+    "value": 2,
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "useItemChestMax",
+    "value": 5,
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

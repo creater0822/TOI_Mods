@@ -1,0 +1,38 @@
+[
+  {
+    "weight": 9000,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "weight": 800,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "weight": 200,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "weight": 0,
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "weight": 0,
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "weight": 0,
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

@@ -1,0 +1,317 @@
+[
+  {
+    "key": "succeedClosePara",
+    "value": 3000,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "exposeBeautyParaA",
+    "value": 3500,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "exposeBeautyParaB",
+    "value": 5000,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "exposeReduceClosePara",
+    "value": 100,
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "stealSucceedMin",
+    "value": 10,
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "stealSucceedMax",
+    "value": 90,
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "stealCountMin",
+    "value": 20,
+    "id": 7,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "stealCountMax",
+    "value": 40,
+    "id": 8,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "stealMoneySpMin",
+    "value": 70,
+    "id": 9,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "stealMoneySpMax",
+    "value": 100,
+    "id": 10,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "stealMoneyPercentMin",
+    "value": 20,
+    "id": 11,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "stealMoneyPercentMax",
+    "value": 35,
+    "id": 12,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "hateAddPara",
+    "value": 10,
+    "id": 13,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "stealCostEnergy",
+    "value": 10,
+    "id": 14,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "hateLimited",
+    "value": -999,
+    "id": 15,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "itemScoreParaA",
+    "value": 1,
+    "id": 16,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "itemScoreParaB",
+    "value": 1,
+    "id": 17,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "eventLogRoleStealItem11111",
+    "value": 0,
+    "id": 18,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "eventLogRoleStealItem11121",
+    "value": 0,
+    "id": 19,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "eventLogRoleStealItem11131",
+    "value": 0,
+    "id": 20,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "eventLogRoleStealItem11210",
+    "value": 0,
+    "id": 21,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "eventLogRoleStealItem11310",
+    "value": 0,
+    "id": 22,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "eventLogRoleStealItem11320",
+    "value": 0,
+    "id": 23,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "eventLogRoleStealItem12111",
+    "value": 0,
+    "id": 24,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "eventLogRoleStealItem12210",
+    "value": 0,
+    "id": 25,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "eventLogRoleStealItem12311",
+    "value": 0,
+    "id": 26,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "eventLogRoleStealItem12321",
+    "value": 0,
+    "id": 27,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "eventLogRoleStealItem11112",
+    "value": 0,
+    "id": 28,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "eventLogRoleStealItem11122",
+    "value": 0,
+    "id": 29,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "eventLogRoleStealItem11132",
+    "value": 0,
+    "id": 30,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "eventLogRoleStealItem12112",
+    "value": 0,
+    "id": 31,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "eventLogRoleStealItem12312",
+    "value": 0,
+    "id": 32,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "eventLogRoleStealItem12322",
+    "value": 0,
+    "id": 33,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "eventLogRoleStealItem21311",
+    "value": 0,
+    "id": 34,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "eventLogRoleStealItem21321",
+    "value": 0,
+    "id": 35,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "eventLogRoleStealItem22311",
+    "value": 0,
+    "id": 36,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "eventLogRoleStealItem22321",
+    "value": 0,
+    "id": 37,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "eventLogRoleStealItem23311",
+    "value": 0,
+    "id": 38,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "eventLogRoleStealItem23321",
+    "value": 0,
+    "id": 39,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "eventLogRoleStealItem21312",
+    "value": 0,
+    "id": 40,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "eventLogRoleStealItem21322",
+    "value": 0,
+    "id": 41,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "eventLogRoleStealItem22312",
+    "value": 0,
+    "id": 42,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "eventLogRoleStealItem22322",
+    "value": 0,
+    "id": 43,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "eventLogRoleStealItem23312",
+    "value": 0,
+    "id": 44,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "eventLogRoleStealItem23322",
+    "value": 0,
+    "id": 45,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

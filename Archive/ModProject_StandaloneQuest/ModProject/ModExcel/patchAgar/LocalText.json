@@ -1,0 +1,37 @@
+[
+  {
+    "id": "-1238905",
+    "key": "drama_option-7606223",
+    "ch": "<r>Help Agar</r>",
+    "tc": "<r>Help Agar</r>",
+    "en": "<r>Help Agar</r>"
+  },
+  {
+    "id": "-1238906",
+    "key": "drama_dialogue-760062",
+    "ch": "Hmpf! If you want to chase the sun so bad, <r>maybe I should help you.</r>",
+    "tc": "Hmpf! If you want to chase the sun so bad, <r>maybe I should help you.</r>",
+    "en": "Hmpf! If you want to chase the sun so bad, <r>maybe I should help you.</r>"
+  },
+  {
+    "id": "-1238907",
+    "key": "drama_option-7606221",
+    "ch": "<r>Punch Agar towards the sun</r>",
+    "tc": "<r>Punch Agar towards the sun</r>",
+    "en": "<r>Punch Agar towards the sun</r>"
+  },
+  {
+    "id": "-1238908",
+    "key": "drama_option-7606222",
+    "ch": "Let Agar waste your time",
+    "tc": "Let Agar waste your time",
+    "en": "Let Agar waste your time"
+  },
+  {
+    "id": "9071",
+    "key": "drama_dialogue760676",
+    "ch": "What a weakling!\nDid he <r>really</r> die from such a small impact? Oh well..",
+    "tc": "What a weakling!\nDid he <r>really</r> die from such a small impact? Oh well..",
+    "en": "What a weakling!\nDid he <r>really</r> die from such a small impact? Oh well.."
+  }
+]

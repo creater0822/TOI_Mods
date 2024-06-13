@@ -1,0 +1,17 @@
+# Temporary files
+*.tmp
+
+# Office Temp files
+~$*.xls*
+~$*.doc*
+~$*.ppt*
+*.~vsd*
+
+# Word Auto Backup File
+Backup of *.doc*
+
+# Excel Backup File
+*.xlk
+
+# Visio autosave temporary files
+*.~vsd*

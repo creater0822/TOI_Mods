@@ -1,0 +1,90 @@
+[
+  {
+    "scale": 4,
+    "name": "schoolLastName1",
+    "stand": 1,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "scale": 4,
+    "name": "schoolLastName2",
+    "stand": 2,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "scale": 3,
+    "name": "schoolLastName3",
+    "stand": 1,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "scale": 3,
+    "name": "schoolLastName4",
+    "stand": 2,
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "scale": 2,
+    "name": "schoolLastName5",
+    "stand": 1,
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "scale": 2,
+    "name": "schoolLastName6",
+    "stand": 2,
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "scale": 5,
+    "name": "schoolLastName7",
+    "stand": 1,
+    "id": 7,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "scale": 5,
+    "name": "schoolLastName8",
+    "stand": 2,
+    "id": 8,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "scale": 5,
+    "name": "schoolLastName9",
+    "stand": 1,
+    "id": 9,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "scale": 5,
+    "name": "schoolLastName10",
+    "stand": 2,
+    "id": 10,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "scale": 1,
+    "name": "schoolLastName11",
+    "stand": 1,
+    "id": 11,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

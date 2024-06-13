@@ -1,0 +1,65 @@
+[
+  // Changes both function calls into dramaInfo1CostPause instead of dramaInfo1CostStart
+  {
+    "id": "7605641",
+    "condition": "0",
+    "hue": "0",
+    "optionsHide": "0",
+    "text": "drama_option7605641",
+    "cost": "0",
+    "costHide": "0",
+    "function": "clearEvent|dramaInfo1MoveNextPoint|dramaInfo1CostPause|finishTask_2110112|dramaInfo1Attr_hp_500|dramaInfo1Attr_hp_500|dramaInfo1Attr_energy_20|mapCreateCmd_clearPointBoxNotOverDecorate_74/196/1/1//-1//0|mapCreateCmd_createDecorateNotOver_74/196//3005//3005",
+    "clickTip": "0",
+    "nextDialogue": "0"
+  },
+  {
+    "id": "7605741",
+    "condition": "0",
+    "hue": "0",
+    "optionsHide": "0",
+    "text": "drama_option7605741",
+    "cost": "0",
+    "costHide": "0",
+    "function": "clearEvent|dramaInfo1MoveNextPoint|dramaInfo1CostPause|finishTask_2110112|dramaInfo1Attr_hp_500|dramaInfo1Attr_hp_500|dramaInfo1Attr_energy_20|mapCreateCmd_clearPointBoxNotOverDecorate_74/196/1/1//-1//0|mapCreateCmd_createDecorateNotOver_74/196//3005//3005",
+    "clickTip": "0",
+    "nextDialogue": "0"
+  },
+  // Added dialogue options
+  {
+    "id": "-7606221",
+    "condition": "0",
+    "hue": "0",
+    "optionsHide": "0",
+    "text": "drama_option-7606221",
+    "cost": "0",
+    "costHide": "0",
+    "function": "callDrama_760620",
+    "clickTip": "0",
+    "nextDialogue": "0"
+  },
+  {
+    "id": "-7606222",
+    "condition": "0",
+    "hue": "0",
+    "optionsHide": "0",
+    "text": "drama_option-7606222",
+    "cost": "0",
+    "costHide": "0",
+    "function": "0",
+    "clickTip": "0",
+    "nextDialogue": "0"
+  },
+  // Open the "help Agar" dialogue
+  {
+    "id": "-7606223",
+    "condition": "0",
+    "hue": "0",
+    "optionsHide": "0",
+    "text": "drama_option-7606223",
+    "cost": "0",
+    "costHide": "0",
+    "function": "0",
+    "clickTip": "0",
+    "nextDialogue": "-760062"
+  }
+]

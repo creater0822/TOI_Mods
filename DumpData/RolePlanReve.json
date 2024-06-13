@@ -1,0 +1,16 @@
+[
+  {
+    "key": "reveTimeMin",
+    "value": 3,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "reveTimeMax",
+    "value": 12,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

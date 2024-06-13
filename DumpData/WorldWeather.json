@@ -1,0 +1,14 @@
+[
+  {
+    "name": "weather_qingtian",
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "name": "weather_yutian",
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "key": "succeedProbParaA",
+    "value": 10,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "succeedProbParaB",
+    "value": 10,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "costItemPara",
+    "value": 2,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "masteryMin",
+    "value": 5000,
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "masteryMax",
+    "value": 15000,
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "hurtProb",
+    "value": 50,
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "masteryAbilityMin",
+    "value": 3000,
+    "id": 7,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "masteryAbilityMax",
+    "value": 5000,
+    "id": 8,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "useItemMin",
+    "value": 3,
+    "id": 9,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "useItemMax",
+    "value": 5,
+    "id": 10,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

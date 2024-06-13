@@ -1,0 +1,58 @@
+[
+  {
+    "key": "teachMinGrade",
+    "value": 1,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "teachMaxGrade",
+    "value": 99,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "skillMinGrade",
+    "value": 1,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "skillMaxGrade",
+    "value": 2,
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "refuseStudyCd",
+    "value": 6,
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "refuseTeachCd",
+    "value": 6,
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "npcActionTeachCd",
+    "value": 6,
+    "id": 7,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "npcActionStudyCd",
+    "value": 6,
+    "id": 8,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

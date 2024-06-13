@@ -1,0 +1,34 @@
+[
+  {
+    "health": 50,
+    "hpReduce": 10,
+    "lifeReduce": 0,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "health": 30,
+    "hpReduce": 15,
+    "lifeReduce": 1,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "health": 20,
+    "hpReduce": 20,
+    "lifeReduce": 2,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "health": 10,
+    "hpReduce": 25,
+    "lifeReduce": 3,
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

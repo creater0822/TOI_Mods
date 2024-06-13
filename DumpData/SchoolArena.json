@@ -1,0 +1,445 @@
+[
+  {
+    "key": "closeValue1",
+    "value": [
+      10
+    ],
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "requirePowerArea1",
+    "value": [
+      1000
+    ],
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "requirePowerArea2",
+    "value": [
+      2000
+    ],
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "requirePowerArea3",
+    "value": [
+      4000
+    ],
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "requirePowerArea4",
+    "value": [
+      8000
+    ],
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "requirePowerArea5",
+    "value": [
+      16000
+    ],
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "powerValueDec1",
+    "value": [
+      10,
+      100
+    ],
+    "id": 7,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "powerValueDec2",
+    "value": [
+      20,
+      200
+    ],
+    "id": 8,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "powerValueDec3",
+    "value": [
+      40,
+      400
+    ],
+    "id": 9,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "powerValueDec4",
+    "value": [
+      80,
+      800
+    ],
+    "id": 10,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "powerValueDec5",
+    "value": [
+      160,
+      1600
+    ],
+    "id": 11,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "powerValue1",
+    "value": [
+      10
+    ],
+    "id": 12,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "powerValue2",
+    "value": [
+      10
+    ],
+    "id": 13,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "powerValue3",
+    "value": [
+      10
+    ],
+    "id": 14,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "powerValue4",
+    "value": [
+      10
+    ],
+    "id": 15,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "powerValue5",
+    "value": [
+      10
+    ],
+    "id": 16,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "leadListNumber1",
+    "value": [
+      0,
+      40
+    ],
+    "id": 17,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "leadListNumber2",
+    "value": [
+      40,
+      70
+    ],
+    "id": 18,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "leadListNumber3",
+    "value": [
+      40,
+      70
+    ],
+    "id": 19,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "leadListNumber4",
+    "value": [
+      70,
+      100
+    ],
+    "id": 20,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "leadListNumber5",
+    "value": [
+      50,
+      100
+    ],
+    "id": 21,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "leadListNumber6",
+    "value": [
+      70,
+      100
+    ],
+    "id": 22,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "initScore",
+    "value": [
+      1000
+    ],
+    "id": 23,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "atkPara1",
+    "value": [
+      160
+    ],
+    "id": 24,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "atkPara2",
+    "value": [
+      -10
+    ],
+    "id": 25,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "atkPara3",
+    "value": [
+      -400
+    ],
+    "id": 26,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "atkPara4",
+    "value": [
+      120
+    ],
+    "id": 27,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "atkPara5",
+    "value": [
+      -1000
+    ],
+    "id": 28,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "powerPara1",
+    "value": [
+      130
+    ],
+    "id": 29,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "powerPara2",
+    "value": [
+      -10
+    ],
+    "id": 30,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "powerPara3",
+    "value": [
+      -400
+    ],
+    "id": 31,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "powerPara4",
+    "value": [
+      80
+    ],
+    "id": 32,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "powerPara5",
+    "value": [
+      -1000
+    ],
+    "id": 33,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "joinArenaVariate1",
+    "value": [
+      10
+    ],
+    "id": 34,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "joinArenaVariate2",
+    "value": [
+      10
+    ],
+    "id": 35,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "hpLimitLook",
+    "value": [
+      5000
+    ],
+    "id": 36,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "leaveArenaProbability",
+    "value": [
+      10
+    ],
+    "id": 37,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "leaveArenaHpValue",
+    "value": [
+      100
+    ],
+    "id": 38,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "leaveArenaAddProbability",
+    "value": [
+      100
+    ],
+    "id": 39,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "givePlayerValue",
+    "value": [
+      2000
+    ],
+    "id": 40,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "giveNonPlayerValue",
+    "value": [
+      2000
+    ],
+    "id": 41,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "giveIntimValue",
+    "value": [
+      500
+    ],
+    "id": 42,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "giveRelativeValue",
+    "value": [
+      1000
+    ],
+    "id": 43,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "giveApprenticeValue",
+    "value": [
+      2000
+    ],
+    "id": 44,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "givePowerValue",
+    "value": [
+      2000
+    ],
+    "id": 45,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "giveCarriedPropsValue",
+    "value": [
+      -3000
+    ],
+    "id": 46,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "healCarriedPropsValue",
+    "value": [
+      500
+    ],
+    "id": 47,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "giveDeadValue",
+    "value": [
+      -9999
+    ],
+    "id": 48,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

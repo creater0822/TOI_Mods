@@ -1,0 +1,20 @@
+[
+  {
+    "id": "-1322891746",
+    "rewardID": "-836097051",
+    "artifactID": "3031108",
+    "grade": "1",
+    "statusPercentMin": "100",
+    "statusPercentMax": "100",
+    "weight": "100"
+  },
+  {
+    "id": "-1536612952",
+    "rewardID": "-2061566161",
+    "artifactID": "3031108",
+    "grade": "1",
+    "statusPercentMin": "100",
+    "statusPercentMax": "100",
+    "weight": "100"
+  }
+]

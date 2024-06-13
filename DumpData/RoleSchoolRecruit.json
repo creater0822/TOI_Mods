@@ -1,0 +1,30 @@
+[
+  {
+    "key": "roleRecruitDialogue",
+    "value": 22648,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "takeRecruitDialogue",
+    "value": 22649,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "turnRecruitDialogue",
+    "value": 22650,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "energyCost",
+    "value": 10,
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

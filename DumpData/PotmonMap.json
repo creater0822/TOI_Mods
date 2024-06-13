@@ -1,0 +1,82 @@
+[
+  {
+    "hurtTime": 3,
+    "hurtItem": [1011051],
+    "reviveItem": [1011051],
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "hurtTime": 3,
+    "hurtItem": [1011051],
+    "reviveItem": [1011051],
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "hurtTime": 5,
+    "hurtItem": [1011051],
+    "reviveItem": [1011051],
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "hurtTime": 5,
+    "hurtItem": [1011051],
+    "reviveItem": [1011051],
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "hurtTime": 7,
+    "hurtItem": [1011051],
+    "reviveItem": [1011051],
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "hurtTime": 7,
+    "hurtItem": [1011051],
+    "reviveItem": [1011051],
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "hurtTime": 8,
+    "hurtItem": [1011051],
+    "reviveItem": [1011051],
+    "id": 7,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "hurtTime": 8,
+    "hurtItem": [1011051],
+    "reviveItem": [1011051],
+    "id": 8,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "hurtTime": 8,
+    "hurtItem": [1011051],
+    "reviveItem": [1011051],
+    "id": 9,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "hurtTime": 8,
+    "hurtItem": [1011051],
+    "reviveItem": [1011051],
+    "id": 10,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

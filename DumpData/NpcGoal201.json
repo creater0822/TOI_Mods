@@ -1,0 +1,23 @@
+[
+  {
+    "key": "weightTargetPara",
+    "value": 20,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "goalID",
+    "value": 120,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "actionID",
+    "value": 1020,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "item": 5011011,
+    "outputArea": "1|9|5",
+    "searchNum": 10,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "item": 5011012,
+    "outputArea": "1|9|2|6|3|4|5",
+    "searchNum": 10,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "item": 5011013,
+    "outputArea": "9|2|6|3|8|4|5",
+    "searchNum": 10,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "item": 5011014,
+    "outputArea": "6|8|7",
+    "searchNum": 10,
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "item": 5011015,
+    "outputArea": "8|7",
+    "searchNum": 10,
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "item": 5011016,
+    "outputArea": "7",
+    "searchNum": 10,
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

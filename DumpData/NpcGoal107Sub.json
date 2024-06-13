@@ -1,0 +1,102 @@
+[
+  {
+    "weightBase": 1000,
+    "postMin": 2,
+    "postMax": 6,
+    "weightHobby": "30_10000",
+    "actions": "1032",
+    "id": 102,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "weightBase": 100,
+    "postMin": 0,
+    "postMax": 0,
+    "weightHobby": "22_10000",
+    "actions": "0",
+    "id": 103,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "weightBase": 1000,
+    "postMin": 1,
+    "postMax": 6,
+    "weightHobby": "34_10000",
+    "actions": "1013",
+    "id": 104,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "weightBase": 1000,
+    "postMin": 0,
+    "postMax": 0,
+    "weightHobby": "36_10000",
+    "actions": "0",
+    "id": 105,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "weightBase": 1000,
+    "postMin": 1,
+    "postMax": 6,
+    "weightHobby": "34_10000",
+    "actions": "1013",
+    "id": 106,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "weightBase": 1000,
+    "postMin": 1,
+    "postMax": 6,
+    "weightHobby": "35_10000",
+    "actions": "1014",
+    "id": 107,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "weightBase": 1000,
+    "postMin": 1,
+    "postMax": 6,
+    "weightHobby": "34_10000",
+    "actions": "1015",
+    "id": 108,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "weightBase": 100,
+    "postMin": 1,
+    "postMax": 6,
+    "weightHobby": "21_10000",
+    "actions": "1016",
+    "id": 109,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "weightBase": 1000,
+    "postMin": 2,
+    "postMax": 6,
+    "weightHobby": "31_10000",
+    "actions": "1033",
+    "id": 111,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "weightBase": 200,
+    "postMin": 2,
+    "postMax": 5,
+    "weightHobby": "34_10000",
+    "actions": "1013",
+    "id": 112,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

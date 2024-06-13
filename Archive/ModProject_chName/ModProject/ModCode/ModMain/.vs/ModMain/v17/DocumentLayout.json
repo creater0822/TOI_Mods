@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Immotal_Mods\\ModProject_chName\\ModProject\\ModCode\\ModMain\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3591496F-6A4C-477A-A04C-177FB616E439}|ModMain.csproj|g:\\immotal_mods\\modproject_chname\\modproject\\modcode\\modmain\\patch_uinpcinfobase_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3591496F-6A4C-477A-A04C-177FB616E439}|ModMain.csproj|solutionrelative:patch_uinpcinfobase_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3591496F-6A4C-477A-A04C-177FB616E439}|ModMain.csproj|G:\\Immotal_Mods\\ModProject_chName\\ModProject\\ModCode\\ModMain\\patch_uiplayerinfobase_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3591496F-6A4C-477A-A04C-177FB616E439}|ModMain.csproj|solutionrelative:patch_uiplayerinfobase_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3591496F-6A4C-477A-A04C-177FB616E439}|ModMain.csproj|G:\\Immotal_Mods\\ModProject_chName\\ModProject\\ModCode\\ModMain\\modmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3591496F-6A4C-477A-A04C-177FB616E439}|ModMain.csproj|solutionrelative:modmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ModMain.cs",
+              "DocumentMoniker": "G:\\Immotal_Mods\\ModProject_chName\\ModProject\\ModCode\\ModMain\\ModMain.cs",
+              "RelativeDocumentMoniker": "ModMain.cs",
+              "ToolTip": "G:\\Immotal_Mods\\ModProject_chName\\ModProject\\ModCode\\ModMain\\ModMain.cs",
+              "RelativeToolTip": "ModMain.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T02:22:30.837Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Patch_UIPlayerInfoBase_Init.cs",
+              "DocumentMoniker": "G:\\Immotal_Mods\\ModProject_chName\\ModProject\\ModCode\\ModMain\\Patch_UIPlayerInfoBase_Init.cs",
+              "RelativeDocumentMoniker": "Patch_UIPlayerInfoBase_Init.cs",
+              "ToolTip": "G:\\Immotal_Mods\\ModProject_chName\\ModProject\\ModCode\\ModMain\\Patch_UIPlayerInfoBase_Init.cs",
+              "RelativeToolTip": "Patch_UIPlayerInfoBase_Init.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAIwDUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T01:46:08.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Patch_UINPCInfoBase_Init.cs",
+              "DocumentMoniker": "G:\\Immotal_Mods\\ModProject_chName\\ModProject\\ModCode\\ModMain\\Patch_UINPCInfoBase_Init.cs",
+              "RelativeDocumentMoniker": "Patch_UINPCInfoBase_Init.cs",
+              "ToolTip": "G:\\Immotal_Mods\\ModProject_chName\\ModProject\\ModCode\\ModMain\\Patch_UINPCInfoBase_Init.cs",
+              "RelativeToolTip": "Patch_UINPCInfoBase_Init.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAIwDIAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T01:46:07.171Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

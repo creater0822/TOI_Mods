@@ -1,0 +1,24 @@
+[
+  {
+    "id": "-398412557",
+    "typeID": "3024",
+    "targetID": "1001",
+    "value1": "1",
+    "value2": "0",
+    "value5": "1",
+    "overlay": "1",
+    "layCount": "-1",
+    "duration": "-1"
+  },
+  {
+    "id": "-2122730103",
+    "typeID": "3024",
+    "targetID": "1001",
+    "value1": "1",
+    "value2": "0",
+    "value5": "1",
+    "overlay": "1",
+    "layCount": "-1",
+    "duration": "-1"
+  }
+]

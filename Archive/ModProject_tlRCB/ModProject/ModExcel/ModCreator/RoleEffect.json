@@ -1,0 +1,272 @@
+[
+  {
+    "id": "661521207",
+    "effectType": "1",
+    "value": "atk_0_-10"
+  },
+  {
+    "id": "1361835576",
+    "effectType": "1",
+    "value": "def_0_-10"
+  },
+  {
+    "id": "631070919",
+    "effectType": "1",
+    "value": "atk_0_0"
+  },
+  {
+    "id": "-1550346030",
+    "effectType": "1",
+    "value": "beauty_1_80"
+  },
+  {
+    "id": "-2100664338",
+    "effectType": "1",
+    "value": "standDown_1_100"
+  },
+  {
+    "id": "-1921575360",
+    "effectType": "1",
+    "value": "beauty_1_100"
+  },
+  {
+    "id": "858485685",
+    "effectType": "1",
+    "value": "standDown_1_200"
+  },
+  {
+    "id": "-1716429699",
+    "effectType": "1",
+    "value": "beauty_1_200"
+  },
+  {
+    "id": "-585336679",
+    "effectType": "1",
+    "value": "standDown_1_300"
+  },
+  {
+    "id": "-763971956",
+    "effectType": "1",
+    "value": "beauty_1_300"
+  },
+  {
+    "id": "1938340456",
+    "effectType": "1",
+    "value": "moodMax_0_-5"
+  },
+  {
+    "id": "-1509621894",
+    "effectType": "3",
+    "value": "stopRunAI"
+  },
+  {
+    "id": "-926923574",
+    "effectType": "3",
+    "value": "bannedFunc_trains"
+  },
+  {
+    "id": "602305994",
+    "effectType": "3",
+    "value": "monthProbableReward_100_2098520493_1_0"
+  },
+  {
+    "id": "1045523520",
+    "effectType": "3",
+    "value": "stopRunAI"
+  },
+  {
+    "id": "-1273815839",
+    "effectType": "3",
+    "value": "npcNotOperation"
+  },
+  {
+    "id": "-1056463018",
+    "effectType": "3",
+    "value": "hide"
+  },
+  {
+    "id": "-1007616457",
+    "effectType": "3",
+    "value": "stopRunAI"
+  },
+  {
+    "id": "1841868523",
+    "effectType": "3",
+    "value": "npcNotOperation"
+  },
+  {
+    "id": "-960808001",
+    "effectType": "3",
+    "value": "hide"
+  },
+  {
+    "id": "982626117",
+    "effectType": "3",
+    "value": "stopRunAI"
+  },
+  {
+    "id": "-1972817133",
+    "effectType": "3",
+    "value": "npcNotOperation"
+  },
+  {
+    "id": "516329237",
+    "effectType": "3",
+    "value": "hide"
+  },
+  {
+    "id": "1099129173",
+    "effectType": "3",
+    "value": "stopRunAI"
+  },
+  {
+    "id": "1242745923",
+    "effectType": "3",
+    "value": "npcNotOperation"
+  },
+  {
+    "id": "699215178",
+    "effectType": "3",
+    "value": "hide"
+  },
+  {
+    "id": "148898501",
+    "effectType": "3",
+    "value": "stopRunAI"
+  },
+  {
+    "id": "-2072427349",
+    "effectType": "3",
+    "value": "npcNotOperation"
+  },
+  {
+    "id": "-1565186747",
+    "effectType": "3",
+    "value": "hide"
+  },
+  {
+    "id": "-383917923",
+    "effectType": "3",
+    "value": "stopRunAI"
+  },
+  {
+    "id": "2087002142",
+    "effectType": "3",
+    "value": "npcNotOperation"
+  },
+  {
+    "id": "-142582201",
+    "effectType": "3",
+    "value": "hide"
+  },
+  {
+    "id": "1921128740",
+    "effectType": "3",
+    "value": "stopRunAI"
+  },
+  {
+    "id": "-201909503",
+    "effectType": "3",
+    "value": "npcNotOperation"
+  },
+  {
+    "id": "367746964",
+    "effectType": "3",
+    "value": "hide"
+  },
+  {
+    "id": "1094165671",
+    "effectType": "3",
+    "value": "stopRunAI"
+  },
+  {
+    "id": "551839829",
+    "effectType": "3",
+    "value": "npcNotOperation"
+  },
+  {
+    "id": "100480738",
+    "effectType": "3",
+    "value": "bannedFunc_trains"
+  },
+  {
+    "id": "-734028472",
+    "effectType": "1",
+    "value": "atk_1_200"
+  },
+  {
+    "id": "173084901",
+    "effectType": "1",
+    "value": "life_1_120"
+  },
+  {
+    "id": "255679208",
+    "effectType": "1",
+    "value": "hateStable_0_30"
+  },
+  {
+    "id": "-794039808",
+    "effectType": "1",
+    "value": "atk_0_50"
+  },
+  {
+    "id": "520920476",
+    "effectType": "3",
+    "value": "immortal_1"
+  },
+  {
+    "id": "-1620126399",
+    "effectType": "3",
+    "value": "bannedFunc_trains"
+  },
+  {
+    "id": "-2051308800",
+    "effectType": "3",
+    "value": "bannedFunc_trains"
+  },
+  {
+    "id": "725057533",
+    "effectType": "3",
+    "value": "addFeature_100_-2040743491"
+  },
+  {
+    "id": "-552029588",
+    "effectType": "3",
+    "value": "addFeature_100_-2040743491"
+  },
+  {
+    "id": "-1187857786",
+    "effectType": "3",
+    "value": "clearFeature_100_744093962"
+  },
+  {
+    "id": "1773918638",
+    "effectType": "3",
+    "value": "addFeature_100_321486433"
+  },
+  {
+    "id": "-1213748610",
+    "effectType": "3",
+    "value": "addFeature_100_-523596344"
+  },
+  {
+    "id": "-57333469",
+    "effectType": "3",
+    "value": "addFeature_100_-523596344"
+  },
+  {
+    "id": "1953486896",
+    "effectType": "3",
+    "value": "addFeature_20_-523596344"
+  },
+  {
+    "id": "1717264099",
+    "effectType": "101",
+    "value": "hp_0_-100"
+  },
+  {
+    "id": "-641877259",
+    "effectType": "3",
+    "value": "addFeature_100_321843415"
+  }
+]

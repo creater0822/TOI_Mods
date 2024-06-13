@@ -1,0 +1,16 @@
+[
+  {
+    "key": "attrInitMin",
+    "value": 80,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "attrInitMax",
+    "value": 120,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

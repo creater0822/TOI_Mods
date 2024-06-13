@@ -1,0 +1,102 @@
+[
+  {
+    "materialNum": 10,
+    "mixedRequire": 300,
+    "repairItem": 5201101,
+    "repairNum": 1,
+    "costMoney": 500,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "materialNum": 15,
+    "mixedRequire": 300,
+    "repairItem": 5201101,
+    "repairNum": 2,
+    "costMoney": 800,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "materialNum": 20,
+    "mixedRequire": 400,
+    "repairItem": 5201101,
+    "repairNum": 3,
+    "costMoney": 1200,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "materialNum": 25,
+    "mixedRequire": 400,
+    "repairItem": 5201101,
+    "repairNum": 4,
+    "costMoney": 2000,
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "materialNum": 30,
+    "mixedRequire": 400,
+    "repairItem": 5201101,
+    "repairNum": 5,
+    "costMoney": 3500,
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "materialNum": 40,
+    "mixedRequire": 500,
+    "repairItem": 5201101,
+    "repairNum": 6,
+    "costMoney": 6500,
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "materialNum": 50,
+    "mixedRequire": 500,
+    "repairItem": 5201101,
+    "repairNum": 7,
+    "costMoney": 12500,
+    "id": 7,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "materialNum": 60,
+    "mixedRequire": 500,
+    "repairItem": 5201101,
+    "repairNum": 8,
+    "costMoney": 25000,
+    "id": 8,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "materialNum": 70,
+    "mixedRequire": 600,
+    "repairItem": 5201101,
+    "repairNum": 9,
+    "costMoney": 50000,
+    "id": 9,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "materialNum": 80,
+    "mixedRequire": 600,
+    "repairItem": 5201101,
+    "repairNum": 10,
+    "costMoney": 100000,
+    "id": 10,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

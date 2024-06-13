@@ -1,0 +1,86 @@
+[
+  {
+    "key": "hateAddKill",
+    "value": 500,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "hateAddPara",
+    "value": 10,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "reputationReducePara",
+    "value": -250,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "reputationAddPara",
+    "value": 125,
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "lostItemInitProb",
+    "value": 80,
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "lostItemGrowProb",
+    "value": 10,
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "lostItemPercentMin",
+    "value": 20,
+    "id": 7,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "lostItemPercentMax",
+    "value": 100,
+    "id": 8,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "cureTimeMin",
+    "value": 24,
+    "id": 9,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "cureTimeMax",
+    "value": 60,
+    "id": 10,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "deadBuryRange",
+    "value": 10,
+    "id": 11,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "hateLimited",
+    "value": -9999,
+    "id": 12,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

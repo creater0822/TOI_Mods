@@ -1,0 +1,98 @@
+[
+  {
+    "monstDrop": 9010001,
+    "eliteDrop": 9010002,
+    "bossDrop": 9010003,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "monstDrop": 9020001,
+    "eliteDrop": 9020002,
+    "bossDrop": 9020003,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "monstDrop": 9030001,
+    "eliteDrop": 9030002,
+    "bossDrop": 9030003,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "monstDrop": 9040001,
+    "eliteDrop": 9040002,
+    "bossDrop": 9040003,
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "monstDrop": 9050001,
+    "eliteDrop": 9050002,
+    "bossDrop": 9050003,
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "monstDrop": 9060001,
+    "eliteDrop": 9060002,
+    "bossDrop": 9060003,
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "monstDrop": 9110001,
+    "eliteDrop": 9110002,
+    "bossDrop": 9110003,
+    "id": 11,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "monstDrop": 9120001,
+    "eliteDrop": 9120002,
+    "bossDrop": 9120003,
+    "id": 12,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "monstDrop": 9130001,
+    "eliteDrop": 9130002,
+    "bossDrop": 9130003,
+    "id": 13,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "monstDrop": 9140001,
+    "eliteDrop": 9140002,
+    "bossDrop": 9140003,
+    "id": 14,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "monstDrop": 9150001,
+    "eliteDrop": 9150002,
+    "bossDrop": 9150003,
+    "id": 15,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "monstDrop": 9160001,
+    "eliteDrop": 9160002,
+    "bossDrop": 9160003,
+    "id": 16,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

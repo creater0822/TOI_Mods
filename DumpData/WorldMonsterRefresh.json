@@ -1,0 +1,65 @@
+[
+  {
+    "key": "totalMonsters",
+    "value": "120",
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "monsterDistance",
+    "value": "5",
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "refreshAreas",
+    "value": "1|2|4|6|8|10",
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "schoolMonstersMin",
+    "value": "1",
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "schoolMonstersMax",
+    "value": "3",
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "townMonstersMin",
+    "value": "1",
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "townMonstersMax",
+    "value": "3",
+    "id": 7,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "townRange",
+    "value": "8",
+    "id": 8,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "monsterMonst",
+    "value": "12",
+    "id": 9,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

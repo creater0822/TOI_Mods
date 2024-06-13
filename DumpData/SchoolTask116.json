@@ -1,0 +1,962 @@
+[
+  {
+    "mapEventID": 90060,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 10411,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 90061,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 10412,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 90062,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 10413,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 90063,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 10414,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 90064,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 10415,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 90070,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 10416,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 90071,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 10417,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 90072,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 10418,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 90073,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 10419,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 90074,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 10420,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 90080,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11450,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 90081,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11451,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 90082,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11452,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 90083,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11453,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 90084,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11454,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 90090,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11350,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 90091,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11351,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 90092,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11352,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 90093,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11353,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 90094,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11354,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 90100,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11355,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 90101,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11356,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 90102,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11357,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 90103,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11358,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 90104,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11359,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 90110,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11360,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 90111,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11361,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 90112,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11362,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 90113,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11363,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 90114,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11364,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 90120,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11365,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 90121,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11366,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 90122,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11367,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 90123,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11368,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 90124,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11369,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 90130,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11370,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 90131,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11371,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 90132,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11372,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 90133,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11373,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 90134,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11374,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 90140,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11375,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 90141,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11376,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 90142,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11377,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 90143,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11378,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 90144,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11379,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 90180,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11380,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 90180,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11381,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 90180,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11382,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 90180,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11383,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 90180,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11384,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 90170,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11390,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 90171,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11391,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 90172,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11392,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 90173,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11393,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 90174,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11394,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 90160,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11395,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 90161,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11396,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 90162,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11397,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 90163,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11398,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 90164,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11399,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 100131,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11601,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 100132,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11602,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 100133,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11603,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 100134,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11604,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 100135,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11605,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 100141,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11606,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 100142,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11607,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 100143,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11608,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 100144,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11609,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 100145,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11610,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 100151,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11611,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 100152,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11612,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 100153,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11613,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 100154,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11614,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 100155,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11615,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 100161,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11616,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 100162,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11617,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 100163,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11618,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 100164,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11619,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 100165,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11620,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 100171,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11621,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 100172,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11622,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 100173,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11623,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 100174,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11624,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 100175,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11625,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 100181,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11626,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 100182,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11627,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 100183,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11628,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 100184,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11629,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 100185,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11630,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 100191,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11631,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 100192,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11632,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 100193,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11633,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 100194,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11634,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 100195,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11635,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 100201,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11636,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 100202,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11637,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 100203,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11638,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 100204,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11639,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 100205,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11640,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 100211,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11641,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 100212,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11642,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 100213,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11643,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 100214,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11644,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 100215,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11645,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 100221,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11646,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 100222,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11647,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 100223,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11648,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 100224,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11649,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 100225,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11650,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 100231,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11651,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 100232,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11652,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 100233,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11653,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 100234,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11654,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 100235,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11655,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 100241,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11656,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 100242,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11657,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 100243,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11658,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 100244,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11659,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "mapEventID": 100245,
+    "minIconRange": 4,
+    "maxIonRange": 6,
+    "id": 11660,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

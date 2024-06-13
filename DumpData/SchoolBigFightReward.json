@@ -1,0 +1,238 @@
+[
+  {
+    "targetTypeId": 1,
+    "areaId": 4,
+    "rank": 1,
+    "honor": 0,
+    "reputation": 625,
+    "herb": 0,
+    "ore": 0,
+    "rewardIds": [
+      1400001,
+      1400002,
+      1400003
+    ],
+    "luckies": [
+      9179
+    ],
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "targetTypeId": 1,
+    "areaId": 6,
+    "rank": 1,
+    "honor": 0,
+    "reputation": 2000,
+    "herb": 0,
+    "ore": 0,
+    "rewardIds": [
+      1400001,
+      1400002,
+      1400004
+    ],
+    "luckies": [
+      9180
+    ],
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "targetTypeId": 1,
+    "areaId": 8,
+    "rank": 1,
+    "honor": 0,
+    "reputation": 6250,
+    "herb": 0,
+    "ore": 0,
+    "rewardIds": [
+      1400001,
+      1400002,
+      1400005
+    ],
+    "luckies": [
+      9181
+    ],
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "targetTypeId": 1,
+    "areaId": 9,
+    "rank": 1,
+    "honor": 0,
+    "reputation": 15000,
+    "herb": 0,
+    "ore": 0,
+    "rewardIds": [
+      1400001,
+      1400002,
+      1400006
+    ],
+    "luckies": [
+      9182
+    ],
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "targetTypeId": 1,
+    "areaId": 10,
+    "rank": 1,
+    "honor": 0,
+    "reputation": 15000,
+    "herb": 0,
+    "ore": 0,
+    "rewardIds": [
+      1400001,
+      1400002,
+      1400006
+    ],
+    "luckies": [
+      9182
+    ],
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "targetTypeId": 2,
+    "areaId": 4,
+    "rank": 1,
+    "honor": 600,
+    "reputation": 0,
+    "herb": 0,
+    "ore": 0,
+    "rewardIds": [],
+    "luckies": [
+      9175
+    ],
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "targetTypeId": 2,
+    "areaId": 6,
+    "rank": 1,
+    "honor": 1200,
+    "reputation": 0,
+    "herb": 0,
+    "ore": 0,
+    "rewardIds": [],
+    "luckies": [
+      9176
+    ],
+    "id": 7,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "targetTypeId": 2,
+    "areaId": 8,
+    "rank": 1,
+    "honor": 2400,
+    "reputation": 0,
+    "herb": 0,
+    "ore": 0,
+    "rewardIds": [],
+    "luckies": [
+      9177
+    ],
+    "id": 8,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "targetTypeId": 2,
+    "areaId": 9,
+    "rank": 1,
+    "honor": 3000,
+    "reputation": 0,
+    "herb": 80000,
+    "ore": 80000,
+    "rewardIds": [],
+    "luckies": [
+      9178
+    ],
+    "id": 9,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "targetTypeId": 2,
+    "areaId": 10,
+    "rank": 1,
+    "honor": 3000,
+    "reputation": 0,
+    "herb": 80000,
+    "ore": 80000,
+    "rewardIds": [],
+    "luckies": [
+      9178
+    ],
+    "id": 10,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "targetTypeId": 2,
+    "areaId": 9,
+    "rank": 2,
+    "honor": 0,
+    "reputation": 0,
+    "herb": 50000,
+    "ore": 50000,
+    "rewardIds": [],
+    "luckies": [],
+    "id": 11,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "targetTypeId": 2,
+    "areaId": 10,
+    "rank": 2,
+    "honor": 0,
+    "reputation": 0,
+    "herb": 50000,
+    "ore": 50000,
+    "rewardIds": [],
+    "luckies": [],
+    "id": 12,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "targetTypeId": 2,
+    "areaId": 9,
+    "rank": 3,
+    "honor": 0,
+    "reputation": 0,
+    "herb": 30000,
+    "ore": 30000,
+    "rewardIds": [],
+    "luckies": [],
+    "id": 13,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "targetTypeId": 2,
+    "areaId": 10,
+    "rank": 3,
+    "honor": 0,
+    "reputation": 0,
+    "herb": 30000,
+    "ore": 30000,
+    "rewardIds": [],
+    "luckies": [],
+    "id": 14,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

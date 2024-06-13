@@ -1,0 +1,22 @@
+[
+  {
+    "id": "707478649",
+    "unitID": "-398412558",
+    "range": "300",
+    "num": "1",
+    "pointCost": "1",
+    "weightBase": "10000",
+    "weightGrow": "0",
+    "unitIDWeight": "10000"
+  },
+  {
+    "id": "-17271803",
+    "unitID": "-2122730104",
+    "range": "300",
+    "num": "1",
+    "pointCost": "1",
+    "weightBase": "10000",
+    "weightGrow": "0",
+    "unitIDWeight": "10000"
+  }
+]

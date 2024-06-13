@@ -1,0 +1,51 @@
+[
+  {
+    "openUI": "Build10001",
+    "dramaID": "0",
+    "id": 10001,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "openUI": "Build10002",
+    "dramaID": "0",
+    "id": 10002,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "openUI": "0",
+    "dramaID": "610325|610333|610365",
+    "id": 10003,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "openUI": "Build10004",
+    "dramaID": "0",
+    "id": 10004,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "openUI": "0",
+    "dramaID": "0",
+    "id": 10005,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "openUI": "0",
+    "dramaID": "0",
+    "id": 10006,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "openUI": "0",
+    "dramaID": "0",
+    "id": 10008,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

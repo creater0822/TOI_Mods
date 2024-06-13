@@ -1,0 +1,56 @@
+[
+  {
+    "cost": 0,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "cost": 5000,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "cost": 12000,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "cost": 15000,
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "cost": 30000,
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "cost": 60000,
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "cost": 120000,
+    "id": 7,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "cost": 250000,
+    "id": 8,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "cost": 500000,
+    "id": 9,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

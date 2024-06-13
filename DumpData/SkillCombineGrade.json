@@ -1,0 +1,100 @@
+[
+  {
+    "type": 2,
+    "value": "1",
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "type": 2,
+    "value": "2",
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "type": 2,
+    "value": "3",
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "type": 2,
+    "value": "4",
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "type": 2,
+    "value": "5",
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "type": 2,
+    "value": "6",
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "type": 2,
+    "value": "7",
+    "id": 7,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "type": 2,
+    "value": "8",
+    "id": 8,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "type": 2,
+    "value": "9",
+    "id": 9,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "type": 2,
+    "value": "10",
+    "id": 10,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "type": 1,
+    "value": "9000_1000",
+    "id": 90,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "type": 1,
+    "value": "9990_10",
+    "id": 99,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "type": 1,
+    "value": "10000_0",
+    "id": 100,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "type": 100,
+    "value": "9000_1000",
+    "id": 190,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "bulletNum": "36",
+    "shotCD": 0,
+    "angular": 360,
+    "wave": 3,
+    "interval": 300,
+    "id": 802001,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "bulletNum": "36",
+    "shotCD": 30,
+    "angular": 360,
+    "wave": 1,
+    "interval": 0,
+    "id": 802002,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

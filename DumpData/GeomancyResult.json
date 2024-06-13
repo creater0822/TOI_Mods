@@ -1,0 +1,98 @@
+[
+  {
+    "gameResult": 1,
+    "resultDrama": 8105101,
+    "weight": 10000,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "gameResult": 1,
+    "resultDrama": 8105101,
+    "weight": 10000,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "gameResult": 1,
+    "resultDrama": 8105101,
+    "weight": 10000,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "gameResult": 1,
+    "resultDrama": 8105101,
+    "weight": 10000,
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "gameResult": 1,
+    "resultDrama": 8105101,
+    "weight": 10000,
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "gameResult": 1,
+    "resultDrama": 8105101,
+    "weight": 10000,
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "gameResult": 1,
+    "resultDrama": 8105101,
+    "weight": 10000,
+    "id": 7,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "gameResult": 2,
+    "resultDrama": 8105201,
+    "weight": 10000,
+    "id": 8,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "gameResult": 2,
+    "resultDrama": 8105201,
+    "weight": 10000,
+    "id": 9,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "gameResult": 2,
+    "resultDrama": 8105201,
+    "weight": 10000,
+    "id": 10,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "gameResult": 2,
+    "resultDrama": 8105201,
+    "weight": 10000,
+    "id": 11,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "gameResult": 2,
+    "resultDrama": 8105201,
+    "weight": 10000,
+    "id": 12,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "key": "fixedMoveSpeed",
+    "value": "500",
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "bossFocusSpeed",
+    "value": "6",
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "bossStayDuration",
+    "value": "1000",
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "bossZoomSize",
+    "value": "5.4",
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "drama1Delay",
+    "value": "1000",
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "drama1",
+    "value": "2240002",
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "drama2Delay",
+    "value": "1000",
+    "id": 7,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "drama2",
+    "value": "2240051",
+    "id": 8,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "drama3Delay",
+    "value": "500",
+    "id": 9,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "drama3",
+    "value": "2271100",
+    "id": 10,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "boss2FocusSpeed",
+    "value": "5",
+    "id": 11,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "boss2EnterDuration",
+    "value": "8000",
+    "id": 12,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "bossFocusTriggerRange",
+    "value": "1",
+    "id": 13,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

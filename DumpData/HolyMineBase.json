@@ -1,0 +1,62 @@
+[
+  {
+    "item": 5011035,
+    "magicID": 1,
+    "addValue": 10,
+    "requireValue": 100,
+    "output": 220211,
+    "id": 1102,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "item": 5011035,
+    "magicID": 2,
+    "addValue": 10,
+    "requireValue": 100,
+    "output": 220212,
+    "id": 1103,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "item": 5011035,
+    "magicID": 3,
+    "addValue": 10,
+    "requireValue": 100,
+    "output": 220213,
+    "id": 1104,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "item": 5011035,
+    "magicID": 4,
+    "addValue": 10,
+    "requireValue": 100,
+    "output": 220214,
+    "id": 1105,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "item": 5011035,
+    "magicID": 5,
+    "addValue": 10,
+    "requireValue": 100,
+    "output": 220215,
+    "id": 1106,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "item": 5011035,
+    "magicID": 6,
+    "addValue": 10,
+    "requireValue": 100,
+    "output": 220216,
+    "id": 1107,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

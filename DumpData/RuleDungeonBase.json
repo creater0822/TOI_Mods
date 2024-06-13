@@ -1,0 +1,58 @@
+[
+  {
+    "key": "refreshCost",
+    "value": 0,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "costAdd",
+    "value": 5,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "elementRequire",
+    "value": 20,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "succeedRate",
+    "value": -20,
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "mainElementNum",
+    "value": 40,
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "pureAddA",
+    "value": -2,
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "pureAddB",
+    "value": -10,
+    "id": 7,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "refreshTime",
+    "value": 3,
+    "id": 8,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

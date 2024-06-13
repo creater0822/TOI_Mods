@@ -1,0 +1,107 @@
+[
+  {
+    "key": "addTax1",
+    "value": 1.0,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "addTax2",
+    "value": 1.0,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "addTax3",
+    "value": 1.5,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "addTax4",
+    "value": 1.5,
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "addTax5",
+    "value": 1.5,
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "territoryAddProsperousMax1",
+    "value": 25.0,
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "territoryAddProsperousMax2",
+    "value": 40.0,
+    "id": 7,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "territoryAddProsperousMax3",
+    "value": 55.0,
+    "id": 8,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "territoryAddProsperousMax4",
+    "value": 90.0,
+    "id": 9,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "territoryAddProsperousMax5",
+    "value": 150.0,
+    "id": 10,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "initProsperousMax1",
+    "value": 3000.0,
+    "id": 11,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "initProsperousMax2",
+    "value": 10000.0,
+    "id": 12,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "initProsperousMax3",
+    "value": 25000.0,
+    "id": 13,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "initProsperousMax4",
+    "value": 60000.0,
+    "id": 14,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "initProsperousMax5",
+    "value": 120000.0,
+    "id": 15,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

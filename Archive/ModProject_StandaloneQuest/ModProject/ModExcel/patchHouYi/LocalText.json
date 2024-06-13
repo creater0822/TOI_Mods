@@ -1,0 +1,40 @@
+[
+  // Patch dialogue when you actually defeated the Three-Legged Crows
+  {
+    "id": "9401",
+    "key": "drama_dialogue70471",
+    "ch": "(Uh... These <r>Three-legged Crows</r> are so weak, maybe I should just erase them with one punch.)",
+    "tc": "(Uh... These <r>Three-legged Crows</r> are so weak, maybe I should just erase them with one punch.)",
+    "en": "(Uh... These <r>Three-legged Crows</r> are so weak, maybe I should just erase them with one punch.)"
+  },
+  {
+    "id": "9402",
+    "key": "drama_dialogue70472",
+    "ch": "Please don't kill me!",
+    "tc": "Please don't kill me!",
+    "en": "Please don't kill me!"
+  },
+  {
+    "id": "9403",
+    "key": "drama_dialogue70473",
+    "ch": "Please don't kill them! I want to be the hero!",
+    "tc": "Please don't kill them! I want to be the hero!",
+    "en": "Please don't kill them! I want to be the hero!"
+  },
+  // Insert dialogue
+  {
+    "id": "-1239407",
+    "key": "drama_dialogue-70054",
+    "ch": "Speak for yourself <r>weakling</r>, but you're lucky that I'm in a good mood today.\nOh well... I guess I could spare some time to watch your clown show, let's be on our way then.",
+    "tc": "Speak for yourself <r>weakling</r>, but you're lucky that I'm in a good mood today.\nOh well... I guess I could spare some time to watch your clown show, let's be on our way then.",
+    "en": "Speak for yourself <r>weakling</r>, but you're lucky that I'm in a good mood today.\nOh well... I guess I could spare some time to watch your clown show, let's be on our way then."
+  },
+  // More dialogue patching
+  {
+    "id": "9409",
+    "key": "drama_dialogue70491",
+    "ch": "Cultivator, I am no match for these <r>Three-legged Crows</r>. If I confront them directly, I am certain to lose.",
+    "tc": "Cultivator, I am no match for these <r>Three-legged Crows</r>. If I confront them directly, I am certain to lose.",
+    "en": "Cultivator, I am no match for these <r>Three-legged Crows</r>. If I confront them directly, I am certain to lose."
+  }
+]

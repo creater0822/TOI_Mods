@@ -1,0 +1,2414 @@
+[
+  {
+    "groupId": 102,
+    "groupType": 1,
+    "prefixId": 10103,
+    "coreWeight": 0,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 102,
+    "groupType": 1,
+    "prefixId": 10106,
+    "coreWeight": 0,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 102,
+    "groupType": 1,
+    "prefixId": 10110,
+    "coreWeight": 0,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 102,
+    "groupType": 1,
+    "prefixId": 10112,
+    "coreWeight": 500,
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 102,
+    "groupType": 1,
+    "prefixId": 10113,
+    "coreWeight": 500,
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 102,
+    "groupType": 1,
+    "prefixId": 10111,
+    "coreWeight": 0,
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 102,
+    "groupType": 1,
+    "prefixId": 10114,
+    "coreWeight": 250,
+    "id": 7,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 102,
+    "groupType": 1,
+    "prefixId": 11213,
+    "coreWeight": 0,
+    "id": 8,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 103,
+    "groupType": 1,
+    "prefixId": 10103,
+    "coreWeight": 0,
+    "id": 9,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 103,
+    "groupType": 1,
+    "prefixId": 10106,
+    "coreWeight": 0,
+    "id": 10,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 103,
+    "groupType": 1,
+    "prefixId": 10110,
+    "coreWeight": 0,
+    "id": 11,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 103,
+    "groupType": 1,
+    "prefixId": 10112,
+    "coreWeight": 500,
+    "id": 12,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 103,
+    "groupType": 1,
+    "prefixId": 10113,
+    "coreWeight": 500,
+    "id": 13,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 103,
+    "groupType": 1,
+    "prefixId": 10111,
+    "coreWeight": 0,
+    "id": 14,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 104,
+    "groupType": 1,
+    "prefixId": 10103,
+    "coreWeight": 0,
+    "id": 15,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 104,
+    "groupType": 1,
+    "prefixId": 10106,
+    "coreWeight": 0,
+    "id": 16,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 104,
+    "groupType": 1,
+    "prefixId": 10110,
+    "coreWeight": 0,
+    "id": 17,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 104,
+    "groupType": 1,
+    "prefixId": 10112,
+    "coreWeight": 500,
+    "id": 18,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 104,
+    "groupType": 1,
+    "prefixId": 10113,
+    "coreWeight": 500,
+    "id": 19,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 104,
+    "groupType": 1,
+    "prefixId": 10111,
+    "coreWeight": 0,
+    "id": 20,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 201,
+    "groupType": 1,
+    "prefixId": 10203,
+    "coreWeight": 0,
+    "id": 21,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 201,
+    "groupType": 1,
+    "prefixId": 10205,
+    "coreWeight": 500,
+    "id": 22,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 201,
+    "groupType": 1,
+    "prefixId": 10206,
+    "coreWeight": 500,
+    "id": 23,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 201,
+    "groupType": 1,
+    "prefixId": 10207,
+    "coreWeight": 0,
+    "id": 24,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 201,
+    "groupType": 1,
+    "prefixId": 10209,
+    "coreWeight": 0,
+    "id": 25,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 201,
+    "groupType": 1,
+    "prefixId": 11210,
+    "coreWeight": 0,
+    "id": 26,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 202,
+    "groupType": 1,
+    "prefixId": 10203,
+    "coreWeight": 0,
+    "id": 27,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 202,
+    "groupType": 1,
+    "prefixId": 10205,
+    "coreWeight": 500,
+    "id": 28,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 202,
+    "groupType": 1,
+    "prefixId": 10206,
+    "coreWeight": 500,
+    "id": 29,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 202,
+    "groupType": 1,
+    "prefixId": 10207,
+    "coreWeight": 0,
+    "id": 30,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 202,
+    "groupType": 1,
+    "prefixId": 10209,
+    "coreWeight": 0,
+    "id": 31,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 202,
+    "groupType": 1,
+    "prefixId": 11210,
+    "coreWeight": 0,
+    "id": 32,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 203,
+    "groupType": 1,
+    "prefixId": 10203,
+    "coreWeight": 0,
+    "id": 33,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 203,
+    "groupType": 1,
+    "prefixId": 10205,
+    "coreWeight": 500,
+    "id": 34,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 203,
+    "groupType": 1,
+    "prefixId": 10206,
+    "coreWeight": 500,
+    "id": 35,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 203,
+    "groupType": 1,
+    "prefixId": 10207,
+    "coreWeight": 0,
+    "id": 36,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 203,
+    "groupType": 1,
+    "prefixId": 10209,
+    "coreWeight": 0,
+    "id": 37,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 203,
+    "groupType": 1,
+    "prefixId": 11210,
+    "coreWeight": 0,
+    "id": 38,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 302,
+    "groupType": 1,
+    "prefixId": 10305,
+    "coreWeight": 0,
+    "id": 39,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 302,
+    "groupType": 1,
+    "prefixId": 10202,
+    "coreWeight": 500,
+    "id": 40,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 302,
+    "groupType": 1,
+    "prefixId": 10207,
+    "coreWeight": 0,
+    "id": 41,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 302,
+    "groupType": 1,
+    "prefixId": 10307,
+    "coreWeight": 500,
+    "id": 42,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 302,
+    "groupType": 1,
+    "prefixId": 30134,
+    "coreWeight": 0,
+    "id": 43,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 302,
+    "groupType": 1,
+    "prefixId": 11210,
+    "coreWeight": 0,
+    "id": 44,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 303,
+    "groupType": 1,
+    "prefixId": 10305,
+    "coreWeight": 0,
+    "id": 45,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 303,
+    "groupType": 1,
+    "prefixId": 10202,
+    "coreWeight": 500,
+    "id": 46,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 303,
+    "groupType": 1,
+    "prefixId": 10207,
+    "coreWeight": 0,
+    "id": 47,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 303,
+    "groupType": 1,
+    "prefixId": 10307,
+    "coreWeight": 500,
+    "id": 48,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 303,
+    "groupType": 1,
+    "prefixId": 30134,
+    "coreWeight": 0,
+    "id": 49,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 303,
+    "groupType": 1,
+    "prefixId": 11210,
+    "coreWeight": 0,
+    "id": 50,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 304,
+    "groupType": 1,
+    "prefixId": 10305,
+    "coreWeight": 0,
+    "id": 51,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 304,
+    "groupType": 1,
+    "prefixId": 10202,
+    "coreWeight": 500,
+    "id": 52,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 304,
+    "groupType": 1,
+    "prefixId": 10207,
+    "coreWeight": 0,
+    "id": 53,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 304,
+    "groupType": 1,
+    "prefixId": 10307,
+    "coreWeight": 500,
+    "id": 54,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 304,
+    "groupType": 1,
+    "prefixId": 30134,
+    "coreWeight": 0,
+    "id": 55,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 304,
+    "groupType": 1,
+    "prefixId": 11210,
+    "coreWeight": 0,
+    "id": 56,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 401,
+    "groupType": 1,
+    "prefixId": 10405,
+    "coreWeight": 0,
+    "id": 57,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 401,
+    "groupType": 1,
+    "prefixId": 10406,
+    "coreWeight": 0,
+    "id": 58,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 401,
+    "groupType": 1,
+    "prefixId": 10407,
+    "coreWeight": 0,
+    "id": 59,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 401,
+    "groupType": 1,
+    "prefixId": 10410,
+    "coreWeight": 500,
+    "id": 60,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 401,
+    "groupType": 1,
+    "prefixId": 10411,
+    "coreWeight": 200,
+    "id": 61,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 401,
+    "groupType": 1,
+    "prefixId": 10412,
+    "coreWeight": 500,
+    "id": 62,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 401,
+    "groupType": 1,
+    "prefixId": 10413,
+    "coreWeight": 0,
+    "id": 63,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 401,
+    "groupType": 1,
+    "prefixId": 10414,
+    "coreWeight": 500,
+    "id": 64,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 401,
+    "groupType": 1,
+    "prefixId": 10415,
+    "coreWeight": 0,
+    "id": 65,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 401,
+    "groupType": 1,
+    "prefixId": 10416,
+    "coreWeight": 500,
+    "id": 66,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 402,
+    "groupType": 1,
+    "prefixId": 10405,
+    "coreWeight": 0,
+    "id": 67,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 402,
+    "groupType": 1,
+    "prefixId": 10406,
+    "coreWeight": 0,
+    "id": 68,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 402,
+    "groupType": 1,
+    "prefixId": 10407,
+    "coreWeight": 0,
+    "id": 69,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 402,
+    "groupType": 1,
+    "prefixId": 10410,
+    "coreWeight": 500,
+    "id": 70,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 402,
+    "groupType": 1,
+    "prefixId": 10411,
+    "coreWeight": 200,
+    "id": 71,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 402,
+    "groupType": 1,
+    "prefixId": 10412,
+    "coreWeight": 500,
+    "id": 72,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 402,
+    "groupType": 1,
+    "prefixId": 10413,
+    "coreWeight": 0,
+    "id": 73,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 402,
+    "groupType": 1,
+    "prefixId": 10114,
+    "coreWeight": 250,
+    "id": 74,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 402,
+    "groupType": 1,
+    "prefixId": 11213,
+    "coreWeight": 0,
+    "id": 75,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 402,
+    "groupType": 1,
+    "prefixId": 10414,
+    "coreWeight": 500,
+    "id": 76,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 402,
+    "groupType": 1,
+    "prefixId": 10415,
+    "coreWeight": 0,
+    "id": 77,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 402,
+    "groupType": 1,
+    "prefixId": 10416,
+    "coreWeight": 500,
+    "id": 78,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 403,
+    "groupType": 1,
+    "prefixId": 10405,
+    "coreWeight": 0,
+    "id": 79,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 403,
+    "groupType": 1,
+    "prefixId": 10406,
+    "coreWeight": 0,
+    "id": 80,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 403,
+    "groupType": 1,
+    "prefixId": 10407,
+    "coreWeight": 0,
+    "id": 81,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 403,
+    "groupType": 1,
+    "prefixId": 10410,
+    "coreWeight": 500,
+    "id": 82,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 403,
+    "groupType": 1,
+    "prefixId": 10411,
+    "coreWeight": 0,
+    "id": 83,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 403,
+    "groupType": 1,
+    "prefixId": 10412,
+    "coreWeight": 500,
+    "id": 84,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 403,
+    "groupType": 1,
+    "prefixId": 10413,
+    "coreWeight": 0,
+    "id": 85,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 403,
+    "groupType": 1,
+    "prefixId": 11214,
+    "coreWeight": 0,
+    "id": 86,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 501,
+    "groupType": 1,
+    "prefixId": 10503,
+    "coreWeight": 0,
+    "id": 87,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 501,
+    "groupType": 1,
+    "prefixId": 10505,
+    "coreWeight": 0,
+    "id": 88,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 501,
+    "groupType": 1,
+    "prefixId": 10506,
+    "coreWeight": 0,
+    "id": 89,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 501,
+    "groupType": 1,
+    "prefixId": 10507,
+    "coreWeight": 0,
+    "id": 90,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 501,
+    "groupType": 1,
+    "prefixId": 10509,
+    "coreWeight": 500,
+    "id": 91,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 501,
+    "groupType": 1,
+    "prefixId": 11209,
+    "coreWeight": 0,
+    "id": 92,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 502,
+    "groupType": 1,
+    "prefixId": 10503,
+    "coreWeight": 0,
+    "id": 93,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 502,
+    "groupType": 1,
+    "prefixId": 10505,
+    "coreWeight": 0,
+    "id": 94,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 502,
+    "groupType": 1,
+    "prefixId": 10506,
+    "coreWeight": 0,
+    "id": 95,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 502,
+    "groupType": 1,
+    "prefixId": 10507,
+    "coreWeight": 0,
+    "id": 96,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 502,
+    "groupType": 1,
+    "prefixId": 10509,
+    "coreWeight": 500,
+    "id": 97,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 502,
+    "groupType": 1,
+    "prefixId": 11209,
+    "coreWeight": 0,
+    "id": 98,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 503,
+    "groupType": 1,
+    "prefixId": 10503,
+    "coreWeight": 0,
+    "id": 99,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 503,
+    "groupType": 1,
+    "prefixId": 10505,
+    "coreWeight": 0,
+    "id": 100,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 503,
+    "groupType": 1,
+    "prefixId": 10506,
+    "coreWeight": 0,
+    "id": 101,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 503,
+    "groupType": 1,
+    "prefixId": 10507,
+    "coreWeight": 0,
+    "id": 102,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 503,
+    "groupType": 1,
+    "prefixId": 10509,
+    "coreWeight": 500,
+    "id": 103,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 503,
+    "groupType": 1,
+    "prefixId": 11209,
+    "coreWeight": 0,
+    "id": 104,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 601,
+    "groupType": 1,
+    "prefixId": 10605,
+    "coreWeight": 500,
+    "id": 105,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 601,
+    "groupType": 1,
+    "prefixId": 10606,
+    "coreWeight": 0,
+    "id": 106,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 601,
+    "groupType": 1,
+    "prefixId": 10607,
+    "coreWeight": 0,
+    "id": 107,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 601,
+    "groupType": 1,
+    "prefixId": 10608,
+    "coreWeight": 0,
+    "id": 108,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 602,
+    "groupType": 1,
+    "prefixId": 10605,
+    "coreWeight": 500,
+    "id": 109,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 602,
+    "groupType": 1,
+    "prefixId": 10606,
+    "coreWeight": 0,
+    "id": 110,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 602,
+    "groupType": 1,
+    "prefixId": 10607,
+    "coreWeight": 0,
+    "id": 111,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 602,
+    "groupType": 1,
+    "prefixId": 10608,
+    "coreWeight": 0,
+    "id": 112,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 603,
+    "groupType": 1,
+    "prefixId": 10605,
+    "coreWeight": 500,
+    "id": 113,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 603,
+    "groupType": 1,
+    "prefixId": 10606,
+    "coreWeight": 0,
+    "id": 114,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 603,
+    "groupType": 1,
+    "prefixId": 10607,
+    "coreWeight": 0,
+    "id": 115,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 603,
+    "groupType": 1,
+    "prefixId": 10608,
+    "coreWeight": 0,
+    "id": 116,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1101,
+    "groupType": 1,
+    "prefixId": 11106,
+    "coreWeight": 0,
+    "id": 117,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1101,
+    "groupType": 1,
+    "prefixId": 11105,
+    "coreWeight": 0,
+    "id": 118,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1101,
+    "groupType": 1,
+    "prefixId": 11109,
+    "coreWeight": 0,
+    "id": 119,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1101,
+    "groupType": 1,
+    "prefixId": 11110,
+    "coreWeight": 500,
+    "id": 120,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1102,
+    "groupType": 1,
+    "prefixId": 11106,
+    "coreWeight": 0,
+    "id": 121,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1102,
+    "groupType": 1,
+    "prefixId": 11105,
+    "coreWeight": 0,
+    "id": 122,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1102,
+    "groupType": 1,
+    "prefixId": 11109,
+    "coreWeight": 0,
+    "id": 123,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1102,
+    "groupType": 1,
+    "prefixId": 11110,
+    "coreWeight": 500,
+    "id": 124,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1103,
+    "groupType": 1,
+    "prefixId": 11106,
+    "coreWeight": 0,
+    "id": 125,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1103,
+    "groupType": 1,
+    "prefixId": 11105,
+    "coreWeight": 0,
+    "id": 126,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1103,
+    "groupType": 1,
+    "prefixId": 11109,
+    "coreWeight": 0,
+    "id": 127,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1103,
+    "groupType": 1,
+    "prefixId": 11110,
+    "coreWeight": 500,
+    "id": 128,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1201,
+    "groupType": 1,
+    "prefixId": 10509,
+    "coreWeight": 0,
+    "id": 129,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1201,
+    "groupType": 1,
+    "prefixId": 11201,
+    "coreWeight": 0,
+    "id": 130,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1201,
+    "groupType": 1,
+    "prefixId": 11203,
+    "coreWeight": 0,
+    "id": 131,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1201,
+    "groupType": 1,
+    "prefixId": 11205,
+    "coreWeight": 500,
+    "id": 132,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1201,
+    "groupType": 1,
+    "prefixId": 11206,
+    "coreWeight": 0,
+    "id": 133,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1201,
+    "groupType": 1,
+    "prefixId": 11211,
+    "coreWeight": 500,
+    "id": 134,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1201,
+    "groupType": 1,
+    "prefixId": 11212,
+    "coreWeight": 0,
+    "id": 135,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1202,
+    "groupType": 1,
+    "prefixId": 10509,
+    "coreWeight": 0,
+    "id": 136,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1202,
+    "groupType": 1,
+    "prefixId": 11201,
+    "coreWeight": 0,
+    "id": 137,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1202,
+    "groupType": 1,
+    "prefixId": 11203,
+    "coreWeight": 0,
+    "id": 138,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1202,
+    "groupType": 1,
+    "prefixId": 11205,
+    "coreWeight": 500,
+    "id": 139,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1202,
+    "groupType": 1,
+    "prefixId": 11206,
+    "coreWeight": 0,
+    "id": 140,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1202,
+    "groupType": 1,
+    "prefixId": 11211,
+    "coreWeight": 500,
+    "id": 141,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1202,
+    "groupType": 1,
+    "prefixId": 11212,
+    "coreWeight": 0,
+    "id": 142,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1203,
+    "groupType": 1,
+    "prefixId": 10509,
+    "coreWeight": 0,
+    "id": 143,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1203,
+    "groupType": 1,
+    "prefixId": 11201,
+    "coreWeight": 0,
+    "id": 144,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1203,
+    "groupType": 1,
+    "prefixId": 11203,
+    "coreWeight": 0,
+    "id": 145,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1203,
+    "groupType": 1,
+    "prefixId": 11205,
+    "coreWeight": 500,
+    "id": 146,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1203,
+    "groupType": 1,
+    "prefixId": 11206,
+    "coreWeight": 0,
+    "id": 147,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1203,
+    "groupType": 1,
+    "prefixId": 11211,
+    "coreWeight": 500,
+    "id": 148,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1203,
+    "groupType": 1,
+    "prefixId": 11212,
+    "coreWeight": 0,
+    "id": 149,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1301,
+    "groupType": 1,
+    "prefixId": 11301,
+    "coreWeight": 500,
+    "id": 150,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1301,
+    "groupType": 1,
+    "prefixId": 11306,
+    "coreWeight": 0,
+    "id": 151,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1301,
+    "groupType": 1,
+    "prefixId": 11319,
+    "coreWeight": 0,
+    "id": 152,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1301,
+    "groupType": 1,
+    "prefixId": 11321,
+    "coreWeight": 0,
+    "id": 153,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1301,
+    "groupType": 1,
+    "prefixId": 11322,
+    "coreWeight": 500,
+    "id": 154,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1301,
+    "groupType": 1,
+    "prefixId": 11323,
+    "coreWeight": 0,
+    "id": 155,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1302,
+    "groupType": 1,
+    "prefixId": 11301,
+    "coreWeight": 500,
+    "id": 156,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1302,
+    "groupType": 1,
+    "prefixId": 11306,
+    "coreWeight": 0,
+    "id": 157,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1302,
+    "groupType": 1,
+    "prefixId": 11319,
+    "coreWeight": 0,
+    "id": 158,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1302,
+    "groupType": 1,
+    "prefixId": 11321,
+    "coreWeight": 0,
+    "id": 159,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1302,
+    "groupType": 1,
+    "prefixId": 11322,
+    "coreWeight": 500,
+    "id": 160,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1302,
+    "groupType": 1,
+    "prefixId": 11323,
+    "coreWeight": 0,
+    "id": 161,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1303,
+    "groupType": 1,
+    "prefixId": 11301,
+    "coreWeight": 500,
+    "id": 162,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1303,
+    "groupType": 1,
+    "prefixId": 11306,
+    "coreWeight": 0,
+    "id": 163,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1303,
+    "groupType": 1,
+    "prefixId": 11319,
+    "coreWeight": 0,
+    "id": 164,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1303,
+    "groupType": 1,
+    "prefixId": 11321,
+    "coreWeight": 0,
+    "id": 165,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1303,
+    "groupType": 1,
+    "prefixId": 11322,
+    "coreWeight": 500,
+    "id": 166,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1303,
+    "groupType": 1,
+    "prefixId": 11323,
+    "coreWeight": 0,
+    "id": 167,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1401,
+    "groupType": 1,
+    "prefixId": 11402,
+    "coreWeight": 0,
+    "id": 168,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1401,
+    "groupType": 1,
+    "prefixId": 11406,
+    "coreWeight": 0,
+    "id": 169,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1401,
+    "groupType": 1,
+    "prefixId": 11407,
+    "coreWeight": 0,
+    "id": 170,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1401,
+    "groupType": 1,
+    "prefixId": 11419,
+    "coreWeight": 0,
+    "id": 171,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1401,
+    "groupType": 1,
+    "prefixId": 11420,
+    "coreWeight": 500,
+    "id": 172,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1401,
+    "groupType": 1,
+    "prefixId": 11427,
+    "coreWeight": 500,
+    "id": 173,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1402,
+    "groupType": 1,
+    "prefixId": 11402,
+    "coreWeight": 0,
+    "id": 174,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1402,
+    "groupType": 1,
+    "prefixId": 11406,
+    "coreWeight": 0,
+    "id": 175,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1402,
+    "groupType": 1,
+    "prefixId": 11407,
+    "coreWeight": 0,
+    "id": 176,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1402,
+    "groupType": 1,
+    "prefixId": 11419,
+    "coreWeight": 0,
+    "id": 177,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1402,
+    "groupType": 1,
+    "prefixId": 11420,
+    "coreWeight": 500,
+    "id": 178,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1401,
+    "groupType": 1,
+    "prefixId": 11427,
+    "coreWeight": 500,
+    "id": 179,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1403,
+    "groupType": 1,
+    "prefixId": 11402,
+    "coreWeight": 0,
+    "id": 180,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1403,
+    "groupType": 1,
+    "prefixId": 11406,
+    "coreWeight": 0,
+    "id": 181,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1403,
+    "groupType": 1,
+    "prefixId": 11407,
+    "coreWeight": 0,
+    "id": 182,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1403,
+    "groupType": 1,
+    "prefixId": 11419,
+    "coreWeight": 0,
+    "id": 183,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1403,
+    "groupType": 1,
+    "prefixId": 11420,
+    "coreWeight": 500,
+    "id": 184,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1401,
+    "groupType": 1,
+    "prefixId": 11427,
+    "coreWeight": 500,
+    "id": 185,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1501,
+    "groupType": 1,
+    "prefixId": 11501,
+    "coreWeight": 0,
+    "id": 186,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1501,
+    "groupType": 1,
+    "prefixId": 11503,
+    "coreWeight": 0,
+    "id": 187,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1501,
+    "groupType": 1,
+    "prefixId": 11505,
+    "coreWeight": 0,
+    "id": 188,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1501,
+    "groupType": 1,
+    "prefixId": 11506,
+    "coreWeight": 500,
+    "id": 189,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1501,
+    "groupType": 1,
+    "prefixId": 11507,
+    "coreWeight": 500,
+    "id": 190,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1501,
+    "groupType": 1,
+    "prefixId": 30131,
+    "coreWeight": 0,
+    "id": 191,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1501,
+    "groupType": 1,
+    "prefixId": 30132,
+    "coreWeight": 0,
+    "id": 192,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1501,
+    "groupType": 1,
+    "prefixId": 11603,
+    "coreWeight": 0,
+    "id": 193,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1501,
+    "groupType": 1,
+    "prefixId": 11606,
+    "coreWeight": 0,
+    "id": 194,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1501,
+    "groupType": 1,
+    "prefixId": 11509,
+    "coreWeight": 0,
+    "id": 195,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1501,
+    "groupType": 1,
+    "prefixId": 11510,
+    "coreWeight": 0,
+    "id": 196,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1501,
+    "groupType": 1,
+    "prefixId": 11511,
+    "coreWeight": 0,
+    "id": 197,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1501,
+    "groupType": 1,
+    "prefixId": 11512,
+    "coreWeight": 0,
+    "id": 198,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1501,
+    "groupType": 1,
+    "prefixId": 11610,
+    "coreWeight": 0,
+    "id": 199,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1502,
+    "groupType": 1,
+    "prefixId": 11501,
+    "coreWeight": 0,
+    "id": 200,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1502,
+    "groupType": 1,
+    "prefixId": 11503,
+    "coreWeight": 0,
+    "id": 201,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1502,
+    "groupType": 1,
+    "prefixId": 11505,
+    "coreWeight": 0,
+    "id": 202,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1502,
+    "groupType": 1,
+    "prefixId": 11506,
+    "coreWeight": 500,
+    "id": 203,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1502,
+    "groupType": 1,
+    "prefixId": 11507,
+    "coreWeight": 500,
+    "id": 204,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1502,
+    "groupType": 1,
+    "prefixId": 30131,
+    "coreWeight": 0,
+    "id": 205,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1502,
+    "groupType": 1,
+    "prefixId": 30132,
+    "coreWeight": 0,
+    "id": 206,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1502,
+    "groupType": 1,
+    "prefixId": 11603,
+    "coreWeight": 0,
+    "id": 207,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1502,
+    "groupType": 1,
+    "prefixId": 11606,
+    "coreWeight": 0,
+    "id": 208,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1502,
+    "groupType": 1,
+    "prefixId": 11509,
+    "coreWeight": 0,
+    "id": 209,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1502,
+    "groupType": 1,
+    "prefixId": 11510,
+    "coreWeight": 0,
+    "id": 210,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1502,
+    "groupType": 1,
+    "prefixId": 11511,
+    "coreWeight": 0,
+    "id": 211,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1502,
+    "groupType": 1,
+    "prefixId": 11512,
+    "coreWeight": 0,
+    "id": 212,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1502,
+    "groupType": 1,
+    "prefixId": 11610,
+    "coreWeight": 0,
+    "id": 213,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1503,
+    "groupType": 1,
+    "prefixId": 11501,
+    "coreWeight": 0,
+    "id": 214,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1503,
+    "groupType": 1,
+    "prefixId": 11503,
+    "coreWeight": 0,
+    "id": 215,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1503,
+    "groupType": 1,
+    "prefixId": 11505,
+    "coreWeight": 0,
+    "id": 216,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1503,
+    "groupType": 1,
+    "prefixId": 11506,
+    "coreWeight": 500,
+    "id": 217,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1503,
+    "groupType": 1,
+    "prefixId": 11507,
+    "coreWeight": 500,
+    "id": 218,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1503,
+    "groupType": 1,
+    "prefixId": 30131,
+    "coreWeight": 0,
+    "id": 219,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1503,
+    "groupType": 1,
+    "prefixId": 30132,
+    "coreWeight": 0,
+    "id": 220,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1503,
+    "groupType": 1,
+    "prefixId": 11603,
+    "coreWeight": 0,
+    "id": 221,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1503,
+    "groupType": 1,
+    "prefixId": 11606,
+    "coreWeight": 0,
+    "id": 222,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1503,
+    "groupType": 1,
+    "prefixId": 11509,
+    "coreWeight": 0,
+    "id": 223,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1503,
+    "groupType": 1,
+    "prefixId": 11510,
+    "coreWeight": 0,
+    "id": 224,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1503,
+    "groupType": 1,
+    "prefixId": 11511,
+    "coreWeight": 0,
+    "id": 225,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1503,
+    "groupType": 1,
+    "prefixId": 11512,
+    "coreWeight": 0,
+    "id": 226,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1503,
+    "groupType": 1,
+    "prefixId": 11610,
+    "coreWeight": 0,
+    "id": 227,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1601,
+    "groupType": 1,
+    "prefixId": 30131,
+    "coreWeight": 0,
+    "id": 228,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1601,
+    "groupType": 1,
+    "prefixId": 30132,
+    "coreWeight": 0,
+    "id": 229,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1601,
+    "groupType": 1,
+    "prefixId": 11601,
+    "coreWeight": 500,
+    "id": 230,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1601,
+    "groupType": 1,
+    "prefixId": 11602,
+    "coreWeight": 0,
+    "id": 231,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1601,
+    "groupType": 1,
+    "prefixId": 11603,
+    "coreWeight": 0,
+    "id": 232,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1601,
+    "groupType": 1,
+    "prefixId": 11605,
+    "coreWeight": 0,
+    "id": 233,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1601,
+    "groupType": 1,
+    "prefixId": 11606,
+    "coreWeight": 0,
+    "id": 234,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1601,
+    "groupType": 1,
+    "prefixId": 11607,
+    "coreWeight": 0,
+    "id": 235,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1601,
+    "groupType": 1,
+    "prefixId": 11609,
+    "coreWeight": 0,
+    "id": 236,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1601,
+    "groupType": 1,
+    "prefixId": 11509,
+    "coreWeight": 0,
+    "id": 237,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1601,
+    "groupType": 1,
+    "prefixId": 11511,
+    "coreWeight": 0,
+    "id": 238,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1601,
+    "groupType": 1,
+    "prefixId": 11610,
+    "coreWeight": 500,
+    "id": 239,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1601,
+    "groupType": 1,
+    "prefixId": 11611,
+    "coreWeight": 0,
+    "id": 240,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1603,
+    "groupType": 1,
+    "prefixId": 30131,
+    "coreWeight": 0,
+    "id": 241,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1603,
+    "groupType": 1,
+    "prefixId": 30132,
+    "coreWeight": 0,
+    "id": 242,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1603,
+    "groupType": 1,
+    "prefixId": 11601,
+    "coreWeight": 500,
+    "id": 243,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1603,
+    "groupType": 1,
+    "prefixId": 11602,
+    "coreWeight": 0,
+    "id": 244,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1603,
+    "groupType": 1,
+    "prefixId": 11603,
+    "coreWeight": 0,
+    "id": 245,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1603,
+    "groupType": 1,
+    "prefixId": 11605,
+    "coreWeight": 0,
+    "id": 246,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1603,
+    "groupType": 1,
+    "prefixId": 11606,
+    "coreWeight": 0,
+    "id": 247,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1603,
+    "groupType": 1,
+    "prefixId": 11607,
+    "coreWeight": 0,
+    "id": 248,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1603,
+    "groupType": 1,
+    "prefixId": 11609,
+    "coreWeight": 0,
+    "id": 249,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1603,
+    "groupType": 1,
+    "prefixId": 11509,
+    "coreWeight": 0,
+    "id": 250,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1603,
+    "groupType": 1,
+    "prefixId": 11511,
+    "coreWeight": 0,
+    "id": 251,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1603,
+    "groupType": 1,
+    "prefixId": 11610,
+    "coreWeight": 500,
+    "id": 252,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1603,
+    "groupType": 1,
+    "prefixId": 11611,
+    "coreWeight": 0,
+    "id": 253,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1604,
+    "groupType": 1,
+    "prefixId": 30131,
+    "coreWeight": 0,
+    "id": 254,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1604,
+    "groupType": 1,
+    "prefixId": 30132,
+    "coreWeight": 0,
+    "id": 255,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1604,
+    "groupType": 1,
+    "prefixId": 11601,
+    "coreWeight": 500,
+    "id": 256,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1604,
+    "groupType": 1,
+    "prefixId": 11602,
+    "coreWeight": 0,
+    "id": 257,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1604,
+    "groupType": 1,
+    "prefixId": 11603,
+    "coreWeight": 0,
+    "id": 258,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1604,
+    "groupType": 1,
+    "prefixId": 11605,
+    "coreWeight": 0,
+    "id": 259,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1604,
+    "groupType": 1,
+    "prefixId": 11606,
+    "coreWeight": 0,
+    "id": 260,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1604,
+    "groupType": 1,
+    "prefixId": 11607,
+    "coreWeight": 0,
+    "id": 261,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1604,
+    "groupType": 1,
+    "prefixId": 11609,
+    "coreWeight": 0,
+    "id": 262,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1604,
+    "groupType": 1,
+    "prefixId": 11509,
+    "coreWeight": 0,
+    "id": 263,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1604,
+    "groupType": 1,
+    "prefixId": 11511,
+    "coreWeight": 0,
+    "id": 264,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1604,
+    "groupType": 1,
+    "prefixId": 11610,
+    "coreWeight": 500,
+    "id": 265,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 1604,
+    "groupType": 1,
+    "prefixId": 11611,
+    "coreWeight": 0,
+    "id": 266,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 5,
+    "groupType": 2,
+    "prefixId": 30171,
+    "coreWeight": 200,
+    "id": 267,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupId": 5,
+    "groupType": 2,
+    "prefixId": 30172,
+    "coreWeight": 200,
+    "id": 268,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "taskCountMin": 1,
+    "taskCountMax": 3,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "taskCountMin": 1,
+    "taskCountMax": 3,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "taskCountMin": 1,
+    "taskCountMax": 3,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "taskCountMin": 1,
+    "taskCountMax": 3,
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "taskCountMin": 1,
+    "taskCountMax": 3,
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "key": "bTypeNumPerMonth",
+    "value": 1,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "bTypeScreenRange",
+    "value": 5,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "triggerMin",
+    "value": 2,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "triggerMax",
+    "value": 5,
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "pointNum",
+    "value": 500,
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "geomanticProb",
+    "value": 50,
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "className30TriggerCD",
+    "value": 2,
+    "id": 7,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

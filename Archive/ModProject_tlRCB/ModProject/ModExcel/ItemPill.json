@@ -1,0 +1,40 @@
+[
+  {
+    "id": -1330138045,//青丘
+    "effectType": 101,//
+    "operUse": 1,//是否可以使用
+    "operEquip": 0,//是否可以装备
+    "autoUse": 0,//
+    "effectValue": "1561118812",
+    "basType": "0",
+    "basRequire": 0,
+    "grade": 1,//练气
+    "spCost": 0,
+    "applyCD": 0,
+    "cdGroup": -1330138045,
+    "pillType": 0,//
+    "carryCount": 5,
+    "noUseTogether": 0,
+    "cost": "0",
+    "battleUIHide": 1
+  },
+  {
+    "id": -1276455406,//三从四德
+    "effectType": 101,//101 对自己使用， 201战斗外使用
+    "operUse": 1,//是否可以使用
+    "operEquip": 0,//是否可以装备
+    "autoUse": 0,//
+    "effectValue": "1561118813",
+    "basType": "0",
+    "basRequire": 0,
+    "grade": 1,//练气
+    "spCost": 0,
+    "applyCD": 0,
+    "cdGroup": -1276455406,
+    "pillType": 0,//
+    "carryCount": 5,
+    "noUseTogether": 0,
+    "cost": "0",
+    "battleUIHide": 1
+  },
+]

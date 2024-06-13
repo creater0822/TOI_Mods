@@ -1,0 +1,56 @@
+[
+  {
+    "dropID": 600001,
+    "itemID": 1011011,
+    "number": 10,
+    "weight": 2000,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dropID": 600001,
+    "itemID": 1011012,
+    "number": 10,
+    "weight": 2000,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dropID": 600001,
+    "itemID": 1011013,
+    "number": 10,
+    "weight": 2000,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dropID": 600001,
+    "itemID": 1011014,
+    "number": 10,
+    "weight": 2000,
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dropID": 600001,
+    "itemID": 1011015,
+    "number": 10,
+    "weight": 1000,
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dropID": 600001,
+    "itemID": 1011016,
+    "number": 10,
+    "weight": 1000,
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

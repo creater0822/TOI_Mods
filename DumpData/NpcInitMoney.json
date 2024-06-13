@@ -1,0 +1,82 @@
+[
+  {
+    "moneyMin": 480,
+    "moneyMax": 1200,
+    "schoolGrow": 120,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "moneyMin": 720,
+    "moneyMax": 1800,
+    "schoolGrow": 140,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "moneyMin": 1200,
+    "moneyMax": 3000,
+    "schoolGrow": 160,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "moneyMin": 1920,
+    "moneyMax": 4800,
+    "schoolGrow": 180,
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "moneyMin": 3360,
+    "moneyMax": 8400,
+    "schoolGrow": 200,
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "moneyMin": 5760,
+    "moneyMax": 14400,
+    "schoolGrow": 220,
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "moneyMin": 9600,
+    "moneyMax": 24000,
+    "schoolGrow": 240,
+    "id": 7,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "moneyMin": 14400,
+    "moneyMax": 36000,
+    "schoolGrow": 260,
+    "id": 8,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "moneyMin": 24000,
+    "moneyMax": 60000,
+    "schoolGrow": 280,
+    "id": 9,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "moneyMin": 38400,
+    "moneyMax": 96000,
+    "schoolGrow": 300,
+    "id": 10,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

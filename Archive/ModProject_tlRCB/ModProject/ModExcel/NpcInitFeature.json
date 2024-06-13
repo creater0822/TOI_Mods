@@ -1,0 +1,18 @@
+[
+  {
+    "id": "-527021126",
+    "type": "1",
+    "condition": "gender_0_1",
+    "forbitStand": "0",
+    "weightBase": "50",
+    "weightGrade": "50"
+  },
+  {
+    "id": "1561118811",
+    "type": "1",
+    "condition": "gender_0_2",
+    "forbitStand": "0",
+    "weightBase": "50",
+    "weightGrade": "50"
+  }
+]

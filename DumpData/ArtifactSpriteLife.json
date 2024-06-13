@@ -1,0 +1,30 @@
+[
+  {
+    "key": "closeLevelRequire",
+    "value": 2,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "featureID",
+    "value": 141,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "spriteEquipType",
+    "value": 532,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "spriteEquipHole",
+    "value": 3,
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

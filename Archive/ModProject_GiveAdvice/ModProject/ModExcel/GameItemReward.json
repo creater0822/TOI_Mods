@@ -1,0 +1,515 @@
+[
+  {
+    "id": "303457170",
+    "rewardID": "303458271",
+    "itemType": "1",
+    "item": "1011845",
+    "numMin": "1",
+    "numMax": "1",
+    "weight": "20000"
+  },
+  {
+    "id": "303457180",
+    "rewardID": "303458272",
+    "itemType": "1",
+    "item": "1011855",
+    "numMin": "1",
+    "numMax": "1",
+    "weight": "20000"
+  },
+  {
+    "id": "303457190",
+    "rewardID": "303458273",
+    "itemType": "1",
+    "item": "1011865",
+    "numMin": "1",
+    "numMax": "1",
+    "weight": "20000"
+  },
+  {
+    "id": "303457200",
+    "rewardID": "303458274",
+    "itemType": "1",
+    "item": "1011875",
+    "numMin": "1",
+    "numMax": "1",
+    "weight": "20000"
+  },
+  {
+    "id": "303457210",
+    "rewardID": "303458275",
+    "itemType": "1",
+    "item": "1011885",
+    "numMin": "1",
+    "numMax": "1",
+    "weight": "20000"
+  },
+  {
+    "id": "303457220",
+    "rewardID": "303458276",
+    "itemType": "1",
+    "item": "1011895",
+    "numMin": "1",
+    "numMax": "1",
+    "weight": "20000"
+  },
+  {
+    "id": "303457230",
+    "rewardID": "303458277",
+    "itemType": "1",
+    "item": "1011905",
+    "numMin": "1",
+    "numMax": "1",
+    "weight": "20000"
+  },
+  {
+    "id": "303457240",
+    "rewardID": "303458278",
+    "itemType": "1",
+    "item": "1011915",
+    "numMin": "1",
+    "numMax": "1",
+    "weight": "20000"
+  },
+  {
+    "id": "303457250",
+    "rewardID": "303458279",
+    "itemType": "1",
+    "item": "1011925",
+    "numMin": "1",
+    "numMax": "1",
+    "weight": "20000"
+  },
+  {
+    "id": "303457260",
+    "rewardID": "303458280",
+    "itemType": "1",
+    "item": "1011935",
+    "numMin": "1",
+    "numMax": "1",
+    "weight": "20000"
+  },
+  {
+    "id": "303457270",
+    "rewardID": "303458281",
+    "itemType": "1",
+    "item": "1011945",
+    "numMin": "1",
+    "numMax": "1",
+    "weight": "20000"
+  },
+  {
+    "id": "303457280",
+    "rewardID": "303458282",
+    "itemType": "1",
+    "item": "1011955",
+    "numMin": "1",
+    "numMax": "1",
+    "weight": "20000"
+  },
+  {
+    "id": "303457290",
+    "rewardID": "303458283",
+    "itemType": "1",
+    "item": "1011965",
+    "numMin": "1",
+    "numMax": "1",
+    "weight": "20000"
+  },
+  {
+    "id": "303457300",
+    "rewardID": "303458284",
+    "itemType": "1",
+    "item": "1011975",
+    "numMin": "1",
+    "numMax": "1",
+    "weight": "20000"
+  },
+  {
+    "id": "303457310",
+    "rewardID": "303458285",
+    "itemType": "1",
+    "item": "1011985",
+    "numMin": "1",
+    "numMax": "1",
+    "weight": "20000"
+  },
+  {
+    "id": "303457320",
+    "rewardID": "303458286",
+    "itemType": "1",
+    "item": "1011995",
+    "numMin": "1",
+    "numMax": "1",
+    "weight": "20000"
+  },
+  {
+    "id": "303457330",
+    "rewardID": "303458287",
+    "itemType": "1",
+    "item": "7000173",
+    "numMin": "1",
+    "numMax": "1",
+    "weight": "20000"
+  },
+  {
+    "id": "303457340",
+    "rewardID": "303458288",
+    "itemType": "1",
+    "item": "7000174",
+    "numMin": "1",
+    "numMax": "1",
+    "weight": "20000"
+  },
+  {
+    "id": "303457350",
+    "rewardID": "303458289",
+    "itemType": "1",
+    "item": "5082275",
+    "numMin": "1",
+    "numMax": "1",
+    "weight": "20000"
+  },
+  {
+    "id": "303457360",
+    "rewardID": "303458290",
+    "itemType": "1",
+    "item": "5082285",
+    "numMin": "1",
+    "numMax": "1",
+    "weight": "20000"
+  },
+  {
+    "id": "303457370",
+    "rewardID": "303458300",
+    "itemType": "1",
+    "item": "5031726",
+    "numMin": "1",
+    "numMax": "1",
+    "weight": "20000"
+  },
+  {
+    "id": "303457380",
+    "rewardID": "303458301",
+    "itemType": "1",
+    "item": "5031736",
+    "numMin": "1",
+    "numMax": "1",
+    "weight": "20000"
+  },
+  {
+    "id": "303457390",
+    "rewardID": "303458302",
+    "itemType": "1",
+    "item": "5031746",
+    "numMin": "1",
+    "numMax": "1",
+    "weight": "20000"
+  },
+  {
+    "id": "303457400",
+    "rewardID": "303458303",
+    "itemType": "1",
+    "item": "5031756",
+    "numMin": "1",
+    "numMax": "1",
+    "weight": "20000"
+  },
+  {
+    "id": "303457410",
+    "rewardID": "303458304",
+    "itemType": "1",
+    "item": "5031766",
+    "numMin": "1",
+    "numMax": "1",
+    "weight": "20000"
+  },
+  {
+    "id": "303457420",
+    "rewardID": "303458305",
+    "itemType": "1",
+    "item": "5031776",
+    "numMin": "1",
+    "numMax": "1",
+    "weight": "20000"
+  },
+  {
+    "id": "303457430",
+    "rewardID": "303458306",
+    "itemType": "1",
+    "item": "5081015",
+    "numMin": "1",
+    "numMax": "1",
+    "weight": "20000"
+  },
+  {
+    "id": "303457440",
+    "rewardID": "303458307",
+    "itemType": "1",
+    "item": "5081025",
+    "numMin": "1",
+    "numMax": "1",
+    "weight": "20000"
+  },
+  {
+    "id": "303457450",
+    "rewardID": "303458308",
+    "itemType": "1",
+    "item": "5081035",
+    "numMin": "1",
+    "numMax": "1",
+    "weight": "20000"
+  },
+  {
+    "id": "303457460",
+    "rewardID": "303458310",
+    "itemType": "1",
+    "item": "1011476",
+    "numMin": "1",
+    "numMax": "1",
+    "weight": "20000"
+  },
+  {
+    "id": "303457520",
+    "rewardID": "303458311",
+    "itemType": "1",
+    "item": "5081075",
+    "numMin": "1",
+    "numMax": "1",
+    "weight": "20000"
+  },
+  {
+    "id": "303457530",
+    "rewardID": "303458312",
+    "itemType": "1",
+    "item": "5081085",
+    "numMin": "1",
+    "numMax": "1",
+    "weight": "20000"
+  },
+  {
+    "id": "303457540",
+    "rewardID": "303458313",
+    "itemType": "1",
+    "item": "5081095",
+    "numMin": "1",
+    "numMax": "1",
+    "weight": "20000"
+  },
+  {
+    "id": "303457550",
+    "rewardID": "303458314",
+    "itemType": "1",
+    "item": "5081105",
+    "numMin": "1",
+    "numMax": "1",
+    "weight": "20000"
+  },
+  {
+    "id": "303457560",
+    "rewardID": "303458321",
+    "itemType": "1",
+    "item": "5031786",
+    "numMin": "1",
+    "numMax": "1",
+    "weight": "20000"
+  },
+  {
+    "id": "303457570",
+    "rewardID": "303458322",
+    "itemType": "1",
+    "item": "5031796",
+    "numMin": "1",
+    "numMax": "1",
+    "weight": "20000"
+  },
+  {
+    "id": "303457580",
+    "rewardID": "303458323",
+    "itemType": "1",
+    "item": "5031806",
+    "numMin": "1",
+    "numMax": "1",
+    "weight": "20000"
+  },
+  {
+    "id": "303457590",
+    "rewardID": "303458324",
+    "itemType": "1",
+    "item": "5031816",
+    "numMin": "1",
+    "numMax": "1",
+    "weight": "20000"
+  },
+  {
+    "id": "303457600",
+    "rewardID": "303458325",
+    "itemType": "1",
+    "item": "5031826",
+    "numMin": "1",
+    "numMax": "1",
+    "weight": "20000"
+  },
+  {
+    "id": "303457610",
+    "rewardID": "303458326",
+    "itemType": "1",
+    "item": "5031836",
+    "numMin": "1",
+    "numMax": "1",
+    "weight": "20000"
+  },
+  {
+    "id": "303457620",
+    "rewardID": "303458327",
+    "itemType": "1",
+    "item": "5081155",
+    "numMin": "1",
+    "numMax": "1",
+    "weight": "20000"
+  },
+  {
+    "id": "303457630",
+    "rewardID": "303458328",
+    "itemType": "1",
+    "item": "5081165",
+    "numMin": "1",
+    "numMax": "1",
+    "weight": "20000"
+  },
+  {
+    "id": "303457640",
+    "rewardID": "303458329",
+    "itemType": "1",
+    "item": "5081175",
+    "numMin": "1",
+    "numMax": "1",
+    "weight": "20000"
+  },
+  {
+    "id": "303457650",
+    "rewardID": "303458330",
+    "itemType": "1",
+    "item": "5081185",
+    "numMin": "1",
+    "numMax": "1",
+    "weight": "20000"
+  },
+  {
+    "id": "303457651",
+    "rewardID": "303458331",
+    "itemType": "1",
+    "item": "5081195",
+    "numMin": "1",
+    "numMax": "1",
+    "weight": "20000"
+  },
+  {
+    "id": "303457660",
+    "rewardID": "303458340",
+    "itemType": "1",
+    "item": "1011556",
+    "numMin": "1",
+    "numMax": "1",
+    "weight": "20000"
+  },
+  {
+    "id": "303457670",
+    "rewardID": "303458341",
+    "itemType": "1",
+    "item": "5081255",
+    "numMin": "1",
+    "numMax": "1",
+    "weight": "20000"
+  },
+  {
+    "id": "303457680",
+    "rewardID": "303458342",
+    "itemType": "1",
+    "item": "5081265",
+    "numMin": "1",
+    "numMax": "1",
+    "weight": "20000"
+  },
+  {
+    "id": "303457690",
+    "rewardID": "303458343",
+    "itemType": "1",
+    "item": "5081275",
+    "numMin": "1",
+    "numMax": "1",
+    "weight": "20000"
+  },
+  {
+    "id": "303457700",
+    "rewardID": "303458344",
+    "itemType": "1",
+    "item": "5081285",
+    "numMin": "1",
+    "numMax": "1",
+    "weight": "20000"
+  },
+  {
+    "id": "303457760",
+    "rewardID": "303458350",
+    "itemType": "1",
+    "item": "5081335",
+    "numMin": "1",
+    "numMax": "1",
+    "weight": "20000"
+  },
+  {
+    "id": "303457770",
+    "rewardID": "303458351",
+    "itemType": "1",
+    "item": "5081345",
+    "numMin": "1",
+    "numMax": "1",
+    "weight": "20000"
+  },
+  {
+    "id": "303457780",
+    "rewardID": "303458352",
+    "itemType": "1",
+    "item": "5081355",
+    "numMin": "1",
+    "numMax": "1",
+    "weight": "20000"
+  },
+  {
+    "id": "303457790",
+    "rewardID": "303458353",
+    "itemType": "1",
+    "item": "5081365",
+    "numMin": "1",
+    "numMax": "1",
+    "weight": "20000"
+  },
+  {
+    "id": "303457800",
+    "rewardID": "303458354",
+    "itemType": "1",
+    "item": "5081375",
+    "numMin": "1",
+    "numMax": "1",
+    "weight": "20000"
+  },
+  {
+    "id": "303457810",
+    "rewardID": "303458355",
+    "itemType": "1",
+    "item": "5081385",
+    "numMin": "1",
+    "numMax": "1",
+    "weight": "20000"
+  },
+  {
+    "id": "303457820",
+    "rewardID": "303458356",
+    "itemType": "1",
+    "item": "5031966",
+    "numMin": "1",
+    "numMax": "1",
+    "weight": "20000"
+  }
+]

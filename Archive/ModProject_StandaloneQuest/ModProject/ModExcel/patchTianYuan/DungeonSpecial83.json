@@ -1,0 +1,13 @@
+[
+  // Walk towards Jo faster
+  {
+    "id": "1",
+    "key": "fixedMoveSpeed",
+    "value": "999"
+  },
+  {
+    "id": "6",
+    "key": "npcTalkInterval",
+    "value": "100"
+  }
+]

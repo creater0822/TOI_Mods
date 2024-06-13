@@ -1,0 +1,33 @@
+[ // How this works: We just replace the harmless terms with a random harmful term
+  // In this case I just picked a random Chinese symbol string, assuming it's legitimately a bad word
+  {
+    // discuss (absolutely harmless)
+    "ch": "布隆迪",
+    "tc": "布隆迪",
+    "id": 2000
+  },
+  {
+    // isis (annoying when 2 totally unrelated words have their last and first letters be this word)
+    "ch": "'isis'",
+    "tc": "'isis'",
+    "id": 2240
+  },
+  {
+    // standard (absolutely harmness)
+    "ch": "苏维埃",
+    "tc": "蘇維埃",
+    "id": 2247
+  },
+  {
+    // kong (no reason to censor this word alone)
+    "ch": "苏维埃",
+    "tc": "蘇維埃",
+    "id": 2249
+  },
+  {
+    // times (absolutely harmless)
+    "ch": "苏维埃",
+    "tc": "蘇維埃",
+    "id": 2253
+  }
+]

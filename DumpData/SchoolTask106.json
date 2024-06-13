@@ -1,0 +1,37 @@
+[
+  {
+    "dungeonID": 1201,
+    "dungeonLevel": 10,
+    "id": 1061,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dungeonID": 1202,
+    "dungeonLevel": 20,
+    "id": 1062,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dungeonID": 1203,
+    "dungeonLevel": 30,
+    "id": 1063,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dungeonID": 1204,
+    "dungeonLevel": 40,
+    "id": 1064,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dungeonID": 1205,
+    "dungeonLevel": 50,
+    "id": 1065,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

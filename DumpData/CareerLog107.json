@@ -1,0 +1,72 @@
+[
+  {
+    "careerKey": "careerLogFianceCount",
+    "roleLogKey": "eventLogRoleRelation29311|eventLogRoleRelation29312",
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogLoverCount",
+    "roleLogKey": "eventLogRoleRelation210311|eventLogRoleRelation210312",
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogMasterCount",
+    "roleLogKey": "eventLogRoleRelation211311",
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogStudentCount",
+    "roleLogKey": "eventLogRoleRelation212311",
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogFatherCount",
+    "roleLogKey": "bigLogRoleChat10001",
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogMotherCount",
+    "roleLogKey": "bigLogRoleChat10002",
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogSonCount",
+    "roleLogKey": "bigLogRoleChat10003",
+    "id": 7,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogDaughterCount",
+    "roleLogKey": "bigLogRoleChat10004",
+    "id": 8,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogBrotherCount",
+    "roleLogKey": "eventLogRoleRelation23311|eventLogRoleRelation23312|eventLogRoleRelation24311|eventLogRoleRelation24312",
+    "id": 9,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogSisterCount",
+    "roleLogKey": "eventLogRoleRelation25311|eventLogRoleRelation25312|eventLogRoleRelation26311|eventLogRoleRelation26312",
+    "id": 10,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

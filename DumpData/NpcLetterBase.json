@@ -1,0 +1,44 @@
+[
+  {
+    "key": "triggerPara",
+    "value": 5,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "triggerIntervalMax",
+    "value": 36,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "letterNumMin",
+    "value": 1,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "letterNumMax",
+    "value": 1,
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "screenPara",
+    "value": 12,
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "letterContext",
+    "value": 401,
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

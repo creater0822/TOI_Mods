@@ -1,0 +1,92 @@
+[
+  {
+    "bulletNum": "1",
+    "offsetRange": 0,
+    "finalRangeLimit": 1,
+    "chase": "0",
+    "id": 26001,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "bulletNum": "1",
+    "offsetRange": 0,
+    "finalRangeLimit": 0,
+    "chase": "0",
+    "id": 26017,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "bulletNum": "1",
+    "offsetRange": 0,
+    "finalRangeLimit": 0,
+    "chase": "0",
+    "id": 26010,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "bulletNum": "1",
+    "offsetRange": 0,
+    "finalRangeLimit": 0,
+    "chase": "0",
+    "id": 26011,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "bulletNum": "&1502_num",
+    "offsetRange": 50,
+    "finalRangeLimit": 0,
+    "chase": "1",
+    "id": 26013,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "bulletNum": "1",
+    "offsetRange": 0,
+    "finalRangeLimit": 0,
+    "chase": "0",
+    "id": 26015,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "bulletNum": "1",
+    "offsetRange": 0,
+    "finalRangeLimit": 0,
+    "chase": "0",
+    "id": 26016,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "bulletNum": "1",
+    "offsetRange": 0,
+    "finalRangeLimit": 0,
+    "chase": "0",
+    "id": 26018,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "bulletNum": "1",
+    "offsetRange": 0,
+    "finalRangeLimit": 0,
+    "chase": "0",
+    "id": 26019,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "bulletNum": "1",
+    "offsetRange": 0,
+    "finalRangeLimit": 0,
+    "chase": "0",
+    "id": 2641111,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

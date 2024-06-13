@@ -1,0 +1,3180 @@
+[
+  {
+    "effectType": 4,
+    "value": "hpMax_1_1_1",
+    "id": 50011,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 4,
+    "value": "hpMax_1_1_1",
+    "id": 50012,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 4,
+    "value": "hpMax_1_2_2",
+    "id": 50013,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 4,
+    "value": "hpMax_1_1_1",
+    "id": 50021,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 4,
+    "value": "hpMax_1_1_1",
+    "id": 50022,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 4,
+    "value": "hpMax_1_3_3",
+    "id": 50023,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 4,
+    "value": "hpMax_1_1_1",
+    "id": 50031,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 4,
+    "value": "hpMax_1_1_1",
+    "id": 50032,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 4,
+    "value": "hpMax_1_4_4",
+    "id": 50033,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 4,
+    "value": "hpMax_1_2_2",
+    "id": 50041,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 4,
+    "value": "hpMax_1_2_2",
+    "id": 50042,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 4,
+    "value": "hpMax_1_5_5",
+    "id": 50043,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 4,
+    "value": "hpMax_1_2_2",
+    "id": 50051,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 4,
+    "value": "hpMax_1_2_2",
+    "id": 50052,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 4,
+    "value": "hpMax_1_5_5",
+    "id": 50053,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 4,
+    "value": "hpMax_1_3_3",
+    "id": 50061,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 4,
+    "value": "hpMax_1_3_3",
+    "id": 50062,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 4,
+    "value": "hpMax_1_6_6",
+    "id": 50063,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 4,
+    "value": "hpMax_1_3_3",
+    "id": 50071,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 4,
+    "value": "hpMax_1_3_3",
+    "id": 50072,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 4,
+    "value": "hpMax_1_6_6",
+    "id": 50073,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 4,
+    "value": "hpMax_1_3_3",
+    "id": 50081,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 4,
+    "value": "hpMax_1_3_3",
+    "id": 50082,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 4,
+    "value": "hpMax_1_8_8",
+    "id": 50083,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 4,
+    "value": "hpMax_1_3_3",
+    "id": 50091,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 4,
+    "value": "hpMax_1_3_3",
+    "id": 50092,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 4,
+    "value": "hpMax_1_9_9",
+    "id": 50093,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 4,
+    "value": "hpMax_1_4_4",
+    "id": 50101,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 4,
+    "value": "hpMax_1_4_4",
+    "id": 50102,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 4,
+    "value": "hpMax_1_10_10",
+    "id": 50103,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 4,
+    "value": "hpMax_1_8_14",
+    "id": 50201,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 4,
+    "value": "hpMax_1_15_19",
+    "id": 50202,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 4,
+    "value": "hpMax_1_20_24",
+    "id": 50203,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 4,
+    "value": "hpMax_1_25_25",
+    "id": 50204,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 4,
+    "value": "hpRestore_1_1_1",
+    "id": 50205,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 4,
+    "value": "hpRestore_1_2_2",
+    "id": 50206,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 4,
+    "value": "agile_1_1_2",
+    "id": 50207,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 4,
+    "value": "agile_1_3_4",
+    "id": 50208,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 4,
+    "value": "agile_1_5_7",
+    "id": 50209,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 4,
+    "value": "agile_1_8_8",
+    "id": 50210,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 4,
+    "value": "crit_1_1_2",
+    "id": 50211,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 4,
+    "value": "crit_1_3_4",
+    "id": 50212,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 4,
+    "value": "crit_1_5_7",
+    "id": 50213,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 4,
+    "value": "crit_1_8_8",
+    "id": 50214,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 4,
+    "value": "evade_1_3_4",
+    "id": 50215,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 4,
+    "value": "evade_1_5_7",
+    "id": 50216,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 4,
+    "value": "evade_1_8_9",
+    "id": 50217,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 4,
+    "value": "evade_1_10_10",
+    "id": 50218,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 4,
+    "value": "power_1_2_3",
+    "id": 50219,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 4,
+    "value": "power_1_4_5",
+    "id": 50220,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 4,
+    "value": "power_1_6_7",
+    "id": 50221,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 4,
+    "value": "power_1_8_8",
+    "id": 50222,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 4,
+    "value": "msp_1_15_19",
+    "id": 50223,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 4,
+    "value": "msp_1_20_25",
+    "id": 50224,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 4,
+    "value": "msp_1_26_29",
+    "id": 50225,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 4,
+    "value": "msp_1_30_30",
+    "id": 50226,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 4,
+    "value": "luck_1_6_8",
+    "id": 50227,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 4,
+    "value": "luck_1_9_11",
+    "id": 50228,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 4,
+    "value": "luck_1_12_14",
+    "id": 50229,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 4,
+    "value": "luck_1_15_15",
+    "id": 50230,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "hpMax_1_&10101_hpMaxUp&|pfr_1_&10101_prfDown&",
+    "id": 10101,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "power_1_&10102_powerUp&|msp_1_&10102_luckDown&",
+    "id": 10102,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "hpSuck_1_&1001_leechProb%1&|hpRestore_1_&10103_hpRestoreDown&",
+    "id": 10103,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 2,
+    "value": "attach_basBlade_critV_&10104_bladeToCritV&_99999",
+    "id": 101041,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basBlade_1_&10104_bladeBasUp&",
+    "id": 101042,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 2,
+    "value": "attach_hpMax_critV_&10105_hpToCritV&_99999",
+    "id": 10105,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "0",
+    "id": 10106,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "critV_1_&10107_critUp&",
+    "id": 10107,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basBlade_1_&10108_basUp&|basSpear_1_&10108_basUp&|basSword_1_&10108_basUp&",
+    "id": 10108,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 2,
+    "value": "attach_hpMax_crit_&10109_hpMaxToCrit&_999",
+    "id": 10109,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 5,
+    "value": "actToStatus_3_&10112_leechNum&_hpMax_1_&10112_hpMaxUp&_&10112_hpUpMax&",
+    "id": 10113,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 2,
+    "value": "attach_hpMax_jnfw_&10113_hpMaxToJnfw&_999",
+    "id": 10114,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "jnsc_1_&10201_rangeUp&|evade_1_&10201_evadeDown&",
+    "id": 10201,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "ddsl_1_&10202_bulletUp&|power_1_&10202_powerDown&",
+    "id": 10202,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "0",
+    "id": 10203,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 2,
+    "value": "attach_basSpear_jnsc_&10204_spearToRange&_99999",
+    "id": 102041,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basSpear_1_&10204_spearBasUp&",
+    "id": 102042,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "0",
+    "id": 10205,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "0",
+    "id": 10206,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "power_1_&10207_powerDown&",
+    "id": 102071,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 2,
+    "value": "attach_jnsc_power_&10207_rangeToDmg&_99999",
+    "id": 102072,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basWpAll_1_&10208_wpBasUp&",
+    "id": 10208,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basSpear_1_&10209_basSpearUp&",
+    "id": 10209,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "evade_1_&10301_prfDown&|msp_1_&10301_mspUp&",
+    "id": 10301,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "power_1_&10302_powerDown&|ddct_1_&10302_ddctUp&",
+    "id": 10302,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "power_1_&10303_powerDown&|evade_1_&10303_evadeUp&",
+    "id": 10303,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 2,
+    "value": "attach_basSword_msp_&10304_swordToSpeed&_99999",
+    "id": 103041,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basSword_1_&10304_swordBasUp&",
+    "id": 103042,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "0",
+    "id": 10305,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "0",
+    "id": 10306,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "0",
+    "id": 10307,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basSword_1_&10308_swordUp&",
+    "id": 10308,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "pfr_1_&10401_prfUp&|critV_1_&10401_evadeDown&",
+    "id": 10401,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "crit_1_&10402_critUp&|msp_1_&10402_mspDown&",
+    "id": 10402,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "hpMax_1_&10403_hpMaxUp&|jnsc_1_&10403_rangeDown&",
+    "id": 10403,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 2,
+    "value": "attach_basFist_crit_&10404_fistToCrit&_99999",
+    "id": 104041,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basFist_1_&10404_fistBasUp&",
+    "id": 104042,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "0",
+    "id": 10405,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "0",
+    "id": 10406,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "msp_1_&10407_mspDown&",
+    "id": 10407,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basFist_1_&10408_basUp&|basPalm_1_&10408_basUp&|basFinger_1_&10408_basUp&",
+    "id": 10408,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "hpRestore_1_&10409_hpRestoreDown&|hpSuckV_1_&10409_hpSuckVDown&",
+    "id": 10409,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 5,
+    "value": "everyEndStageStatus_1_&10411_shieldC&_shield_&10411_manaStoneMax&_&10411_maxUp&",
+    "id": 10411,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "evade_1_&10501_evadeUp&|hpMax_1_&10501_agileDown&",
+    "id": 10501,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "msp_1_&10502_mspUp&|crit_1_&10502_critDown&",
+    "id": 10502,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "jncx_1_&10503_jncxDown&",
+    "id": 10503,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basPalm_1_&10504_palmBasUp&",
+    "id": 10504,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "0",
+    "id": 10505,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "0",
+    "id": 10506,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "0",
+    "id": 10507,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basPalm_1_&10508_palmUp&",
+    "id": 10508,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "critV_1_&10601_critVUp&|power_1_&10601_powerDown&",
+    "id": 10601,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "power_1_&10602_powerUp&|exp_1_&10602_jnfwDown&",
+    "id": 10602,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "0",
+    "id": 10603,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 2,
+    "value": "attach_basFinger_power_&10604_fingerToPower&_99999",
+    "id": 106041,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basFinger_1_&10604_fingerBasUp&",
+    "id": 106042,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "0",
+    "id": 10605,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "0",
+    "id": 10606,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 2,
+    "value": "attach_luck_power_&10607_luckToPower&_99999",
+    "id": 10607,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basFinger_1_&10608_fingerUp&|luck_1_&10608_luckUp&",
+    "id": 10608,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "power_1_&11101_dmgSum&",
+    "id": 11101,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 5,
+    "value": "nextStageTime_10",
+    "id": 111011,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "hpMax_1_&11102_hpSum&|zhgjsd_1_&11102_attSpeedSum&",
+    "id": 11102,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 5,
+    "value": "nextStageStatus_enemyPow_1_&11103_dmgUpSum&",
+    "id": 11103,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basFire_1_&11104_fireBasUp&",
+    "id": 11104,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "0",
+    "id": 11105,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "agile_1_&11106_speedSum&",
+    "id": 11106,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "power_1_&11107_lostDmg&",
+    "id": 11107,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basFire_1_&11108_fire&|basFroze_1_&11108_water&",
+    "id": 11108,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "0",
+    "id": 11109,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "0",
+    "id": 11110,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "power_1_&11111_power&|luck_1_&11111_luck&",
+    "id": 11111,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "power_1_&11112_power&|evade_1_&11112_evade&",
+    "id": 11112,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "jncx_1_&11113_jncx&|power_1_&11113_power&",
+    "id": 11113,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "power_1_&11114_power&|pfr_1_&11114_pfr&",
+    "id": 11114,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "hpMax_1_&11115_hp&",
+    "id": 11115,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "hpMax_1_&11116_hp&",
+    "id": 11116,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "0",
+    "id": 11201,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "hpRestore_1_&11202_hpBack&|evade_1_&11202_mspSum&",
+    "id": 11202,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "0",
+    "id": 11203,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 2,
+    "value": "attach_basFroze_hpRestore_&11204_hpBack|/11204_water|f2&_99999",
+    "id": 112041,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basFroze_1_&11204_frozeBasUp&",
+    "id": 112042,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "pfr_1_&11205_pfr&",
+    "id": 11205,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "0",
+    "id": 11206,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 2,
+    "value": "attach_hpMax_hpRestore_&11207_hpBack|/11207_hpMax|f2&_99999",
+    "id": 11207,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basMgAll_1_&11208_allSum&",
+    "id": 11208,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "0",
+    "id": 11209,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "0",
+    "id": 11210,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "0",
+    "id": 11211,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "0",
+    "id": 11212,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "jnfw_1_&11213_one&|power_1_&11213_two&",
+    "id": 11213,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "jncx_1_&11214_one&|crit_1_&11214_two&",
+    "id": 11214,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "power_1_&11215_one&|hpMax_1_&11215_two&",
+    "id": 11215,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "pfr_1_&11301_pfr&",
+    "id": 11301,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "agile_1_&11302_msp&|pfr_1_&11302_pfr&",
+    "id": 11302,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "0",
+    "id": 11303,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 2,
+    "value": "attach_basThunder_agile_&11304_mspUp|/11304_lighting|f2&_99999",
+    "id": 113041,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basThunder_1_&11304_thunderBasUp&",
+    "id": 113042,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "0",
+    "id": 11305,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "0",
+    "id": 11306,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "agile_1_&11307_agile&",
+    "id": 11307,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 2,
+    "value": "attach_msp_agile_0.1_99999",
+    "id": 113071,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "crit_1_&11309_crit&|power_1_&11309_power&",
+    "id": 11309,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "crit_1_&11310_crit&|pfr_1_&11310_power&",
+    "id": 11310,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "power_1_&11311_power&|jnfw_1_&11311_jnfw&",
+    "id": 11311,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "power_1_&11312_power&|jnsc_1_&11312_jnsc&",
+    "id": 11312,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "jnsc_1_&11313_power&|enemyMsp_1_&11313_enemyMsp&",
+    "id": 11313,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "power_1_&11314_power&|enemyPow_1_&11314_enemyPow&",
+    "id": 11314,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "jnfw_1_&11315_power&|agile_1_&11315_agile&",
+    "id": 11315,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "msp_1_&11316_hpSuck&|hpRestore_1_&11316_hpRestore&",
+    "id": 11316,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "agile_1_&11317_power&|pfr_1_&11317_pfr&",
+    "id": 11317,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "power_1_&11318_power&|evade_1_&11318_evade&",
+    "id": 11318,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "0",
+    "id": 11319,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "0",
+    "id": 11320,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "0",
+    "id": 11321,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "0",
+    "id": 11322,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "critV_1_&11323_critV&",
+    "id": 11323,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 5,
+    "value": "actToStatus_6_1_crit_1_&11323_critUp&_100&",
+    "id": 113231,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basThunder_1_&11308_lighting&",
+    "id": 11308,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "evade_1_&11401_evade&|crit_1_&11401_pfr&",
+    "id": 11401,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "0",
+    "id": 11402,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "jncx_1_&11403_jncx&",
+    "id": 11403,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 2,
+    "value": "attach_basWind_evade_&11404_jncx|/11404_wind|f2&_99999",
+    "id": 114041,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basWind_1_&11405_windBasUp&",
+    "id": 114042,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "power_1_&11405_dmg&",
+    "id": 11405,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 2,
+    "value": "attach_pfr_power_-1_99999",
+    "id": 114051,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 2,
+    "value": "attachRe_pfr_power_1_99999",
+    "id": 114052,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "0",
+    "id": 11406,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "0",
+    "id": 11407,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basWind_1_&11408_wind&|basThunder_1_&11408_lighting&|basFire_1_&11408_fire&",
+    "id": 11408,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "hpMax_1_&11409_hpMax&|evade_1_&11409_evade&",
+    "id": 11409,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "evade_1_&11410_evade&|pfr_1_&11410_pfr&",
+    "id": 11410,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 2,
+    "value": "attach_evade_zhsh_1_99999",
+    "id": 11411,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "msp_1_&11412_agile&|zhgjsd_1_&11412_zhgjsd&",
+    "id": 11412,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "msp_1_&11413_agile&|zhgjsd_1_&11413_zhgjsd&",
+    "id": 11413,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "exp_1_&11414_agile&|zhgjsd_1_&11414_zhgjsd&",
+    "id": 11414,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "agile_1_&11415_agile&|msp_1_&11415_msp&",
+    "id": 11415,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "hpRestore_1_&11416_hpMax&|evade_1_&11416_evade&",
+    "id": 11416,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "0",
+    "id": 11417,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "0",
+    "id": 11418,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "0",
+    "id": 11419,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "0",
+    "id": 11420,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 5,
+    "value": "actToStatus_2_1_hpMax_1_&11421_hpMax&_&11421_hpMaxEnd&",
+    "id": 11421,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "0",
+    "id": 11422,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "0",
+    "id": 11423,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "0",
+    "id": 11424,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "luck_1_&11425_agile&|msp_1_&11425_msp&",
+    "id": 11425,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "pfr_1_&11426_agile&|msp_1_&11426_msp&",
+    "id": 11426,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "power_1_&11501_dmg&|zhsj_1_&11501_zhsj&",
+    "id": 11501,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "pfr_1_&11502_pfr&|msp_1_&11502_msp&",
+    "id": 11502,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "0",
+    "id": 11503,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 2,
+    "value": "attach_basEarth_pfr_&11504_pfr|/11504_stone|f1&_999",
+    "id": 115041,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basEarth_1_&11504_earthBasUp&",
+    "id": 115042,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "jnfw_1_&11505_msp&",
+    "id": 11505,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "0",
+    "id": 11506,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "0",
+    "id": 11507,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basEarth_1_&11508_stone&|basWood_1_&11508_green&|basFroze_1_&11508_water&",
+    "id": 11508,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "power_1_&11601_dmg&",
+    "id": 11601,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "0",
+    "id": 11602,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "crit_1_&11603_crit&|zhsh_1_&11603_zhsh&",
+    "id": 11603,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 2,
+    "value": "attach_basWood_hpMax_&11604_hpMax|/11604_green|f2&_99999",
+    "id": 116041,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basWood_1_&11604_woodBasUp&",
+    "id": 116042,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "0",
+    "id": 11605,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "0",
+    "id": 11606,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "0",
+    "id": 11607,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basMgAll_1_&11608_allTwo&",
+    "id": 11608,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "0",
+    "id": 11609,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "msp_1_&11612_one&",
+    "id": 11612,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basBlade_1_&20101_bladeUp&",
+    "id": 20101,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "hpRestore_1_&20102_hpRestoreDown&",
+    "id": 20102,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basSpear_1_&20201_spearUp&",
+    "id": 20201,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basSpear_1_&20202_mgBasDown&",
+    "id": 20203,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basSword_1_&20301_swordUp&",
+    "id": 20301,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "0",
+    "id": 20302,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basFist_1_&20401_fistUp&",
+    "id": 20401,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "0",
+    "id": 20402,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basPalm_1_&20501_palmUp&",
+    "id": 20501,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "0",
+    "id": 20502,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basFinger_1_&20501_palmUp&",
+    "id": 20601,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "0",
+    "id": 20602,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "jncx_1_&20604_jncx&",
+    "id": 20604,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basFire_1_&21101_fire&",
+    "id": 21101,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "0",
+    "id": 21102,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basFroze_1_&21201_water&",
+    "id": 21201,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "0",
+    "id": 21202,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basThunder_1_&21301_lighting&",
+    "id": 21301,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "0",
+    "id": 21302,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basWind_1_&21401_wind&",
+    "id": 21401,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "0",
+    "id": 21402,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basEarth_1_&21501_stone&",
+    "id": 21501,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "0",
+    "id": 21502,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basWood_1_&21601_wood&",
+    "id": 21601,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "0",
+    "id": 21602,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "exp_1_&30101_expUp&|hpMax_1_&30101_luckDown&",
+    "id": 30101,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "exp_1_&30102_expUp&",
+    "id": 30102,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "luck_1_&30103_luckUp&",
+    "id": 30103,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "luck_1_&30104_luckUp&|power_1_&30104_powerDown&",
+    "id": 30104,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "luck_1_&30105_luckUp&|hpMax_1_&30105_mspDown&",
+    "id": 30105,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "prg_1_&30106_prgUp&",
+    "id": 30106,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "prg_1_&30107_prgUp&",
+    "id": 30107,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "prg_1_&30108_prgUp&|evade_1_&30108_evadeDown&",
+    "id": 30108,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "prg_1_&30109_prgUp&|msp_1_&30109_mspUp&",
+    "id": 30109,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "storeRefresh_1_&30110_storeRefreshUp&",
+    "id": 30110,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 5,
+    "value": "nextStoreRefreshFree",
+    "id": 301101,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "jarRefresh_1_&30111_jarRefreshUp&",
+    "id": 30111,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "enemyCount_1_&30112_enemyCountUp&|power_1_&30112_powerUp&",
+    "id": 30112,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "enemyMsp_1_&30113_enemyMspUp&|msp_1_&30113_mspUp&",
+    "id": 30113,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "enemyPow_1_&30114_enemyPowUp&|enemyMaxhpFix_1_&30114_enemyMaxhpFixDown&",
+    "id": 30114,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "enemyPow_1_&30115_enemyPowUp&|luck_1_&30115_luckUp&",
+    "id": 30115,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 5,
+    "value": "exp_0_&30116_expGain&_&30116_expGain&",
+    "id": 30116,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "hpMax_1_&30117_hpMaxUp&",
+    "id": 301171,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 5,
+    "value": "bonusMonst_10501_10502_10503_10505_10507_10508_10509_10510_10511_&30117_extraEliteEnemy&",
+    "id": 301172,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 5,
+    "value": "money_1_&30118_manaStone&_&30118_manaStone&",
+    "id": 301181,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 5,
+    "value": "nextStageStatus_hp_1_&30118_hpLeft&",
+    "id": 301182,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 5,
+    "value": "everyEndStageCharaStatus_1_0_&30119_manaStoneUp&",
+    "id": 30119,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 5,
+    "value": "everyEndStageCharaStatus_2_0_&30120_expUp&",
+    "id": 30120,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 5,
+    "value": "everyEndStageCharaStatus_power_1_&30121_poweUp&",
+    "id": 301211,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 5,
+    "value": "everyEndStageCharaStatus_msp_1_&30121_mspUp&",
+    "id": 301212,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "hpMax_1_&30122_hpMaxUp&",
+    "id": 30122,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "power_1_&30123_powerUp&",
+    "id": 30123,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "power_1_&30124_powerUp&",
+    "id": 30124,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "pfr_1_&30125_prfUp&",
+    "id": 30125,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "agile_1_&30126_agileUp&",
+    "id": 30126,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "crit_1_&30127_critUp&",
+    "id": 30127,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "critV_1_&30128_critVUp&",
+    "id": 30128,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "msp_1_&30129_mspUp&",
+    "id": 30129,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "luck_1_&30130_luckUp&",
+    "id": 30130,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "zhsh_1_&30131_zhshUp&",
+    "id": 30131,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "zhsj_1_&30132_zhsjUp&",
+    "id": 30132,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "jnfw_1_&30133_jnfwUp&",
+    "id": 30133,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "jncx_1_&30134_jncxUp&",
+    "id": 30134,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basBlade_1_&30135_basBladeUp&",
+    "id": 30135,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basBlade_1_&30136_basBladeUp&",
+    "id": 30136,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basSpear_1_&30137_basSpearUp&",
+    "id": 30137,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basSpear_1_&30138_basSpearUp&",
+    "id": 30138,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basSword_1_&30139_basSwordUp&",
+    "id": 30139,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basSword_1_&30140_basSwordUp&",
+    "id": 30140,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basFist_1_&30141_basFistUp&",
+    "id": 30141,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basFist_1_&30142_basFistUp&",
+    "id": 30142,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basPalm_1_&30143_basPalmUp&",
+    "id": 30143,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basPalm_1_&30144_basPalmUp&",
+    "id": 30144,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basFinger_1_&30145_basFingerUp&",
+    "id": 30145,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basFinger_1_&30146_basFingerUp&",
+    "id": 30146,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basFire_1_&30147_basFireUp&",
+    "id": 30147,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basFire_1_&30148_basFireUp&",
+    "id": 30148,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basFroze_1_&30149_basFrozeUp&",
+    "id": 30149,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basFroze_1_&30150_basFrozeUp&",
+    "id": 30150,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basThunder_1_&30151_basThunderUp&",
+    "id": 30151,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basThunder_1_&30152_basThunderUp&",
+    "id": 30152,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basWind_1_&30153_basWindUp&",
+    "id": 30153,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basWind_1_&30154_basWindUp&",
+    "id": 30154,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basEarth_1_&30155_basEarthUp&",
+    "id": 30155,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basEarth_1_&30156_basEarthUp&",
+    "id": 30156,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basWood_1_&30157_basWoodUp&",
+    "id": 30157,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basWood_1_&30158_basWoodUp&",
+    "id": 30158,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "hpMax_1_&30159_hpMaxUp&|power_1_&30159_mspDonw&",
+    "id": 30159,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "hpMax_1_&30160_hpMaxUp&|luck_1_&30160_luckDonw&",
+    "id": 30160,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "hpMax_1_&30161_hpMaxUp&|jnfw_1_&30161_jnfwUp&",
+    "id": 30161,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "hpMax_1_&30162_hpMaxUp&|luck_1_&30162_zhshDown&",
+    "id": 30162,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "hpMax_1_&30163_hpMaxUp&",
+    "id": 30163,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "hpMax_1_&30164_hpMaxUp&|crit_1_&30164_pfrDown&",
+    "id": 30164,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "hpMax_1_&30165_hpMaxUp&|evade_1_&30165_evadeUp&",
+    "id": 30165,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "hpMax_1_&30166_hpMaxUp&|jncx_1_&30166_jncxUp&",
+    "id": 30166,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "hpMax_1_&30167_hpMaxUp&",
+    "id": 30167,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "hpMax_1_&30168_hpMaxUp&|evade_1_&30168_evadeDown&",
+    "id": 30168,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "hpMax_1_&30169_hpMaxUp&|critV_1_&30169_hpRestoreDown&",
+    "id": 30169,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "hpMax_1_&30170_hpMaxUp&|agile_1_&30170_agileUp&",
+    "id": 30170,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basFist_1_&100010_basUp&_basPalm_1_&100010_basUp&|basFinger_1_&100010_basUp&",
+    "id": 100010,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basBlade_1_&100011_basUp&|basSword_1_&100011_basUp&|basSpear_1_&100011_basUp&",
+    "id": 100011,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basWind_1_&100012_basUp&|basThunder_1_&100012_basUp&",
+    "id": 100012,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basEarth_1_&100013_basUp&|basFire_1_&100013_basUp&",
+    "id": 100013,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basFroze_1_&100014_basUp&|basWood_1_&100014_basUp&",
+    "id": 100014,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "power_1_&700050_powerDown&",
+    "id": 100016,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basEarth_1_&100019_basUp&|basWood_1_&100019_basUp&",
+    "id": 100019,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "msp_0_&100022_mspUp&",
+    "id": 100022,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basSword_1_&100030_basUp&",
+    "id": 100030,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "jnfw_1_&100031_jnfwUp&",
+    "id": 100031,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basBlade_1_&400001_basUp&|basSpear_1_&400001_basUp2&",
+    "id": 400001,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basBlade_1_&400002_basUp&|basSword_1_&400002_basUp3&",
+    "id": 400002,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basSpear_1_&400003_basUp2&|basSword_1_&400003_basUp3&",
+    "id": 400003,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basBlade_1_&400004_basUp&",
+    "id": 400004,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basSpear_1_&400005_basUp2&",
+    "id": 400005,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basSword_1_&400006_basUp3&",
+    "id": 400006,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basFist_1_&400007_basUp&|basPalm_1_&400007_basUp2&",
+    "id": 400007,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basFist_1_&400008_basUp&|basFinger_1_&400008_basUp2&",
+    "id": 400008,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basFinger_1_&400009_basUp3&|basPalm_1_&400009_basUp2&",
+    "id": 400009,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basFist_1_&400010_basUp&",
+    "id": 400010,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basPalm_1_&400011_basUp2&",
+    "id": 400011,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basFinger_1_&400012_basUp3&",
+    "id": 400012,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basFire_1_&400013_basUp&|basFroze_1_&400013_basUp2&",
+    "id": 400013,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basThunder_1_&400014_basUp3&|basFire_1_&400014_basUp&",
+    "id": 400014,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basThunder_1_&400015_basUp3&|basFroze_1_&400015_basUp2&",
+    "id": 400015,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basFire_1_&400016_basUp&",
+    "id": 400016,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basFroze_1_&400017_basUp2&",
+    "id": 400017,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basThunder_1_&400018_basUp3&",
+    "id": 400018,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basWind_1_&400019_basUp&|basEarth_1_&400019_basUp2&",
+    "id": 400019,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basWind_1_&400020_basUp&|basWood_1_&400020_basUp3&",
+    "id": 400020,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basWood_1_&400021_basUp3&|basEarth_1_&400021_basUp2&",
+    "id": 400021,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basWind_1_&400022_basUp&",
+    "id": 400022,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basEarth_1_&400023_basUp2&",
+    "id": 400023,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basWood_1_&400024_basUp3&",
+    "id": 400024,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "luck_1_&400025_luckUp&",
+    "id": 400025,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "jnsc_1_&400026_jnsc&",
+    "id": 400026,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "agile_1_&400027_agile&",
+    "id": 400027,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "hpMax_1_&400029_hpMaxUp&|hpRestore_1_&400029_hpRestoreUp&|pfr_1_&400029_pfrUp&",
+    "id": 400029,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "power_1_&400030_powerUp&|agile_1_&400030_agileUp&|msp_1_&400030_mspUp&",
+    "id": 400030,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "crit_1_&400031_critUp&|critV_1_&400031_critVUp&|evade_1_&400031_evadeUp&",
+    "id": 400031,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "luck_1_&400032_luckUp&",
+    "id": 400032,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "hpMax_1_&400033_hpMaxUp&|power_1_&400033_powerUp&",
+    "id": 400033,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "hpMax_1_&400034_hpMaxUp&|msp_1_&400034_mspUp&",
+    "id": 400034,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "power_1_&400035_powerUp&|msp_1_&400035_mspUp&",
+    "id": 400035,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "hpMax_1_&400036_hpMaxUp&",
+    "id": 400036,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "power_1_&400037_powerUp&",
+    "id": 400037,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "msp_1_&400038_mspUp&",
+    "id": 400038,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "hpRestore_1_&400039_hpRestoreUp&|agile_1_&400039_agileUp&",
+    "id": 400039,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "hpRestore_1_&400040_hpRestoreUp&|critV_1_&400040_critVUp&",
+    "id": 400040,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "agile_1_&400041_agileUp&|critV_1_&400041_critVUp&",
+    "id": 400041,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "hpRestore_1_&400042_hpRestoreUp&",
+    "id": 400042,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "agile_1_&400043_agileUp&",
+    "id": 400043,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "critV_1_&400044_critVUp&",
+    "id": 400044,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "pfr_1_&400045_pfrUp&|evade_1_&400045_evadeUp&",
+    "id": 400045,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "pfr_1_&400046_pfrUp&|crit_1_&400046_critUp&",
+    "id": 400046,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "evade_1_&400047_evadeUp&|crit_1_&400047_critUp&",
+    "id": 400047,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "pfr_1_&400048_pfrUp&",
+    "id": 400048,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "evade_1_&400049_evadeUp&",
+    "id": 400049,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "crit_1_&400050_critUp&",
+    "id": 400050,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "hpMax_1_&400051_hpMaxUp&",
+    "id": 400051,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "hpRestore_1_&400052_hpRestoreUp&",
+    "id": 400052,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "pfr_1_&400053_pfrUp&",
+    "id": 400053,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "power_1_&400054_powerUp&",
+    "id": 400054,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "agile_1_&400055_agileUp&",
+    "id": 400055,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "msp_1_&400056_mspUp&",
+    "id": 400056,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "crit_1_&400057_critUp&",
+    "id": 400057,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "critV_1_&400058_critVUp&",
+    "id": 400058,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "evade_1_&400059_evadeUp&",
+    "id": 400059,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "hpMax_1_&400060_hpMaxUp&|hpRestore_1_&400060_hpRestoreUp&|pfr_1_&400060_pfrUp&",
+    "id": 400060,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "power_1_&400061_powerUp&|agile_1_&400061_agileUp&|msp_1_&400061_mspUp&",
+    "id": 400061,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "crit_1_&400062_critUp&|critV_1_&400062_critVUp&|evade_1_&400062_evadeUp&",
+    "id": 400062,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "jnfw_1_&400063_jnfwUp&",
+    "id": 400063,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "jncx_1_&400064_jncxUp&",
+    "id": 400064,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "jnsc_1_&400065_jnscUp&",
+    "id": 400065,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "zhsh_1_&400066_zhshUp&",
+    "id": 400066,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "zhsj_1_&400067_zhsjUp&",
+    "id": 400067,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "zhgjsd_1_&400068_zhgjsdUp&",
+    "id": 400068,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "jnfw_1_&400069_jnfwUp&",
+    "id": 400069,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "jncx_1_&400070_jncxUp&",
+    "id": 400070,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "jnsc_1_&400071_jnscUp&",
+    "id": 400071,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "zhsh_1_&400072_zhshUp&",
+    "id": 400072,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "zhsj_1_&400073_zhsjUp&",
+    "id": 400073,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "zhgjsd_1_&400074_zhgjsdUp&",
+    "id": 400074,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "jnfw_1_&400075_jnfwUp&|jncx_1_&400075_jncxUp&",
+    "id": 400075,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "jnfw_1_&400076_jnfwUp&|jnsc_1_&400076_jnscUp&",
+    "id": 400076,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "jncx_1_&400077_jncxUp&|jnsc_1_&400077_jnscUp&",
+    "id": 400077,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "zhsh_1_&400078_zhshUp&|zhsj_1_&400078_zhsjUp&",
+    "id": 400078,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "zhsh_1_&400079_zhshUp&|zhgjsd_1_&400079_zhgjsdUp&",
+    "id": 400079,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "zhsj_1_&400080_zhsjUp&|zhgjsd_1_&400080_zhgjsdUp&",
+    "id": 400080,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "hpMax_1_&410001_carrotHp&",
+    "id": 410001,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "agile_1_&410004_agileUp&",
+    "id": 410004,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "exp_1_&410006_expUp&",
+    "id": 410006,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 5,
+    "value": "nextStageEffectItem_4100071_4100072",
+    "id": 410007,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "luck_1_&41201_luckUp&|hpSuckV_1_&41201_hpSuckVDown&",
+    "id": 2010001,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 5,
+    "value": "attrEffectiveRate_luck_&41202_luckFix&",
+    "id": 20100021,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 5,
+    "value": "attrEffectiveRate_hpRestore_&41202_hpRestoreFix&",
+    "id": 20100022,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "power_1_&42201_powerDown&",
+    "id": 20200011,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 5,
+    "value": "attach_basMg_zhsh_&42201_basToZhsh&_99999",
+    "id": 20200012,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basWood_1_&42202_basUp&|basEarth_1_&42202_basUp&",
+    "id": 2020002,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 5,
+    "value": "attrEffectiveRate_zhsh_&42102_zhshFix&",
+    "id": 20200031,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 5,
+    "value": "attrEffectiveRate_power_&42102_powerFix&",
+    "id": 20200032,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "hpRestore_1_&42102_hpRestoreUp&|luck_1_&42102_luckDown&",
+    "id": 2020004,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "jnsc_1_&43201_rangeUp&",
+    "id": 20300011,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 5,
+    "value": "attrEffectiveRate_jnsc_&43201_jnscFix&",
+    "id": 20300012,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "exp_1_&43201_expDown&",
+    "id": 20300013,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "basAll_1_&44101_basAllUp&|zhsj_1_&44101_zhsjDown&",
+    "id": 2040001,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 5,
+    "value": "attrEffectiveRate_jncx_&44101_jncxFix&",
+    "id": 20400021,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "exp_1_&44101_expUp&",
+    "id": 20400022,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "0",
+    "id": 2050001,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 5,
+    "value": "attrEffectiveRate_power_&45101_powerFix&",
+    "id": 2050002,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 5,
+    "value": "attrEffectiveRate_msp_&46101_mspFix&",
+    "id": 2060001,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "evade_1_&21011_evadeSumTwo&|msp_1_&21011_speedSum&",
+    "id": 211001,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 5,
+    "value": "attrEffectiveRate_pfr_&21011_hpMaxProb&",
+    "id": 211002,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "zhsh_1_&21011_zhshSum&",
+    "id": 2110021,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "0",
+    "id": 212001,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 5,
+    "value": "attrEffectiveRate_evade_&21012_evadeProb&",
+    "id": 212002,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "msp_1_&210131_speed&|basMgAll_1_&210131_bas&",
+    "id": 213001,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "storeDiscount_1_&210132_price&|storeRefreshDiscount_1_&210132_price&",
+    "id": 213002,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "0",
+    "id": 214001,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "hpMax_1_&210142_hpMax&",
+    "id": 214002,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 5,
+    "value": "attrEffectiveRate_basAll_&210142_efficiency&",
+    "id": 2140021,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "msp_1_&215001_speed&",
+    "id": 215001,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "0",
+    "id": 215002,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "exp_1_&216001_exp&",
+    "id": 216001,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 5,
+    "value": "attrMaxValue_critV_&216001_critVBig&",
+    "id": 216002,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 5,
+    "value": "attrEffectiveRate_agile_&21017_xiuzhenglv&",
+    "id": 217001,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "effectType": 6,
+    "value": "evade_1_&21017_evade&",
+    "id": 217002,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

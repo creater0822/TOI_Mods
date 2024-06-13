@@ -1,0 +1,22 @@
+[
+  {
+    "id": "701212517",
+    "area": "0",
+    "grade": "0",
+    "sortType": "0",
+    "sortPara": "0",
+    "condition1": "xxDistancePosition_0_1_0_1|gender_1_2|or|feature_1_527000001|feature_1_527000002|feature_1_527000003|feature_1_527000004|feature_1_527000005|feature_1_527000006",
+    "save": "1",
+    "raceType": "1"
+  },
+  {
+    "id": "1039150256",
+    "area": "0",
+    "grade": "0",
+    "sortType": "2",
+    "sortPara": "1",
+    "condition1": "feature_1_-541655652",
+    "save": "0",
+    "raceType": "1"
+  }
+]

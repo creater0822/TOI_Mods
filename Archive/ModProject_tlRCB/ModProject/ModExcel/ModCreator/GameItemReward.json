@@ -1,0 +1,52 @@
+[
+  {
+    "id": "-2041491204",
+    "rewardID": "2098520493",
+    "numMin": "1",
+    "numMax": "1",
+    "condition": "0",
+    "itemType": "1",
+    "item": "-533659860",
+    "weight": "1"
+  },
+  {
+    "id": "-565704480",
+    "rewardID": "2098520493",
+    "numMin": "2",
+    "numMax": "2",
+    "condition": "0",
+    "itemType": "1",
+    "item": "-533659860",
+    "weight": "1"
+  },
+  {
+    "id": "-814609337",
+    "rewardID": "-836097051",
+    "numMin": "1",
+    "numMax": "1",
+    "condition": "0",
+    "itemType": "1",
+    "item": "3031108",
+    "weight": "1"
+  },
+  {
+    "id": "-178747300",
+    "rewardID": "-836097051",
+    "numMin": "1",
+    "numMax": "1",
+    "condition": "0",
+    "itemType": "2",
+    "item": "-171800558",
+    "weight": "1"
+  },
+  {
+    "id": "-1799167868",
+    "rewardID": "-2061566161",
+    "numMin": "1",
+    "numMax": "1",
+    "condition": "0",
+    "itemType": "1",
+    "item": "3031108",
+    "weight": "1"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "dramaType": 1,
+    "condition": "0",
+    "playerIsKiller": 0,
+    "npcBlessDramaId": 6469101,
+    "weight": 10000,
+    "killerAgreeDrama": 6469111,
+    "killerRefuseDrama": 6469121,
+    "id": 1001,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dramaType": 1,
+    "condition": "0",
+    "playerIsKiller": 1,
+    "npcBlessDramaId": 6469102,
+    "weight": 10000,
+    "killerAgreeDrama": 6469111,
+    "killerRefuseDrama": 6469121,
+    "id": 1002,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dramaType": 2,
+    "condition": "0",
+    "playerIsKiller": 0,
+    "npcBlessDramaId": 6469201,
+    "weight": 10000,
+    "killerAgreeDrama": 6469211,
+    "killerRefuseDrama": 6469221,
+    "id": 2001,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dramaType": 2,
+    "condition": "0",
+    "playerIsKiller": 1,
+    "npcBlessDramaId": 6469202,
+    "weight": 10000,
+    "killerAgreeDrama": 6469211,
+    "killerRefuseDrama": 6469221,
+    "id": 2002,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dramaType": 3,
+    "condition": "0",
+    "playerIsKiller": 0,
+    "npcBlessDramaId": 6469301,
+    "weight": 10000,
+    "killerAgreeDrama": 6469311,
+    "killerRefuseDrama": 6469321,
+    "id": 3001,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dramaType": 3,
+    "condition": "0",
+    "playerIsKiller": 1,
+    "npcBlessDramaId": 6469302,
+    "weight": 10000,
+    "killerAgreeDrama": 6469311,
+    "killerRefuseDrama": 6469321,
+    "id": 3002,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dramaType": 4,
+    "condition": "0",
+    "playerIsKiller": 0,
+    "npcBlessDramaId": 6469401,
+    "weight": 10000,
+    "killerAgreeDrama": 6469411,
+    "killerRefuseDrama": 6469421,
+    "id": 4001,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dramaType": 4,
+    "condition": "0",
+    "playerIsKiller": 1,
+    "npcBlessDramaId": 6469402,
+    "weight": 10000,
+    "killerAgreeDrama": 6469411,
+    "killerRefuseDrama": 6469421,
+    "id": 4002,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

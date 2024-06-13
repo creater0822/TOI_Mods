@@ -1,0 +1,16 @@
+[
+  {
+    "key": "ImmortalStoreDialogue",
+    "value": 8005118,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "DrawLotDialogue",
+    "value": 8005137,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

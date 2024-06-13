@@ -1,0 +1,32 @@
+[
+  {
+    "key": "attTacticScope",
+    "value": [
+      71,
+      1000000
+    ],
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "cautiousTacticScope",
+    "value": [
+      31,
+      70
+    ],
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "defendTacticScope",
+    "value": [
+      0,
+      30
+    ],
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

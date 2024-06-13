@@ -1,0 +1,38 @@
+[
+  {
+    "name": "taskLevel1",
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "name": "taskLevel2",
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "name": "taskLevel3",
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "name": "taskLevel4",
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "name": "taskLevel5",
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "name": "taskLevel6",
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

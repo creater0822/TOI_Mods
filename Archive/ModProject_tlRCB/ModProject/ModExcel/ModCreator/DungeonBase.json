@@ -1,0 +1,28 @@
+[
+  {
+    "id": "1614143213",
+    "type": "20",
+    "typeDesc": "dungeon_typeDesc6",
+    "name": "HuAE4SgH",
+    "icon": "nvwa",
+    "unitBaseID": "0",
+    "eliteBaseID": "707478649",
+    "bossBaseID": "-17271803",
+    "totalPoint": "1",
+    "scaleBaseID": "1491712393",
+    "roomBaseID": "1778736445|1538174793",
+    "sceneBaseID": "1576851623|-1476152344",
+    "flee": "1",
+    "roomSpecial": "0",
+    "timeLimit": "-1",
+    "victory": "1",
+    "fail": "0",
+    "victoryDesc": "mod_shenglishuoming1",
+    "winFunction": "0",
+    "loseFunction": "0",
+    "dungeonEffect": "0",
+    "eliteWave": "0",
+    "setout": "1",
+    "dungeonLog": "0"
+  }
+]

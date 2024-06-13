@@ -1,0 +1,141 @@
+[
+  // Add option to kill the foolish cultivator that dares to rob your item
+  {
+    "id": "-12341101",
+    "key": "drama_option-80211321",
+    "ch": "<r>Decline and kill the fool</r>",
+    "tc": "<r>Decline and kill the fool</r>",
+    "en": "<r>Decline and kill the fool</r>"
+  },
+  {
+    "id": "-12340606",
+    "key": "drama_dialogue-8021133",
+    "ch": "Unfortunate fool, I would've spared your miserable life before that pathetic threat.\nBefore you've destroyed that item, <r>you're already dead!</r>",
+    "tc": "Unfortunate fool, I would've spared your miserable life before that pathetic threat.\nBefore you've destroyed that item, <r>you're already dead!</r>",
+    "en": "Unfortunate fool, I would've spared your miserable life before that pathetic threat.\nBefore you've destroyed that item, <r>you're already dead!</r>"
+  },
+  // Liangqu Answers
+  {
+    "id": "40717",
+    "key": "drama_option80003044",
+    "ch": "<b>黝黑发亮</b>",
+    "tc": "<b>黝黑髮亮</b>",
+    "en": "<b>Ebony</b>"
+  },
+  {
+    "id": "40721",
+    "key": "drama_option80003074",
+    "ch": "<b>高大威猛</b>",
+    "tc": "<b>高大威猛</b>",
+    "en": "<b>Brawny</b>"
+  },
+  // Shuangshuang answers
+  {
+    "id": "40740",
+    "key": "drama_option80006051",
+    "ch": "<b>我就多花了些时间</b>",
+    "tc": "<b>我就多花了些時間</b>",
+    "en": "<b>It took me a little longer</b>"
+  },
+  {
+    "id": "40743",
+    "key": "drama_option80006062",
+    "ch": "<b>如听一席话</b>",
+    "tc": "<b>如聽一席話</b>",
+    "en": "<b>I heard what you said</b>"
+  },
+  {
+    "id": "40745",
+    "key": "drama_option80006072",
+    "ch": "<b>如隔一周</b>",
+    "tc": "<b>如隔一周</b>",
+    "en": "<b>As if one week has passed</b>"
+  },
+  {
+    "id": "40746",
+    "key": "drama_option80006081",
+    "ch": "<b>拥有了突破羽化和登仙的能力</b>",
+    "tc": "<b>擁有了突破羽化和登仙的能力</b>",
+    "en": "<b>Acquired the ability to break through to Reborn and Transcendent</b>"
+  },
+  {
+    "id": "40749",
+    "key": "drama_option80006092",
+    "ch": "<b>前浪却被后浪推</b>",
+    "tc": "<b>前浪卻被後浪推</b>",
+    "en": "<b>The old will be surpassed by the new</b>"
+  },
+  {
+    "id": "40750",
+    "key": "drama_option80006101",
+    "ch": "<b>很有鱼味</b>",
+    "tc": "<b>很有魚味</b>",
+    "en": "<b>It tastes of fish</b>"
+  },
+  {
+    "id": "40753",
+    "key": "drama_option80006112",
+    "ch": "<b>五年磨半剑</b>",
+    "tc": "<b>五年磨半劍</b>",
+    "en": "<b>It took five years to forge half of the sword</b>"
+  },
+  {
+    "id": "40754",
+    "key": "drama_option80006121",
+    "ch": "<b>都是活的</b>",
+    "tc": "<b>都是活的</b>",
+    "en": "<b>All alive</b>"
+  },
+  {
+    "id": "40757",
+    "key": "drama_option80006132",
+    "ch": "<b>说明我有一个宗门</b>",
+    "tc": "<b>說明我有一個宗門</b>",
+    "en": "<b>It means I have a Sect</b>"
+  },
+  {
+    "id": "40758",
+    "key": "drama_option80006141",
+    "ch": "<b>说明我有一个仇人</b>",
+    "tc": "<b>說明我有一個仇人</b>",
+    "en": "<b>It means I have an enemy</b>"
+  },
+  {
+    "id": "40761",
+    "key": "drama_option80006152",
+    "ch": "<b>被你恭喜了</b>",
+    "tc": "<b>被你恭喜了</b>",
+    "en": "<b>Won your congratulation</b>"
+  },
+  // Injected dialogue to the Medic immortal
+  {
+    "id": "-12339898",
+    "key": "drama_dialogue-8001202",
+    "ch": "A Medic immortal that only tends to the wounded, but I'm far too strong for something that...\nMaybe I could practice pretending, in case I get into another situation where I want to act weak.",
+    "tc": "A Medic immortal that only tends to the wounded, but I'm far too strong for something that...\nMaybe I could practice pretending, in case I get into another situation where I want to act weak.",
+    "en": "A Medic immortal that only tends to the wounded, but I'm far too strong for something that...\nMaybe I could practice pretending, in case I get into another situation where I want to act weak."
+  },
+  // Injected dialogue Shadowslayer's gamble
+  {
+    "id": "-123340161",
+    "key": "drama_dialogue-8005212",
+    "ch": "Pathetic... Though who needs luck when absolute power exists.\nI'll just have to make her see a different picture.",
+    "tc": "Pathetic... Though who needs luck when absolute power exists.\nI'll just have to make her see a different picture.",
+    "en": "Pathetic... Though who needs luck when absolute power exists.\nI'll just have to make her see a different picture."
+  },
+  // Su Mobai answers
+  {
+    "id": "40859",
+    "key": "drama_option80041082",
+    "ch": "<b>略知一二</b>",
+    "tc": "<b>略知一二</b>",
+    "en": "<b>I know a little</b>"
+  },
+  {
+    "id": "40863",
+    "key": "drama_option80041152",
+    "ch": "<b>不分彼此</b>",
+    "tc": "<b>不分彼此</b>",
+    "en": "<b>They are integral parts of the game</b>"
+  }
+]

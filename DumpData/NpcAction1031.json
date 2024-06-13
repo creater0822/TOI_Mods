@@ -1,0 +1,51 @@
+[
+  {
+    "key": "searchRange",
+    "value": 30,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "matchScoreParaA",
+    "value": 3000,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "matchScoreParaB",
+    "value": -2,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "closeScorePara",
+    "value": 20,
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "scoreRequire",
+    "value": 2000,
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "firstMatchNum",
+    "value": 30,
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "weightMonth",
+    "value": 20,
+    "id": 7,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

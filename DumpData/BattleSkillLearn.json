@@ -1,0 +1,331 @@
+[
+  {
+    "key": "speedMin",
+    "value": 50,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "speedMax",
+    "value": 70,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "paraA",
+    "value": 2,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "paraB",
+    "value": 27,
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "turnMin",
+    "value": 100,
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "turnMax",
+    "value": 200,
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "distance",
+    "value": 1000,
+    "id": 7,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "paraC",
+    "value": 4000,
+    "id": 8,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "paraD",
+    "value": 1000,
+    "id": 9,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "paraE",
+    "value": 10000,
+    "id": 10,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "paraF",
+    "value": 10000,
+    "id": 11,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "speedTimesMin",
+    "value": 100,
+    "id": 12,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "speedTimesMax",
+    "value": 400,
+    "id": 13,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "sRangeMin",
+    "value": 30,
+    "id": 14,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "sRangeMax",
+    "value": 70,
+    "id": 15,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "timeBas",
+    "value": 9000,
+    "id": 16,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "timeAdd",
+    "value": 1000,
+    "id": 17,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "paraH",
+    "value": 15,
+    "id": 18,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "paraI",
+    "value": -20,
+    "id": 19,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "paraJ",
+    "value": 30,
+    "id": 20,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "paraK",
+    "value": 7,
+    "id": 21,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "paraL",
+    "value": 30,
+    "id": 22,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "paraM",
+    "value": 9,
+    "id": 23,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "paraN",
+    "value": 50,
+    "id": 24,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "paraP",
+    "value": 800,
+    "id": 25,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "probMin",
+    "value": 30,
+    "id": 26,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "probMax",
+    "value": 90,
+    "id": 27,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "initMoodCostMin",
+    "value": 5,
+    "id": 28,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "initMoodCostMax",
+    "value": 10,
+    "id": 29,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "missCostProb",
+    "value": 50,
+    "id": 30,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "moodCostLimited",
+    "value": 30,
+    "id": 31,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "expTimes1",
+    "value": 100,
+    "id": 32,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "expTimes2",
+    "value": 139,
+    "id": 33,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "expTimes3",
+    "value": 197,
+    "id": 34,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "expTimes4",
+    "value": 267,
+    "id": 35,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "expTimes5",
+    "value": 336,
+    "id": 36,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "expTimes6",
+    "value": 423,
+    "id": 37,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "expTimes7",
+    "value": 535,
+    "id": 38,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "expTimes8",
+    "value": 678,
+    "id": 39,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "expTimes9",
+    "value": 678,
+    "id": 40,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "expTimes10",
+    "value": 678,
+    "id": 41,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "scoreMin",
+    "value": 50,
+    "id": 42,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "speed1",
+    "value": 0,
+    "id": 43,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "speed2",
+    "value": 160,
+    "id": 44,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "speed3",
+    "value": 220,
+    "id": 45,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "speed4",
+    "value": 280,
+    "id": 46,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "speed5",
+    "value": 340,
+    "id": 47,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

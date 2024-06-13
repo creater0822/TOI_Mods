@@ -1,0 +1,23 @@
+[
+  {
+    "key": "weightLessPercent",
+    "value": 0,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "weightLessMin",
+    "value": 20,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "weightLessFixed",
+    "value": 1000,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

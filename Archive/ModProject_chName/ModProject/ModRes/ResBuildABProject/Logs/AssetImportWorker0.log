@@ -1,0 +1,1029 @@
+Using pre-set license
+Built from '2020.3/china_unity/release' branch; Version is '2020.3.9f1c1 (ef65345766d1) revision 15689012'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19044.2486; Version 2009; 64bit' Language: 'zh' Physical Memory: 98195 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.9f1c1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Project/immortal/trunk/immortal_code/GameClient/Mod/modFQA/资源修改教程/ResBuildABProject
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+61213
+Successfully changed project path to: D:/Project/immortal/trunk/immortal_code/GameClient/Mod/modFQA/资源修改教程/ResBuildABProject
+D:/Project/immortal/trunk/immortal_code/GameClient/Mod/modFQA/资源修改教程/ResBuildABProject
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 30.13 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.9f1c1 (ef65345766d1)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.9f1c1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Project/immortal/trunk/immortal_code/GameClient/Mod/modFQA/资源修改教程/ResBuildABProject/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1660 SUPER (ID=0x21c4)
+    Vendor:   
+    VRAM:     5992 MB
+    Driver:   31.0.15.1694
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.9f1c1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.9f1c1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.9f1c1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56168
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.9f1c1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.9f1c1/Editor/Data/PlaybackEngines/Switch/UnityEditor.Switch.Extensions.dll
+Registered in 0.002002 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 34.60 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.832 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000550 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.64 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.843 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+Refreshing native plugins compatible for Editor in 0.55 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1766 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.3 MB.
+System memory in use after: 84.4 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2213.
+Total: 2.353100 ms (FindLiveObjects: 0.358100 ms CreateObjectMapping: 0.040000 ms MarkObjects: 1.888300 ms  DeleteObjects: 0.065500 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/beijing.png
+  artifactKey: Guid(a7516f876edd8fc419e0cf897a08e070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beijing.png using Guid(a7516f876edd8fc419e0cf897a08e070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '884c9979cde46d5856a1c7fe43492c7b') in 0.104813 seconds
+  Import took 0.108017 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 85.925771 seconds.
+  path: Assets/Scripts/Effect/EffectCmdBase.cs
+  artifactKey: Guid(b682a16e29aa5774a9cace46b6b132b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/EffectCmdBase.cs using Guid(b682a16e29aa5774a9cace46b6b132b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '874f08f870b04b5d0681b9965cddf3b4') in 0.006014 seconds
+  Import took 0.009650 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.025008 seconds.
+  path: Assets/Scripts/Effect/EffectCmdBase.cs
+  artifactKey: Guid(b682a16e29aa5774a9cace46b6b132b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/EffectCmdBase.cs using Guid(b682a16e29aa5774a9cace46b6b132b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '874f08f870b04b5d0681b9965cddf3b4') in 0.001113 seconds
+  Import took 0.003333 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 291.835585 seconds.
+  path: Assets/Scripts/Effect/EffectCmdBase.cs
+  artifactKey: Guid(b682a16e29aa5774a9cace46b6b132b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/EffectCmdBase.cs using Guid(b682a16e29aa5774a9cace46b6b132b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5489e0c8c1eef8fa5cdb59b492c86e6a') in 0.001350 seconds
+  Import took 0.004416 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.947567 seconds.
+  path: Assets/Scripts/EffectAutoSortOrderCtrl.cs
+  artifactKey: Guid(d7d20c13bc2fdb540a38da9c489d6870) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/EffectAutoSortOrderCtrl.cs using Guid(d7d20c13bc2fdb540a38da9c489d6870) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4930909a62ed5978253bfb3cb4a087aa') in 0.001550 seconds
+  Import took 0.004373 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002946 seconds.
+  path: Assets/Scripts/EffectAutoSortOrderCtrl.cs
+  artifactKey: Guid(d7d20c13bc2fdb540a38da9c489d6870) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/EffectAutoSortOrderCtrl.cs using Guid(d7d20c13bc2fdb540a38da9c489d6870) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4930909a62ed5978253bfb3cb4a087aa') in 0.001300 seconds
+  Import took 0.003964 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.512575 seconds.
+  path: Assets/Scripts/Effect/EffectAutoSortOrderCtrl.cs
+  artifactKey: Guid(6b21cefe1e2bf3540b672ae848fdc429) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/EffectAutoSortOrderCtrl.cs using Guid(6b21cefe1e2bf3540b672ae848fdc429) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bd3e4b49e0fbaf27e839de9654279c1') in 0.001342 seconds
+  Import took 0.004297 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006313 seconds.
+  path: Assets/Scripts/Effect/EffectAutoSortOrderCtrl.cs
+  artifactKey: Guid(6b21cefe1e2bf3540b672ae848fdc429) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/EffectAutoSortOrderCtrl.cs using Guid(6b21cefe1e2bf3540b672ae848fdc429) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bd3e4b49e0fbaf27e839de9654279c1') in 0.001360 seconds
+  Import took 0.004657 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.576353 seconds.
+  path: Assets/Scripts/EffectLoopActivedBoxCtrl.cs
+  artifactKey: Guid(13df920f7cedede459c7f1e9ea36324a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/EffectLoopActivedBoxCtrl.cs using Guid(13df920f7cedede459c7f1e9ea36324a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e633d73a9efc043ab26030f516b19c39') in 0.001412 seconds
+  Import took 0.004634 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001253 seconds.
+  path: Assets/Scripts/EffectLoopActivedBoxCtrl.cs
+  artifactKey: Guid(13df920f7cedede459c7f1e9ea36324a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/EffectLoopActivedBoxCtrl.cs using Guid(13df920f7cedede459c7f1e9ea36324a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e633d73a9efc043ab26030f516b19c39') in 0.000925 seconds
+  Import took 0.002771 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.215194 seconds.
+  path: Assets/Scripts/Effect/EffectLoopActivedBoxCtrl.cs
+  artifactKey: Guid(db724a74178d9ab4c8e5c9d394ad50ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/EffectLoopActivedBoxCtrl.cs using Guid(db724a74178d9ab4c8e5c9d394ad50ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2318a1698d5d43274beec07fb912e2f9') in 0.001347 seconds
+  Import took 0.004351 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004908 seconds.
+  path: Assets/Scripts/Effect/EffectLoopActivedBoxCtrl.cs
+  artifactKey: Guid(db724a74178d9ab4c8e5c9d394ad50ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/EffectLoopActivedBoxCtrl.cs using Guid(db724a74178d9ab4c8e5c9d394ad50ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2318a1698d5d43274beec07fb912e2f9') in 0.001487 seconds
+  Import took 0.005104 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.145323 seconds.
+  path: Assets/Scripts/EffectUnitNodeCtrl.cs
+  artifactKey: Guid(23d920826e3072149811b4dc6c7ff439) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/EffectUnitNodeCtrl.cs using Guid(23d920826e3072149811b4dc6c7ff439) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca01c2d1913301b9450c338699c36cfd') in 0.001744 seconds
+  Import took 0.004458 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003313 seconds.
+  path: Assets/Scripts/EffectUnitNodeCtrl.cs
+  artifactKey: Guid(23d920826e3072149811b4dc6c7ff439) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/EffectUnitNodeCtrl.cs using Guid(23d920826e3072149811b4dc6c7ff439) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca01c2d1913301b9450c338699c36cfd') in 0.001477 seconds
+  Import took 0.004912 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.437428 seconds.
+  path: Assets/Scripts/Packages/EffectTraceTargetCtrl.cs
+  artifactKey: Guid(1a5225532bdd26b4ab753bd7ae729cbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Packages/EffectTraceTargetCtrl.cs using Guid(1a5225532bdd26b4ab753bd7ae729cbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '884c8696682e1cfa9d6cf15c249521b5') in 0.001362 seconds
+  Import took 0.003996 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005847 seconds.
+  path: Assets/Scripts/Packages/EffectTraceTargetCtrl.cs
+  artifactKey: Guid(1a5225532bdd26b4ab753bd7ae729cbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Packages/EffectTraceTargetCtrl.cs using Guid(1a5225532bdd26b4ab753bd7ae729cbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '884c8696682e1cfa9d6cf15c249521b5') in 0.001340 seconds
+  Import took 0.004846 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.318387 seconds.
+  path: Assets/Scripts/Effect/EffectTraceTargetCtrl.cs
+  artifactKey: Guid(9f7ce84611a8007439e5aa4e8e26d3b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/EffectTraceTargetCtrl.cs using Guid(9f7ce84611a8007439e5aa4e8e26d3b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f26271b67caf96ae07e99ada048852ec') in 0.001275 seconds
+  Import took 0.004237 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005748 seconds.
+  path: Assets/Scripts/Effect/EffectTraceTargetCtrl.cs
+  artifactKey: Guid(9f7ce84611a8007439e5aa4e8e26d3b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/EffectTraceTargetCtrl.cs using Guid(9f7ce84611a8007439e5aa4e8e26d3b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f26271b67caf96ae07e99ada048852ec') in 0.001123 seconds
+  Import took 0.003272 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.668628 seconds.
+  path: Assets/Scripts/Effect/EffectUnitHitCtrl.cs
+  artifactKey: Guid(0bea6a0c64ee56e47a6593ae2c0fc993) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/EffectUnitHitCtrl.cs using Guid(0bea6a0c64ee56e47a6593ae2c0fc993) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7bc00c892ae2479ccc87122629696d93') in 0.001776 seconds
+  Import took 0.005221 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004445 seconds.
+  path: Assets/Scripts/Effect/EffectUnitHitCtrl.cs
+  artifactKey: Guid(0bea6a0c64ee56e47a6593ae2c0fc993) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/EffectUnitHitCtrl.cs using Guid(0bea6a0c64ee56e47a6593ae2c0fc993) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7bc00c892ae2479ccc87122629696d93') in 0.001436 seconds
+  Import took 0.004806 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.058760 seconds.
+  path: Assets/Scripts/Effect
+  artifactKey: Guid(e9e8221d4edb99149accdc2209f1bfc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect using Guid(e9e8221d4edb99149accdc2209f1bfc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66ef0252e6846959d3c8cbae29100832') in 0.001830 seconds
+  Import took 0.005635 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.660601 seconds.
+  path: Assets/Scripts/Packages
+  artifactKey: Guid(261e042371e7ceb46a64b3a6b866ec8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Packages using Guid(261e042371e7ceb46a64b3a6b866ec8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3505998df7d6ebc66af146f0a78e3a16') in 0.001345 seconds
+  Import took 0.004051 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.526965 seconds.
+  path: Assets/Scripts/Packages/BarrierAlpha.cs
+  artifactKey: Guid(47cea5bf41cb2aa4685f24db4d1f7b9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Packages/BarrierAlpha.cs using Guid(47cea5bf41cb2aa4685f24db4d1f7b9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efd79c815c42e95cbf2e26e3b4c1d027') in 0.001701 seconds
+  Import took 0.004491 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000360 seconds.
+  path: Assets/Scripts/Packages/BarrierAlpha.cs
+  artifactKey: Guid(47cea5bf41cb2aa4685f24db4d1f7b9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Packages/BarrierAlpha.cs using Guid(47cea5bf41cb2aa4685f24db4d1f7b9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efd79c815c42e95cbf2e26e3b4c1d027') in 0.001541 seconds
+  Import took 0.004685 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.503920 seconds.
+  path: Assets/Scripts/Effect/EffectUnitNodeCtrl.cs
+  artifactKey: Guid(f45c94ffd22a88346a919e610f5cb953) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/EffectUnitNodeCtrl.cs using Guid(f45c94ffd22a88346a919e610f5cb953) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5779b82fe664b18c6f8a22732976985') in 0.001343 seconds
+  Import took 0.004385 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002221 seconds.
+  path: Assets/Scripts/Effect/EffectUnitNodeCtrl.cs
+  artifactKey: Guid(f45c94ffd22a88346a919e610f5cb953) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/EffectUnitNodeCtrl.cs using Guid(f45c94ffd22a88346a919e610f5cb953) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5779b82fe664b18c6f8a22732976985') in 0.000883 seconds
+  Import took 0.002623 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 85.411831 seconds.
+  path: Assets/Scripts/Effect/EffectUIScribblesCtrl.cs
+  artifactKey: Guid(c31d7d234ee66e042bd89ee25fa18187) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/EffectUIScribblesCtrl.cs using Guid(c31d7d234ee66e042bd89ee25fa18187) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000257 seconds
+  ERROR: Build asset version error: assets/scripts/effect/effectuiscribblesctrl.cs in SourceAssetDB has modification time of '2023-02-01T13:21:29.3612511Z' while content on disk has modification time of '2023-02-09T04:03:24.2263498Z'
+  Import took 0.002474 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003763 seconds.
+  path: Assets/Scripts/Effect/EffectUIScribblesCtrl.cs
+  artifactKey: Guid(c31d7d234ee66e042bd89ee25fa18187) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/EffectUIScribblesCtrl.cs using Guid(c31d7d234ee66e042bd89ee25fa18187) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000255 seconds
+  ERROR: Build asset version error: assets/scripts/effect/effectuiscribblesctrl.cs in SourceAssetDB has modification time of '2023-02-01T13:21:29.3612511Z' while content on disk has modification time of '2023-02-09T04:03:24.2263498Z'
+  Import took 0.002795 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002289 seconds.
+  path: Assets/Scripts/Effect/EffectUIScribblesCtrl.cs
+  artifactKey: Guid(c31d7d234ee66e042bd89ee25fa18187) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/EffectUIScribblesCtrl.cs using Guid(c31d7d234ee66e042bd89ee25fa18187) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000116 seconds
+  ERROR: Build asset version error: assets/scripts/effect/effectuiscribblesctrl.cs in SourceAssetDB has modification time of '2023-02-01T13:21:29.3612511Z' while content on disk has modification time of '2023-02-09T04:03:24.2263498Z'
+  Import took 0.001629 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.024513 seconds.
+  path: Assets/Scripts/Effect/EffectUIScribblesCtrl.cs
+  artifactKey: Guid(c31d7d234ee66e042bd89ee25fa18187) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/EffectUIScribblesCtrl.cs using Guid(c31d7d234ee66e042bd89ee25fa18187) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000237 seconds
+  ERROR: Build asset version error: assets/scripts/effect/effectuiscribblesctrl.cs in SourceAssetDB has modification time of '2023-02-01T13:21:29.3612511Z' while content on disk has modification time of '2023-02-09T04:03:24.2263498Z'
+  Import took 0.002623 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018036 seconds.
+  path: Assets/Scripts/Effect/EffectUIScribblesCtrl.cs
+  artifactKey: Guid(c31d7d234ee66e042bd89ee25fa18187) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/EffectUIScribblesCtrl.cs using Guid(c31d7d234ee66e042bd89ee25fa18187) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000183 seconds
+  ERROR: Build asset version error: assets/scripts/effect/effectuiscribblesctrl.cs in SourceAssetDB has modification time of '2023-02-01T13:21:29.3612511Z' while content on disk has modification time of '2023-02-09T04:03:24.2263498Z'
+  Import took 0.002029 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.025455 seconds.
+  path: Assets/Scripts/Effect/EffectUIScribblesCtrl.cs
+  artifactKey: Guid(c31d7d234ee66e042bd89ee25fa18187) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/EffectUIScribblesCtrl.cs using Guid(c31d7d234ee66e042bd89ee25fa18187) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000249 seconds
+  ERROR: Build asset version error: assets/scripts/effect/effectuiscribblesctrl.cs in SourceAssetDB has modification time of '2023-02-01T13:21:29.3612511Z' while content on disk has modification time of '2023-02-09T04:03:24.2263498Z'
+  Import took 0.002616 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020130 seconds.
+  path: Assets/Scripts/Effect/EffectUIScribblesCtrl.cs
+  artifactKey: Guid(c31d7d234ee66e042bd89ee25fa18187) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/EffectUIScribblesCtrl.cs using Guid(c31d7d234ee66e042bd89ee25fa18187) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000179 seconds
+  ERROR: Build asset version error: assets/scripts/effect/effectuiscribblesctrl.cs in SourceAssetDB has modification time of '2023-02-01T13:21:29.3612511Z' while content on disk has modification time of '2023-02-09T04:03:24.2263498Z'
+  Import took 0.001954 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 76.973381 seconds.
+  path: Assets/Scripts/Effect/EffectWaterReflectionCtrl.cs
+  artifactKey: Guid(3a2384a2d2e86ed4f80596fe2488d278) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/EffectWaterReflectionCtrl.cs using Guid(3a2384a2d2e86ed4f80596fe2488d278) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f03ea7ef5462211dfab6e7b42ae72d6') in 0.001590 seconds
+  Import took 0.005198 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004317 seconds.
+  path: Assets/Scripts/Effect/EffectWaterReflectionCtrl.cs
+  artifactKey: Guid(3a2384a2d2e86ed4f80596fe2488d278) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/EffectWaterReflectionCtrl.cs using Guid(3a2384a2d2e86ed4f80596fe2488d278) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f03ea7ef5462211dfab6e7b42ae72d6') in 0.001456 seconds
+  Import took 0.004116 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.121047 seconds.
+  path: Assets/Scripts/Effect/EffectBattleEndAutoDestroyCtrl.cs
+  artifactKey: Guid(3a1236e5cdc59a34e8cc80d17009653f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/EffectBattleEndAutoDestroyCtrl.cs using Guid(3a1236e5cdc59a34e8cc80d17009653f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b2ef4ac8d7774547ffc2c592d965667') in 0.001869 seconds
+  Import took 0.005646 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.856500 seconds.
+  path: Assets/Scripts/Effect/EffectSkyMountBossSpecialSoundCtrl.cs
+  artifactKey: Guid(762dd2549cd2d574aa877190b87278ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/EffectSkyMountBossSpecialSoundCtrl.cs using Guid(762dd2549cd2d574aa877190b87278ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33b1f6307fa44740a7c6982665b766be') in 0.001535 seconds
+  Import took 0.004949 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003164 seconds.
+  path: Assets/Scripts/Effect/EffectSkyMountBossSpecialSoundCtrl.cs
+  artifactKey: Guid(762dd2549cd2d574aa877190b87278ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/EffectSkyMountBossSpecialSoundCtrl.cs using Guid(762dd2549cd2d574aa877190b87278ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33b1f6307fa44740a7c6982665b766be') in 0.001271 seconds
+  Import took 0.004570 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.954335 seconds.
+  path: Assets/Scripts/Effect/EffectTraceTargetLerpCtrl.cs
+  artifactKey: Guid(10e6ea5ac4a2a0a4e9b42de84368c681) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/EffectTraceTargetLerpCtrl.cs using Guid(10e6ea5ac4a2a0a4e9b42de84368c681) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e451b1ce29457793bd943acba15a317b') in 0.001686 seconds
+  Import took 0.005113 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002084 seconds.
+  path: Assets/Scripts/Effect/EffectTraceTargetLerpCtrl.cs
+  artifactKey: Guid(10e6ea5ac4a2a0a4e9b42de84368c681) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/EffectTraceTargetLerpCtrl.cs using Guid(10e6ea5ac4a2a0a4e9b42de84368c681) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e451b1ce29457793bd943acba15a317b') in 0.001063 seconds
+  Import took 0.003548 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.254768 seconds.
+  path: Assets/Scripts/Effect/EffectPreBattleTool.cs
+  artifactKey: Guid(f95d801ea50aeb34b8238ff496101383) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/EffectPreBattleTool.cs using Guid(f95d801ea50aeb34b8238ff496101383) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fbc7d0a0d8901edb1e9dea52eb0bc80') in 0.001864 seconds
+  Import took 0.005321 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006254 seconds.
+  path: Assets/Scripts/Effect/EffectPreBattleTool.cs
+  artifactKey: Guid(f95d801ea50aeb34b8238ff496101383) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/EffectPreBattleTool.cs using Guid(f95d801ea50aeb34b8238ff496101383) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fbc7d0a0d8901edb1e9dea52eb0bc80') in 0.001240 seconds
+  Import took 0.003866 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.911156 seconds.
+  path: Assets/Scripts/Effect/EffectMinDisCreateIntervalCtrl.cs
+  artifactKey: Guid(4ffb3da0e34642547b161bdf195769a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/EffectMinDisCreateIntervalCtrl.cs using Guid(4ffb3da0e34642547b161bdf195769a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ccda68f5ff08b388d41d142547dc0a3') in 0.001705 seconds
+  Import took 0.005074 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002704 seconds.
+  path: Assets/Scripts/Effect/EffectMinDisCreateIntervalCtrl.cs
+  artifactKey: Guid(4ffb3da0e34642547b161bdf195769a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/EffectMinDisCreateIntervalCtrl.cs using Guid(4ffb3da0e34642547b161bdf195769a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ccda68f5ff08b388d41d142547dc0a3') in 0.000926 seconds
+  Import took 0.003202 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.791967 seconds.
+  path: Assets/Scripts/Effect/EffectDramaDialogueCtrl.cs
+  artifactKey: Guid(b719b9c53caa4f3428601224870e4504) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/EffectDramaDialogueCtrl.cs using Guid(b719b9c53caa4f3428601224870e4504) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57eac8550d635e720209f90943510d11') in 0.001654 seconds
+  Import took 0.004892 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002418 seconds.
+  path: Assets/Scripts/Effect/EffectDramaDialogueCtrl.cs
+  artifactKey: Guid(b719b9c53caa4f3428601224870e4504) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/EffectDramaDialogueCtrl.cs using Guid(b719b9c53caa4f3428601224870e4504) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57eac8550d635e720209f90943510d11') in 0.001102 seconds
+  Import took 0.003090 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.882216 seconds.
+  path: Assets/Scripts/Effect/EffectTargetUnitSkillAnimCtrl.cs
+  artifactKey: Guid(61908c9ba33777d4c92728ecbb6631bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/EffectTargetUnitSkillAnimCtrl.cs using Guid(61908c9ba33777d4c92728ecbb6631bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66c06d2fa8c0015dc3e54d444888a360') in 0.001648 seconds
+  Import took 0.005145 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003572 seconds.
+  path: Assets/Scripts/Effect/EffectTargetUnitSkillAnimCtrl.cs
+  artifactKey: Guid(61908c9ba33777d4c92728ecbb6631bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/EffectTargetUnitSkillAnimCtrl.cs using Guid(61908c9ba33777d4c92728ecbb6631bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66c06d2fa8c0015dc3e54d444888a360') in 0.001203 seconds
+  Import took 0.003505 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.361173 seconds.
+  path: Assets/Scripts/Effect/EffectXWeaponTrailCtrl.cs
+  artifactKey: Guid(63f00d7e21f2a0946849399189b67f92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/EffectXWeaponTrailCtrl.cs using Guid(63f00d7e21f2a0946849399189b67f92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f01ad59ac178e7cd39328ff642f6457') in 0.001339 seconds
+  Import took 0.004302 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004023 seconds.
+  path: Assets/Scripts/Effect/EffectXWeaponTrailCtrl.cs
+  artifactKey: Guid(63f00d7e21f2a0946849399189b67f92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/EffectXWeaponTrailCtrl.cs using Guid(63f00d7e21f2a0946849399189b67f92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f01ad59ac178e7cd39328ff642f6457') in 0.000823 seconds
+  Import took 0.002540 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.896839 seconds.
+  path: Assets/Scripts/Effect/EffectPassRoomCtrl.cs
+  artifactKey: Guid(cd627c5edd5a2304cb6644a1d7c9343b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/EffectPassRoomCtrl.cs using Guid(cd627c5edd5a2304cb6644a1d7c9343b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2ef989913a55f36779cce644b1ba8ab') in 0.001615 seconds
+  Import took 0.005032 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003845 seconds.
+  path: Assets/Scripts/Effect/EffectPassRoomCtrl.cs
+  artifactKey: Guid(cd627c5edd5a2304cb6644a1d7c9343b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/EffectPassRoomCtrl.cs using Guid(cd627c5edd5a2304cb6644a1d7c9343b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2ef989913a55f36779cce644b1ba8ab') in 0.001187 seconds
+  Import took 0.003528 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.587151 seconds.
+  path: Assets/Scripts/Effect/EffectUnitJump.cs
+  artifactKey: Guid(18c1e325e8083094882285e3a089e039) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/EffectUnitJump.cs using Guid(18c1e325e8083094882285e3a089e039) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc221005e26cf4f5e8a206cdadc6a4bf') in 0.001611 seconds
+  Import took 0.005034 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004772 seconds.
+  path: Assets/Scripts/Effect/EffectUnitJump.cs
+  artifactKey: Guid(18c1e325e8083094882285e3a089e039) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/EffectUnitJump.cs using Guid(18c1e325e8083094882285e3a089e039) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc221005e26cf4f5e8a206cdadc6a4bf') in 0.001153 seconds
+  Import took 0.003324 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.673966 seconds.
+  path: Assets/Scripts/Effect/EffectSortOrderDataCtrl.cs
+  artifactKey: Guid(c0f4293c8a7c2d841a37fdd1f08a10b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/EffectSortOrderDataCtrl.cs using Guid(c0f4293c8a7c2d841a37fdd1f08a10b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cee11e6c652520260d668d87958f3c2f') in 0.001744 seconds
+  Import took 0.005204 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004079 seconds.
+  path: Assets/Scripts/Effect/EffectSortOrderDataCtrl.cs
+  artifactKey: Guid(c0f4293c8a7c2d841a37fdd1f08a10b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/EffectSortOrderDataCtrl.cs using Guid(c0f4293c8a7c2d841a37fdd1f08a10b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cee11e6c652520260d668d87958f3c2f') in 0.001264 seconds
+  Import took 0.004398 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.591317 seconds.
+  path: Assets/Scripts/Effect/EffectBulletDelayDestroyCtrl.cs
+  artifactKey: Guid(5c01a0c517e7dcd4d983673244f1662c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/EffectBulletDelayDestroyCtrl.cs using Guid(5c01a0c517e7dcd4d983673244f1662c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db14ada0e46410f76a9fa3a7d54af920') in 0.001443 seconds
+  Import took 0.004257 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000725 seconds.
+  path: Assets/Scripts/Effect/EffectBulletDelayDestroyCtrl.cs
+  artifactKey: Guid(5c01a0c517e7dcd4d983673244f1662c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/EffectBulletDelayDestroyCtrl.cs using Guid(5c01a0c517e7dcd4d983673244f1662c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db14ada0e46410f76a9fa3a7d54af920') in 0.001406 seconds
+  Import took 0.004803 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.245371 seconds.
+  path: Assets/Scripts/Effect/EffectBulletShieldCtrl.cs
+  artifactKey: Guid(f6b854cf771e78b4c88e160f8d3aac17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/EffectBulletShieldCtrl.cs using Guid(f6b854cf771e78b4c88e160f8d3aac17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a2e32d3c258caa4a5c31c6082c5ec2f') in 0.001797 seconds
+  Import took 0.004570 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000815 seconds.
+  path: Assets/Scripts/Effect/EffectBulletShieldCtrl.cs
+  artifactKey: Guid(f6b854cf771e78b4c88e160f8d3aac17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/EffectBulletShieldCtrl.cs using Guid(f6b854cf771e78b4c88e160f8d3aac17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a2e32d3c258caa4a5c31c6082c5ec2f') in 0.001264 seconds
+  Import took 0.003933 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.873207 seconds.
+  path: Assets/Scripts/Effect/EffectRoomEntryCtrl.cs
+  artifactKey: Guid(b5b6894a2da17004cae612c7bb66dec4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/EffectRoomEntryCtrl.cs using Guid(b5b6894a2da17004cae612c7bb66dec4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1873fbec048c8137fa955d05cf04650') in 0.001330 seconds
+  Import took 0.004071 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000828 seconds.
+  path: Assets/Scripts/Effect/EffectRoomEntryCtrl.cs
+  artifactKey: Guid(b5b6894a2da17004cae612c7bb66dec4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/EffectRoomEntryCtrl.cs using Guid(b5b6894a2da17004cae612c7bb66dec4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1873fbec048c8137fa955d05cf04650') in 0.001255 seconds
+  Import took 0.004333 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.984351 seconds.
+  path: Assets/Scripts/Effect/EffectBattleMapPosiCtrl.cs
+  artifactKey: Guid(319ccfcf281abd94f8b023372c895318) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/EffectBattleMapPosiCtrl.cs using Guid(319ccfcf281abd94f8b023372c895318) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '875b2eedd18f668761af4fbc489cf7a3') in 0.001629 seconds
+  Import took 0.004995 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003092 seconds.
+  path: Assets/Scripts/Effect/EffectBattleMapPosiCtrl.cs
+  artifactKey: Guid(319ccfcf281abd94f8b023372c895318) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/EffectBattleMapPosiCtrl.cs using Guid(319ccfcf281abd94f8b023372c895318) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '875b2eedd18f668761af4fbc489cf7a3') in 0.001057 seconds
+  Import took 0.003154 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.578542 seconds.
+  path: Assets/Scripts/Effect/EffectTargetCameraEdgeCtrl.cs
+  artifactKey: Guid(d91c85f5e831d984a872279caff59040) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/EffectTargetCameraEdgeCtrl.cs using Guid(d91c85f5e831d984a872279caff59040) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b924255bb943cfd13ae0a0d95188932e') in 0.001652 seconds
+  Import took 0.005102 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003373 seconds.
+  path: Assets/Scripts/Effect/EffectTargetCameraEdgeCtrl.cs
+  artifactKey: Guid(d91c85f5e831d984a872279caff59040) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/EffectTargetCameraEdgeCtrl.cs using Guid(d91c85f5e831d984a872279caff59040) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b924255bb943cfd13ae0a0d95188932e') in 0.001457 seconds
+  Import took 0.004572 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.200311 seconds.
+  path: Assets/Scripts/Effect/EffectTargetCameraEdgeCtrl.cs
+  artifactKey: Guid(d91c85f5e831d984a872279caff59040) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/EffectTargetCameraEdgeCtrl.cs using Guid(d91c85f5e831d984a872279caff59040) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8977ec49da7308ac8df05a59d706bfb') in 0.001261 seconds
+  Import took 0.004122 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.062511 seconds.
+  path: Assets/Scripts/Effect/EffectPlayerUnitTrigger.cs
+  artifactKey: Guid(f0e43358de686c342bf91d2f293541ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/EffectPlayerUnitTrigger.cs using Guid(f0e43358de686c342bf91d2f293541ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cdb4897d40136a7a2ce6f2547a5effdd') in 0.001530 seconds
+  Import took 0.005007 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003299 seconds.
+  path: Assets/Scripts/Effect/EffectPlayerUnitTrigger.cs
+  artifactKey: Guid(f0e43358de686c342bf91d2f293541ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/EffectPlayerUnitTrigger.cs using Guid(f0e43358de686c342bf91d2f293541ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cdb4897d40136a7a2ce6f2547a5effdd') in 0.001505 seconds
+  Import took 0.004237 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.724679 seconds.
+  path: Assets/Scripts/Effect/EffectLineCtrl.cs
+  artifactKey: Guid(0abbe6bf51f54614391a3df85739d1db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/EffectLineCtrl.cs using Guid(0abbe6bf51f54614391a3df85739d1db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6a2c47a357194b8c6043acb230d0392') in 0.001617 seconds
+  Import took 0.004891 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003341 seconds.
+  path: Assets/Scripts/Effect/EffectLineCtrl.cs
+  artifactKey: Guid(0abbe6bf51f54614391a3df85739d1db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/EffectLineCtrl.cs using Guid(0abbe6bf51f54614391a3df85739d1db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6a2c47a357194b8c6043acb230d0392') in 0.001346 seconds
+  Import took 0.004162 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.948789 seconds.
+  path: Assets/Scripts/Effect/EffectRandomPosiCtrl.cs
+  artifactKey: Guid(d6c40c07b4a415646b91cdffe2f476a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/EffectRandomPosiCtrl.cs using Guid(d6c40c07b4a415646b91cdffe2f476a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c6c41da8ca237445a470cf66d63dc77') in 0.001424 seconds
+  Import took 0.004364 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002873 seconds.
+  path: Assets/Scripts/Effect/EffectRandomPosiCtrl.cs
+  artifactKey: Guid(d6c40c07b4a415646b91cdffe2f476a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/EffectRandomPosiCtrl.cs using Guid(d6c40c07b4a415646b91cdffe2f476a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c6c41da8ca237445a470cf66d63dc77') in 0.001387 seconds
+  Import took 0.003910 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.205617 seconds.
+  path: Assets/Scripts/Effect/EffectRandomPosiCtrl.cs
+  artifactKey: Guid(d6c40c07b4a415646b91cdffe2f476a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/EffectRandomPosiCtrl.cs using Guid(d6c40c07b4a415646b91cdffe2f476a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e86d9343cc85394dcedd88e360e195e2') in 0.001401 seconds
+  Import took 0.004334 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.368580 seconds.
+  path: Assets/Scripts/Effect/EffectAnimatorCtrl.cs
+  artifactKey: Guid(ab415002ded8c9541b406e01501b1e56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/EffectAnimatorCtrl.cs using Guid(ab415002ded8c9541b406e01501b1e56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f9bce73e399099248d6cc9722d8a609') in 0.001652 seconds
+  Import took 0.004952 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002298 seconds.
+  path: Assets/Scripts/Effect/EffectAnimatorCtrl.cs
+  artifactKey: Guid(ab415002ded8c9541b406e01501b1e56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/EffectAnimatorCtrl.cs using Guid(ab415002ded8c9541b406e01501b1e56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f9bce73e399099248d6cc9722d8a609') in 0.000935 seconds
+  Import took 0.003211 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.476893 seconds.
+  path: Assets/Scripts/Effect/EffectLockDireCtrl.cs
+  artifactKey: Guid(b5550a8e97d2ec3458311ac1cf2930c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/EffectLockDireCtrl.cs using Guid(b5550a8e97d2ec3458311ac1cf2930c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c449251a5779937fbdc1bc6322d9f8d7') in 0.001284 seconds
+  Import took 0.004009 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003670 seconds.
+  path: Assets/Scripts/Effect/EffectLockDireCtrl.cs
+  artifactKey: Guid(b5550a8e97d2ec3458311ac1cf2930c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/EffectLockDireCtrl.cs using Guid(b5550a8e97d2ec3458311ac1cf2930c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c449251a5779937fbdc1bc6322d9f8d7') in 0.001266 seconds
+  Import took 0.004360 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 88.728692 seconds.
+  path: Assets/Scripts/Effect/EffectUVChainLightCtrl.cs
+  artifactKey: Guid(ca30545cae8a42a4fb7b93a28accae37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/EffectUVChainLightCtrl.cs using Guid(ca30545cae8a42a4fb7b93a28accae37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd74ca95989f11007febe461c90e916ac') in 0.001325 seconds
+  Import took 0.004223 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000594 seconds.
+  path: Assets/Scripts/Effect/EffectUVChainLightCtrl.cs
+  artifactKey: Guid(ca30545cae8a42a4fb7b93a28accae37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/EffectUVChainLightCtrl.cs using Guid(ca30545cae8a42a4fb7b93a28accae37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd74ca95989f11007febe461c90e916ac') in 0.000970 seconds
+  Import took 0.002751 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.803913 seconds.
+  path: Assets/Scripts/Effect/EffectBoxNotUnitLayerCtrl.cs
+  artifactKey: Guid(4e7c2556409201e44843d53f956171bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/EffectBoxNotUnitLayerCtrl.cs using Guid(4e7c2556409201e44843d53f956171bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a18a1abe04ead72f9b59c99e4fcb33f') in 0.001422 seconds
+  Import took 0.004326 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003426 seconds.
+  path: Assets/Scripts/Effect/EffectBoxNotUnitLayerCtrl.cs
+  artifactKey: Guid(4e7c2556409201e44843d53f956171bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/EffectBoxNotUnitLayerCtrl.cs using Guid(4e7c2556409201e44843d53f956171bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a18a1abe04ead72f9b59c99e4fcb33f') in 0.001499 seconds
+  Import took 0.004476 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.161131 seconds.
+  path: Assets/Scripts/Effect/EffectRandomAngleCtrl.cs
+  artifactKey: Guid(29e3176da821f1b438e9974391a37ec4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/EffectRandomAngleCtrl.cs using Guid(29e3176da821f1b438e9974391a37ec4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3be274e660642ae5b447ab80971a57d') in 0.001666 seconds
+  Import took 0.004925 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.218349 seconds.
+  path: Assets/Scripts/Effect/EffectMonstMoveAnimCtrl.cs
+  artifactKey: Guid(7bddd1a429e66574a9dc5382bd6992bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/EffectMonstMoveAnimCtrl.cs using Guid(7bddd1a429e66574a9dc5382bd6992bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e0bc54680d3475abbdc188d6112a267') in 0.001381 seconds
+  Import took 0.004075 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000507 seconds.
+  path: Assets/Scripts/Effect/EffectMonstMoveAnimCtrl.cs
+  artifactKey: Guid(7bddd1a429e66574a9dc5382bd6992bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/EffectMonstMoveAnimCtrl.cs using Guid(7bddd1a429e66574a9dc5382bd6992bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e0bc54680d3475abbdc188d6112a267') in 0.000880 seconds
+  Import took 0.002659 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 76.015570 seconds.
+  path: Assets/Scripts/Effect/EffectRoomLayerDepthAnimCtrl.cs
+  artifactKey: Guid(7dac719eb461234429d6db193eaadc1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/EffectRoomLayerDepthAnimCtrl.cs using Guid(7dac719eb461234429d6db193eaadc1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '899989363165ddc164b5edb527b30844') in 0.001584 seconds
+  Import took 0.004503 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004248 seconds.
+  path: Assets/Scripts/Effect/EffectRoomLayerDepthAnimCtrl.cs
+  artifactKey: Guid(7dac719eb461234429d6db193eaadc1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/EffectRoomLayerDepthAnimCtrl.cs using Guid(7dac719eb461234429d6db193eaadc1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '899989363165ddc164b5edb527b30844') in 0.001064 seconds
+  Import took 0.003242 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.575892 seconds.
+  path: Assets/Scripts/Effect/EffectAiInterceptCtrl.cs
+  artifactKey: Guid(30fd02bfb8e46fa40b7b360ad2151c3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/EffectAiInterceptCtrl.cs using Guid(30fd02bfb8e46fa40b7b360ad2151c3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'add230f36d97bd95e04a47f5617f3e35') in 0.001371 seconds
+  Import took 0.004110 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000401 seconds.
+  path: Assets/Scripts/Effect/EffectAiInterceptCtrl.cs
+  artifactKey: Guid(30fd02bfb8e46fa40b7b360ad2151c3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/EffectAiInterceptCtrl.cs using Guid(30fd02bfb8e46fa40b7b360ad2151c3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'add230f36d97bd95e04a47f5617f3e35') in 0.000810 seconds
+  Import took 0.002535 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000606 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.791 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1796 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.8 MB.
+System memory in use after: 87.9 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2263.
+Total: 2.653800 ms (FindLiveObjects: 0.361600 ms CreateObjectMapping: 0.044400 ms MarkObjects: 2.218300 ms  DeleteObjects: 0.028700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.726672 seconds.
+  path: Assets/Scripts/Effect/EffectActivedCallCtrl.cs
+  artifactKey: Guid(7126f90a82e61a54e8886e5c7be1ce65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/EffectActivedCallCtrl.cs using Guid(7126f90a82e61a54e8886e5c7be1ce65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a3308184a973e3e702b0802b8911bcb') in 0.005103 seconds
+  Import took 0.008570 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001067 seconds.
+  path: Assets/Scripts/Effect/EffectActivedCallCtrl.cs
+  artifactKey: Guid(7126f90a82e61a54e8886e5c7be1ce65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/EffectActivedCallCtrl.cs using Guid(7126f90a82e61a54e8886e5c7be1ce65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a3308184a973e3e702b0802b8911bcb') in 0.001246 seconds
+  Import took 0.004218 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.042134 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(82af1aa4e751a8940b5f72f8b8171603) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(82af1aa4e751a8940b5f72f8b8171603) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '328536dca2d0f7a357aa5af6b99b8982') in 0.001325 seconds
+  Import took 0.004030 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 47.346407 seconds.
+  path: Assets/Resources
+  artifactKey: Guid(133b00a2307c1544f8d3bfe6e0c43ecb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources using Guid(133b00a2307c1544f8d3bfe6e0c43ecb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fd8e8d70bee91477dd53d012be0f996') in 0.001332 seconds
+  Import took 0.004204 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000469 seconds.
+  path: Assets/Resources
+  artifactKey: Guid(133b00a2307c1544f8d3bfe6e0c43ecb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources using Guid(133b00a2307c1544f8d3bfe6e0c43ecb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fd8e8d70bee91477dd53d012be0f996') in 0.001213 seconds
+  Import took 0.003967 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.411622 seconds.
+  path: Assets/Resources/Battle
+  artifactKey: Guid(568eebfc538aa8b45b9355892c0027bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Battle using Guid(568eebfc538aa8b45b9355892c0027bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2f3a97520f50f325d39eb0bbcf645f8') in 0.001365 seconds
+  Import took 0.003996 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.424323 seconds.
+  path: Assets/Resources/Battle/Monst
+  artifactKey: Guid(5204c0db696158248868e14b964a6e61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Battle/Monst using Guid(5204c0db696158248868e14b964a6e61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bc75e51dd4dc43e66102312055c040f') in 0.001399 seconds
+  Import took 0.004064 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.326055 seconds.
+  path: Assets/Resources/Battle/Monst/jian.prefab
+  artifactKey: Guid(81829b1d7e373e84fb4a58b66f6483ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Battle/Monst/jian.prefab using Guid(81829b1d7e373e84fb4a58b66f6483ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3839b274e67779040430ec0aaa9fb27') in 0.077086 seconds
+  Import took 0.081143 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000625 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.65 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.805 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1796 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.9 MB.
+System memory in use after: 88.0 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2272.
+Total: 2.782600 ms (FindLiveObjects: 0.350200 ms CreateObjectMapping: 0.047700 ms MarkObjects: 2.360200 ms  DeleteObjects: 0.023700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000634 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.799 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1797 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.0 MB.
+System memory in use after: 88.1 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2277.
+Total: 2.744100 ms (FindLiveObjects: 0.403100 ms CreateObjectMapping: 0.056000 ms MarkObjects: 2.259900 ms  DeleteObjects: 0.024000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 301.715019 seconds.
+  path: Assets/Scripts/Effect/EffectScaleClampCtrl.cs
+  artifactKey: Guid(361e1539a41d1934eaf925302b50355b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/EffectScaleClampCtrl.cs using Guid(361e1539a41d1934eaf925302b50355b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83466fe2a425a82591f39a795c761509') in 0.005443 seconds
+  Import took 0.009037 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000657 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.800 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.57 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1797 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.0 MB.
+System memory in use after: 88.1 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2281.
+Total: 3.162300 ms (FindLiveObjects: 0.440500 ms CreateObjectMapping: 0.045700 ms MarkObjects: 2.648500 ms  DeleteObjects: 0.026200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.035388 seconds.
+  path: Assets/Scripts/Effect/EffectUnitAnimEventsSub.cs
+  artifactKey: Guid(07bd325d7d7e7f84182da3a673d58b50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/EffectUnitAnimEventsSub.cs using Guid(07bd325d7d7e7f84182da3a673d58b50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66dd2824c41826150752160ff6849185') in 0.006166 seconds
+  Import took 0.010053 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/Scripts/Effect/EffectUnitAnimEventsSub.cs
+  artifactKey: Guid(07bd325d7d7e7f84182da3a673d58b50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/EffectUnitAnimEventsSub.cs using Guid(07bd325d7d7e7f84182da3a673d58b50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66dd2824c41826150752160ff6849185') in 0.001069 seconds
+  Import took 0.003467 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.532998 seconds.
+  path: Assets/Scripts/Effect/UnitAnimEvents.cs
+  artifactKey: Guid(1cf6c2029987031488d657ac0c4eabee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/UnitAnimEvents.cs using Guid(1cf6c2029987031488d657ac0c4eabee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f21f604785c38a7a9eb6505f68caa7fb') in 0.001347 seconds
+  Import took 0.004115 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002887 seconds.
+  path: Assets/Scripts/Effect/UnitAnimEvents.cs
+  artifactKey: Guid(1cf6c2029987031488d657ac0c4eabee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/UnitAnimEvents.cs using Guid(1cf6c2029987031488d657ac0c4eabee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f21f604785c38a7a9eb6505f68caa7fb') in 0.000830 seconds
+  Import took 0.002599 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.123766 seconds.
+  path: Assets/Scripts/Effect/UnitCmdCtrl.cs
+  artifactKey: Guid(c1eb65c5d2fb8814988fd105c18a523c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/UnitCmdCtrl.cs using Guid(c1eb65c5d2fb8814988fd105c18a523c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab6486eccec761d69529ea8b4b2aec19') in 0.001357 seconds
+  Import took 0.004179 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004391 seconds.
+  path: Assets/Scripts/Effect/UnitCmdCtrl.cs
+  artifactKey: Guid(c1eb65c5d2fb8814988fd105c18a523c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Effect/UnitCmdCtrl.cs using Guid(c1eb65c5d2fb8814988fd105c18a523c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab6486eccec761d69529ea8b4b2aec19') in 0.000870 seconds
+  Import took 0.002627 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000779 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.805 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.58 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1797 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.2 MB.
+System memory in use after: 88.3 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2285.
+Total: 2.617700 ms (FindLiveObjects: 0.397000 ms CreateObjectMapping: 0.053000 ms MarkObjects: 2.130300 ms  DeleteObjects: 0.036200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000714 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.63 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.806 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1802 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.3 MB.
+System memory in use after: 88.5 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2294.
+Total: 2.833700 ms (FindLiveObjects: 0.289400 ms CreateObjectMapping: 0.045700 ms MarkObjects: 2.470500 ms  DeleteObjects: 0.027100 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

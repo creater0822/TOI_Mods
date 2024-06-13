@@ -1,0 +1,65 @@
+[
+  {
+    "stayTime": 5000,
+    "backSound": "jineng/zhi/zhi_pugong_back",
+    "backConfirm": "1",
+    "backNum": "0",
+    "id": 37001,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "stayTime": 100,
+    "backSound": "jineng/zhi/zhi_pugong_back",
+    "backConfirm": "1",
+    "backNum": "0",
+    "id": 37002,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "stayTime": 300,
+    "backSound": "jineng/zhi/zhi_pugong_back",
+    "backConfirm": "1",
+    "backNum": "0",
+    "id": 37003,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "stayTime": 99999,
+    "backSound": "jineng/zhi/zhi_pugong_back",
+    "backConfirm": "1",
+    "backNum": "0",
+    "id": 37004,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "stayTime": 2000,
+    "backSound": "jineng/zhi/zhi_pugong_back",
+    "backConfirm": "1",
+    "backNum": "0",
+    "id": 37005,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "stayTime": 0,
+    "backSound": "jineng/zhi/zhi_pugong_back",
+    "backConfirm": "1",
+    "backNum": "0",
+    "id": 37006,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "stayTime": 0,
+    "backSound": "jineng/zhi/zhi_pugong_back",
+    "backConfirm": "&37007_edkg",
+    "backNum": "0",
+    "id": 37007,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

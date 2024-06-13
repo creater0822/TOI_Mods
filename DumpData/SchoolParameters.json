@@ -1,0 +1,352 @@
+[
+  {
+    "key": "loseStudentReduceTax",
+    "value": 2,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "taxCostStable",
+    "value": 5,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "monsterReduceStable",
+    "value": 10,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "pillTaskOutputNumber",
+    "value": 5,
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "expectStable",
+    "value": 90,
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "packagePillNumber",
+    "value": 5000,
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "packagePillBuryNumber",
+    "value": 15,
+    "id": 7,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "expectReputation",
+    "value": 10000,
+    "id": 8,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "schoolHateParaA",
+    "value": 100,
+    "id": 9,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "schoolHateParaB",
+    "value": 150,
+    "id": 10,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "schoolHateParaC",
+    "value": 50,
+    "id": 11,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "schoolHateAlly",
+    "value": -500,
+    "id": 12,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "schoolHateEnemy",
+    "value": 500,
+    "id": 13,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "salarySaveMonth",
+    "value": 12,
+    "id": 14,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "upgradeBuildingWeight",
+    "value": 500,
+    "id": 15,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "faithAndDutyWeight",
+    "value": 500,
+    "id": 16,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "schoolLogCount",
+    "value": 500,
+    "id": 17,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "loseSubReputation",
+    "value": 500,
+    "id": 18,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "reputationMinRate",
+    "value": 50,
+    "id": 19,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "reputationMaxRate",
+    "value": 98,
+    "id": 20,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "reputationRateExpect",
+    "value": 10000,
+    "id": 21,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "schoolAddStand",
+    "value": 100,
+    "id": 22,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "levelInterval",
+    "value": 60,
+    "id": 23,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "reputationReduceSalary",
+    "value": 50,
+    "id": 24,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "salaryReduceLetter",
+    "value": 201,
+    "id": 25,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "betrayalHate",
+    "value": -500,
+    "id": 26,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "schoolCloseReduce",
+    "value": 10,
+    "id": 27,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "schoolArrestUnitTaskMonth",
+    "value": 3,
+    "id": 28,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "captivityFeatureID",
+    "value": 114,
+    "id": 29,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "schoolEdlerTakeInheritNum",
+    "value": 2,
+    "id": 30,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "schoolManorInitStable",
+    "value": 50,
+    "id": 31,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "schoolInheritLetterNum",
+    "value": 2,
+    "id": 32,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "schoolRenegadeAddHate",
+    "value": -180,
+    "id": 33,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "schoolStopMoneyMin",
+    "value": 0,
+    "id": 34,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "schoolStopMedicinaMin",
+    "value": 0,
+    "id": 35,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "schoolStopMineMin",
+    "value": 0,
+    "id": 36,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "schoolStopReputationMin",
+    "value": 0,
+    "id": 37,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "schoolStopMoneyMax",
+    "value": 2000000,
+    "id": 38,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "schoolStopMedicinaMax",
+    "value": 200000,
+    "id": 39,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "schoolStopMineMax",
+    "value": 200000,
+    "id": 40,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "schoolStopReputationMax",
+    "value": 18000,
+    "id": 41,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "schoolStopAddMoney",
+    "value": 500000,
+    "id": 42,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "schoolStopAddMedicina",
+    "value": 15000,
+    "id": 43,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "schoolStopAddMine",
+    "value": 15000,
+    "id": 44,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "schoolStopAddReputation",
+    "value": 0,
+    "id": 45,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "schoolDefenseAddMoney",
+    "value": 100000,
+    "id": 46,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "schoolDefenseAddMedicina",
+    "value": 15000,
+    "id": 47,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "schoolDefenseAddMine",
+    "value": 15000,
+    "id": 48,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "schoolDefenseAddReputation",
+    "value": 400,
+    "id": 49,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "schoolDefenseLose",
+    "value": 10,
+    "id": 50,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

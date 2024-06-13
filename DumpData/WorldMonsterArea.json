@@ -1,0 +1,74 @@
+[
+  {
+    "type": 1,
+    "centreX": 20,
+    "centreY": 20,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "type": 1,
+    "centreX": 80,
+    "centreY": 20,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "type": 1,
+    "centreX": 20,
+    "centreY": 80,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "type": 1,
+    "centreX": 80,
+    "centreY": 80,
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "type": 1,
+    "centreX": 50,
+    "centreY": 50,
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "type": 2,
+    "centreX": 1,
+    "centreY": 50,
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "type": 2,
+    "centreX": 50,
+    "centreY": 99,
+    "id": 7,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "type": 2,
+    "centreX": 99,
+    "centreY": 50,
+    "id": 8,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "type": 2,
+    "centreX": 50,
+    "centreY": 1,
+    "id": 9,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 2328963659
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: ab/ui/bitchinfo.ab
+      Dependencies: {}
+    Info_1:
+      Name: ab/ui/settings.ab
+      Dependencies:
+        Dependency_0: assets/texture/tongyongbutton.png.ab
+        Dependency_1: assets/texture/fabaobg_1.png.ab
+        Dependency_2: assets/texture/closebutton.png.ab
+        Dependency_3: assets/texture/tongyongbutton_2.png.ab
+    Info_2:
+      Name: assets/texture/tongyongbutton.png.ab
+      Dependencies: {}
+    Info_3:
+      Name: assets/texture/fabaobg_1.png.ab
+      Dependencies: {}
+    Info_4:
+      Name: assets/texture/closebutton.png.ab
+      Dependencies: {}
+    Info_5:
+      Name: assets/texture/tongyongbutton_2.png.ab
+      Dependencies: {}

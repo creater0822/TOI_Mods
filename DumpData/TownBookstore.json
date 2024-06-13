@@ -1,0 +1,74 @@
+[
+  {
+    "quantity": 1,
+    "function": "addAttr_talent_1_5",
+    "desc": "TownBookstore1",
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "quantity": 6,
+    "function": "addAttr_talent_1_5",
+    "desc": "TownBookstore2",
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "quantity": 11,
+    "function": "addAttr_talent_1_5",
+    "desc": "TownBookstore3",
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "quantity": 16,
+    "function": "addAttr_talent_1_5",
+    "desc": "TownBookstore4",
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "quantity": 21,
+    "function": "addAttr_talent_1_5",
+    "desc": "TownBookstore5",
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "quantity": 26,
+    "function": "addAttr_talent_1_5",
+    "desc": "TownBookstore6",
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "quantity": 31,
+    "function": "addAttr_talent_1_5",
+    "desc": "TownBookstore7",
+    "id": 7,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "quantity": 36,
+    "function": "addAttr_talent_1_5",
+    "desc": "TownBookstore8",
+    "id": 8,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "quantity": 41,
+    "function": "addAttr_talent_1_5",
+    "desc": "TownBookstore9",
+    "id": 9,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

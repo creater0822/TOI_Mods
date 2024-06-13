@@ -1,0 +1,65 @@
+[
+  {
+    "key": "reviveTimeMin",
+    "value": 6,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "reviveTimeMax",
+    "value": 6,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "reviveFeatureID",
+    "value": 102,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "addClose",
+    "value": 200,
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "eventLogRoleSave21311",
+    "value": 0,
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "eventLogRoleSave22311",
+    "value": 0,
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "eventLogRoleSave22312",
+    "value": 0,
+    "id": 7,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "reviveFavor",
+    "value": -500,
+    "id": 8,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "reviveFamilyFavor",
+    "value": -100,
+    "id": 9,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

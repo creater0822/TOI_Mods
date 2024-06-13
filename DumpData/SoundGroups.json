@@ -1,0 +1,1192 @@
+[
+  {
+    "path": "Vocal/1001",
+    "group": "Vocal",
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "Vocal/1002",
+    "group": "Vocal",
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "Vocal/1003",
+    "group": "Vocal",
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "Vocal/1004",
+    "group": "Vocal",
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "Vocal/1005",
+    "group": "Vocal",
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "Vocal/1006",
+    "group": "Vocal",
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "Vocal/1007",
+    "group": "Vocal",
+    "id": 7,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "Vocal/1008",
+    "group": "Vocal",
+    "id": 8,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "Vocal/zs",
+    "group": "Vocal",
+    "id": 9,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "Vocal/genpilong",
+    "group": "Vocal",
+    "id": 10,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "fuben/heluoyu/jingwei_jiao",
+    "group": "Monst",
+    "id": 11,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/shitourenjiao1",
+    "group": "Monst",
+    "id": 12,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/wuguijiao",
+    "group": "Monst",
+    "id": 13,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/shanhuijiao2",
+    "group": "Monst",
+    "id": 14,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/shanhuijiao1",
+    "group": "Monst",
+    "id": 15,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/kaimingshoujiao1",
+    "group": "Monst",
+    "id": 16,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/kaimingshoujiao2",
+    "group": "Monst",
+    "id": 17,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/kangdangjiao",
+    "group": "Monst",
+    "id": 18,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/liuwei_jiao1",
+    "group": "Monst",
+    "id": 19,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/liuwei_jiao2",
+    "group": "Monst",
+    "id": 20,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/tiangou_jiao1",
+    "group": "Monst",
+    "id": 21,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/tiangou_jiao2",
+    "group": "Monst",
+    "id": 22,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/tiangou_jiao3",
+    "group": "Monst",
+    "id": 23,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/jiaolong_jiao1",
+    "group": "Monst",
+    "id": 24,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/jiaolong_jiao2",
+    "group": "Monst",
+    "id": 25,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/jiaolong_jiao3",
+    "group": "Monst",
+    "id": 26,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/jiaolong_jiao4",
+    "group": "Monst",
+    "id": 27,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/gouchen_jiao1",
+    "group": "Monst",
+    "id": 28,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/gouchen_jiao2",
+    "group": "Monst",
+    "id": 29,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/gouchen_jiao3",
+    "group": "Monst",
+    "id": 30,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/luwu_jiao1",
+    "group": "Monst",
+    "id": 31,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/luwu_jiao2",
+    "group": "Monst",
+    "id": 32,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/luwu_jiao3",
+    "group": "Monst",
+    "id": 33,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/luwu_jiao4",
+    "group": "Monst",
+    "id": 34,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/xuangui_jiao1",
+    "group": "Monst",
+    "id": 35,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/xuangui_jiao2",
+    "group": "Monst",
+    "id": 36,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/xuangui_jiao3",
+    "group": "Monst",
+    "id": 37,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/xuangui_jiao4",
+    "group": "Monst",
+    "id": 38,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/chongming_jiao1",
+    "group": "Monst",
+    "id": 39,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/chongming_jiao2",
+    "group": "Monst",
+    "id": 40,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/chongming_jiao3",
+    "group": "Monst",
+    "id": 41,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/qiongqi_jiao1",
+    "group": "Monst",
+    "id": 42,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/qiongqi_jiao2",
+    "group": "Monst",
+    "id": 43,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/qiongqi_jiao3",
+    "group": "Monst",
+    "id": 44,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/qiongqi_jiao4",
+    "group": "Monst",
+    "id": 45,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/kui_jiao1",
+    "group": "Monst",
+    "id": 46,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/kui_jiao2",
+    "group": "Monst",
+    "id": 47,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/kui_jiao3",
+    "group": "Monst",
+    "id": 48,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/kui_jiao4",
+    "group": "Monst",
+    "id": 49,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/zhuyan_jiao1",
+    "group": "Monst",
+    "id": 50,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/zhuyan_jiao2",
+    "group": "Monst",
+    "id": 51,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/zhuyan_jiao3",
+    "group": "Monst",
+    "id": 52,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/zhuyan_jiao4",
+    "group": "Monst",
+    "id": 53,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/zhuyan_jiao5",
+    "group": "Monst",
+    "id": 54,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/zhuyan_jiao6",
+    "group": "Monst",
+    "id": 55,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/jimeng_jiao1",
+    "group": "Monst",
+    "id": 56,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/jimeng_jiao2",
+    "group": "Monst",
+    "id": 57,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/jimeng_jiao3",
+    "group": "Monst",
+    "id": 58,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "nitiangaiming/jibajiao",
+    "group": "Monst",
+    "id": 59,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "fuben/heluoyu/heluoyu_paidi_01",
+    "group": "Monst",
+    "id": 60,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "fuben/heluoyu/heluoyu_paidi_02",
+    "group": "Monst",
+    "id": 61,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "fuben/heluoyu/heluoyu_paidi_03",
+    "group": "Monst",
+    "id": 62,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "fuben/heluoyu/heluoyu_tuci_01",
+    "group": "Monst",
+    "id": 63,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "fuben/heluoyu/heluoyu_tuci_02",
+    "group": "Monst",
+    "id": 64,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "fuben/heluoyu/heluoyu_tuci_03",
+    "group": "Monst",
+    "id": 65,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "fuben/heluoyu/heluoyu_tuci_04",
+    "group": "Monst",
+    "id": 66,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "fuben/heluoyu/jingwei_toushi",
+    "group": "Monst",
+    "id": 67,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "jineng/shentong",
+    "group": "Monst",
+    "id": 68,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/jiaolong_chong",
+    "group": "Monst",
+    "id": 69,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "siwang/nansiwang",
+    "group": "Monst",
+    "id": 70,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "siwang/nvsiwang",
+    "group": "Monst",
+    "id": 71,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/hanba_siwang",
+    "group": "Monst",
+    "id": 72,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/lingyusiwang",
+    "group": "Monst",
+    "id": 73,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/yingzhaosiwang",
+    "group": "Monst",
+    "id": 74,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/changyousiwang",
+    "group": "Monst",
+    "id": 75,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/baiyuansiwang",
+    "group": "Monst",
+    "id": 76,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/shebishisiwang",
+    "group": "Monst",
+    "id": 77,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/mengjisiwang",
+    "group": "Monst",
+    "id": 78,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/liuwei_siwang",
+    "group": "Monst",
+    "id": 79,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/tiangou_siwang",
+    "group": "Monst",
+    "id": 80,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/jiaolong_siwang",
+    "group": "Monst",
+    "id": 81,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/gouchen_siwang",
+    "group": "Monst",
+    "id": 82,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/luwu_siwang",
+    "group": "Monst",
+    "id": 83,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/xuangui_siwang",
+    "group": "Monst",
+    "id": 84,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/chongming_siwang",
+    "group": "Monst",
+    "id": 85,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/chuancheng_siwang",
+    "group": "Monst",
+    "id": 86,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/qiongqi_siwang",
+    "group": "Monst",
+    "id": 87,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/kui_siwang",
+    "group": "Monst",
+    "id": 88,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/zhuyan_siwang",
+    "group": "Monst",
+    "id": 89,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/jimeng_siwang",
+    "group": "Monst",
+    "id": 90,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "nitiangaiming/shenhun_jiaolongchong",
+    "group": "Monst",
+    "id": 91,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "nitiangaiming/lisichuxian",
+    "group": "Monst",
+    "id": 92,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/bifang_fei",
+    "group": "Monst",
+    "id": 93,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "shawushe",
+    "group": "Monst",
+    "id": 94,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "fuben/mubei_zhendong",
+    "group": "Monst",
+    "id": 95,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "fuben/mubei_baozha",
+    "group": "Monst",
+    "id": 96,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "fuben/mubei_ghost",
+    "group": "Monst",
+    "id": 97,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "UI/tupo/jinrulongjiemian",
+    "group": "Monst",
+    "id": 98,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "UI/tupo/daxuli",
+    "group": "Monst",
+    "id": 99,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "UI/tupo/baozha",
+    "group": "Monst",
+    "id": 100,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "UI/lianqi/lianqi_huo",
+    "group": "Monst",
+    "id": 101,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "UI/jingshi_dakai",
+    "group": "Monst",
+    "id": 102,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "UI/jingshi_peng",
+    "group": "Monst",
+    "id": 103,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "UI/jingshi_fei1",
+    "group": "Monst",
+    "id": 104,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "UI/jingshi_fei2",
+    "group": "Monst",
+    "id": 105,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "UI/jingshi_bao1",
+    "group": "Monst",
+    "id": 106,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "UI/jingshi_bao2",
+    "group": "Monst",
+    "id": 107,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "UI/xiaojingshi_dakai1",
+    "group": "Monst",
+    "id": 108,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "UI/xiaojingshi_dakai2",
+    "group": "Monst",
+    "id": 109,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "UI/jingshi_putong",
+    "group": "Monst",
+    "id": 110,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "UI/jingshi_SSR",
+    "group": "Monst",
+    "id": 111,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "UI/jingshi_jiemian",
+    "group": "Monst",
+    "id": 112,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "UI/jingshi_SSRbao",
+    "group": "Monst",
+    "id": 113,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "UI/jingshi_yanwu",
+    "group": "Monst",
+    "id": 114,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "qilingxing/benmingqiyue",
+    "group": "Monst",
+    "id": 115,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "qilingxing/rongheqiling",
+    "group": "Monst",
+    "id": 116,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "qilingxing/qiling_dazhao",
+    "group": "Monst",
+    "id": 117,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "qilingxing/mengyi_dazhao",
+    "group": "Monst",
+    "id": 118,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "qilingxing/mengyi_pugong",
+    "group": "Monst",
+    "id": 119,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "qilingxing/qixingchuxian",
+    "group": "Monst",
+    "id": 120,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "qilingxing/jiuchen_dazhao",
+    "group": "Monst",
+    "id": 121,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "qilingxing/ningshuang_dazhao",
+    "group": "Monst",
+    "id": 122,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "tupo/xiaojingjie",
+    "group": "Monst",
+    "id": 123,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "UI/tupo/longjiemian",
+    "group": "Monst",
+    "id": 124,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "UI/xintiao",
+    "group": "Monst",
+    "id": 125,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/suanyu_jiao11",
+    "group": "Monst",
+    "id": 126,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/suanyu_jiao12",
+    "group": "Monst",
+    "id": 127,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/suanyu_jiao13",
+    "group": "Monst",
+    "id": 128,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/suanyu_jiao14",
+    "group": "Monst",
+    "id": 129,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/suanyu_siwang",
+    "group": "Monst",
+    "id": 130,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/suanyu_zhaohuan",
+    "group": "Monst",
+    "id": 131,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/zhuru_yao1",
+    "group": "Monst",
+    "id": 132,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/zhuru_penqiu1",
+    "group": "Monst",
+    "id": 133,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/zhuru_zhi1",
+    "group": "Monst",
+    "id": 134,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/zhuru_zhen1",
+    "group": "Monst",
+    "id": 135,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/zhuru_siwang",
+    "group": "Monst",
+    "id": 136,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/yuanzhi_cai1",
+    "group": "Monst",
+    "id": 137,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/yuanzhi_tiao1",
+    "group": "Monst",
+    "id": 138,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/yuanzhi_jiao1",
+    "group": "Monst",
+    "id": 139,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/yuanzhi_jiguang1",
+    "group": "Monst",
+    "id": 140,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/yuanzhi_siwang",
+    "group": "Monst",
+    "id": 141,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "caiji/caiji",
+    "group": "Monst",
+    "id": 142,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "caiji/kance",
+    "group": "Monst",
+    "id": 143,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "caiji/wajinshi",
+    "group": "Monst",
+    "id": 144,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "caiji/xiulian",
+    "group": "Monst",
+    "id": 145,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "UI/dabi/shangchuan",
+    "group": "Monst",
+    "id": 146,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "zuoqi/feizhou_gongji",
+    "group": "Monst",
+    "id": 147,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "fuben/zongzhuchuancheng",
+    "group": "Monst",
+    "id": 148,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "UI/zhualu_shengli",
+    "group": "Monst",
+    "id": 149,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "UI/zhualu_shibai",
+    "group": "Monst",
+    "id": 150,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "UI/zhuruxianli",
+    "group": "Monst",
+    "id": 151,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/xingtian_paidi",
+    "group": "Monst",
+    "id": 152,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/xingtian_futou_hit1",
+    "group": "Monst",
+    "id": 153,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/xingtian_futou_hit2",
+    "group": "Monst",
+    "id": 154,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/xingtian_hui",
+    "group": "Monst",
+    "id": 155,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/xingtian2_paidi",
+    "group": "Monst",
+    "id": 156,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "guaiwuyinxiao/xingtian_cai",
+    "group": "Monst",
+    "id": 157,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "jineng/xianfa/xianfa_qiang1",
+    "group": "Monst",
+    "id": 158,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "jineng/xianfa/xianfa_jian",
+    "group": "Monst",
+    "id": 159,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "jineng/xianfa/xianfa_jian_zibao",
+    "group": "Monst",
+    "id": 160,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "jineng/xianfa/xianfa_jian_huobao",
+    "group": "Monst",
+    "id": 161,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "jineng/xianfa/xianfa_jian_hunbao",
+    "group": "Monst",
+    "id": 162,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "jineng/xianfa/xianfa_jian_xuebao",
+    "group": "Monst",
+    "id": 163,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "jineng/xianfa/xianfa_jian_fengbao",
+    "group": "Monst",
+    "id": 164,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "jineng/xianfa/xianfa_jian_lanbao",
+    "group": "Monst",
+    "id": 165,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "jineng/xianfa_xuli",
+    "group": "Monst",
+    "id": 166,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "jineng/xianfa_bao",
+    "group": "Monst",
+    "id": 167,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "jineng/xianfa/xianfa_feng",
+    "group": "Monst",
+    "id": 168,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "jineng/xianfa/xianfa_jhpx",
+    "group": "Monst",
+    "id": 169,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "path": "jineng/xianfa/xianfa_chuizi",
+    "group": "Monst",
+    "id": 170,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

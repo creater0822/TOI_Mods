@@ -1,0 +1,58 @@
+[
+  {
+    "key": "ratioUp",
+    "value": "10_100",
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "fortifiedUp",
+    "value": "-100",
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "battleVariate",
+    "value": "50",
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "battleValue",
+    "value": "100",
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "attAskingCD",
+    "value": "0_1",
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "choiceAtkCD",
+    "value": "3_6",
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "choiceDefCD",
+    "value": "3_6",
+    "id": 7,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "cautiousAttCD",
+    "value": "3_6",
+    "id": 8,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

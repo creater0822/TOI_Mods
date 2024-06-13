@@ -1,0 +1,18 @@
+[
+  // Walk towards the Black Dragon faster
+  {
+    "id": "1",
+    "key": "fixedMoveSpeed",
+    "value": "999"
+  },
+  {
+    "id": "8",
+    "key": "bossEnterAnimDuration",
+    "value": "650"
+  },
+  {
+    "id": "9",
+    "key": "createExitPassDelay",
+    "value": "100"
+  }
+]

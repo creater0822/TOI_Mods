@@ -1,0 +1,114 @@
+[
+  {
+    "key": "threatProb",
+    "value": 50,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "threatHateMin",
+    "value": 60,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "threatHateMax",
+    "value": 100,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "threatScore",
+    "value": 540,
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "threatMatchScoreParaA",
+    "value": 10000,
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "threatMatchScoreParaB",
+    "value": 100,
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "threatCloseScorePara",
+    "value": -20,
+    "id": 7,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "threatDramaID",
+    "value": 730091,
+    "id": 8,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "buyOverProb",
+    "value": 30,
+    "id": 9,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "buyOverHateMin",
+    "value": 90,
+    "id": 10,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "buyOverHateMax",
+    "value": 120,
+    "id": 11,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "buyOverCloseMin",
+    "value": 60,
+    "id": 12,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "buyOverCloseMax",
+    "value": 90,
+    "id": 13,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "buyOverDramaID",
+    "value": 730101,
+    "id": 14,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "buyOverDramaID1",
+    "value": 730111,
+    "id": 15,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "buyOverDramaID2",
+    "value": 730121,
+    "id": 16,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

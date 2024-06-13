@@ -1,0 +1,30 @@
+[
+  {
+    "entry": "range",
+    "title": "step_entry_title_1",
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "entry": "range",
+    "title": "step_entry_title_2",
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "entry": "duration",
+    "title": "step_entry_title_3",
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "entry": "duration",
+    "title": "step_entry_title_4",
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

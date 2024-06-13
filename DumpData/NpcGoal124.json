@@ -1,0 +1,93 @@
+[
+  {
+    "key": "searchRange",
+    "value": 10,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "talkWeight",
+    "value": 50,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "matchScoreParaA",
+    "value": 3000,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "matchScoreParaB",
+    "value": -2,
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "closeScorePara",
+    "value": 50,
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "hateScorePara",
+    "value": 50,
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "weightParaA",
+    "value": 1,
+    "id": 7,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "weightParaB",
+    "value": -3,
+    "id": 8,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "weightMin",
+    "value": 100,
+    "id": 9,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "weightParaC",
+    "value": 2,
+    "id": 10,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "defameRolePer",
+    "value": 50,
+    "id": 11,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "talkScoreRequire",
+    "value": 2000,
+    "id": 12,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "listCountMax",
+    "value": 3,
+    "id": 13,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

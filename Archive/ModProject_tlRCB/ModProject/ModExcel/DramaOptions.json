@@ -1,0 +1,422 @@
+[
+
+//女战败且慢
+  {
+    "id": "2019707423",
+    "condition": "gender_1_2|gender_0_1",
+    "hue": "0",
+    "optionsHide": 1,
+    "text": "drama_option2019707423",
+    "cost": "0",
+    "costHide": "0",
+    "function": "0",
+    "clickTip": "0",
+    "nextDialogue": "-789324320"
+  },
+  //男战败且慢
+  {
+    "id": "2019707424",
+    "condition": "gender_1_1|gender_0_2",
+    "hue": "0",
+    "optionsHide": 1,
+    "text": "drama_option2019707424",
+    "cost": "0",
+    "costHide": "0",
+    "function": "0",
+    "clickTip": "0",
+    "nextDialogue": "-789324321"
+  },
+  // 双修选项 男
+  {
+    "id": "2270310",
+    "condition": "gender_0_1",
+    "hue": 0,
+    "optionsHide": 1,
+    "text": "drama_option2270310",//普通
+    "cost": "0",
+    "costHide": 0,
+    "function": "做爱_0_1|addFeature_Fatury_PlayVideo_1",
+    "clickTip": "0",
+    "nextDialogue": "0"
+  },
+  {
+    "id": "2270311",
+    "condition": "gender_0_1",
+    "hue": 0,
+    "optionsHide": 1,
+    "text": "drama_option2270311",//内射
+    "cost": "0",
+    "costHide": 0,
+    "function": "内射_0_1|addFeature_Fatury_PlayVideo_1",
+    "clickTip": "0",
+    "nextDialogue": "0"
+  },
+  // 过月npc主动找玩家
+  {
+    "id": "228012",
+    "condition": "0",
+    "hue": "0",
+    "optionsHide": "0",
+    "text": "drama_option228012",
+    "cost": "0",
+    "costHide": "0",
+    "function": "做爱_0_1|addFeature_Fatury_PlayVideo_1",
+    "clickTip": "0",
+    "nextDialogue": "0"
+  },
+   // 双修选项 女
+  {
+    "id": "2270312",
+    "condition": "gender_0_2",
+    "hue": 0,
+    "optionsHide": 1,
+    "text": "drama_option2270312",//普通
+    "cost": "0",
+    "costHide": 0,
+    "function": "做爱_0_1|addFeature_Fatury_PlayVideo_1",
+    "clickTip": "0",
+    "nextDialogue": "0"
+  },
+  {
+    "id": "2270313",
+    "condition": "gender_0_2",
+    "hue": 0,
+    "optionsHide": 1,
+    "text": "drama_option2270313",//内射
+    "cost": "0",
+    "costHide": 0,
+    "function": "内射_0_1|addFeature_Fatury_PlayVideo_1",
+    "clickTip": "0",
+    "nextDialogue": "0"
+  },
+
+ //战败放走选项 男选项
+  {
+    "id": "2019707425",
+    "condition": "0",
+    "hue": 0,
+    "optionsHide": 1,
+    "text": "drama_option2019707425",//奸淫
+    "cost": "0",
+    "costHide": 0,
+    "function": "强奸_0_1|addFeature_Fatury_PlayVideo_1",
+    "clickTip": "0",
+    "nextDialogue": "0"
+  },
+  {
+    "id": "1693543259",
+    "condition": "0",
+    "hue": 0,
+    "optionsHide": 1,
+    "text": "drama_option1693543259",//内射
+    "cost": "0",
+    "costHide": 0,
+    "function": "强奸内射_0_1|addFeature_Fatury_PlayVideo_1",
+    "clickTip": "0",
+    "nextDialogue": "0"
+  },
+    {
+    "id": "1774060028",
+    "condition": "or|featureNot_1_582935472|featureNot_1_-1019384845|gender_1_1",//已经是性奴了就不显示, 或者玩家是女性
+    "hue": 0,
+    "optionsHide": 1,
+    "text": "drama_option1774060028",//收奴
+    "cost": "0",
+    "costHide": 0,
+    "function": "做爱_0_1",
+    "clickTip": "0",
+    "nextDialogue": "1019197323"
+  },
+   //战败放走选项 女选项
+  {
+    "id": "2019707426",
+    "condition": "0",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option2019707426",//奸淫
+    "cost": "0",
+    "costHide": 0,
+    "function": "强奸_0_1|addFeature_Fatury_PlayVideo_1",
+    "clickTip": "0",
+    "nextDialogue": "0"
+  },
+  {
+    "id": "1693543260",
+    "condition": "0",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option1693543260",//内射
+    "cost": "0",
+    "costHide": 0,
+    "function": "强奸内射_0_1|addFeature_Fatury_PlayVideo_1",
+    "clickTip": "0",
+    "nextDialogue": "0"
+  },
+  // 囚禁女NPC
+  {
+    "id": "2019707427",
+    "condition": "gender_1_2",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option2019707427",
+    "cost": "0",
+    "costHide": 0,
+    "function": "addNPCLuck_1_-541655652|battleExit_1",
+    "clickTip": "0",
+    "nextDialogue": "0"
+  },
+  
+
+  //青楼选项
+  {
+    "id": "1693543261",
+    "condition": "or|dialogueCount_1811210006_2_1|dialogueCount_1811210007_2_1",
+    "hue": 0,
+    "optionsHide": 1,
+    "text": "drama_option1693543261",//卖仇人
+    "cost": "0",
+    "costHide": 0,
+    "function": "青楼_卖仇人",
+    "clickTip": "0",
+    "nextDialogue": "0"
+  },
+  {
+    "id": "1693543262",
+    "condition": "gender_1_2|duoluodu_0_g_2",
+    "hue": 0,
+    "optionsHide": 1,
+    "text": "drama_option1693543262",//卖自己
+    "cost": "0",
+    "costHide": 0,
+    "function": "0",
+    "clickTip": "0",
+    "nextDialogue": "1811210009"
+  },
+  {
+    "id": "1693543263",
+    "condition": "dialogueCount_1811210000_2_1",
+    "hue": 0,
+    "optionsHide": 1,
+    "text": "drama_option1693543263",//赎身
+    "cost": "0",
+    "costHide": 0,
+    "function": "青楼_赎人",
+    "clickTip": "0",
+    "nextDialogue": "0"
+  },
+  
+  {
+    "id": "1693543264",
+    "condition": "item_10001_2000",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option1693543264",//自赎
+    "cost": "0",
+    "costHide": 0,
+    "function": "0",
+    "clickTip": "0",
+    "nextDialogue": "1811210025"
+  },
+  {
+    "id": "1693543265",
+    "condition": "0",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option1693543265",//接客
+    "cost": "0",
+    "costHide": 0,
+    "function": "青楼_接客",
+    "clickTip": "0",
+    "nextDialogue": "0"
+  },
+  {
+    "id": "1693543266",
+    "condition": "gender_0_1",
+    "hue": 0,
+    "optionsHide": 1,
+    "text": "drama_option1693543266",//嫖
+    "cost": "0",
+    "costHide": 0,
+    "function": "青楼_选妓女",
+    "clickTip": "0",
+    "nextDialogue": "0"
+  },
+  {
+    "id": "1693543267",
+    "condition": "可赎身_0_2",//满足a赎c的条件
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option1693543267",//给钱赎人
+    "cost": "0",
+    "costHide": 0,
+    "function": "青楼_赎人成功",
+    "clickTip": "0",
+    "nextDialogue": "1811210019"
+  },
+  {
+    "id": "1693543268",
+    "condition": "0",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option1693543268",//抢人
+    "cost": "0",
+    "costHide": 0,
+    "function": "0",
+    "clickTip": "0",
+    "nextDialogue": "1811210021"
+  },
+  {
+    "id": "1693543269",
+    "condition": "item_10001_2000",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option1693543269",//确认赎自己离开青楼
+    "cost": "0",
+    "costHide": 0,
+    "function": "delItemID_10001_2000|青楼_赎自己",
+    "clickTip": "0",
+    "nextDialogue": "0"
+  },
+  {
+    "id": "1693543270",
+    "condition": "0",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option1693543270",//不离开青楼
+    "cost": "0",
+    "costHide": 0,
+    "function": "0",
+    "clickTip": "0",
+    "nextDialogue": "0"
+  },
+  // 三个喂食的入口
+  {
+    "id": "1693543271",
+    "condition": "0",
+    "hue": 0,
+    "optionsHide": 0,
+    "text": "drama_option204036",//强行喂食
+    "cost": "0",
+    "costHide": 0,
+    "function": "0",
+    "clickTip": "0",
+    "nextDialogue": "1811210031"
+  },
+  // 官方的喂食
+  {
+	"id": 204036,
+	"condition": "itemType_1_0_0_2_1",
+	"hue": 0,
+	"optionsHide": 1,
+	"text": "drama_option204036",
+	"cost": "0",
+	"costHide": 0,
+	"function": "itemSelectNotCost_0_1_1_0_0_0|notNextDialogue",
+	"clickTip": "0",
+	"nextDialogue": "28001"
+  },
+  //我的喂食
+  {
+    "id": "1693543272",
+    "condition": "itemType_1_0_0_2_1",//itemType_1_0_0_2_1
+    "hue": 0,
+    "optionsHide": 1,
+    "text": "drama_option1693543272",//强行喂食
+    "cost": "0",
+    "costHide": 0,
+	//itemSelect_提示语id_个数_大类_小类id_物品id 
+    "function": "itemSelect_0_1_1_0_0|notNextDialogue",// 物品大类一共1-6六种，管在哪个标签显示，这里设定要显示丹药
+    "clickTip": "0",
+    "nextDialogue": "1811210032"
+  },
+  //灵田的喂食
+  {
+    "id": "223444425",
+    "condition": "itemType_0_223444325_0_2_1",
+    "hue": "0",
+    "optionsHide": "1",
+    "text": "drama_option1693543271",//喂食灵果
+    "cost": "0",
+    "costHide": "0",
+    "function": "itemSelect_0_1_6_223444325_0|notNextDialogue",
+    "clickTip": "0",
+    "nextDialogue": "223445335"
+  },
+  
+  
+  // 以身救淫
+  {
+    "id": "1693543274",
+    "condition": "0",
+    "hue": "0",
+    "optionsHide": "0",
+    "text": "drama_option1693543274",
+    "cost": "0",
+    "costHide": "0",
+    "function": "0",
+    "clickTip": "0",
+    "nextDialogue": "1811210043"
+  },
+  //拒绝
+  {
+    "id": "1693543275",
+    "condition": "0",
+    "hue": "0",
+    "optionsHide": "0",
+    "text": "drama_option1693543275",
+    "cost": "0",
+    "costHide": "0",
+    "function": "淫女欲_战斗",
+    "clickTip": "0",
+    "nextDialogue": "0"
+  },  
+  // 互动
+  {
+    "id": "1693543276",
+    "condition": "itemType_1_0_0_2_1",
+    "hue": 0,
+    "optionsHide": "0",
+    "text": "drama_option1693543276",//喂食
+    "cost": "0",
+    "costHide": "0",
+    "function": "itemSelectNotCost_0_1_1_0_0_0|notNextDialogue",
+    "clickTip": "0",
+    "nextDialogue": "1811210045"
+  },
+  {
+    "id": "1693543277",
+    "condition": "0",
+    "hue": 0,
+    "optionsHide": "0",
+    "text": "drama_option1693543277",//换装
+    "cost": "0",
+    "costHide": "0",
+    "function": "换装_2_1811210046",
+    "clickTip": "0",
+    "nextDialogue": "0"
+  },
+  {
+    "id": "1693543278",
+    "condition": "itemType_3_301_0_2_1",
+    "hue": 0,
+    "optionsHide": "0",
+    "text": "drama_option1693543278",//装备
+    "cost": "0",
+    "costHide": "0",
+    "function": "itemSelectNotCost_0_1_3_301_0_0|notNextDialogue",
+    "clickTip": "0",
+    "nextDialogue": "1811210047"
+  },
+  {
+    "id": "1693543279",
+    "condition": "itemType_6_10602_0_2_1",
+    "hue": 0,
+    "optionsHide": "0",
+    "text": "drama_option1693543279",//学习
+    "cost": "0",
+    "costHide": "0",
+    "function": "itemSelectNotCost_0_1_6_10602_0_0|notNextDialogue",
+    "clickTip": "0",
+    "nextDialogue": "1811210048"
+  },
+]

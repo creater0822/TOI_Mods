@@ -1,0 +1,42 @@
+[
+  {
+    "bulletNum": "2",
+    "bulletDegree": "20",
+    "angleTime": 500,
+    "id": 24002,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "bulletNum": "3",
+    "bulletDegree": "40",
+    "angleTime": 1000,
+    "id": 24003,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "bulletNum": "&17112_ddsl",
+    "bulletDegree": "15",
+    "angleTime": 500,
+    "id": 24004,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "bulletNum": "&46111_ddsl",
+    "bulletDegree": "&46111_ddjd",
+    "angleTime": 500,
+    "id": 24005,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "bulletNum": "2",
+    "bulletDegree": "90",
+    "angleTime": 3000,
+    "id": 24006,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

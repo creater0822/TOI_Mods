@@ -1,0 +1,82 @@
+[
+  {
+    "item": 5021462,
+    "num": 10,
+    "money": 60,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "item": 5021463,
+    "num": 10,
+    "money": 100,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "item": 5021464,
+    "num": 10,
+    "money": 150,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "item": 5021465,
+    "num": 10,
+    "money": 240,
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "item": 5021466,
+    "num": 10,
+    "money": 370,
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "item": 5021472,
+    "num": 10,
+    "money": 600,
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "item": 5021473,
+    "num": 10,
+    "money": 940,
+    "id": 7,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "item": 5021474,
+    "num": 10,
+    "money": 1500,
+    "id": 8,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "item": 5021475,
+    "num": 10,
+    "money": 2300,
+    "id": 9,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "item": 5021476,
+    "num": 10,
+    "money": 3700,
+    "id": 10,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

@@ -1,0 +1,1058 @@
+[
+  {
+    "stable": 1000,
+    "prosperousChange": 200,
+    "prosperousChangeMin": 10,
+    "prosperousChangeMax": 24,
+    "attackedProb": 0,
+    "dungeonID1": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID2": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID3": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID4": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID5": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "attackedCount": 0,
+    "helpProb": 60,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "stable": 990,
+    "prosperousChange": 190,
+    "prosperousChangeMin": 10,
+    "prosperousChangeMax": 23,
+    "attackedProb": 0,
+    "dungeonID1": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID2": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID3": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID4": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID5": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "attackedCount": 0,
+    "helpProb": 58,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "stable": 980,
+    "prosperousChange": 180,
+    "prosperousChangeMin": 10,
+    "prosperousChangeMax": 22,
+    "attackedProb": 0,
+    "dungeonID1": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID2": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID3": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID4": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID5": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "attackedCount": 0,
+    "helpProb": 56,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "stable": 970,
+    "prosperousChange": 170,
+    "prosperousChangeMin": 10,
+    "prosperousChangeMax": 21,
+    "attackedProb": 0,
+    "dungeonID1": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID2": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID3": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID4": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID5": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "attackedCount": 0,
+    "helpProb": 54,
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "stable": 960,
+    "prosperousChange": 160,
+    "prosperousChangeMin": 10,
+    "prosperousChangeMax": 20,
+    "attackedProb": 0,
+    "dungeonID1": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID2": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID3": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID4": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID5": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "attackedCount": 0,
+    "helpProb": 52,
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "stable": 950,
+    "prosperousChange": 150,
+    "prosperousChangeMin": 5,
+    "prosperousChangeMax": 19,
+    "attackedProb": 0,
+    "dungeonID1": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID2": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID3": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID4": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID5": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "attackedCount": 0,
+    "helpProb": 50,
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "stable": 940,
+    "prosperousChange": 140,
+    "prosperousChangeMin": 5,
+    "prosperousChangeMax": 18,
+    "attackedProb": 0,
+    "dungeonID1": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID2": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID3": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID4": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID5": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "attackedCount": 0,
+    "helpProb": 48,
+    "id": 7,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "stable": 930,
+    "prosperousChange": 130,
+    "prosperousChangeMin": 5,
+    "prosperousChangeMax": 17,
+    "attackedProb": 0,
+    "dungeonID1": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID2": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID3": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID4": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID5": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "attackedCount": 0,
+    "helpProb": 46,
+    "id": 8,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "stable": 920,
+    "prosperousChange": 120,
+    "prosperousChangeMin": 5,
+    "prosperousChangeMax": 16,
+    "attackedProb": 0,
+    "dungeonID1": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID2": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID3": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID4": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID5": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "attackedCount": 0,
+    "helpProb": 44,
+    "id": 9,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "stable": 910,
+    "prosperousChange": 110,
+    "prosperousChangeMin": 5,
+    "prosperousChangeMax": 15,
+    "attackedProb": 0,
+    "dungeonID1": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID2": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID3": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID4": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID5": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "attackedCount": 0,
+    "helpProb": 42,
+    "id": 10,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "stable": 900,
+    "prosperousChange": 100,
+    "prosperousChangeMin": 1,
+    "prosperousChangeMax": 14,
+    "attackedProb": 0,
+    "dungeonID1": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID2": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID3": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID4": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID5": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "attackedCount": 0,
+    "helpProb": 40,
+    "id": 11,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "stable": 890,
+    "prosperousChange": 90,
+    "prosperousChangeMin": 1,
+    "prosperousChangeMax": 13,
+    "attackedProb": 1,
+    "dungeonID1": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID2": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID3": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID4": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID5": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "attackedCount": 1,
+    "helpProb": 38,
+    "id": 12,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "stable": 880,
+    "prosperousChange": 80,
+    "prosperousChangeMin": 1,
+    "prosperousChangeMax": 12,
+    "attackedProb": 2,
+    "dungeonID1": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID2": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID3": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID4": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID5": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "attackedCount": 1,
+    "helpProb": 36,
+    "id": 13,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "stable": 870,
+    "prosperousChange": 70,
+    "prosperousChangeMin": 1,
+    "prosperousChangeMax": 11,
+    "attackedProb": 3,
+    "dungeonID1": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID2": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID3": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID4": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID5": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "attackedCount": 1,
+    "helpProb": 34,
+    "id": 14,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "stable": 860,
+    "prosperousChange": 60,
+    "prosperousChangeMin": 1,
+    "prosperousChangeMax": 10,
+    "attackedProb": 4,
+    "dungeonID1": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID2": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID3": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID4": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID5": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "attackedCount": 1,
+    "helpProb": 32,
+    "id": 15,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "stable": 850,
+    "prosperousChange": 50,
+    "prosperousChangeMin": 0,
+    "prosperousChangeMax": 5,
+    "attackedProb": 5,
+    "dungeonID1": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID2": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID3": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID4": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID5": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "attackedCount": 1,
+    "helpProb": 30,
+    "id": 16,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "stable": 840,
+    "prosperousChange": 40,
+    "prosperousChangeMin": -2,
+    "prosperousChangeMax": 0,
+    "attackedProb": 6,
+    "dungeonID1": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID2": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID3": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID4": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID5": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "attackedCount": 2,
+    "helpProb": 25,
+    "id": 17,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "stable": 830,
+    "prosperousChange": 30,
+    "prosperousChangeMin": -4,
+    "prosperousChangeMax": 0,
+    "attackedProb": 7,
+    "dungeonID1": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID2": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID3": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID4": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID5": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "attackedCount": 2,
+    "helpProb": 20,
+    "id": 18,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "stable": 820,
+    "prosperousChange": 20,
+    "prosperousChangeMin": -6,
+    "prosperousChangeMax": 0,
+    "attackedProb": 8,
+    "dungeonID1": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID2": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID3": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID4": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID5": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "attackedCount": 2,
+    "helpProb": 15,
+    "id": 19,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "stable": 810,
+    "prosperousChange": 10,
+    "prosperousChangeMin": -8,
+    "prosperousChangeMax": 0,
+    "attackedProb": 9,
+    "dungeonID1": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID2": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID3": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID4": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID5": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "attackedCount": 2,
+    "helpProb": 10,
+    "id": 20,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "stable": 800,
+    "prosperousChange": 0,
+    "prosperousChangeMin": -10,
+    "prosperousChangeMax": 0,
+    "attackedProb": 10,
+    "dungeonID1": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID2": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID3": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID4": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID5": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "attackedCount": 2,
+    "helpProb": 5,
+    "id": 21,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "stable": 750,
+    "prosperousChange": -20,
+    "prosperousChangeMin": -10,
+    "prosperousChangeMax": -5,
+    "attackedProb": 11,
+    "dungeonID1": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID2": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID3": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID4": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID5": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "attackedCount": 2,
+    "helpProb": 0,
+    "id": 22,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "stable": 700,
+    "prosperousChange": -40,
+    "prosperousChangeMin": -15,
+    "prosperousChangeMax": -10,
+    "attackedProb": 12,
+    "dungeonID1": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID2": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID3": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID4": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID5": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "attackedCount": 3,
+    "helpProb": 0,
+    "id": 23,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "stable": 650,
+    "prosperousChange": -60,
+    "prosperousChangeMin": -20,
+    "prosperousChangeMax": -10,
+    "attackedProb": 13,
+    "dungeonID1": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID2": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID3": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID4": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID5": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "attackedCount": 3,
+    "helpProb": 0,
+    "id": 24,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "stable": 600,
+    "prosperousChange": -80,
+    "prosperousChangeMin": -20,
+    "prosperousChangeMax": -15,
+    "attackedProb": 14,
+    "dungeonID1": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID2": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID3": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID4": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID5": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "attackedCount": 3,
+    "helpProb": 0,
+    "id": 25,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "stable": 550,
+    "prosperousChange": -100,
+    "prosperousChangeMin": -25,
+    "prosperousChangeMax": -15,
+    "attackedProb": 15,
+    "dungeonID1": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID2": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID3": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID4": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID5": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "attackedCount": 3,
+    "helpProb": 0,
+    "id": 26,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "stable": 500,
+    "prosperousChange": -120,
+    "prosperousChangeMin": -25,
+    "prosperousChangeMax": -20,
+    "attackedProb": 16,
+    "dungeonID1": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID2": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID3": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID4": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID5": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "attackedCount": 3,
+    "helpProb": 0,
+    "id": 27,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "stable": 400,
+    "prosperousChange": -140,
+    "prosperousChangeMin": -30,
+    "prosperousChangeMax": -20,
+    "attackedProb": 17,
+    "dungeonID1": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID2": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID3": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID4": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID5": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "attackedCount": 4,
+    "helpProb": 0,
+    "id": 28,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "stable": 300,
+    "prosperousChange": -160,
+    "prosperousChangeMin": -30,
+    "prosperousChangeMax": -25,
+    "attackedProb": 18,
+    "dungeonID1": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID2": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID3": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID4": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID5": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "attackedCount": 4,
+    "helpProb": 0,
+    "id": 29,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "stable": 200,
+    "prosperousChange": -180,
+    "prosperousChangeMin": -35,
+    "prosperousChangeMax": -25,
+    "attackedProb": 19,
+    "dungeonID1": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID2": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID3": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID4": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID5": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "attackedCount": 4,
+    "helpProb": 0,
+    "id": 30,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "stable": 100,
+    "prosperousChange": -200,
+    "prosperousChangeMin": -35,
+    "prosperousChangeMax": -30,
+    "attackedProb": 20,
+    "dungeonID1": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID2": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID3": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID4": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID5": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "attackedCount": 4,
+    "helpProb": 0,
+    "id": 31,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "stable": 0,
+    "prosperousChange": -220,
+    "prosperousChangeMin": -40,
+    "prosperousChangeMax": -30,
+    "attackedProb": 21,
+    "dungeonID1": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID2": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID3": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID4": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID5": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "attackedCount": 4,
+    "helpProb": 0,
+    "id": 32,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "stable": -9999,
+    "prosperousChange": -240,
+    "prosperousChangeMin": -40,
+    "prosperousChangeMax": -35,
+    "attackedProb": 22,
+    "dungeonID1": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID2": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID3": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID4": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "dungeonID5": [
+      [1011, 100],
+      [1011, 100]
+    ],
+    "attackedCount": 4,
+    "helpProb": 0,
+    "id": 33,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

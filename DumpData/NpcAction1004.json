@@ -1,0 +1,93 @@
+[
+  {
+    "key": "schoolBookLevelMax",
+    "value": 6,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "townBookLevelMax",
+    "value": 4,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "itemNumMin",
+    "value": 10,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "itemNumMax",
+    "value": 20,
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "buyPillMinRate",
+    "value": 10,
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "buyPillRandomMinNum",
+    "value": 20,
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "buyPillRandomMaxNum",
+    "value": 30,
+    "id": 7,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "herosBuyMinMartialLevel",
+    "value": 5,
+    "id": 8,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "weightMonthPart",
+    "value": 15,
+    "id": 9,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "weightMonthGoal",
+    "value": 15,
+    "id": 10,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "initLevel6Rate",
+    "value": 50,
+    "id": 11,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "initLevel5Rate",
+    "value": 100,
+    "id": 12,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "schoolLevel6AddRate",
+    "value": 20,
+    "id": 13,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

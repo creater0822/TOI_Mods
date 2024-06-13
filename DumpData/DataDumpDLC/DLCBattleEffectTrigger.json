@@ -1,0 +1,135 @@
+[
+  {
+    "type": 101,
+    "value": 0,
+    "id": 101,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "type": 101,
+    "value": 1,
+    "id": 1011,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "type": 101,
+    "value": 2,
+    "id": 1012,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "type": 101,
+    "value": 3,
+    "id": 1013,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "type": 102,
+    "value": 0,
+    "id": 102,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "type": 1021,
+    "value": 0,
+    "id": 1021,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "type": 1021,
+    "value": 1,
+    "id": 1022,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "type": 103,
+    "value": 0,
+    "id": 103,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "type": 104,
+    "value": 0,
+    "id": 104,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "type": 105,
+    "value": 0,
+    "id": 105,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "type": 106,
+    "value": 0,
+    "id": 106,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "type": 107,
+    "value": 0,
+    "id": 107,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "type": 108,
+    "value": 0,
+    "id": 108,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "type": 109,
+    "value": 1,
+    "id": 1091,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "type": 109,
+    "value": 2,
+    "id": 1092,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "type": 109,
+    "value": 3,
+    "id": 1093,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "type": 110,
+    "value": 1,
+    "id": 1101,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "type": 110,
+    "value": 2,
+    "id": 1102,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "type": 110,
+    "value": 3,
+    "id": 1103,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

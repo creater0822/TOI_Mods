@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Immotal_Mods\\ModProject_LuciferModifier\\ModProject\\ModCode\\ModMain\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3591496F-6A4C-477A-A04C-177FB616E439}|ModMain.csproj|g:\\immotal_mods\\modproject_lucifermodifier\\modproject\\modcode\\modmain\\lucifersystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3591496F-6A4C-477A-A04C-177FB616E439}|ModMain.csproj|solutionrelative:lucifersystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3591496F-6A4C-477A-A04C-177FB616E439}|ModMain.csproj|G:\\Immotal_Mods\\ModProject_LuciferModifier\\ModProject\\ModCode\\ModMain\\modifiermain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3591496F-6A4C-477A-A04C-177FB616E439}|ModMain.csproj|solutionrelative:modifiermain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3591496F-6A4C-477A-A04C-177FB616E439}|ModMain.csproj|G:\\Immotal_Mods\\ModProject_LuciferModifier\\ModProject\\ModCode\\ModMain\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3591496F-6A4C-477A-A04C-177FB616E439}|ModMain.csproj|solutionrelative:properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ModMain||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ModifierMain.cs",
+              "DocumentMoniker": "G:\\Immotal_Mods\\ModProject_LuciferModifier\\ModProject\\ModCode\\ModMain\\ModifierMain.cs",
+              "RelativeDocumentMoniker": "ModifierMain.cs",
+              "ToolTip": "G:\\Immotal_Mods\\ModProject_LuciferModifier\\ModProject\\ModCode\\ModMain\\ModifierMain.cs",
+              "RelativeToolTip": "ModifierMain.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T14:55:11.083Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LuciferSystem.cs",
+              "DocumentMoniker": "G:\\Immotal_Mods\\ModProject_LuciferModifier\\ModProject\\ModCode\\ModMain\\LuciferSystem.cs",
+              "RelativeDocumentMoniker": "LuciferSystem.cs",
+              "ToolTip": "G:\\Immotal_Mods\\ModProject_LuciferModifier\\ModProject\\ModCode\\ModMain\\LuciferSystem.cs",
+              "RelativeToolTip": "LuciferSystem.cs",
+              "ViewState": "AQIAAJ4EAAAAAAAAAAAewBgCAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T01:52:57.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "G:\\Immotal_Mods\\ModProject_LuciferModifier\\ModProject\\ModCode\\ModMain\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Properties\\AssemblyInfo.cs",
+              "ToolTip": "G:\\Immotal_Mods\\ModProject_LuciferModifier\\ModProject\\ModCode\\ModMain\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T19:07:11.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ModMain",
+              "DocumentMoniker": "G:\\Immotal_Mods\\ModProject_LuciferModifier\\ModProject\\ModCode\\ModMain\\ModMain.csproj",
+              "RelativeDocumentMoniker": "ModMain.csproj",
+              "ToolTip": "G:\\Immotal_Mods\\ModProject_LuciferModifier\\ModProject\\ModCode\\ModMain\\ModMain.csproj",
+              "RelativeToolTip": "ModMain.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-22T19:01:43.059Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

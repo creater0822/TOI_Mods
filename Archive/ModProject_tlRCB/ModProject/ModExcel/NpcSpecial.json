@@ -1,0 +1,53 @@
+[
+  // A daughter born normally to the player
+  {
+    "id": "1008611",
+    "grade": "1",
+    "gradeFix": "0",
+    "gender": "2",
+    "beatyRequire": "beatyRequire_900_1000",
+    "age": "16",
+    "attrFix": "heros",
+    "featureFix": "0",
+    "relationFix": "0",
+    "characterA": "0",
+    "characterB": "8|12",
+    "dressMan": "0",
+    "dressWoman": "0",
+    "startPos": "around_0_0_0"
+  },
+  // Children born by NPC are all random
+  {
+    "id": "1008612",
+    "grade": "1",
+    "gradeFix": "0",
+    "gender": "0",
+    "beatyRequire": "0",
+    "age": "16",
+    "attrFix": "0",
+    "featureFix": "0",
+    "relationFix": "0",
+    "characterA": "0",
+    "characterB": "0",
+    "dressMan": "0",
+    "dressWoman": "0",
+    "startPos": "around_0_0_0"
+  },
+  // The daughter of a sex slave, comes with her own sex slave buff
+  {
+    "id": "1008613",
+    "grade": "1",
+    "gradeFix": "0",
+    "gender": "2",
+    "beatyRequire": "beatyRequire_900_1000",
+    "age": "16",
+    "attrFix": "heros",
+    "featureFix": "addFeature_582935472",
+    "relationFix": "0",
+    "characterA": "0",
+    "characterB": "8|12",
+    "dressMan": "0",
+    "dressWoman": "0",
+    "startPos": "around_0_0_0"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "key": "testInterval",
+    "value": 1,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "discipleCountMax",
+    "value": 5,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "inheritDiscipleCountMax",
+    "value": 8,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "discipleBreakWithProbability",
+    "value": 2500,
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "breakWithRelationCD",
+    "value": 3,
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

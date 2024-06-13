@@ -1,0 +1,4002 @@
+[
+  {
+    "index": 1,
+    "text": "飞",
+    "tc": "飛",
+    "en": "Hoverer's",
+    "kr": "비",
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "舞",
+    "tc": "舞",
+    "en": "Dancer's",
+    "kr": "무",
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "吹",
+    "tc": "吹",
+    "en": "Blower's",
+    "kr": "취",
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "落",
+    "tc": "落",
+    "en": "Fallen's",
+    "kr": "낙",
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "飘",
+    "tc": "飄",
+    "en": "Drifter's",
+    "kr": "표",
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "斩",
+    "tc": "斬",
+    "en": "Cutter's",
+    "kr": "참",
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "断",
+    "tc": "斷",
+    "en": "Taken's",
+    "kr": "단",
+    "id": 7,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "凝",
+    "tc": "凝",
+    "en": "Thinker's",
+    "kr": "응",
+    "id": 8,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "破",
+    "tc": "破",
+    "en": "Ravager's",
+    "kr": "파",
+    "id": 9,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "握",
+    "tc": "握",
+    "en": "Holder's",
+    "kr": "악",
+    "id": 10,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "撕",
+    "tc": "撕",
+    "en": "Slicer's",
+    "kr": "시",
+    "id": 11,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "聚",
+    "tc": "聚",
+    "en": "Fixer's",
+    "kr": "취",
+    "id": 12,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "归",
+    "tc": "歸",
+    "en": "Returner's",
+    "kr": "귀",
+    "id": 13,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "炼",
+    "tc": "煉",
+    "en": "Forger's",
+    "kr": "연",
+    "id": 14,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "焚",
+    "tc": "焚",
+    "en": "Burner's",
+    "kr": "분",
+    "id": 15,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "崩",
+    "tc": "崩",
+    "en": "Befallen's",
+    "kr": "붕",
+    "id": 16,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "灼",
+    "tc": "灼",
+    "en": "Seer's",
+    "kr": "작",
+    "id": 17,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "定",
+    "tc": "定",
+    "en": "Quietude's",
+    "kr": "정",
+    "id": 18,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "穿",
+    "tc": "穿",
+    "en": "Warrior's",
+    "kr": "천",
+    "id": 19,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "封",
+    "tc": "封",
+    "en": "Seal's",
+    "kr": "봉",
+    "id": 20,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "月",
+    "tc": "月",
+    "en": "Moon's",
+    "kr": "월",
+    "id": 21,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "龙",
+    "tc": "龍",
+    "en": "Dragon's",
+    "kr": "용",
+    "id": 22,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "星",
+    "tc": "星",
+    "en": "Star's",
+    "kr": "성",
+    "id": 23,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "云",
+    "tc": "雲",
+    "en": "Cloud's",
+    "kr": "운",
+    "id": 24,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "血",
+    "tc": "血",
+    "en": "Blood's",
+    "kr": "혈",
+    "id": 25,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "神",
+    "tc": "神",
+    "en": "Spirit's",
+    "kr": "신",
+    "id": 26,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "魔",
+    "tc": "魔",
+    "en": "Demon's",
+    "kr": "마",
+    "id": 27,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "苍",
+    "tc": "蒼",
+    "en": "Azure's",
+    "kr": "창",
+    "id": 28,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "冥",
+    "tc": "冥",
+    "en": "Nether's",
+    "kr": "명",
+    "id": 29,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "暴",
+    "tc": "暴",
+    "en": "Brute's",
+    "kr": "폭",
+    "id": 30,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "狂",
+    "tc": "狂",
+    "en": "Madness'",
+    "kr": "광",
+    "id": 31,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "掣",
+    "tc": "掣",
+    "en": "Control's",
+    "kr": "철",
+    "id": 32,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "噬",
+    "tc": "噬",
+    "en": "Hunger's",
+    "kr": "서",
+    "id": 33,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "化",
+    "tc": "化",
+    "en": "Turn's",
+    "kr": "화",
+    "id": 34,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "弑",
+    "tc": "弑",
+    "en": "Death's",
+    "kr": "시",
+    "id": 35,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "无",
+    "tc": "無",
+    "en": "Void's",
+    "kr": "무",
+    "id": 36,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "孤",
+    "tc": "孤",
+    "en": "Outcast's",
+    "kr": "고",
+    "id": 37,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "流",
+    "tc": "流",
+    "en": "Wanderer's",
+    "kr": "유",
+    "id": 38,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "伏",
+    "tc": "伏",
+    "en": "Trap's",
+    "kr": "복",
+    "id": 39,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "摧",
+    "tc": "摧",
+    "en": "Wreckage's",
+    "kr": "최",
+    "id": 40,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "镇",
+    "tc": "鎮",
+    "en": "City's",
+    "kr": "진",
+    "id": 41,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "渡",
+    "tc": "渡",
+    "en": "Canal's",
+    "kr": "도",
+    "id": 42,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "夺",
+    "tc": "奪",
+    "en": "Thief's",
+    "kr": "탈",
+    "id": 43,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "碎",
+    "tc": "碎",
+    "en": "Crusher's",
+    "kr": "쇄",
+    "id": 44,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "灭",
+    "tc": "滅",
+    "en": "Ruiner's",
+    "kr": "멸",
+    "id": 45,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "轻",
+    "tc": "輕",
+    "en": "Feather's",
+    "kr": "경",
+    "id": 46,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "绝",
+    "tc": "絕",
+    "en": "Ender's",
+    "kr": "절",
+    "id": 47,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "幽",
+    "tc": "幽",
+    "en": "Gloom's",
+    "kr": "유",
+    "id": 48,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "青",
+    "tc": "青",
+    "en": "Cobalt's",
+    "kr": "청",
+    "id": 49,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "赤",
+    "tc": "赤",
+    "en": "Gore's",
+    "kr": "적",
+    "id": 50,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "金",
+    "tc": "金",
+    "en": "Gilder's",
+    "kr": "금",
+    "id": 51,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "黑",
+    "tc": "黑",
+    "en": "Obsidian's",
+    "kr": "흑",
+    "id": 52,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "红",
+    "tc": "紅",
+    "en": "Ruby's",
+    "kr": "홍",
+    "id": 53,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "银",
+    "tc": "銀",
+    "en": "Silver's",
+    "kr": "은",
+    "id": 54,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "禁",
+    "tc": "禁",
+    "en": "Sealer's",
+    "kr": "금",
+    "id": 55,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "残",
+    "tc": "殘",
+    "en": "Goner's",
+    "kr": "잔",
+    "id": 56,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "天",
+    "tc": "天",
+    "en": "Sky's",
+    "kr": "천",
+    "id": 57,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "幻",
+    "tc": "幻",
+    "en": "Mirage's",
+    "kr": "환",
+    "id": 58,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "疾",
+    "tc": "疾",
+    "en": "Alacrity's",
+    "kr": "질",
+    "id": 59,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "怒",
+    "tc": "怒",
+    "en": "Anger's",
+    "kr": "노",
+    "id": 60,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "炽",
+    "tc": "熾",
+    "en": "Flare's",
+    "kr": "치",
+    "id": 61,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "灵",
+    "tc": "靈",
+    "en": "Aether's",
+    "kr": "영",
+    "id": 62,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "墨",
+    "tc": "墨",
+    "en": "Inker's",
+    "kr": "묵",
+    "id": 63,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "锁",
+    "tc": "鎖",
+    "en": "Chainer's",
+    "kr": "쇄",
+    "id": 64,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "御",
+    "tc": "禦",
+    "en": "Wielder's",
+    "kr": "어",
+    "id": 65,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "虚",
+    "tc": "虛",
+    "en": "Deserter's",
+    "kr": "허",
+    "id": 66,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "暗",
+    "tc": "暗",
+    "en": "Doom's",
+    "kr": "암",
+    "id": 67,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "邪",
+    "tc": "邪",
+    "en": "Evil's",
+    "kr": "사",
+    "id": 68,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "荒",
+    "tc": "荒",
+    "en": "Waste's",
+    "kr": "황",
+    "id": 69,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "蚀",
+    "tc": "蝕",
+    "en": "Gnawer's",
+    "kr": "식",
+    "id": 70,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "寂",
+    "tc": "寂",
+    "en": "Silence's",
+    "kr": "적",
+    "id": 71,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "爆",
+    "tc": "爆",
+    "en": "Burster's",
+    "kr": "폭",
+    "id": 72,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "裂",
+    "tc": "裂",
+    "en": "Tearer's",
+    "kr": "열",
+    "id": 73,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "劫",
+    "tc": "劫",
+    "en": "Suffering's",
+    "kr": "겁",
+    "id": 74,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "贯",
+    "tc": "貫",
+    "en": "Piercer's",
+    "kr": "관",
+    "id": 75,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "震",
+    "tc": "震",
+    "en": "Tremor's",
+    "kr": "진",
+    "id": 76,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "玄",
+    "tc": "玄",
+    "en": "Mystic's",
+    "kr": "현",
+    "id": 77,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "碧",
+    "tc": "碧",
+    "en": "Jade's",
+    "kr": "벽",
+    "id": 78,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "紫",
+    "tc": "紫",
+    "en": "Violet's",
+    "kr": "자",
+    "id": 79,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "煞",
+    "tc": "煞",
+    "en": "Miasma's",
+    "kr": "살",
+    "id": 80,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "逐",
+    "tc": "逐",
+    "en": "Expeller's",
+    "kr": "축",
+    "id": 81,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "极",
+    "tc": "極",
+    "en": "King's",
+    "kr": "극",
+    "id": 82,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "沧",
+    "tc": "滄",
+    "en": "Seeker's",
+    "kr": "창",
+    "id": 83,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "元",
+    "tc": "元",
+    "en": "Origin's",
+    "kr": "원",
+    "id": 84,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "融",
+    "tc": "融",
+    "en": "Melter's",
+    "kr": "융",
+    "id": 85,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "轰",
+    "tc": "轟",
+    "en": "Boomer's",
+    "kr": "굉",
+    "id": 86,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "独",
+    "tc": "獨",
+    "en": "Loner's",
+    "kr": "독",
+    "id": 87,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "折",
+    "tc": "折",
+    "en": "Refraction's",
+    "kr": "절",
+    "id": 88,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "阳",
+    "tc": "陽",
+    "en": "Sun's",
+    "kr": "양",
+    "id": 89,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "雨",
+    "tc": "雨",
+    "en": "Rain's",
+    "kr": "우",
+    "id": 90,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "追",
+    "tc": "追",
+    "en": "Chaser's",
+    "kr": "추",
+    "id": 91,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "白",
+    "tc": "白",
+    "en": "Washer's",
+    "kr": "백",
+    "id": 92,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "夜",
+    "tc": "夜",
+    "en": "Night's",
+    "kr": "야",
+    "id": 93,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "吞",
+    "tc": "吞",
+    "en": "Devourer's",
+    "kr": "탄",
+    "id": 94,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "迅",
+    "tc": "迅",
+    "en": "Haste's",
+    "kr": "신",
+    "id": 95,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "溟",
+    "tc": "溟",
+    "en": "Hell's",
+    "kr": "명",
+    "id": 96,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "凌",
+    "tc": "淩",
+    "en": "Razor's",
+    "kr": "능",
+    "id": 97,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "燎",
+    "tc": "燎",
+    "en": "Blaze's",
+    "kr": "요",
+    "id": 98,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "影",
+    "tc": "影",
+    "en": "Shadow's",
+    "kr": "영",
+    "id": 99,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "霸",
+    "tc": "霸",
+    "en": "Emperor's",
+    "kr": "패",
+    "id": 100,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "凛",
+    "tc": "凜",
+    "en": "Edge's",
+    "kr": "늠",
+    "id": 101,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "刹",
+    "tc": "刹",
+    "en": "Killer's",
+    "kr": "찰",
+    "id": 102,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "清",
+    "tc": "清",
+    "en": "Blessed's",
+    "kr": "청",
+    "id": 103,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "啸",
+    "tc": "嘯",
+    "en": "Roar's",
+    "kr": "소",
+    "id": 104,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "腾",
+    "tc": "騰",
+    "en": "Rider's",
+    "kr": "등",
+    "id": 105,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "惊",
+    "tc": "驚",
+    "en": "Fear's",
+    "kr": "경",
+    "id": 106,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "念",
+    "tc": "念",
+    "en": "Piner's",
+    "kr": "념",
+    "id": 107,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "遮",
+    "tc": "遮",
+    "en": "Blocker's",
+    "kr": "차",
+    "id": 108,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "远",
+    "tc": "遠",
+    "en": "Foreigner's",
+    "kr": "원",
+    "id": 109,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "陨",
+    "tc": "隕",
+    "en": "Dead's",
+    "kr": "운",
+    "id": 110,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "冲",
+    "tc": "沖",
+    "en": "Rusher's",
+    "kr": "충",
+    "id": 111,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "奔",
+    "tc": "奔",
+    "en": "Runner's",
+    "kr": "분",
+    "id": 112,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "烈",
+    "tc": "烈",
+    "en": "Carp's",
+    "kr": "열",
+    "id": 113,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "半",
+    "tc": "半",
+    "en": "Wind's",
+    "kr": "반",
+    "id": 114,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "重",
+    "tc": "重",
+    "en": "Earth's",
+    "kr": "중",
+    "id": 115,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "太",
+    "tc": "太",
+    "en": "Metal's",
+    "kr": "태",
+    "id": 116,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "弥",
+    "tc": "彌",
+    "en": "Fire's",
+    "kr": "미",
+    "id": 117,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "漫",
+    "tc": "漫",
+    "en": "Water's",
+    "kr": "만",
+    "id": 118,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "诛",
+    "tc": "誅",
+    "en": "Essence's",
+    "kr": "주",
+    "id": 119,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "逆",
+    "tc": "逆",
+    "en": "Pearl's",
+    "kr": "역",
+    "id": 120,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "劈",
+    "tc": "劈",
+    "en": "Wrath's",
+    "kr": "벽",
+    "id": 121,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "卷",
+    "tc": "卷",
+    "en": "Envy's",
+    "kr": "권",
+    "id": 122,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "荡",
+    "tc": "蕩",
+    "en": "Lust's",
+    "kr": "탕",
+    "id": 123,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "横",
+    "tc": "橫",
+    "en": "Greed's",
+    "kr": "횡",
+    "id": 124,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "柔",
+    "tc": "柔",
+    "en": "Pride's",
+    "kr": "유",
+    "id": 125,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "禅",
+    "tc": "禪",
+    "en": "Gluttony's",
+    "kr": "선",
+    "id": 126,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "仙",
+    "tc": "仙",
+    "en": "Sloth's",
+    "kr": "선",
+    "id": 127,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "炙",
+    "tc": "炙",
+    "en": "Prudence's",
+    "kr": "적",
+    "id": 128,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "狱",
+    "tc": "獄",
+    "en": "Justice's",
+    "kr": "옥",
+    "id": 129,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "灾",
+    "tc": "災",
+    "en": "Fortitude's",
+    "kr": "재",
+    "id": 130,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "阴",
+    "tc": "陰",
+    "en": "Temperance's",
+    "kr": "음",
+    "id": 131,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "朔",
+    "tc": "朔",
+    "en": "Chastity's",
+    "kr": "삭",
+    "id": 132,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "罡",
+    "tc": "罡",
+    "en": "Charity's",
+    "kr": "강",
+    "id": 133,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "朽",
+    "tc": "朽",
+    "en": "Diligence's",
+    "kr": "후",
+    "id": 134,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "虎",
+    "tc": "虎",
+    "en": "Patience's",
+    "kr": "호",
+    "id": 135,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "意",
+    "tc": "意",
+    "en": "Humility's",
+    "kr": "의",
+    "id": 136,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "锻",
+    "tc": "鍛",
+    "en": "Mercy's",
+    "kr": "단",
+    "id": 137,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "脱",
+    "tc": "脫",
+    "en": "Bravery's",
+    "kr": "탈",
+    "id": 138,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "汲",
+    "tc": "汲",
+    "en": "Purity's",
+    "kr": "급",
+    "id": 139,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "嗜",
+    "tc": "嗜",
+    "en": "Sacrifice's",
+    "kr": "기",
+    "id": 140,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "旋",
+    "tc": "旋",
+    "en": "Wisdom's",
+    "kr": "선",
+    "id": 141,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "闪",
+    "tc": "閃",
+    "en": "Vitality's",
+    "kr": "섬",
+    "id": 142,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "瞬",
+    "tc": "瞬",
+    "en": "Strength's",
+    "kr": "순",
+    "id": 143,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "恨",
+    "tc": "恨",
+    "en": "Dexterity's",
+    "kr": "한",
+    "id": 144,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "巨",
+    "tc": "巨",
+    "en": "Charm's",
+    "kr": "거",
+    "id": 145,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "覆",
+    "tc": "覆",
+    "en": "Fidelity's",
+    "kr": "복",
+    "id": 146,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "鬼",
+    "tc": "鬼",
+    "en": "Propriety's",
+    "kr": "귀",
+    "id": 147,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "降",
+    "tc": "降",
+    "en": "Harmony's",
+    "kr": "강",
+    "id": 148,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "六",
+    "tc": "六",
+    "en": "Integrity's",
+    "kr": "육",
+    "id": 149,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "如",
+    "tc": "如",
+    "en": "Turtle's",
+    "kr": "여",
+    "id": 150,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "囚",
+    "tc": "囚",
+    "en": "Visage's",
+    "kr": "수",
+    "id": 151,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "合",
+    "tc": "合",
+    "en": "Smith's",
+    "kr": "합",
+    "id": 152,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "明",
+    "tc": "明",
+    "en": "Ceremony's",
+    "kr": "명",
+    "id": 153,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "绮",
+    "tc": "綺",
+    "en": "Ruler's",
+    "kr": "기",
+    "id": 154,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "梵",
+    "tc": "梵",
+    "en": "Sage's",
+    "kr": "범",
+    "id": 155,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "离",
+    "tc": "離",
+    "en": "Crystal's",
+    "kr": "이",
+    "id": 156,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "辰",
+    "tc": "辰",
+    "en": "Stardust's",
+    "kr": "진",
+    "id": 157,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "九",
+    "tc": "九",
+    "en": "Moonfall's",
+    "kr": "구",
+    "id": 158,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "混",
+    "tc": "混",
+    "en": "Physique's",
+    "kr": "혼",
+    "id": 159,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "擎",
+    "tc": "擎",
+    "en": "Soul's",
+    "kr": "경",
+    "id": 160,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "真",
+    "tc": "真",
+    "en": "Fool's",
+    "kr": "진",
+    "id": 161,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "纯",
+    "tc": "純",
+    "en": "Alchemist's",
+    "kr": "순",
+    "id": 162,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "精",
+    "tc": "精",
+    "en": "Grinder's",
+    "kr": "정",
+    "id": 163,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "尖",
+    "tc": "尖",
+    "en": "Restorer's",
+    "kr": "첨",
+    "id": 164,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "回",
+    "tc": "回",
+    "en": "Doppler's",
+    "kr": "회",
+    "id": 165,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "两",
+    "tc": "兩",
+    "en": "Veracity's",
+    "kr": "양",
+    "id": 166,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "一",
+    "tc": "一",
+    "en": "Wafter's",
+    "kr": "일",
+    "id": 167,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "浮",
+    "tc": "浮",
+    "en": "Millenial's",
+    "kr": "부",
+    "id": 168,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "万",
+    "tc": "萬",
+    "en": "Ashen's",
+    "kr": "만",
+    "id": 169,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "烬",
+    "tc": "燼",
+    "en": "Taker's",
+    "kr": "신",
+    "id": 170,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "摄",
+    "tc": "攝",
+    "en": "Trinity's",
+    "kr": "섭",
+    "id": 171,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "三",
+    "tc": "三",
+    "en": "Path's",
+    "kr": "삼",
+    "id": 172,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "道",
+    "tc": "道",
+    "en": "Intent's",
+    "kr": "도",
+    "id": 173,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "戾",
+    "tc": "戾",
+    "en": "Youth's",
+    "kr": "여",
+    "id": 174,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "少",
+    "tc": "少",
+    "en": "Sheen's",
+    "kr": "소",
+    "id": 175,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "耀",
+    "tc": "耀",
+    "en": "Space's",
+    "kr": "요",
+    "id": 176,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "空",
+    "tc": "空",
+    "en": "Shaper's",
+    "kr": "공",
+    "id": 177,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "形",
+    "tc": "形",
+    "en": "Looker's",
+    "kr": "형",
+    "id": 178,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "望",
+    "tc": "望",
+    "en": "Nirvana's",
+    "kr": "망",
+    "id": 179,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "涅",
+    "tc": "涅",
+    "en": "Coal's",
+    "kr": "열",
+    "id": 180,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "燃",
+    "tc": "燃",
+    "en": "Opener's",
+    "kr": "연",
+    "id": 181,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "开",
+    "tc": "開",
+    "en": "Candor's",
+    "kr": "개",
+    "id": 182,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "正",
+    "tc": "正",
+    "en": "Chao's",
+    "kr": "정",
+    "id": 183,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "浑",
+    "tc": "渾",
+    "en": "Viewer's",
+    "kr": "혼",
+    "id": 184,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "朝",
+    "tc": "朝",
+    "en": "Splitter's",
+    "kr": "조",
+    "id": 185,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "分",
+    "tc": "分",
+    "en": "Twin's",
+    "kr": "분",
+    "id": 186,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "双",
+    "tc": "雙",
+    "en": "Step's",
+    "kr": "쌍",
+    "id": 187,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "踏",
+    "tc": "踏",
+    "en": "Nihil's",
+    "kr": "답",
+    "id": 188,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "湮",
+    "tc": "湮",
+    "en": "Clawer's",
+    "kr": "연",
+    "id": 189,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "凶",
+    "tc": "凶",
+    "en": "Biter's",
+    "kr": "흉",
+    "id": 190,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "猛",
+    "tc": "猛",
+    "en": "Lasher's",
+    "kr": "맹",
+    "id": 191,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "索",
+    "tc": "索",
+    "en": "Binder's",
+    "kr": "색",
+    "id": 192,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "缚",
+    "tc": "縛",
+    "en": "Dispersal's",
+    "kr": "박",
+    "id": 193,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "散",
+    "tc": "散",
+    "en": "Freedom's",
+    "kr": "산",
+    "id": 194,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "逸",
+    "tc": "逸",
+    "en": "Hidden's",
+    "kr": "일",
+    "id": 195,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "隐",
+    "tc": "隱",
+    "en": "Aeon's",
+    "kr": "은",
+    "id": 196,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "千",
+    "tc": "千",
+    "en": "Truth's",
+    "kr": "천",
+    "id": 197,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "乾",
+    "tc": "乾",
+    "en": "Apocalypse's",
+    "kr": "건",
+    "id": 198,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "四",
+    "tc": "四",
+    "en": "Remover's",
+    "kr": "사",
+    "id": 199,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 1,
+    "text": "移",
+    "tc": "移",
+    "en": "Memory's",
+    "kr": "이",
+    "id": 200,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "云",
+    "tc": "雲",
+    "en": "Clouded",
+    "kr": "운",
+    "id": 201,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "羽",
+    "tc": "羽",
+    "en": "Feathered",
+    "kr": "우",
+    "id": 202,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "雨",
+    "tc": "雨",
+    "en": "Drowned",
+    "kr": "우",
+    "id": 203,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "雪",
+    "tc": "雪",
+    "en": "Frozen",
+    "kr": "설",
+    "id": 204,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "花",
+    "tc": "花",
+    "en": "Petaled",
+    "kr": "화",
+    "id": 205,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "星",
+    "tc": "星",
+    "en": "Starry",
+    "kr": "성",
+    "id": 206,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "月",
+    "tc": "月",
+    "en": "Moonlit",
+    "kr": "월",
+    "id": 207,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "天",
+    "tc": "天",
+    "en": "Cerulean",
+    "kr": "천",
+    "id": 208,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "空",
+    "tc": "空",
+    "en": "Empty",
+    "kr": "공",
+    "id": 209,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "魂",
+    "tc": "魂",
+    "en": "Ensouled",
+    "kr": "혼",
+    "id": 210,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "霜",
+    "tc": "霜",
+    "en": "Frosty",
+    "kr": "상",
+    "id": 211,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "神",
+    "tc": "神",
+    "en": "Spirited",
+    "kr": "신",
+    "id": 212,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "元",
+    "tc": "元",
+    "en": "Original",
+    "kr": "원",
+    "id": 213,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "气",
+    "tc": "氣",
+    "en": "Airy",
+    "kr": "기",
+    "id": 214,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "日",
+    "tc": "日",
+    "en": "Sunny",
+    "kr": "일",
+    "id": 215,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "仞",
+    "tc": "仞",
+    "en": "Edged",
+    "kr": "인",
+    "id": 216,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "冥",
+    "tc": "冥",
+    "en": "Nether",
+    "kr": "명",
+    "id": 217,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "灵",
+    "tc": "靈",
+    "en": "Ethereal",
+    "kr": "령",
+    "id": 218,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "影",
+    "tc": "影",
+    "en": "Shadowy",
+    "kr": "영",
+    "id": 219,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "尘",
+    "tc": "塵",
+    "en": "Dusted",
+    "kr": "진",
+    "id": 220,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "音",
+    "tc": "音",
+    "en": "Chiming",
+    "kr": "음",
+    "id": 221,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "阳",
+    "tc": "陽",
+    "en": "Sunlit",
+    "kr": "양",
+    "id": 222,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "痕",
+    "tc": "痕",
+    "en": "Wounded",
+    "kr": "흔",
+    "id": 223,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "龙",
+    "tc": "龍",
+    "en": "Draconic",
+    "kr": "룡",
+    "id": 224,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "血",
+    "tc": "血",
+    "en": "Blooded",
+    "kr": "혈",
+    "id": 225,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "锋",
+    "tc": "鋒",
+    "en": "Edgy",
+    "kr": "봉",
+    "id": 226,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "心",
+    "tc": "心",
+    "en": "Heartfelt",
+    "kr": "심",
+    "id": 227,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "山",
+    "tc": "山",
+    "en": "Hilly",
+    "kr": "산",
+    "id": 228,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "阴",
+    "tc": "陰",
+    "en": "Dark",
+    "kr": "음",
+    "id": 229,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "翼",
+    "tc": "翼",
+    "en": "Winged",
+    "kr": "익",
+    "id": 230,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "梦",
+    "tc": "夢",
+    "en": "Dreamy",
+    "kr": "몽",
+    "id": 231,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "光",
+    "tc": "光",
+    "en": "Light",
+    "kr": "광",
+    "id": 232,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "莲",
+    "tc": "蓮",
+    "en": "Blooming",
+    "kr": "연",
+    "id": 233,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "域",
+    "tc": "域",
+    "en": "Worldly",
+    "kr": "역",
+    "id": 234,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "魔",
+    "tc": "魔",
+    "en": "Demonic",
+    "kr": "마",
+    "id": 235,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "鸦",
+    "tc": "鴉",
+    "en": "Cawing",
+    "kr": "아",
+    "id": 236,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "狱",
+    "tc": "獄",
+    "en": "Binding",
+    "kr": "옥",
+    "id": 237,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "邪",
+    "tc": "邪",
+    "en": "Evil",
+    "kr": "사",
+    "id": 238,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "烟",
+    "tc": "煙",
+    "en": "Smoky",
+    "kr": "연",
+    "id": 239,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "墨",
+    "tc": "墨",
+    "en": "Inky",
+    "kr": "묵",
+    "id": 240,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "雷",
+    "tc": "雷",
+    "en": "Thundrous",
+    "kr": "뇌",
+    "id": 241,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "樱",
+    "tc": "櫻",
+    "en": "Cherry",
+    "kr": "앵",
+    "id": 242,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "夜",
+    "tc": "夜",
+    "en": "Nightly",
+    "kr": "야",
+    "id": 243,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "玉",
+    "tc": "玉",
+    "en": "Jade",
+    "kr": "옥",
+    "id": 244,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "寒",
+    "tc": "寒",
+    "en": "Cold",
+    "kr": "한",
+    "id": 245,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "煞",
+    "tc": "煞",
+    "en": "Menacing",
+    "kr": "살",
+    "id": 246,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "岩",
+    "tc": "岩",
+    "en": "Stony",
+    "kr": "암",
+    "id": 247,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "道",
+    "tc": "道",
+    "en": "Truthful",
+    "kr": "도",
+    "id": 248,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "虎",
+    "tc": "虎",
+    "en": "Tigris",
+    "kr": "호",
+    "id": 249,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "岳",
+    "tc": "嶽",
+    "en": "High",
+    "kr": "악",
+    "id": 250,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "魄",
+    "tc": "魄",
+    "en": "Hearty",
+    "kr": "백",
+    "id": 251,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "瘴",
+    "tc": "瘴",
+    "en": "Miasmic",
+    "kr": "장",
+    "id": 252,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "衡",
+    "tc": "衡",
+    "en": "Balanced",
+    "kr": "횡",
+    "id": 253,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "隐",
+    "tc": "隱",
+    "en": "Veiled",
+    "kr": "은",
+    "id": 254,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "劫",
+    "tc": "劫",
+    "en": "Trying",
+    "kr": "겁",
+    "id": 255,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "形",
+    "tc": "形",
+    "en": "Forming",
+    "kr": "형",
+    "id": 256,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "溟",
+    "tc": "溟",
+    "en": "Deep",
+    "kr": "명",
+    "id": 257,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "圣",
+    "tc": "聖",
+    "en": "Divine",
+    "kr": "성",
+    "id": 258,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "鬼",
+    "tc": "鬼",
+    "en": "Ghostly",
+    "kr": "귀",
+    "id": 259,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "璃",
+    "tc": "璃",
+    "en": "Shiny",
+    "kr": "이",
+    "id": 260,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "霄",
+    "tc": "霄",
+    "en": "Lofty",
+    "kr": "소",
+    "id": 261,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "脉",
+    "tc": "脈",
+    "en": "Pulsing",
+    "kr": "맥",
+    "id": 262,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "舞",
+    "tc": "舞",
+    "en": "Dancing",
+    "kr": "무",
+    "id": 263,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "曜",
+    "tc": "曜",
+    "en": "Gleaming",
+    "kr": "요",
+    "id": 264,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "落",
+    "tc": "落",
+    "en": "Diving",
+    "kr": "낙",
+    "id": 265,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "飘",
+    "tc": "飄",
+    "en": "Drifting",
+    "kr": "표",
+    "id": 266,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "凝",
+    "tc": "凝",
+    "en": "Focusing",
+    "kr": "응",
+    "id": 267,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "清",
+    "tc": "清",
+    "en": "Pure",
+    "kr": "청",
+    "id": 268,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "灭",
+    "tc": "滅",
+    "en": "Deathly",
+    "kr": "멸",
+    "id": 269,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "渡",
+    "tc": "渡",
+    "en": "Gliding",
+    "kr": "도",
+    "id": 270,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "啸",
+    "tc": "嘯",
+    "en": "Roaring",
+    "kr": "소",
+    "id": 271,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "凛",
+    "tc": "凜",
+    "en": "Chilling",
+    "kr": "늠",
+    "id": 272,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "瑕",
+    "tc": "瑕",
+    "en": "Flawed",
+    "kr": "하",
+    "id": 273,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "虹",
+    "tc": "虹",
+    "en": "Prismic",
+    "kr": "홍",
+    "id": 274,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "念",
+    "tc": "念",
+    "en": "Thinking",
+    "kr": "염",
+    "id": 275,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "沧",
+    "tc": "滄",
+    "en": "Blue",
+    "kr": "창",
+    "id": 276,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "岚",
+    "tc": "嵐",
+    "en": "Stormy",
+    "kr": "남",
+    "id": 277,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "破",
+    "tc": "破",
+    "en": "Ruinous",
+    "kr": "파",
+    "id": 278,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "碎",
+    "tc": "碎",
+    "en": "Breaking",
+    "kr": "쇄",
+    "id": 279,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "化",
+    "tc": "化",
+    "en": "Becoming",
+    "kr": "화",
+    "id": 280,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "雾",
+    "tc": "霧",
+    "en": "Misty",
+    "kr": "무",
+    "id": 281,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "吟",
+    "tc": "吟",
+    "en": "Singing",
+    "kr": "음",
+    "id": 282,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "荒",
+    "tc": "荒",
+    "en": "Decaying",
+    "kr": "황",
+    "id": 283,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "陨",
+    "tc": "隕",
+    "en": "Falling",
+    "kr": "운",
+    "id": 284,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "界",
+    "tc": "界",
+    "en": "Global",
+    "kr": "계",
+    "id": 285,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "虚",
+    "tc": "虛",
+    "en": "Voidborn",
+    "kr": "허",
+    "id": 286,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "沙",
+    "tc": "沙",
+    "en": "Sandy",
+    "kr": "사",
+    "id": 287,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "涛",
+    "tc": "濤",
+    "en": "Tidal",
+    "kr": "도",
+    "id": 288,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "浪",
+    "tc": "浪",
+    "en": "Wavy",
+    "kr": "랑",
+    "id": 289,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "波",
+    "tc": "波",
+    "en": "Moist",
+    "kr": "파",
+    "id": 290,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "澜",
+    "tc": "瀾",
+    "en": "Rippling",
+    "kr": "난",
+    "id": 291,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "幽",
+    "tc": "幽",
+    "en": "Gloomy",
+    "kr": "유",
+    "id": 292,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "辰",
+    "tc": "辰",
+    "en": "Dawning",
+    "kr": "진",
+    "id": 293,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "桥",
+    "tc": "橋",
+    "en": "Bridged",
+    "kr": "교",
+    "id": 294,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "谷",
+    "tc": "穀",
+    "en": "Valley",
+    "kr": "곡",
+    "id": 295,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "崖",
+    "tc": "崖",
+    "en": "Steep",
+    "kr": "애",
+    "id": 296,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "峰",
+    "tc": "峰",
+    "en": "Peaked",
+    "kr": "봉",
+    "id": 297,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "湖",
+    "tc": "湖",
+    "en": "Streaming",
+    "kr": "호",
+    "id": 298,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "川",
+    "tc": "川",
+    "en": "Flowing",
+    "kr": "천",
+    "id": 299,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "河",
+    "tc": "河",
+    "en": "River-run",
+    "kr": "하",
+    "id": 300,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "江",
+    "tc": "江",
+    "en": "Engulfing",
+    "kr": "강",
+    "id": 301,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "海",
+    "tc": "海",
+    "en": "Oceanic",
+    "kr": "해",
+    "id": 302,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "印",
+    "tc": "印",
+    "en": "Symbolic",
+    "kr": "인",
+    "id": 303,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "钟",
+    "tc": "鐘",
+    "en": "Tolling",
+    "kr": "종",
+    "id": 304,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "鼎",
+    "tc": "鼎",
+    "en": "Vesseled",
+    "kr": "정",
+    "id": 305,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "幻",
+    "tc": "幻",
+    "en": "Marvelous",
+    "kr": "환",
+    "id": 306,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "妖",
+    "tc": "妖",
+    "en": "Daemonic",
+    "kr": "요",
+    "id": 307,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "仙",
+    "tc": "仙",
+    "en": "Immortal",
+    "kr": "선",
+    "id": 308,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "武",
+    "tc": "武",
+    "en": "Martial",
+    "kr": "무",
+    "id": 309,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "雀",
+    "tc": "雀",
+    "en": "Avian",
+    "kr": "작",
+    "id": 310,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "刚",
+    "tc": "剛",
+    "en": "Ironic",
+    "kr": "강",
+    "id": 311,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "扫",
+    "tc": "掃",
+    "en": "Sweeping",
+    "kr": "소",
+    "id": 312,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "背",
+    "tc": "背",
+    "en": "Rear",
+    "kr": "배",
+    "id": 313,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "地",
+    "tc": "地",
+    "en": "Earthly",
+    "kr": "지",
+    "id": 314,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "体",
+    "tc": "體",
+    "en": "Bodily",
+    "kr": "체",
+    "id": 315,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "野",
+    "tc": "野",
+    "en": "Wild",
+    "kr": "야",
+    "id": 316,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "动",
+    "tc": "動",
+    "en": "Moving",
+    "kr": "동",
+    "id": 317,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "壳",
+    "tc": "殼",
+    "en": "Shelled",
+    "kr": "각",
+    "id": 318,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "戾",
+    "tc": "戾",
+    "en": "Perilous",
+    "kr": "여",
+    "id": 319,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "英",
+    "tc": "英",
+    "en": "Wise",
+    "kr": "영",
+    "id": 320,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "枫",
+    "tc": "楓",
+    "en": "Maple",
+    "kr": "풍",
+    "id": 321,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "雁",
+    "tc": "雁",
+    "en": "Anserine",
+    "kr": "안",
+    "id": 322,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "霞",
+    "tc": "霞",
+    "en": "Hazy",
+    "kr": "하",
+    "id": 323,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "凤",
+    "tc": "鳳",
+    "en": "Windy",
+    "kr": "봉",
+    "id": 324,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "合",
+    "tc": "合",
+    "en": "United",
+    "kr": "합",
+    "id": 325,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "孤",
+    "tc": "孤",
+    "en": "Lonely",
+    "kr": "고",
+    "id": 326,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "来",
+    "tc": "來",
+    "en": "Coming",
+    "kr": "래",
+    "id": 327,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "相",
+    "tc": "相",
+    "en": "Aspected",
+    "kr": "상",
+    "id": 328,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "罡",
+    "tc": "罡",
+    "en": "Forceful",
+    "kr": "강",
+    "id": 329,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "仪",
+    "tc": "儀",
+    "en": "Ritual",
+    "kr": "의",
+    "id": 330,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "象",
+    "tc": "象",
+    "en": "Phenomenal",
+    "kr": "상",
+    "id": 331,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "卦",
+    "tc": "卦",
+    "en": "Trigrammic",
+    "kr": "괘",
+    "id": 332,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "军",
+    "tc": "軍",
+    "en": "Military",
+    "kr": "군",
+    "id": 333,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "镜",
+    "tc": "鏡",
+    "en": "Mirroring",
+    "kr": "경",
+    "id": 334,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "柔",
+    "tc": "柔",
+    "en": "Soft",
+    "kr": "유",
+    "id": 335,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "和",
+    "tc": "和",
+    "en": "Peaceful",
+    "kr": "화",
+    "id": 336,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "封",
+    "tc": "封",
+    "en": "Signing",
+    "kr": "봉",
+    "id": 337,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "世",
+    "tc": "世",
+    "en": "Material",
+    "kr": "세",
+    "id": 338,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "绝",
+    "tc": "絕",
+    "en": "Ending",
+    "kr": "절",
+    "id": 339,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "焰",
+    "tc": "焰",
+    "en": "Flaming",
+    "kr": "염",
+    "id": 340,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "明",
+    "tc": "明",
+    "en": "Bright",
+    "kr": "명",
+    "id": 341,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "宫",
+    "tc": "宮",
+    "en": "Palatial",
+    "kr": "궁",
+    "id": 342,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "残",
+    "tc": "殘",
+    "en": "Defected",
+    "kr": "잔",
+    "id": 343,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "行",
+    "tc": "行",
+    "en": "Walking",
+    "kr": "행",
+    "id": 344,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "战",
+    "tc": "戰",
+    "en": "Warring",
+    "kr": "전",
+    "id": 345,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "屠",
+    "tc": "屠",
+    "en": "Killing",
+    "kr": "도",
+    "id": 346,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "刃",
+    "tc": "刃",
+    "en": "Bladed",
+    "kr": "인",
+    "id": 347,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "极",
+    "tc": "極",
+    "en": "Ultimate",
+    "kr": "극",
+    "id": 348,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "剑",
+    "tc": "劍",
+    "en": "Cutting",
+    "kr": "검",
+    "id": 349,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "玑",
+    "tc": "璣",
+    "en": "Pearl",
+    "kr": "기",
+    "id": 350,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "絮",
+    "tc": "絮",
+    "en": "Bundling",
+    "kr": "서",
+    "id": 351,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "芒",
+    "tc": "芒",
+    "en": "Blinding",
+    "kr": "망",
+    "id": 352,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "穹",
+    "tc": "穹",
+    "en": "Aerial",
+    "kr": "궁",
+    "id": 353,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "斗",
+    "tc": "鬥",
+    "en": "Combative",
+    "kr": "투",
+    "id": 354,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "真",
+    "tc": "真",
+    "en": "Only",
+    "kr": "진",
+    "id": 355,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "蒙",
+    "tc": "蒙",
+    "en": "Knowing",
+    "kr": "몽",
+    "id": 356,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "璇",
+    "tc": "璿",
+    "en": "Ivory",
+    "kr": "선",
+    "id": 357,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "夕",
+    "tc": "夕",
+    "en": "Dusk",
+    "kr": "석",
+    "id": 358,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "叶",
+    "tc": "葉",
+    "en": "Leafy",
+    "kr": "엽",
+    "id": 359,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "蚀",
+    "tc": "蝕",
+    "en": "Gnawing",
+    "kr": "식",
+    "id": 360,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "意",
+    "tc": "意",
+    "en": "Willful",
+    "kr": "의",
+    "id": 361,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "衍",
+    "tc": "衍",
+    "en": "Deducing",
+    "kr": "연",
+    "id": 362,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "盈",
+    "tc": "盈",
+    "en": "Umbral",
+    "kr": "영",
+    "id": 363,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "情",
+    "tc": "情",
+    "en": "Loving",
+    "kr": "정",
+    "id": 364,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "瑶",
+    "tc": "瑤",
+    "en": "Nacreous",
+    "kr": "요",
+    "id": 365,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "罗",
+    "tc": "羅",
+    "en": "Silken",
+    "kr": "라",
+    "id": 366,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "宇",
+    "tc": "宇",
+    "en": "Universal",
+    "kr": "우",
+    "id": 367,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "湘",
+    "tc": "湘",
+    "en": "Liquid",
+    "kr": "상",
+    "id": 368,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "磐",
+    "tc": "磐",
+    "en": "Solid",
+    "kr": "반",
+    "id": 369,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "泽",
+    "tc": "澤",
+    "en": "Mired",
+    "kr": "택",
+    "id": 370,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "玄",
+    "tc": "玄",
+    "en": "Mystical",
+    "kr": "현",
+    "id": 371,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "生",
+    "tc": "生",
+    "en": "Birthing",
+    "kr": "생",
+    "id": 372,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "初",
+    "tc": "初",
+    "en": "First",
+    "kr": "초",
+    "id": 373,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "枢",
+    "tc": "樞",
+    "en": "Key",
+    "kr": "추",
+    "id": 374,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "苍",
+    "tc": "蒼",
+    "en": "Azure",
+    "kr": "창",
+    "id": 375,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "曲",
+    "tc": "曲",
+    "en": "Cornering",
+    "kr": "곡",
+    "id": 376,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "权",
+    "tc": "權",
+    "en": "Powerful",
+    "kr": "권",
+    "id": 377,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "炼",
+    "tc": "煉",
+    "en": "Forging",
+    "kr": "연",
+    "id": 378,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "殒",
+    "tc": "殞",
+    "en": "Meteoric",
+    "kr": "운",
+    "id": 379,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "垢",
+    "tc": "垢",
+    "en": "Tainted",
+    "kr": "구",
+    "id": 380,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "缘",
+    "tc": "緣",
+    "en": "Karmic",
+    "kr": "연",
+    "id": 381,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "双",
+    "tc": "雙",
+    "en": "Twin",
+    "kr": "쌍",
+    "id": 382,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "禅",
+    "tc": "禪",
+    "en": "Tranquil",
+    "kr": "선",
+    "id": 383,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "蕴",
+    "tc": "蘊",
+    "en": "Heaped",
+    "kr": "온",
+    "id": 384,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "命",
+    "tc": "命",
+    "en": "Living",
+    "kr": "명",
+    "id": 385,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "刹",
+    "tc": "刹",
+    "en": "Instant",
+    "kr": "찰",
+    "id": 386,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "纹",
+    "tc": "紋",
+    "en": "Adorned",
+    "kr": "문",
+    "id": 387,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "燃",
+    "tc": "燃",
+    "en": "Burning",
+    "kr": "연",
+    "id": 388,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "翎",
+    "tc": "翎",
+    "en": "Plumed",
+    "kr": "령",
+    "id": 389,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "魅",
+    "tc": "魅",
+    "en": "Alluring",
+    "kr": "매",
+    "id": 390,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "微",
+    "tc": "微",
+    "en": "Minimal",
+    "kr": "미",
+    "id": 391,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "春",
+    "tc": "春",
+    "en": "Spring",
+    "kr": "춘",
+    "id": 392,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "鸿",
+    "tc": "鴻",
+    "en": "Cardinal",
+    "kr": "홍",
+    "id": 393,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "寰",
+    "tc": "寰",
+    "en": "Landed",
+    "kr": "환",
+    "id": 394,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "巽",
+    "tc": "巽",
+    "en": "Windy",
+    "kr": "손",
+    "id": 395,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "潇",
+    "tc": "瀟",
+    "en": "Hailing",
+    "kr": "소",
+    "id": 396,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "南",
+    "tc": "南",
+    "en": "Southern",
+    "kr": "남",
+    "id": 397,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "东",
+    "tc": "東",
+    "en": "Northern",
+    "kr": "동",
+    "id": 398,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "北",
+    "tc": "北",
+    "en": "Eastern",
+    "kr": "북",
+    "id": 399,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "index": 2,
+    "text": "秋",
+    "tc": "秋",
+    "en": "Autumnal",
+    "kr": "추",
+    "id": 400,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

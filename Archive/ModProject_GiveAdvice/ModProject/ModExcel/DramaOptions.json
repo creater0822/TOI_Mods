@@ -1,0 +1,1446 @@
+[
+  {
+    "id": "303457161",
+    "text": "Cancel"
+  },
+  {
+    "id": "303457162",
+    "text": "Give advice",
+    "nextDialogue": "-1624281398"
+  },
+  {
+    "id": "303457163",
+    "text": "Return to other options",
+    "nextDialogue": "1563551777"
+  },
+  {
+    "id": "303457164",
+    "text": "Enhance their qualification",
+    "nextDialogue": "1563551777"
+  },
+  {
+    "id": "303457165",
+    "condition": "xxClose_2_0_2_240",
+    "hue": "0",
+    "optionsHide": "0",
+    "text": "About Skills (Only with four-hearts or more)",
+    "cost": "0",
+    "costHide": "0",
+    "function": "0",
+    "clickTip": "0",
+    "nextDialogue": "303457165"
+  },
+  {
+    "id": "303457171",
+    "condition": "attr_1_basSword_0_40|attr_0_basSword_40_999999",
+    "optionsHide": "1",
+    "text": "Sword",
+    "function": "addTargetAttr_1_basSword_1_50",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457172",
+    "condition": "attr_1_basSword_40_100|attr_0_basSword_100_999999",
+    "optionsHide": "1",
+    "text": "Sword",
+    "function": "addTargetAttr_1_basSword_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457173",
+    "condition": "attr_1_basSword_100_200|attr_0_basSword_200_999999",
+    "optionsHide": "1",
+    "text": "Sword",
+    "function": "addTargetAttr_1_basSword_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457174",
+    "condition": "attr_1_basSword_200_300|attr_0_basSword_300_999999",
+    "optionsHide": "1",
+    "text": "Sword",
+    "function": "addTargetAttr_1_basSword_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457175",
+    "condition": "attr_1_basSword_300_400|attr_0_basSword_400_999999",
+    "optionsHide": "1",
+    "text": "Sword",
+    "function": "addTargetAttr_1_basSword_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457176",
+    "condition": "attr_1_basSword_400_500|attr_0_basSword_500_999999",
+    "optionsHide": "1",
+    "text": "Sword",
+    "function": "addTargetAttr_1_basSword_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457177",
+    "condition": "attr_1_basSword_500_600|attr_0_basSword_600_999999",
+    "optionsHide": "1",
+    "text": "Sword",
+    "function": "addTargetAttr_1_basSword_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457178",
+    "condition": "attr_1_basSword_600_700|attr_0_basSword_700_999999",
+    "optionsHide": "1",
+    "text": "Sword",
+    "function": "addTargetAttr_1_basSword_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457179",
+    "condition": "attr_1_basSword_700_800|attr_0_basSword_800_999999",
+    "optionsHide": "1",
+    "text": "Sword",
+    "function": "addTargetAttr_1_basSword_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457180",
+    "condition": "attr_1_basSword_800_999999|attr_0_basSword_900_999999",
+    "optionsHide": "1",
+    "text": "Sword",
+    "function": "addTargetAttr_1_basSword_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457181",
+    "condition": "attr_1_basSpear_0_40|attr_0_basSpear_40_999999",
+    "optionsHide": "1",
+    "text": "Spear",
+    "function": "addTargetAttr_1_basSpear_1_50",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457182",
+    "condition": "attr_1_basSpear_40_100|attr_0_basSpear_100_999999",
+    "optionsHide": "1",
+    "text": "Spear",
+    "function": "addTargetAttr_1_basSpear_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457183",
+    "condition": "attr_1_basSpear_100_200|attr_0_basSpear_200_999999",
+    "optionsHide": "1",
+    "text": "Spear",
+    "function": "addTargetAttr_1_basSpear_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457184",
+    "condition": "attr_1_basSpear_200_300|attr_0_basSpear_300_999999",
+    "optionsHide": "1",
+    "text": "Spear",
+    "function": "addTargetAttr_1_basSpear_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457185",
+    "condition": "attr_1_basSpear_300_400|attr_0_basSpear_400_999999",
+    "optionsHide": "1",
+    "text": "Spear",
+    "function": "addTargetAttr_1_basSpear_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457186",
+    "condition": "attr_1_basSpear_400_500|attr_0_basSpear_500_999999",
+    "optionsHide": "1",
+    "text": "Spear",
+    "function": "addTargetAttr_1_basSpear_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457187",
+    "condition": "attr_1_basSpear_500_600|attr_0_basSpear_600_999999",
+    "optionsHide": "1",
+    "text": "Spear",
+    "function": "addTargetAttr_1_basSpear_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457188",
+    "condition": "attr_1_basSpear_600_700|attr_0_basSpear_700_999999",
+    "optionsHide": "1",
+    "text": "Spear",
+    "function": "addTargetAttr_1_basSpear_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457189",
+    "condition": "attr_1_basSpear_700_800|attr_0_basSpear_800_999999",
+    "optionsHide": "1",
+    "text": "Spear",
+    "function": "addTargetAttr_1_basSpear_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457190",
+    "condition": "attr_1_basSpear_800_999999|attr_0_basSpear_900_999999",
+    "optionsHide": "1",
+    "text": "Spear",
+    "function": "addTargetAttr_1_basSpear_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457191",
+    "condition": "attr_1_basBlade_0_40|attr_0_basBlade_40_999999",
+    "optionsHide": "1",
+    "text": "Blade",
+    "function": "addTargetAttr_1_basBlade_1_50",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457192",
+    "condition": "attr_1_basBlade_40_100|attr_0_basBlade_100_999999",
+    "optionsHide": "1",
+    "text": "Blade",
+    "function": "addTargetAttr_1_basBlade_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457193",
+    "condition": "attr_1_basBlade_100_200|attr_0_basBlade_200_999999",
+    "optionsHide": "1",
+    "text": "Blade",
+    "function": "addTargetAttr_1_basBlade_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457194",
+    "condition": "attr_1_basBlade_200_300|attr_0_basBlade_300_999999",
+    "optionsHide": "1",
+    "text": "Blade",
+    "function": "addTargetAttr_1_basBlade_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457195",
+    "condition": "attr_1_basBlade_300_400|attr_0_basBlade_400_999999",
+    "optionsHide": "1",
+    "text": "Blade",
+    "function": "addTargetAttr_1_basBlade_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457196",
+    "condition": "attr_1_basBlade_400_500|attr_0_basBlade_500_999999",
+    "optionsHide": "1",
+    "text": "Blade",
+    "function": "addTargetAttr_1_basBlade_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457197",
+    "condition": "attr_1_basBlade_500_600|attr_0_basBlade_600_999999",
+    "optionsHide": "1",
+    "text": "Blade",
+    "function": "addTargetAttr_1_basBlade_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457198",
+    "condition": "attr_1_basBlade_600_700|attr_0_basBlade_700_999999",
+    "optionsHide": "1",
+    "text": "Blade",
+    "function": "addTargetAttr_1_basBlade_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457199",
+    "condition": "attr_1_basBlade_700_800|attr_0_basBlade_800_999999",
+    "optionsHide": "1",
+    "text": "Blade",
+    "function": "addTargetAttr_1_basBlade_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457200",
+    "condition": "attr_1_basBlade_800_999999|attr_0_basBlade_900_999999",
+    "optionsHide": "1",
+    "text": "Blade",
+    "function": "addTargetAttr_1_basBlade_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457201",
+    "condition": "attr_1_basFist_0_40|attr_0_basFist_40_999999",
+    "optionsHide": "1",
+    "text": "Fist",
+    "function": "addTargetAttr_1_basFist_1_50",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457202",
+    "condition": "attr_1_basFist_40_100|attr_0_basFist_100_999999",
+    "optionsHide": "1",
+    "text": "Fist",
+    "function": "addTargetAttr_1_basFist_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457203",
+    "condition": "attr_1_basFist_100_200|attr_0_basFist_200_999999",
+    "optionsHide": "1",
+    "text": "Fist",
+    "function": "addTargetAttr_1_basFist_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457204",
+    "condition": "attr_1_basFist_200_300|attr_0_basFist_300_999999",
+    "optionsHide": "1",
+    "text": "Fist",
+    "function": "addTargetAttr_1_basFist_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457205",
+    "condition": "attr_1_basFist_300_400|attr_0_basFist_400_999999",
+    "optionsHide": "1",
+    "text": "Fist",
+    "function": "addTargetAttr_1_basFist_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457206",
+    "condition": "attr_1_basFist_400_500|attr_0_basFist_500_999999",
+    "optionsHide": "1",
+    "text": "Fist",
+    "function": "addTargetAttr_1_basFist_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457207",
+    "condition": "attr_1_basFist_500_600|attr_0_basFist_600_999999",
+    "optionsHide": "1",
+    "text": "Fist",
+    "function": "addTargetAttr_1_basFist_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457208",
+    "condition": "attr_1_basFist_600_700|attr_0_basFist_700_999999",
+    "optionsHide": "1",
+    "text": "Fist",
+    "function": "addTargetAttr_1_basFist_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457209",
+    "condition": "attr_1_basFist_700_800|attr_0_basFist_800_999999",
+    "optionsHide": "1",
+    "text": "Fist",
+    "function": "addTargetAttr_1_basFist_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457210",
+    "condition": "attr_1_basFist_800_999999|attr_0_basFist_900_999999",
+    "optionsHide": "1",
+    "text": "Fist",
+    "function": "addTargetAttr_1_basFist_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457211",
+    "condition": "attr_1_basPalm_0_40|attr_0_basPalm_40_999999",
+    "optionsHide": "1",
+    "text": "Palm",
+    "function": "addTargetAttr_1_basPalm_1_50",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457212",
+    "condition": "attr_1_basPalm_40_100|attr_0_basPalm_100_999999",
+    "optionsHide": "1",
+    "text": "Palm",
+    "function": "addTargetAttr_1_basPalm_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457213",
+    "condition": "attr_1_basPalm_100_200|attr_0_basPalm_200_999999",
+    "optionsHide": "1",
+    "text": "Palm",
+    "function": "addTargetAttr_1_basPalm_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457214",
+    "condition": "attr_1_basPalm_200_300|attr_0_basPalm_300_999999",
+    "optionsHide": "1",
+    "text": "Palm",
+    "function": "addTargetAttr_1_basPalm_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457215",
+    "condition": "attr_1_basPalm_300_400|attr_0_basPalm_400_999999",
+    "optionsHide": "1",
+    "text": "Palm",
+    "function": "addTargetAttr_1_basPalm_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457216",
+    "condition": "attr_1_basPalm_400_500|attr_0_basPalm_500_999999",
+    "optionsHide": "1",
+    "text": "Palm",
+    "function": "addTargetAttr_1_basPalm_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457217",
+    "condition": "attr_1_basPalm_500_600|attr_0_basPalm_600_999999",
+    "optionsHide": "1",
+    "text": "Palm",
+    "function": "addTargetAttr_1_basPalm_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457218",
+    "condition": "attr_1_basPalm_600_700|attr_0_basPalm_700_999999",
+    "optionsHide": "1",
+    "text": "Palm",
+    "function": "addTargetAttr_1_basPalm_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457219",
+    "condition": "attr_1_basPalm_700_800|attr_0_basPalm_800_999999",
+    "optionsHide": "1",
+    "text": "Palm",
+    "function": "addTargetAttr_1_basPalm_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457220",
+    "condition": "attr_1_basPalm_800_999999|attr_0_basPalm_900_999999",
+    "optionsHide": "1",
+    "text": "Palm",
+    "function": "addTargetAttr_1_basPalm_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457221",
+    "condition": "attr_1_basFinger_0_40|attr_0_basFinger_40_999999",
+    "optionsHide": "1",
+    "text": "Finger",
+    "function": "addTargetAttr_1_basFinger_1_50",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457222",
+    "condition": "attr_1_basFinger_40_100|attr_0_basFinger_100_999999",
+    "optionsHide": "1",
+    "text": "Finger",
+    "function": "addTargetAttr_1_basFinger_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457223",
+    "condition": "attr_1_basFinger_100_200|attr_0_basFinger_200_999999",
+    "optionsHide": "1",
+    "text": "Finger",
+    "function": "addTargetAttr_1_basFinger_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457224",
+    "condition": "attr_1_basFinger_200_300|attr_0_basFinger_300_999999",
+    "optionsHide": "1",
+    "text": "Finger",
+    "function": "addTargetAttr_1_basFinger_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457225",
+    "condition": "attr_1_basFinger_300_400|attr_0_basFinger_400_999999",
+    "optionsHide": "1",
+    "text": "Finger",
+    "function": "addTargetAttr_1_basFinger_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457226",
+    "condition": "attr_1_basFinger_400_500|attr_0_basFinger_500_999999",
+    "optionsHide": "1",
+    "text": "Finger",
+    "function": "addTargetAttr_1_basFinger_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457227",
+    "condition": "attr_1_basFinger_500_600|attr_0_basFinger_600_999999",
+    "optionsHide": "1",
+    "text": "Finger",
+    "function": "addTargetAttr_1_basFinger_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457228",
+    "condition": "attr_1_basFinger_600_700|attr_0_basFinger_700_999999",
+    "optionsHide": "1",
+    "text": "Finger",
+    "function": "addTargetAttr_1_basFinger_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457229",
+    "condition": "attr_1_basFinger_700_800|attr_0_basFinger_800_999999",
+    "optionsHide": "1",
+    "text": "Finger",
+    "function": "addTargetAttr_1_basFinger_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457230",
+    "condition": "attr_1_basFinger_800_999999|attr_0_basFinger_900_999999",
+    "optionsHide": "1",
+    "text": "Finger",
+    "function": "addTargetAttr_1_basFinger_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457231",
+    "condition": "attr_1_basFire_0_40|attr_0_basFire_40_999999",
+    "optionsHide": "1",
+    "text": "Fire",
+    "function": "addTargetAttr_1_basFire_1_50",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457232",
+    "condition": "attr_1_basFire_40_100|attr_0_basFire_100_999999",
+    "optionsHide": "1",
+    "text": "Fire",
+    "function": "addTargetAttr_1_basFire_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457233",
+    "condition": "attr_1_basFire_100_200|attr_0_basFire_200_999999",
+    "optionsHide": "1",
+    "text": "Fire",
+    "function": "addTargetAttr_1_basFire_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457234",
+    "condition": "attr_1_basFire_200_300|attr_0_basFire_300_999999",
+    "optionsHide": "1",
+    "text": "Fire",
+    "function": "addTargetAttr_1_basFire_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457235",
+    "condition": "attr_1_basFire_300_400|attr_0_basFire_400_999999",
+    "optionsHide": "1",
+    "text": "Fire",
+    "function": "addTargetAttr_1_basFire_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457236",
+    "condition": "attr_1_basFire_400_500|attr_0_basFire_500_999999",
+    "optionsHide": "1",
+    "text": "Fire",
+    "function": "addTargetAttr_1_basFire_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457237",
+    "condition": "attr_1_basFire_500_600|attr_0_basFire_600_999999",
+    "optionsHide": "1",
+    "text": "Fire",
+    "function": "addTargetAttr_1_basFire_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457238",
+    "condition": "attr_1_basFire_600_700|attr_0_basFire_700_999999",
+    "optionsHide": "1",
+    "text": "Fire",
+    "function": "addTargetAttr_1_basFire_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457239",
+    "condition": "attr_1_basFire_700_800|attr_0_basFire_800_999999",
+    "optionsHide": "1",
+    "text": "Fire",
+    "function": "addTargetAttr_1_basFire_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457240",
+    "condition": "attr_1_basFire_800_999999|attr_0_basFire_900_999999",
+    "optionsHide": "1",
+    "text": "Fire",
+    "function": "addTargetAttr_1_basFire_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457241",
+    "condition": "attr_1_basFroze_0_40|attr_0_basFroze_40_999999",
+    "optionsHide": "1",
+    "text": "Water",
+    "function": "addTargetAttr_1_basFroze_1_50",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457242",
+    "condition": "attr_1_basFroze_40_100|attr_0_basFroze_100_999999",
+    "optionsHide": "1",
+    "text": "Water",
+    "function": "addTargetAttr_1_basFroze_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457243",
+    "condition": "attr_1_basFroze_100_200|attr_0_basFroze_200_999999",
+    "optionsHide": "1",
+    "text": "Water",
+    "function": "addTargetAttr_1_basFroze_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457244",
+    "condition": "attr_1_basFroze_200_300|attr_0_basFroze_300_999999",
+    "optionsHide": "1",
+    "text": "Water",
+    "function": "addTargetAttr_1_basFroze_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457245",
+    "condition": "attr_1_basFroze_300_400|attr_0_basFroze_400_999999",
+    "optionsHide": "1",
+    "text": "Water",
+    "function": "addTargetAttr_1_basFroze_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457246",
+    "condition": "attr_1_basFroze_400_500|attr_0_basFroze_500_999999",
+    "optionsHide": "1",
+    "text": "Water",
+    "function": "addTargetAttr_1_basFroze_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457247",
+    "condition": "attr_1_basFroze_500_600|attr_0_basFroze_600_999999",
+    "optionsHide": "1",
+    "text": "Water",
+    "function": "addTargetAttr_1_basFroze_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457248",
+    "condition": "attr_1_basFroze_600_700|attr_0_basFroze_700_999999",
+    "optionsHide": "1",
+    "text": "Water",
+    "function": "addTargetAttr_1_basFroze_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457249",
+    "condition": "attr_1_basFroze_700_800|attr_0_basFroze_800_999999",
+    "optionsHide": "1",
+    "text": "Water",
+    "function": "addTargetAttr_1_basFroze_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457250",
+    "condition": "attr_1_basFroze_800_999999|attr_0_basFroze_900_999999",
+    "optionsHide": "1",
+    "text": "Water",
+    "function": "addTargetAttr_1_basFroze_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457251",
+    "condition": "attr_1_basThunder_0_40|attr_0_basThunder_40_999999",
+    "optionsHide": "1",
+    "text": "Thunder",
+    "function": "addTargetAttr_1_basThunder_1_50",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457252",
+    "condition": "attr_1_basThunder_40_100|attr_0_basThunder_100_999999",
+    "optionsHide": "1",
+    "text": "Thunder",
+    "function": "addTargetAttr_1_basThunder_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457253",
+    "condition": "attr_1_basThunder_100_200|attr_0_basThunder_200_999999",
+    "optionsHide": "1",
+    "text": "Thunder",
+    "function": "addTargetAttr_1_basThunder_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457254",
+    "condition": "attr_1_basThunder_200_300|attr_0_basThunder_300_999999",
+    "optionsHide": "1",
+    "text": "Thunder",
+    "function": "addTargetAttr_1_basThunder_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457255",
+    "condition": "attr_1_basThunder_300_400|attr_0_basThunder_400_999999",
+    "optionsHide": "1",
+    "text": "Thunder",
+    "function": "addTargetAttr_1_basThunder_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457256",
+    "condition": "attr_1_basThunder_400_500|attr_0_basThunder_500_999999",
+    "optionsHide": "1",
+    "text": "Thunder",
+    "function": "addTargetAttr_1_basThunder_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457257",
+    "condition": "attr_1_basThunder_500_600|attr_0_basThunder_600_999999",
+    "optionsHide": "1",
+    "text": "Thunder",
+    "function": "addTargetAttr_1_basThunder_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457258",
+    "condition": "attr_1_basThunder_600_700|attr_0_basThunder_700_999999",
+    "optionsHide": "1",
+    "text": "Thunder",
+    "function": "addTargetAttr_1_basThunder_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457259",
+    "condition": "attr_1_basThunder_700_800|attr_0_basThunder_800_999999",
+    "optionsHide": "1",
+    "text": "Thunder",
+    "function": "addTargetAttr_1_basThunder_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457260",
+    "condition": "attr_1_basThunder_800_999999|attr_0_basThunder_900_999999",
+    "optionsHide": "1",
+    "text": "Thunder",
+    "function": "addTargetAttr_1_basThunder_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457261",
+    "condition": "attr_1_basWind_0_40|attr_0_basWind_40_999999",
+    "optionsHide": "1",
+    "text": "Wind",
+    "function": "addTargetAttr_1_basWind_1_50",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457262",
+    "condition": "attr_1_basWind_40_100|attr_0_basWind_100_999999",
+    "optionsHide": "1",
+    "text": "Wind",
+    "function": "addTargetAttr_1_basWind_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457263",
+    "condition": "attr_1_basWind_100_200|attr_0_basWind_200_999999",
+    "optionsHide": "1",
+    "text": "Wind",
+    "function": "addTargetAttr_1_basWind_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457264",
+    "condition": "attr_1_basWind_200_300|attr_0_basWind_300_999999",
+    "optionsHide": "1",
+    "text": "Wind",
+    "function": "addTargetAttr_1_basWind_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457265",
+    "condition": "attr_1_basWind_300_400|attr_0_basWind_400_999999",
+    "optionsHide": "1",
+    "text": "Wind",
+    "function": "addTargetAttr_1_basWind_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457266",
+    "condition": "attr_1_basWind_400_500|attr_0_basWind_500_999999",
+    "optionsHide": "1",
+    "text": "Wind",
+    "function": "addTargetAttr_1_basWind_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457267",
+    "condition": "attr_1_basWind_500_600|attr_0_basWind_600_999999",
+    "optionsHide": "1",
+    "text": "Wind",
+    "function": "addTargetAttr_1_basWind_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457268",
+    "condition": "attr_1_basWind_600_700|attr_0_basWind_700_999999",
+    "optionsHide": "1",
+    "text": "Wind",
+    "function": "addTargetAttr_1_basWind_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457269",
+    "condition": "attr_1_basWind_700_800|attr_0_basWind_800_999999",
+    "optionsHide": "1",
+    "text": "Wind",
+    "function": "addTargetAttr_1_basWind_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457270",
+    "condition": "attr_1_basWind_800_999999|attr_0_basWind_900_999999",
+    "optionsHide": "1",
+    "text": "Wind",
+    "function": "addTargetAttr_1_basWind_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457271",
+    "condition": "attr_1_basEarth_0_40|attr_0_basEarth_40_999999",
+    "optionsHide": "1",
+    "text": "Earth",
+    "function": "addTargetAttr_1_basEarth_1_50",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457272",
+    "condition": "attr_1_basEarth_40_100|attr_0_basEarth_100_999999",
+    "optionsHide": "1",
+    "text": "Earth",
+    "function": "addTargetAttr_1_basEarth_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457273",
+    "condition": "attr_1_basEarth_100_200|attr_0_basEarth_200_999999",
+    "optionsHide": "1",
+    "text": "Earth",
+    "function": "addTargetAttr_1_basEarth_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457274",
+    "condition": "attr_1_basEarth_200_300|attr_0_basEarth_300_999999",
+    "optionsHide": "1",
+    "text": "Earth",
+    "function": "addTargetAttr_1_basEarth_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457275",
+    "condition": "attr_1_basEarth_300_400|attr_0_basEarth_400_999999",
+    "optionsHide": "1",
+    "text": "Earth",
+    "function": "addTargetAttr_1_basEarth_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457276",
+    "condition": "attr_1_basEarth_400_500|attr_0_basEarth_500_999999",
+    "optionsHide": "1",
+    "text": "Earth",
+    "function": "addTargetAttr_1_basEarth_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457277",
+    "condition": "attr_1_basEarth_500_600|attr_0_basEarth_600_999999",
+    "optionsHide": "1",
+    "text": "Earth",
+    "function": "addTargetAttr_1_basEarth_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457278",
+    "condition": "attr_1_basEarth_600_700|attr_0_basEarth_700_999999",
+    "optionsHide": "1",
+    "text": "Earth",
+    "function": "addTargetAttr_1_basEarth_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457279",
+    "condition": "attr_1_basEarth_700_800|attr_0_basEarth_800_999999",
+    "optionsHide": "1",
+    "text": "Earth",
+    "function": "addTargetAttr_1_basEarth_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457280",
+    "condition": "attr_1_basEarth_800_999999|attr_0_basEarth_900_999999",
+    "optionsHide": "1",
+    "text": "Earth",
+    "function": "addTargetAttr_1_basEarth_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457281",
+    "condition": "attr_1_basWood_0_40|attr_0_basWood_40_999999",
+    "optionsHide": "1",
+    "text": "Wood",
+    "function": "addTargetAttr_1_basWood_1_50",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457282",
+    "condition": "attr_1_basWood_40_100|attr_0_basWood_100_999999",
+    "optionsHide": "1",
+    "text": "Wood",
+    "function": "addTargetAttr_1_basWood_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457283",
+    "condition": "attr_1_basWood_100_200|attr_0_basWood_200_999999",
+    "optionsHide": "1",
+    "text": "Wood",
+    "function": "addTargetAttr_1_basWood_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457284",
+    "condition": "attr_1_basWood_200_300|attr_0_basWood_300_999999",
+    "optionsHide": "1",
+    "text": "Wood",
+    "function": "addTargetAttr_1_basWood_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457285",
+    "condition": "attr_1_basWood_300_400|attr_0_basWood_400_999999",
+    "optionsHide": "1",
+    "text": "Wood",
+    "function": "addTargetAttr_1_basWood_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457286",
+    "condition": "attr_1_basWood_400_500|attr_0_basWood_500_999999",
+    "optionsHide": "1",
+    "text": "Wood",
+    "function": "addTargetAttr_1_basWood_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457287",
+    "condition": "attr_1_basWood_500_600|attr_0_basWood_600_999999",
+    "optionsHide": "1",
+    "text": "Wood",
+    "function": "addTargetAttr_1_basWood_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457288",
+    "condition": "attr_1_basWood_600_700|attr_0_basWood_700_999999",
+    "optionsHide": "1",
+    "text": "Wood",
+    "function": "addTargetAttr_1_basWood_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457289",
+    "condition": "attr_1_basWood_700_800|attr_0_basWood_800_999999",
+    "optionsHide": "1",
+    "text": "Wood",
+    "function": "addTargetAttr_1_basWood_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303457290",
+    "condition": "attr_1_basWood_800_999999|attr_0_basWood_900_999999",
+    "optionsHide": "1",
+    "text": "Wood",
+    "function": "addTargetAttr_1_basWood_1_100",
+    "nextDialogue": "-684100823"
+  },
+  {
+    "id": "303459170",
+    "condition": "abGrade_0_1_1_9|gradePhaseStop_1_1_0|gradePhaseStop_1_2_0|gradePhase_1_1_2",
+    "optionsHide": "1",
+    "text": "Realm breakthrough",
+    "nextDialogue": "1403365782"
+  },
+  {
+    "id": "303459180",
+    "condition": "abGrade_0_1_1_9|grade_1_1_1|gradePhaseStop_1_1_1",
+    "optionsHide": "1",
+    "text": "Realm breakthrough",
+    "function": "addNPCLuck_1_303457170_2",
+    "nextDialogue": "-479995388"
+  },
+  {
+    "id": "303459190",
+    "condition": "abGrade_0_1_1_9|grade_1_1_1|gradePhaseStop_1_2_1",
+    "optionsHide": "1",
+    "text": "Realm breakthrough",
+    "function": "addNPCLuck_1_303457180_2",
+    "nextDialogue": "-479995388"
+  },
+  {
+    "id": "303459200",
+    "condition": "abGrade_0_1_1_9|grade_1_2_2|gradePhaseStop_1_1_1",
+    "optionsHide": "1",
+    "text": "Realm breakthrough",
+    "function": "addNPCLuck_1_303457190_2",
+    "nextDialogue": "-479995388"
+  },
+  {
+    "id": "303459210",
+    "condition": "abGrade_0_1_1_9|grade_1_2_2|gradePhaseStop_1_2_1",
+    "optionsHide": "1",
+    "text": "Realm breakthrough",
+    "function": "addNPCLuck_1_303457200_2",
+    "nextDialogue": "-479995388"
+  },
+  {
+    "id": "303459220",
+    "condition": "abGrade_0_1_1_9|grade_1_3_3|gradePhaseStop_1_1_1",
+    "optionsHide": "1",
+    "text": "Realm breakthrough",
+    "function": "addNPCLuck_1_303457210_2",
+    "nextDialogue": "-479995388"
+  },
+  {
+    "id": "303459230",
+    "condition": "abGrade_0_1_1_9|grade_1_3_3|gradePhaseStop_1_2_1",
+    "optionsHide": "1",
+    "text": "Realm breakthrough",
+    "function": "addNPCLuck_1_303457220_2",
+    "nextDialogue": "-479995388"
+  },
+  {
+    "id": "303459240",
+    "condition": "abGrade_0_1_1_9|grade_1_4_4|gradePhaseStop_1_1_1",
+    "optionsHide": "1",
+    "text": "Realm breakthrough",
+    "function": "addNPCLuck_1_303457230_2",
+    "nextDialogue": "-479995388"
+  },
+  {
+    "id": "303459250",
+    "condition": "abGrade_0_1_1_9|grade_1_4_4|gradePhaseStop_1_2_1",
+    "optionsHide": "1",
+    "text": "Realm breakthrough",
+    "function": "addNPCLuck_1_303457240_2",
+    "nextDialogue": "-479995388"
+  },
+  {
+    "id": "303459260",
+    "condition": "abGrade_0_1_1_9|grade_1_5_5|gradePhaseStop_1_1_1",
+    "optionsHide": "1",
+    "text": "Realm breakthrough",
+    "function": "addNPCLuck_1_303457250_2",
+    "nextDialogue": "-479995388"
+  },
+  {
+    "id": "303459270",
+    "condition": "abGrade_0_1_1_9|grade_1_5_5|gradePhaseStop_1_2_1",
+    "optionsHide": "1",
+    "text": "Realm breakthrough",
+    "function": "addNPCLuck_1_303457260_2",
+    "nextDialogue": "-479995388"
+  },
+  {
+    "id": "303459280",
+    "condition": "abGrade_0_1_1_9|grade_1_6_6|gradePhaseStop_1_1_1",
+    "optionsHide": "1",
+    "text": "Realm breakthrough",
+    "function": "addNPCLuck_1_303457270_2",
+    "nextDialogue": "-479995388"
+  },
+  {
+    "id": "303459290",
+    "condition": "abGrade_0_1_1_9|grade_1_6_6|gradePhaseStop_1_2_1",
+    "optionsHide": "1",
+    "text": "Realm breakthrough",
+    "function": "addNPCLuck_1_303457280_2",
+    "nextDialogue": "-479995388"
+  },
+  {
+    "id": "303459300",
+    "condition": "abGrade_0_1_1_9|grade_1_7_7|gradePhaseStop_1_1_1",
+    "optionsHide": "1",
+    "text": "Realm breakthrough",
+    "function": "addNPCLuck_1_303457290_2",
+    "nextDialogue": "-479995388"
+  },
+  {
+    "id": "303459310",
+    "condition": "abGrade_0_1_1_9|grade_1_7_7|gradePhaseStop_1_2_1",
+    "optionsHide": "1",
+    "text": "Realm breakthrough",
+    "function": "addNPCLuck_1_303457300_2",
+    "nextDialogue": "-479995388"
+  },
+  {
+    "id": "303459320",
+    "condition": "abGrade_0_1_1_9|grade_1_8_8|gradePhaseStop_1_1_1",
+    "optionsHide": "1",
+    "text": "Realm breakthrough",
+    "function": "addNPCLuck_1_303457310_2",
+    "nextDialogue": "-479995388"
+  },
+  {
+    "id": "303459330",
+    "condition": "abGrade_0_1_1_9|grade_1_8_8|gradePhaseStop_1_2_1",
+    "optionsHide": "1",
+    "text": "Realm breakthrough",
+    "function": "addNPCLuck_1_303457320_2",
+    "nextDialogue": "-479995388"
+  },
+  {
+    "id": "303459340",
+    "condition": "abGrade_0_1_1_9|grade_1_9_9|gradePhaseStop_1_1_1",
+    "optionsHide": "1",
+    "text": "Realm breakthrough",
+    "function": "addNPCLuck_1_303457330_2",
+    "nextDialogue": "-479995388"
+  },
+  {
+    "id": "303459350",
+    "condition": "abGrade_0_1_1_9|grade_1_9_9|gradePhaseStop_1_2_1",
+    "optionsHide": "1",
+    "text": "Realm breakthrough",
+    "function": "addNPCLuck_1_303457340_2",
+    "nextDialogue": "-479995388"
+  },
+  {
+    "id": "303459360",
+    "condition": "abGrade_0_1_0_9|grade_1_10_10|gradePhaseStop_1_1_1",
+    "optionsHide": "1",
+    "text": "Realm breakthrough",
+    "function": "addNPCLuck_1_303457350_2",
+    "nextDialogue": "-479995388"
+  },
+  {
+    "id": "303459370",
+    "condition": "abGrade_0_1_0_9|grade_1_10_10|gradePhaseStop_1_2_1",
+    "optionsHide": "1",
+    "text": "Realm breakthrough",
+    "function": "addNPCLuck_1_303457360_2",
+    "nextDialogue": "-479995388"
+  },
+  {
+    "id": "303459380",
+    "condition": "abGrade_0_1_1_9|grade_1_1_1|gradePhase_1_3_3",
+    "optionsHide": "1",
+    "text": "Realm breakthrough",
+    "function": "addNPCLuck_1_303457370_2|addTargetAttr_1_exp_0_100",
+    "nextDialogue": "-479995388"
+  },
+  {
+    "id": "303459390",
+    "condition": "abGrade_0_1_1_9|grade_1_2_2|gradePhase_1_3_3",
+    "optionsHide": "1",
+    "text": "Realm breakthrough",
+    "function": "addNPCLuck_1_303457380_2|addTargetAttr_1_exp_0_100",
+    "nextDialogue": "-479995388"
+  },
+  {
+    "id": "303459400",
+    "condition": "abGrade_0_1_1_9|grade_1_3_3|gradePhase_1_3_3",
+    "optionsHide": "1",
+    "text": "Realm breakthrough",
+    "function": "addNPCLuck_1_303457390_2|addTargetAttr_1_exp_0_100",
+    "nextDialogue": "-479995388"
+  },
+  {
+    "id": "303459410",
+    "condition": "abGrade_0_1_1_9|grade_1_4_4|gradePhase_1_3_3",
+    "optionsHide": "1",
+    "text": "Realm breakthrough",
+    "function": "addNPCLuck_1_303457400_2|addTargetAttr_1_exp_0_100",
+    "nextDialogue": "-479995388"
+  },
+  {
+    "id": "303459420",
+    "condition": "abGrade_0_1_1_9|grade_1_5_5|gradePhase_1_3_3",
+    "optionsHide": "1",
+    "text": "Realm breakthrough",
+    "function": "addNPCLuck_1_303457410_2|addTargetAttr_1_exp_0_100",
+    "nextDialogue": "-479995388"
+  },
+  {
+    "id": "303459430",
+    "condition": "abGrade_0_1_1_9|grade_1_6_6|gradePhase_1_3_3",
+    "optionsHide": "1",
+    "text": "Realm breakthrough",
+    "function": "LE2lAt_grade_gradeUp_7",
+    "nextDialogue": "-479995388"
+  },
+  {
+    "id": "303459440",
+    "condition": "abGrade_0_1_1_9|grade_1_7_7|gradePhase_1_3_3",
+    "optionsHide": "1",
+    "text": "Realm breakthrough",
+    "function": "LE2lAt_grade_gradeUp_8",
+    "nextDialogue": "-479995388"
+  },
+  {
+    "id": "303459450",
+    "condition": "abGrade_0_1_1_9|grade_1_8_8|gradePhase_1_3_3",
+    "optionsHide": "1",
+    "text": "Realm breakthrough",
+    "function": "LE2lAt_grade_gradeUp_9",
+    "nextDialogue": "-479995388"
+  },
+  {
+    "id": "303459455",
+    "condition": "abGrade_0_1_1_9|grade_1_9_9|gradePhase_1_3_3",
+    "optionsHide": "1",
+    "text": "Realm breakthrough",
+    "function": "LE2lAt_grade_gradeUp_10",
+    "nextDialogue": "-479995388"
+  },
+  {
+    "id": "303460170",
+    "text": "Teach mind skill 1",
+    "function": "LE2lAt_dramaShareSkills_share_ability_0",
+    "nextDialogue": "303457175|303457180|303457190"
+  },
+  {
+    "id": "303460171",
+    "text": "Teach mind skill 2",
+    "function": "LE2lAt_dramaShareSkills_share_ability_1",
+    "nextDialogue": "303457175|303457180|303457190"
+  },
+  {
+    "id": "303460172",
+    "text": "Teach mind skill 3",
+    "function": "LE2lAt_dramaShareSkills_share_ability_2",
+    "nextDialogue": "303457175|303457180|303457190"
+  },
+  {
+    "id": "303460173",
+    "text": "Teach mind skill 4",
+    "function": "LE2lAt_dramaShareSkills_share_ability_3",
+    "nextDialogue": "303457175|303457180|303457190"
+  },
+  {
+    "id": "303460174",
+    "text": "Teach mind skill 5",
+    "function": "LE2lAt_dramaShareSkills_share_ability_4",
+    "nextDialogue": "303457175|303457180|303457190"
+  },
+  {
+    "id": "303460175",
+    "text": "Teach mind skill 6",
+    "function": "LE2lAt_dramaShareSkills_share_ability_5",
+    "nextDialogue": "303457175|303457180|303457190"
+  },
+  {
+    "id": "303460176",
+    "text": "Teach mind skill 7",
+    "function": "LE2lAt_dramaShareSkills_share_ability_6",
+    "nextDialogue": "303457175|303457180|303457190"
+  },
+  {
+    "id": "303460177",
+    "text": "Teach mind skill 8",
+    "function": "LE2lAt_dramaShareSkills_share_ability_7",
+    "nextDialogue": "303457175|303457180|303457190"
+  },
+  {
+    "id": "303460178",
+    "text": "Teach Motion skill",
+    "function": "LE2lAt_dramaShareSkills_share_step_0",
+    "nextDialogue": "303457175|303457180|303457190"
+  },
+  {
+    "id": "303460179",
+    "text": "Teach martial/Spiritual art",
+    "function": "LE2lAt_dramaShareSkills_share_skillLeft_0",
+    "nextDialogue": "303457175|303457180|303457190"
+  },
+  {
+    "id": "303460180",
+    "text": "Teach Special skill",
+    "function": "LE2lAt_dramaShareSkills_share_skillRight_0",
+    "nextDialogue": "303457175|303457180|303457190"
+  },
+  {
+    "id": "303460181",
+    "text": "Teach Ultimate skill",
+    "function": "LE2lAt_dramaShareSkills_share_ultimate_0",
+    "nextDialogue": "303457175|303457180|303457190"
+  },
+  {
+    "id": "303460250",
+    "text": "Teach all your skills",
+    "function": "LE2lAt_dramaShareSkills_share_all",
+    "nextDialogue": "303457175|303457180|303457190"
+  },
+  {
+    "id": "303460260",
+    "text": "Return to other options",
+    "nextDialogue": "-1624281398"
+  },
+  {
+    "id": "303460270",
+    "text": "View your personal information",
+    "nextDialogue": "303457210"
+  },
+  {
+    "id": "303460360",
+    "text": "Teach a Mind skill",
+    "nextDialogue": "303457170"
+  },
+  {
+    "id": "303460370",
+    "text": "Forget a mind skill",
+    "nextDialogue": "303457250"
+  },
+  {
+    "id": "303460380",
+    "text": "Teach a skill",
+    "nextDialogue": "303457200"
+  },
+  {
+    "id": "303460390",
+    "text": "Forget Skills",
+    "nextDialogue": "303457260"
+  },
+  {
+    "id": "303460470",
+    "text": "Forget Mind skill 1",
+    "function": "LE2lAt_dramaShareSkills_del_ability_0",
+    "nextDialogue": "303457220|303457230|303457240"
+  },
+  {
+    "id": "303460471",
+    "text": "Forget Mind skill 2",
+    "function": "LE2lAt_dramaShareSkills_del_ability_1",
+    "nextDialogue": "303457220|303457230|303457240"
+  },
+  {
+    "id": "303460472",
+    "text": "Forget Mind skill 3",
+    "function": "LE2lAt_dramaShareSkills_del_ability_2",
+    "nextDialogue": "303457220|303457230|303457240"
+  },
+  {
+    "id": "303460473",
+    "text": "Forget Mind skill 4",
+    "function": "LE2lAt_dramaShareSkills_del_ability_3",
+    "nextDialogue": "303457220|303457230|303457240"
+  },
+  {
+    "id": "303460474",
+    "text": "Forget Mind skill 5",
+    "function": "LE2lAt_dramaShareSkills_del_ability_4",
+    "nextDialogue": "303457220|303457230|303457240"
+  },
+  {
+    "id": "303460475",
+    "text": "Forget Mind skill 6",
+    "function": "LE2lAt_dramaShareSkills_del_ability_5",
+    "nextDialogue": "303457220|303457230|303457240"
+  },
+  {
+    "id": "303460476",
+    "text": "Forget Mind skill 7",
+    "function": "LE2lAt_dramaShareSkills_del_ability_6",
+    "nextDialogue": "303457220|303457230|303457240"
+  },
+  {
+    "id": "303460477",
+    "text": "Forget Mind skill 8",
+    "function": "LE2lAt_dramaShareSkills_del_ability_7",
+    "nextDialogue": "303457220|303457230|303457240"
+  },
+  {
+    "id": "303460478",
+    "text": "Forget Motion skill",
+    "function": "LE2lAt_dramaShareSkills_del_step_0",
+    "nextDialogue": "303457220|303457230|303457240"
+  },
+  {
+    "id": "303460479",
+    "text": "Forget Martial/Spiritual art",
+    "function": "LE2lAt_dramaShareSkills_del_skillLeft_0",
+    "nextDialogue": "303457220|303457230|303457240"
+  },
+  {
+    "id": "303460480",
+    "text": "Forget Special skill",
+    "function": "LE2lAt_dramaShareSkills_del_skillRight_0",
+    "nextDialogue": "303457220|303457230|303457240"
+  },
+  {
+    "id": "303460481",
+    "text": "Forget Ultimate skill",
+    "function": "LE2lAt_dramaShareSkills_del_ultimate_0",
+    "nextDialogue": "303457220|303457230|303457240"
+  },
+  {
+    "id": "303460550",
+    "text": "Forget all skills",
+    "function": "LE2lAt_dramaShareSkills_del_all",
+    "nextDialogue": "303457220|303457230|303457240"
+  },
+  {
+    "id": "303461170",
+    "text": "Martial arts qualification",
+    "function": "LE2lAt_dramaShareBasis_1"
+  },
+  {
+    "id": "303461180",
+    "text": "Spiritual Roots Qualification",
+    "function": "LE2lAt_dramaShareBasis_2"
+  },
+  {
+    "id": "303462170",
+    "text": "Alter its appearance",
+    "function": "LE2lAt_mod_existsMod_0lkK4v|0lkK4v_openDress_2",
+    "nextDialogue": "303457270"
+  },
+  {
+    "id": "303463170",
+    "text": "Immortal enshrinement",
+    "function": "LE2lAt_dramaWantShareAll",
+    "nextDialogue": "303457280|303457300"
+  },
+  {
+    "id": "303463180",
+    "text": "Confirmation of enshrinement",
+    "function": "LE2lAt_dramaShareAll",
+    "nextDialogue": "303457290"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "key": "pieceMin",
+    "value": 8,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "pieceMax",
+    "value": 16,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "key": "weightMonthly",
+    "value": 500,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "weightReduce",
+    "value": -2000,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "weightMax",
+    "value": 8000,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

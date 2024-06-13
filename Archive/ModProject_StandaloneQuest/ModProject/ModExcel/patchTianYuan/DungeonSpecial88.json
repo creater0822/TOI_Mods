@@ -1,0 +1,19 @@
+[
+  // Walk towards Hengtian faster
+  {
+    "id": "1",
+    "key": "fixedMoveSpeed",
+    "value": "999"
+  },
+  // Skip the two DramaDialogue that would crash the game if Hengtian died
+  {
+    "id": "19",
+    "key": "drama2BossHpPercentage",
+    "value": "-1"
+  },
+  {
+    "id": "24",
+    "key": "drama4BossHpPercentage",
+    "value": "-1"
+  }
+]
