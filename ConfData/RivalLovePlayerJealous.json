@@ -1,0 +1,46 @@
+[
+  {
+    "trait": 0,
+    "okWeight": 100,
+    "noWeight": 100,
+    "shamWeight": 100,
+    "propWeight": 100,
+    "propCount": 1,
+    "id": 0,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "trait": 15,
+    "okWeight": 20,
+    "noWeight": 50,
+    "shamWeight": 20,
+    "propWeight": 20,
+    "propCount": 1,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "trait": 19,
+    "okWeight": 20,
+    "noWeight": 40,
+    "shamWeight": 40,
+    "propWeight": 40,
+    "propCount": 1,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "trait": 16,
+    "okWeight": 30,
+    "noWeight": 50,
+    "shamWeight": 20,
+    "propWeight": 20,
+    "propCount": 1,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

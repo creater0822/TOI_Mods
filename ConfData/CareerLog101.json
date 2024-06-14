@@ -1,0 +1,128 @@
+[
+  {
+    "careerKey": "careerLogUpgradeSuccess",
+    "roleLogKey": "bigLogRoleChat10025",
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogUpgradeFail",
+    "roleLogKey": "eventLogTotal10702",
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogSchoolJoin",
+    "roleLogKey": "eventLogTotal10801",
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogSchoolPost",
+    "roleLogKey": "eventLogTotal10805",
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogSchoolMain",
+    "roleLogKey": "eventLogTotal10807",
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogSchoolBigFight",
+    "roleLogKey": "eventLogBigFightJoin6200023|eventLogBigFightJoin6200027|eventLogBigFightJoin6200031|eventLogBigFightJoin6200035",
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogRelationMarry",
+    "roleLogKey": "eventLogRoleMarry21311",
+    "id": 7,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogRelationLover",
+    "roleLogKey": "eventLogRoleRelation29311|eventLogRoleRelation29312",
+    "id": 8,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogRelationParentbackM",
+    "roleLogKey": "eventLogRoleRelation21311",
+    "id": 9,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogRelationParentbackW",
+    "roleLogKey": "eventLogRoleRelation22311",
+    "id": 10,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogRelationBrother",
+    "roleLogKey": "eventLogRoleRelation23311|eventLogRoleRelation24311|eventLogRoleRelation23312|eventLogRoleRelation24312",
+    "id": 11,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogRelationSister",
+    "roleLogKey": "eventLogRoleRelation25311|eventLogRoleRelation26311|eventLogRoleRelation25312|eventLogRoleRelation26312",
+    "id": 12,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogRelationChildrenBackM",
+    "roleLogKey": "eventLogRoleRelation27311",
+    "id": 13,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogRelationChildrenBackW",
+    "roleLogKey": "eventLogRoleRelation28311",
+    "id": 14,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogRelationMaster",
+    "roleLogKey": "eventLogRoleRelation211311",
+    "id": 15,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogRelationStudent",
+    "roleLogKey": "eventLogRoleRelation212311",
+    "id": 16,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogRelationBreakWith",
+    "roleLogKey": "eventLogRoleBreakWith21311|eventLogRoleBreakWith21312",
+    "id": 17,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogEntryWorld",
+    "roleLogKey": "eventLogTotal10804",
+    "id": 18,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

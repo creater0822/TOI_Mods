@@ -1,0 +1,16 @@
+[
+  {
+    "key": "learnSkillUnitCount",
+    "value": 200,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "learnSkillProb",
+    "value": 100,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

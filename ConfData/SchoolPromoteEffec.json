@@ -1,0 +1,62 @@
+[
+  {
+    "name": "SchoolPromoteEffecName1001",
+    "desc": "SchoolPromoteEffecDesc1001",
+    "effect": "basFire_10",
+    "itemCostID": "10001_100",
+    "cost": 0,
+    "id": 1001,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "name": "SchoolPromoteEffecName1002",
+    "desc": "SchoolPromoteEffecDesc1002",
+    "effect": "basFroze_10",
+    "itemCostID": "10001_100",
+    "cost": 0,
+    "id": 1002,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "name": "SchoolPromoteEffecName1003",
+    "desc": "SchoolPromoteEffecDesc1003",
+    "effect": "basThunder_10",
+    "itemCostID": "10001_100",
+    "cost": 0,
+    "id": 1003,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "name": "SchoolPromoteEffecName1004",
+    "desc": "SchoolPromoteEffecDesc1004",
+    "effect": "basWind_10",
+    "itemCostID": "10001_100",
+    "cost": 0,
+    "id": 1004,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "name": "SchoolPromoteEffecName1005",
+    "desc": "SchoolPromoteEffecDesc1005",
+    "effect": "basEarth_10",
+    "itemCostID": "10001_100",
+    "cost": 0,
+    "id": 1005,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "name": "SchoolPromoteEffecName1006",
+    "desc": "SchoolPromoteEffecDesc1006",
+    "effect": "basWood_10",
+    "itemCostID": "10001_100",
+    "cost": 0,
+    "id": 1006,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

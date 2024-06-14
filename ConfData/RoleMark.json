@@ -1,0 +1,72 @@
+[
+  {
+    "needSp": 50,
+    "cost": 10,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "needSp": 75,
+    "cost": 10,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "needSp": 125,
+    "cost": 10,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "needSp": 180,
+    "cost": 10,
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "needSp": 260,
+    "cost": 10,
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "needSp": 380,
+    "cost": 10,
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "needSp": 560,
+    "cost": 10,
+    "id": 7,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "needSp": 820,
+    "cost": 10,
+    "id": 8,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "needSp": 1250,
+    "cost": 10,
+    "id": 9,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "needSp": 1800,
+    "cost": 10,
+    "id": 10,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

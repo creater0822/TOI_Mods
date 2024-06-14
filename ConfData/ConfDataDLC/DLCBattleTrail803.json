@@ -1,0 +1,30 @@
+[
+  {
+    "bulletNum": "36",
+    "firstBullet": 4,
+    "id": 803001,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "bulletNum": "36",
+    "firstBullet": 8,
+    "id": 803002,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "bulletNum": "100",
+    "firstBullet": 1,
+    "id": 803003,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "bulletNum": "-1",
+    "firstBullet": 50,
+    "id": 803004,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

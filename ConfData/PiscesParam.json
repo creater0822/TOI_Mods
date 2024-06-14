@@ -1,0 +1,79 @@
+[
+  {
+    "key": "npcIntimLimit",
+    "value": "180",
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "playerTransCD",
+    "value": "1",
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "npcSummonCD",
+    "value": "3",
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "npcAddLuck",
+    "value": "150",
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "giveSuccessDramaId",
+    "value": "7010001",
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "giveFailDramaId",
+    "value": "7010101",
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "recallDramaId",
+    "value": "7010201",
+    "id": 7,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "relationBreakDramaId",
+    "value": "7010301",
+    "id": 8,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "playerTransDramaId",
+    "value": "7010501",
+    "id": 9,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "resurgeNpcDramaId",
+    "value": "7010401",
+    "id": 10,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "summonUnitDieDramaId",
+    "value": "7010601",
+    "id": 11,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

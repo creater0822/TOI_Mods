@@ -1,0 +1,44 @@
+[
+  {
+    "key": "victoryPara",
+    "value": 20,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "masteryMin",
+    "value": 3000,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "masteryMax",
+    "value": 10000,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "masteryAbilityMin",
+    "value": 500,
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "masteryAbilityMax",
+    "value": 1000,
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "victoryFixProb",
+    "value": 5,
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

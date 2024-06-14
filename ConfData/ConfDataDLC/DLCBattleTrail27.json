@@ -1,0 +1,30 @@
+[
+  {
+    "bulletNum": "1",
+    "chase": "0",
+    "id": 27001,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "bulletNum": "&700117_ddsl",
+    "chase": "0",
+    "id": 27012,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "bulletNum": "1",
+    "chase": "0",
+    "id": 227010,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "bulletNum": "1",
+    "chase": "1",
+    "id": 227011,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

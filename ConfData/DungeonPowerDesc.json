@@ -1,0 +1,37 @@
+[
+  {
+    "powerTimes": 0.0,
+    "desc": "dungeon_power_desc1",
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "powerTimes": 3.0,
+    "desc": "dungeon_power_desc2",
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "powerTimes": 5.0,
+    "desc": "dungeon_power_desc3",
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "powerTimes": 7.0,
+    "desc": "dungeon_power_desc4",
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "powerTimes": 10.0,
+    "desc": "dungeon_power_desc5",
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

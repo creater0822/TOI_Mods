@@ -1,0 +1,90 @@
+[
+  {
+    "key": "populationCost",
+    "area2": 1.0,
+    "area4": 1.0,
+    "area6": 1.0,
+    "area8": 1.0,
+    "area10": 1.0,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "outerCost",
+    "area2": 1.0,
+    "area4": 1.0,
+    "area6": 1.0,
+    "area8": 1.0,
+    "area10": 1.0,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "innerCost",
+    "area2": 1.0,
+    "area4": 1.0,
+    "area6": 1.0,
+    "area8": 1.0,
+    "area10": 1.0,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "inheritCost",
+    "area2": 1.0,
+    "area4": 1.0,
+    "area6": 1.0,
+    "area8": 1.0,
+    "area10": 1.0,
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "reputation",
+    "area2": 0.3,
+    "area4": 0.3,
+    "area6": 0.3,
+    "area8": 0.3,
+    "area10": 0.3,
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "royalty",
+    "area2": 0.0,
+    "area4": 0.0,
+    "area6": 0.0,
+    "area8": 0.0,
+    "area10": 0.0,
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "formation",
+    "area2": 0.0,
+    "area4": 0.0,
+    "area6": 0.0,
+    "area8": 0.0,
+    "area10": 0.0,
+    "id": 7,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "stable",
+    "area2": 0.6,
+    "area4": 0.6,
+    "area6": 0.6,
+    "area8": 0.6,
+    "area10": 0.6,
+    "id": 8,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "key": "refugeeUpValueMin",
+    "value": 1200,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "refugeeUpValueMax",
+    "value": 2000,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "eliteUpValueMin",
+    "value": 1600,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "eliteUpValueMax",
+    "value": 2400,
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

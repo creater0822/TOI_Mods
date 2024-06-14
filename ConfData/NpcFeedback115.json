@@ -1,0 +1,163 @@
+[
+  {
+    "key": "matchScoreParaA",
+    "value": [
+      3000
+    ],
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "matchScoreParaB",
+    "value": [
+      -5
+    ],
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "closeScorePara",
+    "value": [
+      150
+    ],
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "hateScorePara",
+    "value": [
+      2000
+    ],
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "schoolValueParaA",
+    "value": [
+      -1
+    ],
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "schoolValueParaB",
+    "value": [
+      10
+    ],
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "requireScore",
+    "value": [
+      1000
+    ],
+    "id": 7,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "eliteRequireScore",
+    "value": [
+      1600
+    ],
+    "id": 8,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "elitePowerAskRatio",
+    "value": [
+      7000
+    ],
+    "id": 9,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "eliteDecValue",
+    "value": [
+      -1000
+    ],
+    "id": 10,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "relationID",
+    "value": [
+      8,
+      9
+    ],
+    "id": 11,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "populationDecValue",
+    "value": [
+      -500
+    ],
+    "id": 12,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "elitePopulationDecValue",
+    "value": [
+      -1000
+    ],
+    "id": 13,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "postAddValue6",
+    "value": [],
+    "id": 14,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "postAddValue5",
+    "value": [
+      50
+    ],
+    "id": 15,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "postAddValue4",
+    "value": [
+      200
+    ],
+    "id": 16,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "postAddValue3",
+    "value": [
+      300
+    ],
+    "id": 17,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "postAddValue2",
+    "value": [
+      600
+    ],
+    "id": 18,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

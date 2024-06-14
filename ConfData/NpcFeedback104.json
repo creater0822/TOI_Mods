@@ -1,0 +1,373 @@
+[
+  {
+    "key": "matchScoreParaA",
+    "value": 3000,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "matchScoreParaB",
+    "value": -5,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "closeScorePara",
+    "value": 150,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "hateScorePara",
+    "value": 2000,
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "requireScoreParents",
+    "value": 5000,
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "requireScoreChildren",
+    "value": 5000,
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "requireScoreBrother",
+    "value": 5000,
+    "id": 7,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "requireScoreMaster",
+    "value": 5000,
+    "id": 8,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "requireScoreStudent",
+    "value": 5000,
+    "id": 9,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "requireScoreMarry",
+    "value": 6000,
+    "id": 10,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "requireScoreLover",
+    "value": 4000,
+    "id": 11,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "eventLogFeedback10411211",
+    "value": 0,
+    "id": 12,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "eventLogFeedback10411221",
+    "value": 0,
+    "id": 13,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "eventLogFeedback10411231",
+    "value": 0,
+    "id": 14,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "eventLogFeedback10411311",
+    "value": 0,
+    "id": 15,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "eventLogFeedback10411321",
+    "value": 0,
+    "id": 16,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "closeRequire",
+    "value": 120,
+    "id": 17,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "elitePowerAskRatio",
+    "value": 7000,
+    "id": 18,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "eliteDecValue",
+    "value": -1000,
+    "id": 19,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "schoolCloseRequire",
+    "value": -30,
+    "id": 20,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "schoolRequireScoreMaster",
+    "value": -999999,
+    "id": 21,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "schoolRequireScoreStudent",
+    "value": -999999,
+    "id": 22,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "requireReputationGrade1",
+    "value": 300,
+    "id": 23,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "requireReputationGrade2",
+    "value": 1200,
+    "id": 24,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "requireReputationGrade3",
+    "value": 1950,
+    "id": 25,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "requireReputationGrade4",
+    "value": 4200,
+    "id": 26,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "requireReputationGrade5",
+    "value": 6075,
+    "id": 27,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "requireReputationGrade6",
+    "value": 11700,
+    "id": 28,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "requireReputationGrade7",
+    "value": 16387,
+    "id": 29,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "requireReputationGrade8",
+    "value": 30450,
+    "id": 30,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "requireReputationGrade9",
+    "value": 42150,
+    "id": 31,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "requireReputationGrade10",
+    "value": 77310,
+    "id": 32,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "reputationGapScaleByTrait1",
+    "value": 0,
+    "id": 33,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "reputationGapScaleByTrait2",
+    "value": 50,
+    "id": 34,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "reputationGapScaleByTrait3",
+    "value": 50,
+    "id": 35,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "reputationGapScaleByTrait4",
+    "value": 50,
+    "id": 36,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "reputationGapScaleByTrait5",
+    "value": 0,
+    "id": 37,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "reputationGapScaleByTrait6",
+    "value": 0,
+    "id": 38,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "reputationGapScaleByTrait7",
+    "value": 0,
+    "id": 39,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "reputationGapScaleByTrait8",
+    "value": 200,
+    "id": 40,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "reputationGapScaleByTrait9",
+    "value": 50,
+    "id": 41,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "reputationGapScaleByTrait10",
+    "value": 50,
+    "id": 42,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "reputationGapScaleByTrait11",
+    "value": 0,
+    "id": 43,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "reputationGapScaleByTrait12",
+    "value": 50,
+    "id": 44,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "reputationGapScaleByTrait13",
+    "value": 200,
+    "id": 45,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "reputationGapScaleByTrait14",
+    "value": 150,
+    "id": 46,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "reputationGapScaleByTrait15",
+    "value": 0,
+    "id": 47,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "reputationGapScaleByTrait16",
+    "value": 0,
+    "id": 48,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "reputationGapScaleByTrait17",
+    "value": 0,
+    "id": 49,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "reputationGapScaleByTrait18",
+    "value": 200,
+    "id": 50,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "reputationGapScaleByTrait19",
+    "value": 0,
+    "id": 51,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "scoreMinScale",
+    "value": 50,
+    "id": 52,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "eventLogFeedback10411241",
+    "value": 0,
+    "id": 53,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

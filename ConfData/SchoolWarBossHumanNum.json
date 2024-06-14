@@ -1,0 +1,198 @@
+[
+  {
+    "point": [
+      4,
+      0
+    ],
+    "atkSchoolPost": [
+      1,
+      2
+    ],
+    "atkSchoolPostNum": [
+      1,
+      2
+    ],
+    "defSchoolPost": [
+      2,
+      3
+    ],
+    "defSchoolPostNum": [
+      2,
+      1
+    ],
+    "defPlayerPost": [
+      1,
+      2,
+      3
+    ],
+    "defPlayerPostNum": [
+      1,
+      1,
+      1
+    ],
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "point": [
+      4,
+      2
+    ],
+    "atkSchoolPost": [
+      3,
+      4
+    ],
+    "atkSchoolPostNum": [
+      1,
+      2
+    ],
+    "defSchoolPost": [
+      3,
+      4
+    ],
+    "defSchoolPostNum": [
+      1,
+      2
+    ],
+    "defPlayerPost": [
+      3,
+      4
+    ],
+    "defPlayerPostNum": [
+      1,
+      2
+    ],
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "point": [
+      4,
+      4
+    ],
+    "atkSchoolPost": [
+      3,
+      4
+    ],
+    "atkSchoolPostNum": [
+      1,
+      2
+    ],
+    "defSchoolPost": [
+      3,
+      4
+    ],
+    "defSchoolPostNum": [
+      1,
+      2
+    ],
+    "defPlayerPost": [
+      3,
+      4
+    ],
+    "defPlayerPostNum": [
+      1,
+      2
+    ],
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "point": [
+      4,
+      6
+    ],
+    "atkSchoolPost": [
+      3,
+      4
+    ],
+    "atkSchoolPostNum": [
+      1,
+      2
+    ],
+    "defSchoolPost": [
+      3,
+      4
+    ],
+    "defSchoolPostNum": [
+      1,
+      2
+    ],
+    "defPlayerPost": [
+      3,
+      4
+    ],
+    "defPlayerPostNum": [
+      1,
+      2
+    ],
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "point": [
+      4,
+      8
+    ],
+    "atkSchoolPost": [
+      3,
+      4
+    ],
+    "atkSchoolPostNum": [
+      1,
+      2
+    ],
+    "defSchoolPost": [
+      3,
+      4
+    ],
+    "defSchoolPostNum": [
+      1,
+      2
+    ],
+    "defPlayerPost": [
+      3,
+      4
+    ],
+    "defPlayerPostNum": [
+      1,
+      2
+    ],
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "point": [
+      4,
+      10
+    ],
+    "atkSchoolPost": [
+      3,
+      4
+    ],
+    "atkSchoolPostNum": [
+      1,
+      2
+    ],
+    "defSchoolPost": [
+      4
+    ],
+    "defSchoolPostNum": [
+      2
+    ],
+    "defPlayerPost": [
+      4
+    ],
+    "defPlayerPostNum": [
+      2
+    ],
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

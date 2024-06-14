@@ -1,0 +1,37 @@
+[
+  {
+    "skillType": 1,
+    "skillTypeSmall": 2,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "skillType": 2,
+    "skillTypeSmall": 4,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "skillType": 4,
+    "skillTypeSmall": 6,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "skillType": 6,
+    "skillTypeSmall": 6,
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "skillType": 6,
+    "skillTypeSmall": 6,
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

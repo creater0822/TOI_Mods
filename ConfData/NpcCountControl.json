@@ -1,0 +1,38 @@
+[
+  {
+    "text": "ui_difficultyLess",
+    "tips": "ui_difficultyLessTips",
+    "value": 0.5,
+    "defSelect": 0,
+    "lastGradeAdd": 10,
+    "curGradeAdd": 20,
+    "nextGradeAdd": 10,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "text": "ui_difficultyMedium",
+    "tips": "ui_difficultyMediumTips",
+    "value": 0.75,
+    "defSelect": 1,
+    "lastGradeAdd": 5,
+    "curGradeAdd": 10,
+    "nextGradeAdd": 5,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "text": "ui_difficultyMore",
+    "tips": "ui_difficultyMoreTips",
+    "value": 1.0,
+    "defSelect": 0,
+    "lastGradeAdd": 0,
+    "curGradeAdd": 0,
+    "nextGradeAdd": 0,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

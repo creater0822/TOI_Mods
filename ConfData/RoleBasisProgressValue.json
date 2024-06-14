@@ -1,0 +1,499 @@
+[
+  {
+    "key": "standardHP",
+    "value": 250.0,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "paraHP_a",
+    "value": 0.01,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "paraHP_b",
+    "value": 5.0,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "standardMP",
+    "value": 150.0,
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "paraMP_a",
+    "value": 0.01,
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "paraMP_b",
+    "value": 3.0,
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "standardSP",
+    "value": 112.0,
+    "id": 7,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "paraSP_a",
+    "value": 0.01,
+    "id": 8,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "paraSP_b",
+    "value": 2.24,
+    "id": 9,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "standardAtk",
+    "value": 15.0,
+    "id": 10,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "paraAtk_a",
+    "value": 0.012,
+    "id": 11,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "paraAtk_b",
+    "value": 0.3,
+    "id": 12,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "standardDef",
+    "value": 5.0,
+    "id": 13,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "paraDef_a",
+    "value": 0.004,
+    "id": 14,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "paraDef_b",
+    "value": 0.1,
+    "id": 15,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "standardFeet",
+    "value": 500.0,
+    "id": 16,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "paraFeet_a",
+    "value": 0.012,
+    "id": 17,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "paraFeet_b",
+    "value": 10.0,
+    "id": 18,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "standardPfr",
+    "value": 50.0,
+    "id": 19,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "standardMfr",
+    "value": 50.0,
+    "id": 20,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "paraPfr_a",
+    "value": 0.01,
+    "id": 21,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "paraPfr_b",
+    "value": 1.0,
+    "id": 22,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "paraMfr_a",
+    "value": 0.01,
+    "id": 23,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "paraMfr_b",
+    "value": 1.0,
+    "id": 24,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "standardCrit",
+    "value": 15.0,
+    "id": 25,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "standardGuard",
+    "value": 9.0,
+    "id": 26,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "paraCrit_a",
+    "value": 0.01,
+    "id": 27,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "paraCrit_b",
+    "value": 0.3,
+    "id": 28,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "paraGuard_a",
+    "value": 0.006,
+    "id": 29,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "paraGuard_b",
+    "value": 0.18,
+    "id": 30,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "standardMsp",
+    "value": 350.0,
+    "id": 31,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "paraMsp_a",
+    "value": 0.01,
+    "id": 32,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "paraMsp_b",
+    "value": 7.0,
+    "id": 33,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "standardCritV",
+    "value": 200.0,
+    "id": 34,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "standardGuardV",
+    "value": 10.0,
+    "id": 35,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "paraCritV_a",
+    "value": 0.01,
+    "id": 36,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "paraCritV_b",
+    "value": 4.0,
+    "id": 37,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "paraGuardV_a",
+    "value": 0.01,
+    "id": 38,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "paraGuardV_b",
+    "value": 0.2,
+    "id": 39,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "standardWeaponBasis",
+    "value": 16.0,
+    "id": 40,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "standardMagicBasis",
+    "value": 16.0,
+    "id": 41,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "paraWeaponBasis_a",
+    "value": 0.01,
+    "id": 42,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "paraWeaponBasis_b",
+    "value": 0.32,
+    "id": 43,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "paraMagicBasis_a",
+    "value": 0.01,
+    "id": 44,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "paraMagicBasis_b",
+    "value": 0.32,
+    "id": 45,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "paraArtistryBasis_a",
+    "value": 0.01,
+    "id": 46,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "paraArtistryBasis_b",
+    "value": 0.32,
+    "id": 47,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "standardArtistryBasis",
+    "value": 16.0,
+    "id": 48,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "standardTalent",
+    "value": 80.0,
+    "id": 49,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "paraTalent_a",
+    "value": 0.01,
+    "id": 50,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "paraTalent_b",
+    "value": 1.6,
+    "id": 51,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "standardLuck",
+    "value": 80.0,
+    "id": 52,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "paraLuck_a",
+    "value": 0.01,
+    "id": 53,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "paraLuck_b",
+    "value": 1.6,
+    "id": 54,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "standardLife",
+    "value": 960.0,
+    "id": 55,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "paraLife_a",
+    "value": 0.01,
+    "id": 56,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "paraLife_b",
+    "value": 19.2,
+    "id": 57,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "standardBeauty",
+    "value": 100.0,
+    "id": 58,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "paraBeauty_a",
+    "value": 0.01,
+    "id": 59,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "paraBeauty_b",
+    "value": 2.0,
+    "id": 60,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "standardHealth",
+    "value": 100.0,
+    "id": 61,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "paraHealth_a",
+    "value": 0.01,
+    "id": 62,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "paraHealth_b",
+    "value": 2.0,
+    "id": 63,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "standardEnergy",
+    "value": 100.0,
+    "id": 64,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "paraEnergy_a",
+    "value": 0.01,
+    "id": 65,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "paraEnergy_b",
+    "value": 2.0,
+    "id": 66,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "standardMood",
+    "value": 100.0,
+    "id": 67,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "paraMood_a",
+    "value": 0.01,
+    "id": 68,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "paraMood_b",
+    "value": 2.0,
+    "id": 69,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "highValueLabelLower",
+    "value": 1.1,
+    "id": 70,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "highValueLabelUper",
+    "value": 1.4,
+    "id": 71,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

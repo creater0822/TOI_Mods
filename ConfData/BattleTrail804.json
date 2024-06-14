@@ -1,0 +1,14 @@
+[
+  {
+    "smallModel": "LeizhenShandian",
+    "delay": 500,
+    "smallDmgScale": 70,
+    "bulletNum": "18",
+    "interval": 80,
+    "bigModel": "LeizhenShandianDa",
+    "bigDmgScale": 30,
+    "id": 804001,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

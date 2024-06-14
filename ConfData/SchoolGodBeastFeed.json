@@ -1,0 +1,26 @@
+[
+  {
+    "topest": 3,
+    "dialogue": "drama_dialogue1010301",
+    "condition": "quality_5",
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "topest": 2,
+    "dialogue": "drama_dialogue1010302",
+    "condition": "max_1000",
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "topest": 1,
+    "dialogue": "drama_dialogue1010303",
+    "condition": "count_200",
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

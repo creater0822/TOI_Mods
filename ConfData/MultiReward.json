@@ -1,0 +1,23 @@
+[
+  {
+    "key": "dungeonID",
+    "value": "0",
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "dungeonTypes",
+    "value": "10|11|47|54|55|58",
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "dungeonClass",
+    "value": "11",
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

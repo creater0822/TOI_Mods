@@ -1,0 +1,72 @@
+[
+  {
+    "schoolArea": 2,
+    "dungeonID": [
+      100405
+    ],
+    "playerIninheritMax": 2,
+    "grandElderDiscipleMax": 4,
+    "close": 0,
+    "hateDialogue": 6361202,
+    "noHateDialogue": 6361201,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "schoolArea": 4,
+    "dungeonID": [
+      100405
+    ],
+    "playerIninheritMax": 2,
+    "grandElderDiscipleMax": 4,
+    "close": 0,
+    "hateDialogue": 6361202,
+    "noHateDialogue": 6361201,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "schoolArea": 6,
+    "dungeonID": [
+      100405
+    ],
+    "playerIninheritMax": 2,
+    "grandElderDiscipleMax": 4,
+    "close": 0,
+    "hateDialogue": 6361202,
+    "noHateDialogue": 6361201,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "schoolArea": 8,
+    "dungeonID": [
+      100405
+    ],
+    "playerIninheritMax": 2,
+    "grandElderDiscipleMax": 4,
+    "close": 0,
+    "hateDialogue": 6361202,
+    "noHateDialogue": 6361201,
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "schoolArea": 10,
+    "dungeonID": [
+      100405
+    ],
+    "playerIninheritMax": 2,
+    "grandElderDiscipleMax": 4,
+    "close": 0,
+    "hateDialogue": 6361202,
+    "noHateDialogue": 6361201,
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

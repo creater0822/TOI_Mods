@@ -1,0 +1,86 @@
+[
+  {
+    "key": "defendCostDay",
+    "value": 3,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "beautyGrowStable",
+    "value": 5,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "blockAttributeValue1",
+    "value": 100,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "blockAttributeValue2",
+    "value": 200,
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "blockAttributeValue3",
+    "value": 300,
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "refillBlockCount",
+    "value": 460,
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "refillBlockRequire",
+    "value": 25,
+    "id": 7,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "refillBlockNormalMin",
+    "value": 150,
+    "id": 8,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "refillBlockNormalMax",
+    "value": 450,
+    "id": 9,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "refillBlockSpecialMin",
+    "value": 150,
+    "id": 10,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "refillBlockSpecialMax",
+    "value": 700,
+    "id": 11,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "refillBlockDistance",
+    "value": 3,
+    "id": 12,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "teamCount": 1,
+    "unitCount": 2,
+    "potmonMaxCount": 20,
+    "id": 0,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "teamCount": 1,
+    "unitCount": 2,
+    "potmonMaxCount": 20,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "teamCount": 2,
+    "unitCount": 2,
+    "potmonMaxCount": 24,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "teamCount": 2,
+    "unitCount": 3,
+    "potmonMaxCount": 28,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "teamCount": 3,
+    "unitCount": 3,
+    "potmonMaxCount": 32,
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "teamCount": 3,
+    "unitCount": 4,
+    "potmonMaxCount": 36,
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "teamCount": 4,
+    "unitCount": 4,
+    "potmonMaxCount": 40,
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "teamCount": 4,
+    "unitCount": 4,
+    "potmonMaxCount": 44,
+    "id": 7,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "teamCount": 4,
+    "unitCount": 4,
+    "potmonMaxCount": 48,
+    "id": 8,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "teamCount": 4,
+    "unitCount": 4,
+    "potmonMaxCount": 52,
+    "id": 9,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "teamCount": 4,
+    "unitCount": 4,
+    "potmonMaxCount": 56,
+    "id": 10,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

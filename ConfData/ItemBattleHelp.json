@@ -1,0 +1,14 @@
+[
+  {
+    "npcLuck": 20003,
+    "playerLuck": 20004,
+    "npcSaveHPRate": 30,
+    "npcSaveInterval": 10000,
+    "npcSaveRate": 40,
+    "playerSaveRateAlive": 40,
+    "playerSaveRateDie": 100,
+    "id": 7000154,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

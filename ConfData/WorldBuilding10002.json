@@ -1,0 +1,23 @@
+[
+  {
+    "key": "npc6006DramaID",
+    "value": "610309|610334|610306|610369|610305",
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "npc6007DramaID",
+    "value": "610317|610341|610307|610377|810011",
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "npc6005DramaID",
+    "value": "610388",
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

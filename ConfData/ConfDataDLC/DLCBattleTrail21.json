@@ -1,0 +1,18 @@
+[
+  {
+    "bulletNum": "3",
+    "bulletDegree": "150",
+    "bulletDegreeTrend": 200,
+    "id": 21005,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "bulletNum": "3",
+    "bulletDegree": "100",
+    "bulletDegreeTrend": 300,
+    "id": 21006,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

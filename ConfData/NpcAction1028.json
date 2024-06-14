@@ -1,0 +1,72 @@
+[
+  {
+    "key": "weightItemCount",
+    "value": 15,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "itemScoreLine",
+    "value": 1000,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "costDayMin",
+    "value": 5,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "costDayMax",
+    "value": 10,
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "weightBasePercent",
+    "value": 50,
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "auctionSellParaMin",
+    "value": 80,
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "auctionSellParaMax",
+    "value": 120,
+    "id": 7,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "itemScoreParaA",
+    "value": 100,
+    "id": 8,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "itemScoreParaB",
+    "value": 1,
+    "id": 9,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "itemCount",
+    "value": 10,
+    "id": 10,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

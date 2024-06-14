@@ -1,0 +1,16 @@
+[
+  {
+    "key": "initScore",
+    "value": 200,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "partScore",
+    "value": -1,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

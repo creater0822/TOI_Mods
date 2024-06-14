@@ -1,0 +1,16 @@
+[
+  {
+    "skillTypeLimite": "13",
+    "gradeRewardWeight": "1_500|2_700|3_1000|4_1500|5_2000|6_3000",
+    "id": 101001,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "skillTypeLimite": "11",
+    "gradeRewardWeight": "1_500|2_700|3_1000|4_1500|5_2000|6_3000",
+    "id": 101002,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "condition": "dialogue_610316_0|task_1110003_0|icon_main",
+    "id": 10002,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "dialogue_610324_0|task_1110003_0|icon_main",
+    "id": 10003,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "task_1111001_0",
+    "id": 10004,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "or|task_1111016_0|task_1111017_0",
+    "id": 10005,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "dialogue_810007_1|dialogue_810021_0|icon_other",
+    "id": 10006,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "task_2110401_0|mapPosition_1039",
+    "id": 11001,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "0",
+    "id": 11002,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "0",
+    "id": 11003,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "0",
+    "id": 11004,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "0",
+    "id": 11005,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "passDungeon_190_1|moreCountDialogue_1_0_2270101_2270401|dialogue_2201731_1",
+    "id": 11101,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "passDungeon_190_1|moreCountDialogue_1_0_2270201_2270501|dialogue_2220041_1|dialogue_2201731_1",
+    "id": 11102,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "passDungeon_190_1|moreCountDialogue_1_0_2270301_2270501|dialogue_2230061_1|dialogue_2201731_1",
+    "id": 11103,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "passDungeon_190_1|moreCountDialogue_1_0_2270101_2270401|dialogue_2201761_1",
+    "id": 11104,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "passDungeon_190_1|moreCountDialogue_1_0_2270201_2270501|dialogue_2220041_1|dialogue_2201761_1",
+    "id": 11105,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "passDungeon_190_1|moreCountDialogue_1_0_2270301_2270601|dialogue_2230061_1|dialogue_2201761_1",
+    "id": 11106,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "task_2110952_0",
+    "id": 11107,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "condition": "task_2110954_0",
+    "id": 11108,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

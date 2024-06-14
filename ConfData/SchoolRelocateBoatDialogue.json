@@ -1,0 +1,93 @@
+[
+  {
+    "key": "startDelayTime",
+    "value": 2000,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "triggerMinTime",
+    "value": 2000,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "triggerMaxTime",
+    "value": 4000,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "triggerRate",
+    "value": 1000,
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "minNpcCount",
+    "value": 0,
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "postTypeWeight1",
+    "value": 600,
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "postTypeWeight2",
+    "value": 500,
+    "id": 7,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "postTypeWeight3",
+    "value": 400,
+    "id": 8,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "postTypeWeight4",
+    "value": 300,
+    "id": 9,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "postTypeWeight5",
+    "value": 200,
+    "id": 10,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "postTypeWeight6",
+    "value": 100,
+    "id": 11,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "dialogues",
+    "value": 1400101,
+    "id": 12,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "dialogueTime",
+    "value": 6000,
+    "id": 13,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

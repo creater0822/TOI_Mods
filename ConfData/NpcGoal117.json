@@ -1,0 +1,16 @@
+[
+  {
+    "key": "weightMoneyLow",
+    "value": 50,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "weightMoneyMore",
+    "value": -1,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

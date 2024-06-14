@@ -1,0 +1,128 @@
+[
+  {
+    "axisX": 25,
+    "axisY": 0,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "axisX": 0,
+    "axisY": 15,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "axisX": 106,
+    "axisY": -9,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "axisX": 198,
+    "axisY": 79,
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "axisX": 151,
+    "axisY": 201,
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "axisX": 13,
+    "axisY": 185,
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "axisX": 74,
+    "axisY": 106,
+    "id": 7,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "axisX": 106,
+    "axisY": 8,
+    "id": 8,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "axisX": 84,
+    "axisY": 75,
+    "id": 9,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "axisX": 184,
+    "axisY": 75,
+    "id": 10,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "axisX": 116,
+    "axisY": 75,
+    "id": 11,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "axisX": 154,
+    "axisY": 191,
+    "id": 12,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "axisX": 126,
+    "axisY": 106,
+    "id": 13,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "axisX": 10,
+    "axisY": 190,
+    "id": 14,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "axisX": 100,
+    "axisY": 125,
+    "id": 15,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "axisX": 0,
+    "axisY": 53,
+    "id": 16,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "axisX": 25,
+    "axisY": 12,
+    "id": 17,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "axisX": 28,
+    "axisY": 15,
+    "id": 18,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

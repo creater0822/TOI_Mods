@@ -1,0 +1,72 @@
+[
+  {
+    "cost": 38,
+    "heroCost": 60,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "cost": 52,
+    "heroCost": 83,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "cost": 92,
+    "heroCost": 147,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "cost": 110,
+    "heroCost": 176,
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "cost": 185,
+    "heroCost": 296,
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "cost": 251,
+    "heroCost": 401,
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "cost": 444,
+    "heroCost": 710,
+    "id": 7,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "cost": 547,
+    "heroCost": 875,
+    "id": 8,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "cost": 925,
+    "heroCost": 1480,
+    "id": 9,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "cost": 1010,
+    "heroCost": 1616,
+    "id": 10,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

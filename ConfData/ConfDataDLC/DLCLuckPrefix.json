@@ -1,0 +1,1001 @@
+[
+  {
+    "luckType": 2,
+    "battleEffect": "0",
+    "prefixKey": "0",
+    "roleEffect": "20101",
+    "id": 20101,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "20102",
+    "prefixKey": "0",
+    "roleEffect": "20102",
+    "id": 20102,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "700313",
+    "prefixKey": "&103_killHp%88",
+    "roleEffect": "0",
+    "id": 20103,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "0",
+    "prefixKey": "0",
+    "roleEffect": "20201",
+    "id": 20201,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "20203",
+    "prefixKey": "0",
+    "roleEffect": "20203",
+    "id": 20203,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "0",
+    "prefixKey": "0",
+    "roleEffect": "20301",
+    "id": 20301,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "20302",
+    "prefixKey": "0",
+    "roleEffect": "20302",
+    "id": 20302,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "700332",
+    "prefixKey": "0",
+    "roleEffect": "0",
+    "id": 20303,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "0",
+    "prefixKey": "0",
+    "roleEffect": "20401",
+    "id": 20401,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "20402",
+    "prefixKey": "0",
+    "roleEffect": "20402",
+    "id": 20402,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "700341",
+    "prefixKey": "0",
+    "roleEffect": "0",
+    "id": 20403,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "0",
+    "prefixKey": "0",
+    "roleEffect": "20501",
+    "id": 20501,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "0",
+    "prefixKey": "&1009_chargeSkillCDPrefix%1",
+    "roleEffect": "20502",
+    "id": 20502,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "700351",
+    "prefixKey": "0",
+    "roleEffect": "0",
+    "id": 20503,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "0",
+    "prefixKey": "0",
+    "roleEffect": "20601",
+    "id": 20601,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "0",
+    "prefixKey": "0",
+    "roleEffect": "20602",
+    "id": 20602,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "0",
+    "prefixKey": "&50001_blastRangeCoefficient%88|&50001_blastDmgCoefficient%88",
+    "roleEffect": "0",
+    "id": 20603,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "0",
+    "prefixKey": "0",
+    "roleEffect": "20604",
+    "id": 20604,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "700364|7003641",
+    "prefixKey": "0",
+    "roleEffect": "0",
+    "id": 20605,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "0",
+    "prefixKey": "0",
+    "roleEffect": "21101",
+    "id": 21101,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "21102|211021",
+    "prefixKey": "0",
+    "roleEffect": "21102",
+    "id": 21102,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "0",
+    "prefixKey": "0",
+    "roleEffect": "21201",
+    "id": 21201,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "21202",
+    "prefixKey": "0",
+    "roleEffect": "21202",
+    "id": 21202,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "700423",
+    "prefixKey": "&1201_waterTime%88",
+    "roleEffect": "0",
+    "id": 21203,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "0",
+    "prefixKey": "0",
+    "roleEffect": "21301",
+    "id": 21301,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "21302",
+    "prefixKey": "0",
+    "roleEffect": "21302",
+    "id": 21302,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "0",
+    "prefixKey": "0",
+    "roleEffect": "21401",
+    "id": 21401,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "21402",
+    "prefixKey": "0",
+    "roleEffect": "21402",
+    "id": 21402,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "0",
+    "prefixKey": "0",
+    "roleEffect": "21501",
+    "id": 21501,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "21502",
+    "prefixKey": "0",
+    "roleEffect": "21502",
+    "id": 21502,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "0",
+    "prefixKey": "0",
+    "roleEffect": "21601",
+    "id": 21601,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "21602|216022",
+    "prefixKey": "0",
+    "roleEffect": "21602",
+    "id": 21602,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "700006",
+    "prefixKey": "0",
+    "roleEffect": "0",
+    "id": 100001,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "700007",
+    "prefixKey": "0",
+    "roleEffect": "0",
+    "id": 100002,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "700013",
+    "prefixKey": "0",
+    "roleEffect": "0",
+    "id": 100004,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "700015",
+    "prefixKey": "0",
+    "roleEffect": "0",
+    "id": 100005,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "0",
+    "prefixKey": "0",
+    "roleEffect": "0",
+    "id": 100006,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "700010",
+    "prefixKey": "0",
+    "roleEffect": "0",
+    "id": 100007,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "700011",
+    "prefixKey": "0",
+    "roleEffect": "0",
+    "id": 100008,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "700033",
+    "prefixKey": "0",
+    "roleEffect": "0",
+    "id": 100009,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "0",
+    "prefixKey": "0",
+    "roleEffect": "100010",
+    "id": 100010,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "0",
+    "prefixKey": "0",
+    "roleEffect": "100011",
+    "id": 100011,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "0",
+    "prefixKey": "0",
+    "roleEffect": "100012",
+    "id": 100012,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "0",
+    "prefixKey": "0",
+    "roleEffect": "100013",
+    "id": 100013,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "0",
+    "prefixKey": "0",
+    "roleEffect": "100014",
+    "id": 100014,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "100015|1000153",
+    "prefixKey": "0",
+    "roleEffect": "0",
+    "id": 100015,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "700050",
+    "prefixKey": "0",
+    "roleEffect": "100016",
+    "id": 100016,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "700117",
+    "prefixKey": "0",
+    "roleEffect": "0",
+    "id": 100017,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "700118",
+    "prefixKey": "0",
+    "roleEffect": "0",
+    "id": 100018,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "0",
+    "prefixKey": "0",
+    "roleEffect": "100019",
+    "id": 100019,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "700152",
+    "prefixKey": "0",
+    "roleEffect": "0",
+    "id": 100020,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "700141",
+    "prefixKey": "0",
+    "roleEffect": "0",
+    "id": 100021,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "700144",
+    "prefixKey": "0",
+    "roleEffect": "100022",
+    "id": 100022,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "1000241",
+    "prefixKey": "0",
+    "roleEffect": "0",
+    "id": 100024,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "1000251",
+    "prefixKey": "0",
+    "roleEffect": "0",
+    "id": 100025,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "700157",
+    "prefixKey": "0",
+    "roleEffect": "0",
+    "id": 100026,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "1000301",
+    "prefixKey": "0",
+    "roleEffect": "100030",
+    "id": 100030,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "0",
+    "prefixKey": "0",
+    "roleEffect": "100031",
+    "id": 100031,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "100032",
+    "prefixKey": "0",
+    "roleEffect": "0",
+    "id": 100032,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "1000331",
+    "prefixKey": "0",
+    "roleEffect": "0",
+    "id": 100033,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "1000341",
+    "prefixKey": "0",
+    "roleEffect": "0",
+    "id": 100034,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "0",
+    "prefixKey": "&43102_ddslUp%88",
+    "roleEffect": "0",
+    "id": 100039,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "0",
+    "prefixKey": "&210111_birdDmg%88",
+    "roleEffect": "0",
+    "id": 100040,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "0",
+    "prefixKey": "&2101211_missile%88",
+    "roleEffect": "0",
+    "id": 100041,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "0",
+    "prefixKey": "&411017_luckEx%88",
+    "roleEffect": "0",
+    "id": 100042,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "0",
+    "prefixKey": "&44101_time%88",
+    "roleEffect": "0",
+    "id": 100043,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "0",
+    "prefixKey": "&21013_abilitySum%88|&21013_upTimeEnd%88",
+    "roleEffect": "0",
+    "id": 100044,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "0",
+    "prefixKey": "&4210288_zhsjEx%88",
+    "roleEffect": "0",
+    "id": 100045,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "0",
+    "prefixKey": "&210141_dmgLost%88",
+    "roleEffect": "0",
+    "id": 100046,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "0",
+    "prefixKey": "&215002_sumOne%88|&215002_sumTwo%88",
+    "roleEffect": "0",
+    "id": 100047,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "1000471",
+    "prefixKey": "0",
+    "roleEffect": "0",
+    "id": 100048,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "0",
+    "prefixKey": "0",
+    "roleEffect": "101041|101042",
+    "id": 10104,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "0",
+    "prefixKey": "0",
+    "roleEffect": "102041|102042",
+    "id": 10204,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "0",
+    "prefixKey": "0",
+    "roleEffect": "103041|103042",
+    "id": 10304,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "0",
+    "prefixKey": "0",
+    "roleEffect": "104041|104042",
+    "id": 10404,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "10504",
+    "prefixKey": "0",
+    "roleEffect": "10504",
+    "id": 10504,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "0",
+    "prefixKey": "0",
+    "roleEffect": "106041|106042",
+    "id": 10604,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "11104",
+    "prefixKey": "0",
+    "roleEffect": "11104",
+    "id": 11104,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "0",
+    "prefixKey": "0",
+    "roleEffect": "112041|112042",
+    "id": 11204,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "0",
+    "prefixKey": "0",
+    "roleEffect": "113041|113042",
+    "id": 11304,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "0",
+    "prefixKey": "0",
+    "roleEffect": "114041|114042",
+    "id": 11404,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "0",
+    "prefixKey": "0",
+    "roleEffect": "115041|115042",
+    "id": 11504,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 2,
+    "battleEffect": "0",
+    "prefixKey": "0",
+    "roleEffect": "116041|116042",
+    "id": 11604,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 1,
+    "battleEffect": "0",
+    "prefixKey": "0",
+    "roleEffect": "2010001",
+    "id": 2010001,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 1,
+    "battleEffect": "0",
+    "prefixKey": "0",
+    "roleEffect": "20100021|20100022",
+    "id": 2010002,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 1,
+    "battleEffect": "0",
+    "prefixKey": "0",
+    "roleEffect": "20200011|20200012",
+    "id": 2020001,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 1,
+    "battleEffect": "0",
+    "prefixKey": "0",
+    "roleEffect": "2020002",
+    "id": 2020002,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 1,
+    "battleEffect": "0",
+    "prefixKey": "0",
+    "roleEffect": "20200031|20200032",
+    "id": 2020003,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 1,
+    "battleEffect": "0",
+    "prefixKey": "0",
+    "roleEffect": "2020004",
+    "id": 2020004,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 1,
+    "battleEffect": "0",
+    "prefixKey": "0",
+    "roleEffect": "20300011|20300012|20300013",
+    "id": 2030001,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 1,
+    "battleEffect": "2030002",
+    "prefixKey": "0",
+    "roleEffect": "0",
+    "id": 2030002,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 1,
+    "battleEffect": "0",
+    "prefixKey": "0",
+    "roleEffect": "2040001",
+    "id": 2040001,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 1,
+    "battleEffect": "0",
+    "prefixKey": "0",
+    "roleEffect": "20400021|20400022",
+    "id": 2040002,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 1,
+    "battleEffect": "2050001",
+    "prefixKey": "0",
+    "roleEffect": "0",
+    "id": 2050001,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 1,
+    "battleEffect": "0",
+    "prefixKey": "0",
+    "roleEffect": "2050002",
+    "id": 2050002,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 1,
+    "battleEffect": "0",
+    "prefixKey": "0",
+    "roleEffect": "2060001",
+    "id": 2060001,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 1,
+    "battleEffect": "2060002",
+    "prefixKey": "0",
+    "roleEffect": "0",
+    "id": 2060002,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 1,
+    "battleEffect": "0",
+    "prefixKey": "0",
+    "roleEffect": "211001",
+    "id": 211001,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 1,
+    "battleEffect": "0",
+    "prefixKey": "0",
+    "roleEffect": "211002|2110021",
+    "id": 211002,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 1,
+    "battleEffect": "212001",
+    "prefixKey": "0",
+    "roleEffect": "212001",
+    "id": 212001,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 1,
+    "battleEffect": "0",
+    "prefixKey": "0",
+    "roleEffect": "212002",
+    "id": 212002,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 1,
+    "battleEffect": "0",
+    "prefixKey": "0",
+    "roleEffect": "213001",
+    "id": 213001,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 1,
+    "battleEffect": "0",
+    "prefixKey": "0",
+    "roleEffect": "213002",
+    "id": 213002,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 1,
+    "battleEffect": "214001",
+    "prefixKey": "0",
+    "roleEffect": "214001",
+    "id": 214001,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 1,
+    "battleEffect": "0",
+    "prefixKey": "0",
+    "roleEffect": "214002|2140021",
+    "id": 214002,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 1,
+    "battleEffect": "0",
+    "prefixKey": "0",
+    "roleEffect": "215001",
+    "id": 215001,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 1,
+    "battleEffect": "215002|2150022|2150023",
+    "prefixKey": "0",
+    "roleEffect": "215002",
+    "id": 215002,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 1,
+    "battleEffect": "0",
+    "prefixKey": "0",
+    "roleEffect": "216001",
+    "id": 216001,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 1,
+    "battleEffect": "216002",
+    "prefixKey": "0",
+    "roleEffect": "216002",
+    "id": 216002,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 1,
+    "battleEffect": "217001",
+    "prefixKey": "0",
+    "roleEffect": "217001",
+    "id": 217001,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "luckType": 1,
+    "battleEffect": "217002",
+    "prefixKey": "0",
+    "roleEffect": "217002",
+    "id": 217002,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

@@ -1,0 +1,135 @@
+[
+  {
+    "key": "looksParaSumMin",
+    "value": 1000,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "looksParaSumMax",
+    "value": 2500,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "biziWeight",
+    "value": 100,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "lianWeight",
+    "value": 100,
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "meimaoWeight",
+    "value": 100,
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "meixinWeight",
+    "value": 50,
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "quanlianWeight",
+    "value": 50,
+    "id": 7,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "toufaWeight",
+    "value": 100,
+    "id": 8,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "toufaqianWeight",
+    "value": 100,
+    "id": 9,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "yanjingWeight",
+    "value": 100,
+    "id": 10,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "yifuWeight",
+    "value": 100,
+    "id": 11,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "zuibaWeight",
+    "value": 100,
+    "id": 12,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "zuolianWeight",
+    "value": 50,
+    "id": 13,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "youlianWeight",
+    "value": 50,
+    "id": 14,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "houbeiWeight",
+    "value": 50,
+    "id": 15,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "maoziWeight",
+    "value": 50,
+    "id": 16,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "attachItemCountMax",
+    "value": 1,
+    "id": 17,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "looksParaItemMin",
+    "value": 100,
+    "id": 18,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "looksParaItemMax",
+    "value": 800,
+    "id": 19,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

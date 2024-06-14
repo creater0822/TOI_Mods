@@ -1,0 +1,16 @@
+[
+  {
+    "key": "immortValuePprobability",
+    "value": "4000",
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "immortSetCountMax",
+    "value": "2_7",
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

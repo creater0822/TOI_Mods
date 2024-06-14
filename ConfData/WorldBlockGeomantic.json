@@ -1,0 +1,16 @@
+[
+  {
+    "key": "searchRange",
+    "value": 5,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "basAddRange",
+    "value": 1000000,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

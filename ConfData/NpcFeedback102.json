@@ -1,0 +1,156 @@
+[
+  {
+    "key": "matchScoreParaA",
+    "value": 3000,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "matchScoreParaB",
+    "value": 2,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "closeScorePara",
+    "value": -50,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "hateScorePara",
+    "value": -30,
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "schoolScorePara",
+    "value": -10,
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "relationScorePara",
+    "value": -5,
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "itemScoreParaA",
+    "value": 400,
+    "id": 7,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "itemScoreParaB",
+    "value": 1,
+    "id": 8,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "eventLogFeedback10211211",
+    "value": 0,
+    "id": 9,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "eventLogFeedback10211221",
+    "value": 0,
+    "id": 10,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "eventLogFeedback10211231",
+    "value": 0,
+    "id": 11,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "eventLogFeedback10211311",
+    "value": 0,
+    "id": 12,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "eventLogFeedback10211321",
+    "value": 0,
+    "id": 13,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "killProb",
+    "value": 30,
+    "id": 14,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "fb29ParaA",
+    "value": 95,
+    "id": 15,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "fb29ParaB",
+    "value": 5,
+    "id": 16,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "fb29ParaC",
+    "value": 100,
+    "id": 17,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "fb29ParaD",
+    "value": 1,
+    "id": 18,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "fb30ParaA",
+    "value": 95,
+    "id": 19,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "fb30ParaB",
+    "value": 5,
+    "id": 20,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "fb30ParaC",
+    "value": 100,
+    "id": 21,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "fb30ParaD",
+    "value": 1,
+    "id": 22,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

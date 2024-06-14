@@ -1,0 +1,34 @@
+[
+  {
+    "model": "gui",
+    "postType": 0,
+    "name": "schoolGodBeast_name1",
+    "id": 1001,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "model": "gui",
+    "postType": 0,
+    "name": "schoolGodBeast_name1",
+    "id": 1002,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "model": "gui",
+    "postType": 0,
+    "name": "schoolGodBeast_name1",
+    "id": 1003,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "model": "gui",
+    "postType": 0,
+    "name": "schoolGodBeast_name1",
+    "id": 1004,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

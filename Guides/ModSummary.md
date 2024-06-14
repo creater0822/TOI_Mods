@@ -61,6 +61,7 @@ A list of everything I use to mod this game:
 *VSCodium is a VSCode fork that doesn't have Microsoft's telemetry. Using it with VSCode extensions requires, read [this documentation](https://github.com/VSCodium/vscodium/blob/master/docs/index.md#extensions-marketplace)*
 - [Notepad++](https://github.com/notepad-plus-plus/notepad-plus-plus): I like using this tool to collapse `ModExportData.cache` files to quick-select code blocks of Json-files.
 - [VS Community Edition](https://visualstudio.microsoft.com/vs/community/): Used to write and build ModCode libraries.
+- [Agent Ransack](https://www.mythicsoft.com/agentransack/): Used to string-search for content within Excel files.
 - [ilSpy](https://github.com/icsharpcode/ILSpy): My DotNet decompiler choice for TOI mods, as I've found it to give better code than dnSpy.<br>
 *Use settings `C# 7.2 / VS 2017.4` to read stuff*
 - [dnSpyEx](https://github.com/dnSpyEx/dnSpy): Has more features than ilSpy. And rarely when ilSpy's code interpretation doesn't look good, this might give you better code.
@@ -217,7 +218,18 @@ On large-scale mods (example: hundreds of dialogues panels & options) however, E
 Long story short: Neither implementation styles are perfect as both have their pros and cons. So this is where you're on your own to figure out how you'd want to get things done.
 
 ### 4.2 References and meta-data
-...
+Within the game's installation folder, you'll find the directory `\Mod\modFQA\配置修改教程` with 4 folders:
+1. 配置（只读）-> Topic-bundled xlsx examples
+2. 配置（只读）Json格式 -> Json-style data files (incomplete)
+3. 配置对照 -> Chinese documentations within Excel files
+4. 配置表头 -> Excel-style data files (headers only)
+
+Going over it chronologically, **folder 2** contains a collection of json files that contain the vanilla game's data. Learning how to use ModExcel starts at reading these English file names and linguistically (one by one) judge if a file may pertain to the in-game feature which you'd like to mod. When you decide to study a specific data-file, you want to open its Excel-equivalent from **folder 4**, because the first row of that file will contain a description (for better or for worse.) 
+> Based on the English file name, attribute-names, Chinese -> English translated description row (in Excel) and the context with however-many objects you have; You'll have to 'determine/guess' how it works! *~That's just how -void-of-documentation- it is..*
+
+Supplementary to the above described, **folder 1** contains a bunch of Excel example-files that are named <ins>in Chinese</ins> after the category it represents. For example `道心配置表.xlsx` (Tao Heart Configuration Table), which contains the worksheets `TaoistSeed`, `TaoistHeart`, `TaoistHeartEffect` and `FateFeatureGroup`. This Excel file <ins>will not work</ins> in your `ModExcel` folder, because the file name will not be recognized, nor will the game API read all 4 worksheets. But its purpose is to indeed show (us players) that those 4 data files are relationally linked together, to define/represent the Taoist Mind/Heart feature.
+
+Last but most important is **folder 3**, which sadly needs to be manually translated (per cell) with either Excel's built-in translator or any online translator. 
 
 ### 4.3 File-topics of interest
 *Coming soon (maybe...)*

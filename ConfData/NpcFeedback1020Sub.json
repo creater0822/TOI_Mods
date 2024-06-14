@@ -1,0 +1,30 @@
+[
+  {
+    "key": "skillMaterialWorth",
+    "value": 100.0,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "moneyRequire",
+    "value": 25.0,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "moneyStandard",
+    "value": 150.0,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "pillNum",
+    "value": 40.0,
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "key": "taskAllotAppearTime",
+    "value": 6,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "taskAllotWinMin",
+    "value": 30,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

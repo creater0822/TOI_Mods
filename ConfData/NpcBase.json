@@ -1,0 +1,16 @@
+[
+  {
+    "key": "communicationMin",
+    "value": 6,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "communicationMax",
+    "value": 6,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

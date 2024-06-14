@@ -1,0 +1,184 @@
+[
+  {
+    "key": "fairyLeagueCreatePoint",
+    "value": "30,150",
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "school1CreatePos",
+    "value": "23,143",
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "school2CreatePos",
+    "value": "12,147",
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "school3CreatePos",
+    "value": "17,155",
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "school4CreatePos",
+    "value": "18,168",
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "school5CreatePos",
+    "value": "30,164",
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "school6CreatePos",
+    "value": "46,155",
+    "id": 7,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "fairyLeagueMovePoint",
+    "value": "50,130",
+    "id": 8,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "school1MovePos",
+    "value": "60,135",
+    "id": 9,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "school2MovePos",
+    "value": "55,145",
+    "id": 10,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "school3MovePos",
+    "value": "37,122",
+    "id": 11,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "school4MovePos",
+    "value": "10,128",
+    "id": 12,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "school5MovePos",
+    "value": "21,116",
+    "id": 13,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "school6MovePos",
+    "value": "29,118",
+    "id": 14,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "fairyLeagueWeight",
+    "value": "5",
+    "id": 15,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "fairyLeagueHight",
+    "value": "5",
+    "id": 16,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "schoolWeight",
+    "value": "5",
+    "id": 17,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "schoolHight",
+    "value": "5",
+    "id": 18,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "buildMinDis",
+    "value": "5",
+    "id": 19,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "xingtianFieldCondition",
+    "value": "grade_0_10_10",
+    "id": 20,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "xingtianFieldDrama",
+    "value": "2021230",
+    "id": 21,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "firstDefenseLineCondition",
+    "value": "dialogue_2115452_1",
+    "id": 22,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "firstDefenseLineDrama",
+    "value": "2021200",
+    "id": 23,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "secondDefenseLineCondition",
+    "value": "dialogue_2117418_1",
+    "id": 24,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "secondDefenseLineDrama",
+    "value": "2021210",
+    "id": 25,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "firstMeetFirstDefense",
+    "value": "9012041",
+    "id": 26,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

@@ -1,0 +1,216 @@
+[
+  {
+    "area": 1,
+    "terrainID": -1,
+    "item": [
+      5011011
+    ],
+    "pricePara": 40,
+    "limitMin": 50,
+    "limitMax": 70,
+    "costDay": 5,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "area": 2,
+    "terrainID": -1,
+    "item": [
+      5011011
+    ],
+    "pricePara": 40,
+    "limitMin": 50,
+    "limitMax": 70,
+    "costDay": 5,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "area": 3,
+    "terrainID": -1,
+    "item": [
+      5261102,
+      5271102,
+      5281102,
+      5281102,
+      5011012
+    ],
+    "pricePara": 40,
+    "limitMin": 50,
+    "limitMax": 70,
+    "costDay": 5,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "area": 4,
+    "terrainID": -1,
+    "item": [
+      5261102,
+      5271102,
+      5281102,
+      5281102,
+      5011012
+    ],
+    "pricePara": 40,
+    "limitMin": 50,
+    "limitMax": 70,
+    "costDay": 5,
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "area": 5,
+    "terrainID": -1,
+    "item": [
+      5261103,
+      5271103,
+      5281103,
+      5281102,
+      5011013
+    ],
+    "pricePara": 40,
+    "limitMin": 50,
+    "limitMax": 70,
+    "costDay": 5,
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "area": 6,
+    "terrainID": -1,
+    "item": [
+      5261103,
+      5271103,
+      5281103,
+      5281102,
+      5011013
+    ],
+    "pricePara": 40,
+    "limitMin": 50,
+    "limitMax": 70,
+    "costDay": 5,
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "area": 7,
+    "terrainID": -1,
+    "item": [
+      5261104,
+      5271104,
+      5281104,
+      5281103,
+      5011014
+    ],
+    "pricePara": 40,
+    "limitMin": 50,
+    "limitMax": 70,
+    "costDay": 5,
+    "id": 7,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "area": 8,
+    "terrainID": -1,
+    "item": [
+      5261104,
+      5271104,
+      5281104,
+      5281103,
+      5011014
+    ],
+    "pricePara": 40,
+    "limitMin": 50,
+    "limitMax": 70,
+    "costDay": 5,
+    "id": 8,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "area": 9,
+    "terrainID": -1,
+    "item": [
+      5261105,
+      5271105,
+      5281105,
+      5281103,
+      5011015
+    ],
+    "pricePara": 40,
+    "limitMin": 50,
+    "limitMax": 70,
+    "costDay": 5,
+    "id": 9,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "area": 10,
+    "terrainID": -1,
+    "item": [
+      5261105,
+      5271105,
+      5281105,
+      5281103,
+      5011015
+    ],
+    "pricePara": 40,
+    "limitMin": 50,
+    "limitMax": 70,
+    "costDay": 5,
+    "id": 10,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "area": 11,
+    "terrainID": -1,
+    "item": [
+      5011011
+    ],
+    "pricePara": 40,
+    "limitMin": 50,
+    "limitMax": 70,
+    "costDay": 5,
+    "id": 11,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "area": 12,
+    "terrainID": -1,
+    "item": [
+      5011011
+    ],
+    "pricePara": 40,
+    "limitMin": 50,
+    "limitMax": 70,
+    "costDay": 5,
+    "id": 12,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "area": 13,
+    "terrainID": -1,
+    "item": [
+      5011011
+    ],
+    "pricePara": 40,
+    "limitMin": 50,
+    "limitMax": 70,
+    "costDay": 5,
+    "id": 13,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

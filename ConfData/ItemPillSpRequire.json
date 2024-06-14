@@ -1,0 +1,72 @@
+[
+  {
+    "grade": 1,
+    "spRequire": 0,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "grade": 2,
+    "spRequire": 300,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "grade": 3,
+    "spRequire": 500,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "grade": 4,
+    "spRequire": 800,
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "grade": 5,
+    "spRequire": 1250,
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "grade": 6,
+    "spRequire": 2000,
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "grade": 7,
+    "spRequire": 3400,
+    "id": 7,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "grade": 8,
+    "spRequire": 5400,
+    "id": 8,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "grade": 9,
+    "spRequire": 8500,
+    "id": 9,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "grade": 10,
+    "spRequire": 14000,
+    "id": 10,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

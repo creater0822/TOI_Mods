@@ -1,0 +1,30 @@
+[
+  {
+    "key": "costDay",
+    "value": 15,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "skillScorePara",
+    "value": 1200,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "teachFateId",
+    "value": 9192,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "studyFateId",
+    "value": 9193,
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

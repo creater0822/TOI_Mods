@@ -1,0 +1,44 @@
+[
+  {
+    "key": "attrOneMaxProb",
+    "value": 120,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "attrTotalMaxProb",
+    "value": 600,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "attrAddMin",
+    "value": 20,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "attrAddMax",
+    "value": 30,
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "weightAddValue",
+    "value": 50,
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "weightRateValue",
+    "value": 250,
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "key": "closeEnough",
+    "value": 60,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "scoreRequire",
+    "value": 3000,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "elitePowerAskRatio",
+    "value": 7000,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "eliteScoreRequire",
+    "value": -1000,
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

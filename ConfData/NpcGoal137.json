@@ -1,0 +1,16 @@
+[
+  {
+    "key": "searchRange",
+    "value": 20,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "firstMatchNum",
+    "value": 4,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

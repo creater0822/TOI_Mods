@@ -1,0 +1,2900 @@
+[
+  {
+    "groupID": 1,
+    "fateFeatureID": 700001,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 1,
+    "fateFeatureID": 700002,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 1,
+    "fateFeatureID": 700003,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 1,
+    "fateFeatureID": 700007,
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 1,
+    "fateFeatureID": 700008,
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 1,
+    "fateFeatureID": 700009,
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 1,
+    "fateFeatureID": 700126,
+    "id": 7,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 1,
+    "fateFeatureID": 700018,
+    "id": 8,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 1,
+    "fateFeatureID": 700022,
+    "id": 9,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 1,
+    "fateFeatureID": 700023,
+    "id": 10,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 1,
+    "fateFeatureID": 700024,
+    "id": 11,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 1,
+    "fateFeatureID": 700025,
+    "id": 12,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 1,
+    "fateFeatureID": 700033,
+    "id": 13,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 1,
+    "fateFeatureID": 700036,
+    "id": 14,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 1,
+    "fateFeatureID": 700039,
+    "id": 15,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 1,
+    "fateFeatureID": 700057,
+    "id": 16,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 1,
+    "fateFeatureID": 700042,
+    "id": 17,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 1,
+    "fateFeatureID": 700045,
+    "id": 18,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 1,
+    "fateFeatureID": 700048,
+    "id": 19,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 1,
+    "fateFeatureID": 700053,
+    "id": 20,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 1,
+    "fateFeatureID": 700054,
+    "id": 21,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 1,
+    "fateFeatureID": 700064,
+    "id": 22,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 1,
+    "fateFeatureID": 700075,
+    "id": 23,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 1,
+    "fateFeatureID": 700080,
+    "id": 24,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 1,
+    "fateFeatureID": 700081,
+    "id": 25,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 1,
+    "fateFeatureID": 700082,
+    "id": 26,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 1,
+    "fateFeatureID": 700086,
+    "id": 27,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 1,
+    "fateFeatureID": 700087,
+    "id": 28,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 1,
+    "fateFeatureID": 700088,
+    "id": 29,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 1,
+    "fateFeatureID": 700092,
+    "id": 30,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 1,
+    "fateFeatureID": 700093,
+    "id": 31,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 1,
+    "fateFeatureID": 700094,
+    "id": 32,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 1,
+    "fateFeatureID": 700101,
+    "id": 33,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 1,
+    "fateFeatureID": 700102,
+    "id": 34,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 1,
+    "fateFeatureID": 700103,
+    "id": 35,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 1,
+    "fateFeatureID": 700111,
+    "id": 36,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 1,
+    "fateFeatureID": 700112,
+    "id": 37,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 1,
+    "fateFeatureID": 700113,
+    "id": 38,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 1,
+    "fateFeatureID": 700119,
+    "id": 39,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 1,
+    "fateFeatureID": 700132,
+    "id": 40,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 1,
+    "fateFeatureID": 700123,
+    "id": 41,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 1,
+    "fateFeatureID": 700194,
+    "id": 42,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 1,
+    "fateFeatureID": 700195,
+    "id": 43,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 1,
+    "fateFeatureID": 700196,
+    "id": 44,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 1,
+    "fateFeatureID": 700197,
+    "id": 45,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 2,
+    "fateFeatureID": 700004,
+    "id": 46,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 2,
+    "fateFeatureID": 700005,
+    "id": 47,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 2,
+    "fateFeatureID": 700006,
+    "id": 48,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 2,
+    "fateFeatureID": 700010,
+    "id": 49,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 2,
+    "fateFeatureID": 700011,
+    "id": 50,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 2,
+    "fateFeatureID": 700012,
+    "id": 51,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 2,
+    "fateFeatureID": 700019,
+    "id": 52,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 2,
+    "fateFeatureID": 700026,
+    "id": 53,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 2,
+    "fateFeatureID": 700028,
+    "id": 54,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 2,
+    "fateFeatureID": 700055,
+    "id": 55,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 2,
+    "fateFeatureID": 700056,
+    "id": 56,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 2,
+    "fateFeatureID": 700034,
+    "id": 57,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 2,
+    "fateFeatureID": 700037,
+    "id": 58,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 2,
+    "fateFeatureID": 700040,
+    "id": 59,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 2,
+    "fateFeatureID": 700058,
+    "id": 60,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 2,
+    "fateFeatureID": 700043,
+    "id": 61,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 2,
+    "fateFeatureID": 700046,
+    "id": 62,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 2,
+    "fateFeatureID": 700049,
+    "id": 63,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 2,
+    "fateFeatureID": 700050,
+    "id": 64,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 2,
+    "fateFeatureID": 700060,
+    "id": 65,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 2,
+    "fateFeatureID": 700061,
+    "id": 66,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 2,
+    "fateFeatureID": 700065,
+    "id": 67,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 2,
+    "fateFeatureID": 700077,
+    "id": 68,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 2,
+    "fateFeatureID": 700079,
+    "id": 69,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 2,
+    "fateFeatureID": 700083,
+    "id": 70,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 2,
+    "fateFeatureID": 700084,
+    "id": 71,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 2,
+    "fateFeatureID": 700085,
+    "id": 72,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 2,
+    "fateFeatureID": 700089,
+    "id": 73,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 2,
+    "fateFeatureID": 700090,
+    "id": 74,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 2,
+    "fateFeatureID": 700091,
+    "id": 75,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 2,
+    "fateFeatureID": 700095,
+    "id": 76,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 2,
+    "fateFeatureID": 700096,
+    "id": 77,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 2,
+    "fateFeatureID": 700097,
+    "id": 78,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 2,
+    "fateFeatureID": 700104,
+    "id": 79,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 2,
+    "fateFeatureID": 700105,
+    "id": 80,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 2,
+    "fateFeatureID": 700106,
+    "id": 81,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 2,
+    "fateFeatureID": 700114,
+    "id": 82,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 2,
+    "fateFeatureID": 700115,
+    "id": 83,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 2,
+    "fateFeatureID": 700116,
+    "id": 84,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 2,
+    "fateFeatureID": 700121,
+    "id": 85,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 2,
+    "fateFeatureID": 700130,
+    "id": 86,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 2,
+    "fateFeatureID": 700133,
+    "id": 87,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 2,
+    "fateFeatureID": 700198,
+    "id": 88,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 2,
+    "fateFeatureID": 700199,
+    "id": 89,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 2,
+    "fateFeatureID": 700200,
+    "id": 90,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 2,
+    "fateFeatureID": 700201,
+    "id": 91,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 2,
+    "fateFeatureID": 700202,
+    "id": 92,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 3,
+    "fateFeatureID": 700013,
+    "id": 93,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 3,
+    "fateFeatureID": 700014,
+    "id": 94,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 3,
+    "fateFeatureID": 700015,
+    "id": 95,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 3,
+    "fateFeatureID": 700016,
+    "id": 96,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 3,
+    "fateFeatureID": 700017,
+    "id": 97,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 3,
+    "fateFeatureID": 700133,
+    "id": 98,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 3,
+    "fateFeatureID": 700021,
+    "id": 99,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 3,
+    "fateFeatureID": 700027,
+    "id": 100,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 3,
+    "fateFeatureID": 700030,
+    "id": 101,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 3,
+    "fateFeatureID": 700031,
+    "id": 102,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 3,
+    "fateFeatureID": 700032,
+    "id": 103,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 3,
+    "fateFeatureID": 700035,
+    "id": 104,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 3,
+    "fateFeatureID": 700038,
+    "id": 105,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 3,
+    "fateFeatureID": 700041,
+    "id": 106,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 3,
+    "fateFeatureID": 700059,
+    "id": 107,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 3,
+    "fateFeatureID": 700044,
+    "id": 108,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 3,
+    "fateFeatureID": 700047,
+    "id": 109,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 3,
+    "fateFeatureID": 700062,
+    "id": 110,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 3,
+    "fateFeatureID": 700063,
+    "id": 111,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 3,
+    "fateFeatureID": 700066,
+    "id": 112,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 3,
+    "fateFeatureID": 700067,
+    "id": 113,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 3,
+    "fateFeatureID": 700068,
+    "id": 114,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 3,
+    "fateFeatureID": 700069,
+    "id": 115,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 3,
+    "fateFeatureID": 700070,
+    "id": 116,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 3,
+    "fateFeatureID": 700071,
+    "id": 117,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 3,
+    "fateFeatureID": 700072,
+    "id": 118,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 3,
+    "fateFeatureID": 700073,
+    "id": 119,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 3,
+    "fateFeatureID": 700074,
+    "id": 120,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 3,
+    "fateFeatureID": 700098,
+    "id": 121,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 3,
+    "fateFeatureID": 700099,
+    "id": 122,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 3,
+    "fateFeatureID": 700100,
+    "id": 123,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 3,
+    "fateFeatureID": 700107,
+    "id": 124,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 3,
+    "fateFeatureID": 700108,
+    "id": 125,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 3,
+    "fateFeatureID": 700109,
+    "id": 126,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 3,
+    "fateFeatureID": 700110,
+    "id": 127,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 3,
+    "fateFeatureID": 700117,
+    "id": 128,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 3,
+    "fateFeatureID": 700118,
+    "id": 129,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 3,
+    "fateFeatureID": 700134,
+    "id": 130,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 3,
+    "fateFeatureID": 700135,
+    "id": 131,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 3,
+    "fateFeatureID": 700136,
+    "id": 132,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 3,
+    "fateFeatureID": 700025,
+    "id": 133,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 3,
+    "fateFeatureID": 700075,
+    "id": 134,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 3,
+    "fateFeatureID": 700194,
+    "id": 135,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 3,
+    "fateFeatureID": 700195,
+    "id": 136,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 3,
+    "fateFeatureID": 700196,
+    "id": 137,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 3,
+    "fateFeatureID": 700197,
+    "id": 138,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 4,
+    "fateFeatureID": 700001,
+    "id": 139,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 4,
+    "fateFeatureID": 700002,
+    "id": 140,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 4,
+    "fateFeatureID": 700003,
+    "id": 141,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 4,
+    "fateFeatureID": 700016,
+    "id": 142,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 4,
+    "fateFeatureID": 700121,
+    "id": 143,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 4,
+    "fateFeatureID": 700039,
+    "id": 144,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 4,
+    "fateFeatureID": 700057,
+    "id": 145,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 4,
+    "fateFeatureID": 700083,
+    "id": 146,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 4,
+    "fateFeatureID": 700084,
+    "id": 147,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 4,
+    "fateFeatureID": 700085,
+    "id": 148,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 4,
+    "fateFeatureID": 700089,
+    "id": 149,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 4,
+    "fateFeatureID": 700090,
+    "id": 150,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 4,
+    "fateFeatureID": 700091,
+    "id": 151,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 4,
+    "fateFeatureID": 700080,
+    "id": 152,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 4,
+    "fateFeatureID": 700081,
+    "id": 153,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 4,
+    "fateFeatureID": 700082,
+    "id": 154,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 4,
+    "fateFeatureID": 700098,
+    "id": 155,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 4,
+    "fateFeatureID": 700099,
+    "id": 156,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 4,
+    "fateFeatureID": 700100,
+    "id": 157,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 4,
+    "fateFeatureID": 700117,
+    "id": 158,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 4,
+    "fateFeatureID": 700118,
+    "id": 159,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 4,
+    "fateFeatureID": 700013,
+    "id": 160,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 4,
+    "fateFeatureID": 700014,
+    "id": 161,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 4,
+    "fateFeatureID": 700015,
+    "id": 162,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 4,
+    "fateFeatureID": 700010,
+    "id": 163,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 4,
+    "fateFeatureID": 700011,
+    "id": 164,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 4,
+    "fateFeatureID": 700012,
+    "id": 165,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 4,
+    "fateFeatureID": 700032,
+    "id": 166,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 4,
+    "fateFeatureID": 700035,
+    "id": 167,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 4,
+    "fateFeatureID": 700050,
+    "id": 168,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 4,
+    "fateFeatureID": 700060,
+    "id": 169,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 4,
+    "fateFeatureID": 700061,
+    "id": 170,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 4,
+    "fateFeatureID": 700065,
+    "id": 171,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 4,
+    "fateFeatureID": 700079,
+    "id": 172,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 4,
+    "fateFeatureID": 700111,
+    "id": 173,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 4,
+    "fateFeatureID": 700112,
+    "id": 174,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 4,
+    "fateFeatureID": 700113,
+    "id": 175,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 4,
+    "fateFeatureID": 700019,
+    "id": 176,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 4,
+    "fateFeatureID": 700130,
+    "id": 177,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 4,
+    "fateFeatureID": 700044,
+    "id": 178,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 4,
+    "fateFeatureID": 700036,
+    "id": 179,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 4,
+    "fateFeatureID": 700198,
+    "id": 180,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 4,
+    "fateFeatureID": 700199,
+    "id": 181,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 4,
+    "fateFeatureID": 700200,
+    "id": 182,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 4,
+    "fateFeatureID": 700201,
+    "id": 183,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 4,
+    "fateFeatureID": 700202,
+    "id": 184,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 5,
+    "fateFeatureID": 700022,
+    "id": 185,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 5,
+    "fateFeatureID": 700023,
+    "id": 186,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 5,
+    "fateFeatureID": 700024,
+    "id": 187,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 5,
+    "fateFeatureID": 700018,
+    "id": 188,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 5,
+    "fateFeatureID": 700007,
+    "id": 189,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 5,
+    "fateFeatureID": 700008,
+    "id": 190,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 5,
+    "fateFeatureID": 700009,
+    "id": 191,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 5,
+    "fateFeatureID": 700126,
+    "id": 192,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 5,
+    "fateFeatureID": 700028,
+    "id": 193,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 5,
+    "fateFeatureID": 700055,
+    "id": 194,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 5,
+    "fateFeatureID": 700056,
+    "id": 195,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 5,
+    "fateFeatureID": 700075,
+    "id": 196,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 5,
+    "fateFeatureID": 700040,
+    "id": 197,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 5,
+    "fateFeatureID": 700058,
+    "id": 198,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 5,
+    "fateFeatureID": 700062,
+    "id": 199,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 5,
+    "fateFeatureID": 700063,
+    "id": 200,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 5,
+    "fateFeatureID": 700098,
+    "id": 201,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 5,
+    "fateFeatureID": 700099,
+    "id": 202,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 5,
+    "fateFeatureID": 700100,
+    "id": 203,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 5,
+    "fateFeatureID": 700027,
+    "id": 204,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 5,
+    "fateFeatureID": 700047,
+    "id": 205,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 5,
+    "fateFeatureID": 700046,
+    "id": 206,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 5,
+    "fateFeatureID": 700049,
+    "id": 207,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 5,
+    "fateFeatureID": 700134,
+    "id": 208,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 5,
+    "fateFeatureID": 700135,
+    "id": 209,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 5,
+    "fateFeatureID": 700136,
+    "id": 210,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 5,
+    "fateFeatureID": 700132,
+    "id": 211,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 5,
+    "fateFeatureID": 700053,
+    "id": 212,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 5,
+    "fateFeatureID": 700054,
+    "id": 213,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 5,
+    "fateFeatureID": 700045,
+    "id": 214,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 5,
+    "fateFeatureID": 700048,
+    "id": 215,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 5,
+    "fateFeatureID": 700026,
+    "id": 216,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 5,
+    "fateFeatureID": 700041,
+    "id": 217,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 5,
+    "fateFeatureID": 700059,
+    "id": 218,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 5,
+    "fateFeatureID": 700038,
+    "id": 219,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 5,
+    "fateFeatureID": 700101,
+    "id": 220,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 5,
+    "fateFeatureID": 700102,
+    "id": 221,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 5,
+    "fateFeatureID": 700103,
+    "id": 222,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 5,
+    "fateFeatureID": 700119,
+    "id": 223,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 5,
+    "fateFeatureID": 700079,
+    "id": 224,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 5,
+    "fateFeatureID": 700030,
+    "id": 225,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 5,
+    "fateFeatureID": 700042,
+    "id": 226,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 5,
+    "fateFeatureID": 700194,
+    "id": 227,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 5,
+    "fateFeatureID": 700195,
+    "id": 228,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 5,
+    "fateFeatureID": 700198,
+    "id": 229,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 5,
+    "fateFeatureID": 700199,
+    "id": 230,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 6,
+    "fateFeatureID": 700040,
+    "id": 231,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 6,
+    "fateFeatureID": 700058,
+    "id": 232,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 6,
+    "fateFeatureID": 700018,
+    "id": 233,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 6,
+    "fateFeatureID": 700066,
+    "id": 234,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 6,
+    "fateFeatureID": 700067,
+    "id": 235,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 6,
+    "fateFeatureID": 700068,
+    "id": 236,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 6,
+    "fateFeatureID": 700069,
+    "id": 237,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 6,
+    "fateFeatureID": 700070,
+    "id": 238,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 6,
+    "fateFeatureID": 700071,
+    "id": 239,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 6,
+    "fateFeatureID": 700072,
+    "id": 240,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 6,
+    "fateFeatureID": 700073,
+    "id": 241,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 6,
+    "fateFeatureID": 700074,
+    "id": 242,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 6,
+    "fateFeatureID": 700107,
+    "id": 243,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 6,
+    "fateFeatureID": 700108,
+    "id": 244,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 6,
+    "fateFeatureID": 700109,
+    "id": 245,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 6,
+    "fateFeatureID": 700110,
+    "id": 246,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 6,
+    "fateFeatureID": 700013,
+    "id": 247,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 6,
+    "fateFeatureID": 700014,
+    "id": 248,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 6,
+    "fateFeatureID": 700015,
+    "id": 249,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 6,
+    "fateFeatureID": 700101,
+    "id": 250,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 6,
+    "fateFeatureID": 700102,
+    "id": 251,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 6,
+    "fateFeatureID": 700103,
+    "id": 252,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 6,
+    "fateFeatureID": 700026,
+    "id": 253,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 6,
+    "fateFeatureID": 700028,
+    "id": 254,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 6,
+    "fateFeatureID": 700055,
+    "id": 255,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 6,
+    "fateFeatureID": 700056,
+    "id": 256,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 6,
+    "fateFeatureID": 700034,
+    "id": 257,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 6,
+    "fateFeatureID": 700037,
+    "id": 258,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 6,
+    "fateFeatureID": 700086,
+    "id": 259,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 6,
+    "fateFeatureID": 700087,
+    "id": 260,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 6,
+    "fateFeatureID": 700088,
+    "id": 261,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 6,
+    "fateFeatureID": 700089,
+    "id": 262,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 6,
+    "fateFeatureID": 700090,
+    "id": 263,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 6,
+    "fateFeatureID": 700091,
+    "id": 264,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 6,
+    "fateFeatureID": 700039,
+    "id": 265,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 6,
+    "fateFeatureID": 700057,
+    "id": 266,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 6,
+    "fateFeatureID": 700042,
+    "id": 267,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 6,
+    "fateFeatureID": 700007,
+    "id": 268,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 6,
+    "fateFeatureID": 700008,
+    "id": 269,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 6,
+    "fateFeatureID": 700009,
+    "id": 270,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 6,
+    "fateFeatureID": 700126,
+    "id": 271,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 6,
+    "fateFeatureID": 700123,
+    "id": 272,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 6,
+    "fateFeatureID": 700194,
+    "id": 273,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 6,
+    "fateFeatureID": 700197,
+    "id": 274,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 6,
+    "fateFeatureID": 700198,
+    "id": 275,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 6,
+    "fateFeatureID": 700199,
+    "id": 276,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 6,
+    "fateFeatureID": 700200,
+    "id": 277,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 7,
+    "fateFeatureID": 700021,
+    "id": 278,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 7,
+    "fateFeatureID": 700017,
+    "id": 279,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 7,
+    "fateFeatureID": 700004,
+    "id": 280,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 7,
+    "fateFeatureID": 700005,
+    "id": 281,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 7,
+    "fateFeatureID": 700006,
+    "id": 282,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 7,
+    "fateFeatureID": 700031,
+    "id": 283,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 7,
+    "fateFeatureID": 700033,
+    "id": 284,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 7,
+    "fateFeatureID": 700050,
+    "id": 285,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 7,
+    "fateFeatureID": 700060,
+    "id": 286,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 7,
+    "fateFeatureID": 700061,
+    "id": 287,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 7,
+    "fateFeatureID": 700064,
+    "id": 288,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 7,
+    "fateFeatureID": 700053,
+    "id": 289,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 7,
+    "fateFeatureID": 700054,
+    "id": 290,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 7,
+    "fateFeatureID": 700077,
+    "id": 291,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 7,
+    "fateFeatureID": 700092,
+    "id": 292,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 7,
+    "fateFeatureID": 700093,
+    "id": 293,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 7,
+    "fateFeatureID": 700094,
+    "id": 294,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 7,
+    "fateFeatureID": 700095,
+    "id": 295,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 7,
+    "fateFeatureID": 700096,
+    "id": 296,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 7,
+    "fateFeatureID": 700097,
+    "id": 297,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 7,
+    "fateFeatureID": 700104,
+    "id": 298,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 7,
+    "fateFeatureID": 700105,
+    "id": 299,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 7,
+    "fateFeatureID": 700106,
+    "id": 300,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 7,
+    "fateFeatureID": 700114,
+    "id": 301,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 7,
+    "fateFeatureID": 700115,
+    "id": 302,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 7,
+    "fateFeatureID": 700116,
+    "id": 303,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 7,
+    "fateFeatureID": 700131,
+    "id": 304,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 7,
+    "fateFeatureID": 700133,
+    "id": 305,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 7,
+    "fateFeatureID": 700001,
+    "id": 306,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 7,
+    "fateFeatureID": 700002,
+    "id": 307,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 7,
+    "fateFeatureID": 700003,
+    "id": 308,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 7,
+    "fateFeatureID": 700010,
+    "id": 309,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 7,
+    "fateFeatureID": 700011,
+    "id": 310,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 7,
+    "fateFeatureID": 700012,
+    "id": 311,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 7,
+    "fateFeatureID": 700019,
+    "id": 312,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 7,
+    "fateFeatureID": 700022,
+    "id": 313,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 7,
+    "fateFeatureID": 700023,
+    "id": 314,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 7,
+    "fateFeatureID": 700024,
+    "id": 315,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 7,
+    "fateFeatureID": 700025,
+    "id": 316,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 7,
+    "fateFeatureID": 700030,
+    "id": 317,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 7,
+    "fateFeatureID": 700121,
+    "id": 318,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 7,
+    "fateFeatureID": 700032,
+    "id": 319,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 7,
+    "fateFeatureID": 700195,
+    "id": 320,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 7,
+    "fateFeatureID": 700196,
+    "id": 321,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 7,
+    "fateFeatureID": 700201,
+    "id": 322,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 7,
+    "fateFeatureID": 700202,
+    "id": 323,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 8,
+    "fateFeatureID": 700034,
+    "id": 324,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 8,
+    "fateFeatureID": 700033,
+    "id": 325,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 8,
+    "fateFeatureID": 700035,
+    "id": 326,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 8,
+    "fateFeatureID": 700036,
+    "id": 327,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 8,
+    "fateFeatureID": 700044,
+    "id": 328,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 8,
+    "fateFeatureID": 700046,
+    "id": 329,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 8,
+    "fateFeatureID": 700047,
+    "id": 330,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 8,
+    "fateFeatureID": 700050,
+    "id": 331,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 8,
+    "fateFeatureID": 700060,
+    "id": 332,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 8,
+    "fateFeatureID": 700061,
+    "id": 333,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 8,
+    "fateFeatureID": 700131,
+    "id": 334,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 8,
+    "fateFeatureID": 700041,
+    "id": 335,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 8,
+    "fateFeatureID": 700059,
+    "id": 336,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 8,
+    "fateFeatureID": 700004,
+    "id": 337,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 8,
+    "fateFeatureID": 700005,
+    "id": 338,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 8,
+    "fateFeatureID": 700006,
+    "id": 339,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 8,
+    "fateFeatureID": 700021,
+    "id": 340,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 8,
+    "fateFeatureID": 700017,
+    "id": 341,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 8,
+    "fateFeatureID": 700027,
+    "id": 342,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 8,
+    "fateFeatureID": 700038,
+    "id": 343,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 8,
+    "fateFeatureID": 700045,
+    "id": 344,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 8,
+    "fateFeatureID": 700049,
+    "id": 345,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 8,
+    "fateFeatureID": 700062,
+    "id": 346,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 8,
+    "fateFeatureID": 700063,
+    "id": 347,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 8,
+    "fateFeatureID": 700064,
+    "id": 348,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 8,
+    "fateFeatureID": 700066,
+    "id": 349,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 8,
+    "fateFeatureID": 700067,
+    "id": 350,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 8,
+    "fateFeatureID": 700068,
+    "id": 351,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 8,
+    "fateFeatureID": 700069,
+    "id": 352,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 8,
+    "fateFeatureID": 700070,
+    "id": 353,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 8,
+    "fateFeatureID": 700071,
+    "id": 354,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 8,
+    "fateFeatureID": 700072,
+    "id": 355,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 8,
+    "fateFeatureID": 700073,
+    "id": 356,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 8,
+    "fateFeatureID": 700074,
+    "id": 357,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 8,
+    "fateFeatureID": 700080,
+    "id": 358,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 8,
+    "fateFeatureID": 700081,
+    "id": 359,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 8,
+    "fateFeatureID": 700082,
+    "id": 360,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 8,
+    "fateFeatureID": 700083,
+    "id": 361,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 8,
+    "fateFeatureID": 700084,
+    "id": 362,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 8,
+    "fateFeatureID": 700085,
+    "id": 363,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 8,
+    "fateFeatureID": 700077,
+    "id": 364,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 8,
+    "fateFeatureID": 700196,
+    "id": 365,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 8,
+    "fateFeatureID": 700197,
+    "id": 366,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 8,
+    "fateFeatureID": 700200,
+    "id": 367,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 8,
+    "fateFeatureID": 700201,
+    "id": 368,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 8,
+    "fateFeatureID": 700202,
+    "id": 369,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": -10,
+    "fateFeatureID": 700078,
+    "id": 370,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": -10,
+    "fateFeatureID": 700078,
+    "id": 371,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": -10,
+    "fateFeatureID": 700078,
+    "id": 372,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": -10,
+    "fateFeatureID": 700078,
+    "id": 373,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": -10,
+    "fateFeatureID": 700078,
+    "id": 374,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": -10,
+    "fateFeatureID": 700078,
+    "id": 375,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": -10,
+    "fateFeatureID": 700078,
+    "id": 376,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": -10,
+    "fateFeatureID": 700078,
+    "id": 377,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": -10,
+    "fateFeatureID": 700078,
+    "id": 378,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": -10,
+    "fateFeatureID": 700078,
+    "id": 379,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": -10,
+    "fateFeatureID": 700078,
+    "id": 380,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": -10,
+    "fateFeatureID": 700078,
+    "id": 381,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": -10,
+    "fateFeatureID": 700078,
+    "id": 382,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": -10,
+    "fateFeatureID": 700078,
+    "id": 383,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": -10,
+    "fateFeatureID": 700078,
+    "id": 384,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": -10,
+    "fateFeatureID": 700078,
+    "id": 385,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": -10,
+    "fateFeatureID": 700078,
+    "id": 386,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": -10,
+    "fateFeatureID": 700078,
+    "id": 387,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": -10,
+    "fateFeatureID": 700078,
+    "id": 388,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": -10,
+    "fateFeatureID": 700078,
+    "id": 389,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": -10,
+    "fateFeatureID": 700078,
+    "id": 390,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": -10,
+    "fateFeatureID": 700078,
+    "id": 391,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": -10,
+    "fateFeatureID": 700078,
+    "id": 392,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": -10,
+    "fateFeatureID": 700078,
+    "id": 393,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": -10,
+    "fateFeatureID": 700078,
+    "id": 394,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": -10,
+    "fateFeatureID": 700078,
+    "id": 395,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": -10,
+    "fateFeatureID": 700078,
+    "id": 396,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": -10,
+    "fateFeatureID": 700078,
+    "id": 397,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": -10,
+    "fateFeatureID": 700078,
+    "id": 398,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": -10,
+    "fateFeatureID": 700078,
+    "id": 399,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": -10,
+    "fateFeatureID": 700078,
+    "id": 400,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": -10,
+    "fateFeatureID": 700078,
+    "id": 401,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": -10,
+    "fateFeatureID": 700078,
+    "id": 402,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": -10,
+    "fateFeatureID": 700078,
+    "id": 403,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": -10,
+    "fateFeatureID": 700078,
+    "id": 404,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": -10,
+    "fateFeatureID": 700078,
+    "id": 405,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": -10,
+    "fateFeatureID": 700078,
+    "id": 406,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": -10,
+    "fateFeatureID": 700078,
+    "id": 407,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": -10,
+    "fateFeatureID": 700078,
+    "id": 408,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": -10,
+    "fateFeatureID": 700078,
+    "id": 409,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": -10,
+    "fateFeatureID": 700078,
+    "id": 410,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": -10,
+    "fateFeatureID": 700078,
+    "id": 411,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": -10,
+    "fateFeatureID": 700078,
+    "id": 412,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": -10,
+    "fateFeatureID": 700078,
+    "id": 413,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": -10,
+    "fateFeatureID": 700078,
+    "id": 414,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

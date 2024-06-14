@@ -1,0 +1,121 @@
+[
+  {
+    "name": "beibao",
+    "strangerOpen": 1,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "name": "npcInfo_touqie",
+    "strangerOpen": 1,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "name": "npcInfo_gongji",
+    "strangerOpen": 1,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "name": "npcInfo_jiuren",
+    "strangerOpen": 1,
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "name": "npcInfo_suoqu",
+    "strangerOpen": 0,
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "name": "npcInfo_qiecuo",
+    "strangerOpen": 0,
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "name": "npcInfo_zengsong",
+    "strangerOpen": 0,
+    "id": 7,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "name": "npcInfo_jieyi",
+    "strangerOpen": 0,
+    "id": 8,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "name": "npcInfo_jieyuan",
+    "strangerOpen": 0,
+    "id": 9,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "name": "npcInfo_shitu",
+    "strangerOpen": 0,
+    "id": 10,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "name": "npcInfo_duihua",
+    "strangerOpen": 1,
+    "id": 11,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "name": "npcInfo_shuangxiu",
+    "strangerOpen": 0,
+    "id": 12,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "name": "npcInfo_lundao",
+    "strangerOpen": 0,
+    "id": 13,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "name": "npcInfo_biaoji",
+    "strangerOpen": 1,
+    "id": 14,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "name": "npcInfo_yaoyue",
+    "strangerOpen": 0,
+    "id": 15,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "name": "npcInfo_zhaona",
+    "strangerOpen": 0,
+    "id": 16,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "name": "npcInfo_douji",
+    "strangerOpen": 0,
+    "id": 17,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

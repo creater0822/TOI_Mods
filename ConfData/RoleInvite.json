@@ -1,0 +1,58 @@
+[
+  {
+    "key": "createEventMinDis",
+    "value": 8,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "createEventMaxDis",
+    "value": 15,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "addLuck",
+    "value": 140,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "costEnergy",
+    "value": 10,
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "eventID",
+    "value": 4801,
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "cdTime",
+    "value": 6,
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "taskID",
+    "value": 1119002,
+    "id": 7,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "intimateDecline",
+    "value": -120,
+    "id": 8,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

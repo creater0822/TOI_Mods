@@ -1,0 +1,37 @@
+[
+  {
+    "talent": 0,
+    "desc": "skill_difficult1",
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "talent": 50,
+    "desc": "skill_difficult2",
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "talent": 100,
+    "desc": "skill_difficult3",
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "talent": 200,
+    "desc": "skill_difficult4",
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "talent": 400,
+    "desc": "skill_difficult5",
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

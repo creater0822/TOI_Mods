@@ -1,0 +1,16 @@
+[
+  {
+    "key": "weightAddTop",
+    "value": 800,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "weightAddAll",
+    "value": 40,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

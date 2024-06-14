@@ -1,0 +1,370 @@
+[
+  {
+    "areaPoint": 0,
+    "dungeonLevelMin": 1,
+    "dungeonLevelMax": 5,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "areaPoint": 150,
+    "dungeonLevelMin": 2,
+    "dungeonLevelMax": 6,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "areaPoint": 240,
+    "dungeonLevelMin": 3,
+    "dungeonLevelMax": 7,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "areaPoint": 350,
+    "dungeonLevelMin": 4,
+    "dungeonLevelMax": 8,
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "areaPoint": 480,
+    "dungeonLevelMin": 5,
+    "dungeonLevelMax": 9,
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "areaPoint": 630,
+    "dungeonLevelMin": 6,
+    "dungeonLevelMax": 10,
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "areaPoint": 800,
+    "dungeonLevelMin": 7,
+    "dungeonLevelMax": 11,
+    "id": 7,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "areaPoint": 990,
+    "dungeonLevelMin": 8,
+    "dungeonLevelMax": 12,
+    "id": 8,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "areaPoint": 1200,
+    "dungeonLevelMin": 9,
+    "dungeonLevelMax": 13,
+    "id": 9,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "areaPoint": 1430,
+    "dungeonLevelMin": 10,
+    "dungeonLevelMax": 14,
+    "id": 10,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "areaPoint": 1680,
+    "dungeonLevelMin": 11,
+    "dungeonLevelMax": 15,
+    "id": 11,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "areaPoint": 1950,
+    "dungeonLevelMin": 12,
+    "dungeonLevelMax": 16,
+    "id": 12,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "areaPoint": 2240,
+    "dungeonLevelMin": 13,
+    "dungeonLevelMax": 17,
+    "id": 13,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "areaPoint": 2550,
+    "dungeonLevelMin": 14,
+    "dungeonLevelMax": 18,
+    "id": 14,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "areaPoint": 2880,
+    "dungeonLevelMin": 15,
+    "dungeonLevelMax": 19,
+    "id": 15,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "areaPoint": 3230,
+    "dungeonLevelMin": 16,
+    "dungeonLevelMax": 20,
+    "id": 16,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "areaPoint": 3600,
+    "dungeonLevelMin": 17,
+    "dungeonLevelMax": 21,
+    "id": 17,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "areaPoint": 3990,
+    "dungeonLevelMin": 18,
+    "dungeonLevelMax": 22,
+    "id": 18,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "areaPoint": 4400,
+    "dungeonLevelMin": 19,
+    "dungeonLevelMax": 23,
+    "id": 19,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "areaPoint": 4830,
+    "dungeonLevelMin": 20,
+    "dungeonLevelMax": 24,
+    "id": 20,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "areaPoint": 5280,
+    "dungeonLevelMin": 21,
+    "dungeonLevelMax": 25,
+    "id": 21,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "areaPoint": 5750,
+    "dungeonLevelMin": 22,
+    "dungeonLevelMax": 26,
+    "id": 22,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "areaPoint": 6240,
+    "dungeonLevelMin": 23,
+    "dungeonLevelMax": 27,
+    "id": 23,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "areaPoint": 6750,
+    "dungeonLevelMin": 24,
+    "dungeonLevelMax": 28,
+    "id": 24,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "areaPoint": 7280,
+    "dungeonLevelMin": 25,
+    "dungeonLevelMax": 29,
+    "id": 25,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "areaPoint": 7830,
+    "dungeonLevelMin": 26,
+    "dungeonLevelMax": 30,
+    "id": 26,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "areaPoint": 8400,
+    "dungeonLevelMin": 27,
+    "dungeonLevelMax": 31,
+    "id": 27,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "areaPoint": 8990,
+    "dungeonLevelMin": 28,
+    "dungeonLevelMax": 32,
+    "id": 28,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "areaPoint": 9600,
+    "dungeonLevelMin": 29,
+    "dungeonLevelMax": 33,
+    "id": 29,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "areaPoint": 10230,
+    "dungeonLevelMin": 30,
+    "dungeonLevelMax": 34,
+    "id": 30,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "areaPoint": 10880,
+    "dungeonLevelMin": 31,
+    "dungeonLevelMax": 35,
+    "id": 31,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "areaPoint": 11550,
+    "dungeonLevelMin": 32,
+    "dungeonLevelMax": 36,
+    "id": 32,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "areaPoint": 12240,
+    "dungeonLevelMin": 33,
+    "dungeonLevelMax": 37,
+    "id": 33,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "areaPoint": 12950,
+    "dungeonLevelMin": 34,
+    "dungeonLevelMax": 38,
+    "id": 34,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "areaPoint": 13680,
+    "dungeonLevelMin": 35,
+    "dungeonLevelMax": 39,
+    "id": 35,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "areaPoint": 14430,
+    "dungeonLevelMin": 36,
+    "dungeonLevelMax": 40,
+    "id": 36,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "areaPoint": 15200,
+    "dungeonLevelMin": 37,
+    "dungeonLevelMax": 41,
+    "id": 37,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "areaPoint": 15990,
+    "dungeonLevelMin": 38,
+    "dungeonLevelMax": 42,
+    "id": 38,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "areaPoint": 16800,
+    "dungeonLevelMin": 39,
+    "dungeonLevelMax": 43,
+    "id": 39,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "areaPoint": 17630,
+    "dungeonLevelMin": 40,
+    "dungeonLevelMax": 44,
+    "id": 40,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "areaPoint": 18480,
+    "dungeonLevelMin": 41,
+    "dungeonLevelMax": 45,
+    "id": 41,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "areaPoint": 19350,
+    "dungeonLevelMin": 42,
+    "dungeonLevelMax": 46,
+    "id": 42,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "areaPoint": 20240,
+    "dungeonLevelMin": 43,
+    "dungeonLevelMax": 47,
+    "id": 43,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "areaPoint": 21150,
+    "dungeonLevelMin": 44,
+    "dungeonLevelMax": 48,
+    "id": 44,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "areaPoint": 22080,
+    "dungeonLevelMin": 45,
+    "dungeonLevelMax": 49,
+    "id": 45,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "areaPoint": 23030,
+    "dungeonLevelMin": 46,
+    "dungeonLevelMax": 50,
+    "id": 46,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

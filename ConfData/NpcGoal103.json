@@ -1,0 +1,16 @@
+[
+  {
+    "key": "requirePillWorth",
+    "value": 400,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "weightLowerWorth",
+    "value": 50,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

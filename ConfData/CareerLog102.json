@@ -1,0 +1,485 @@
+[
+  {
+    "careerKey": "careerLogEntryWorld",
+    "roleLogKey": "eventLogTotal10804",
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogFirstBattleWin",
+    "roleLogKey": "eventLogRoleBattle21311|eventLogRoleBattle21321|eventLogRoleBattle21331|eventLogRoleBattle21341|eventLogRoleBattle21351",
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogFirstBattleFail",
+    "roleLogKey": "eventLogRoleBattle21312|eventLogRoleBattle21322|eventLogRoleBattle21332|eventLogRoleBattle21342|eventLogRoleBattle21352",
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogFirstRoleInviteSucc",
+    "roleLogKey": "eventLogRoleInvite21331|eventLogRoleInvite21332",
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogFirstRoleTrain",
+    "roleLogKey": "eventLogRoleTrains21311|eventLogRoleTrains21312",
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogFirstRoleStealSucc",
+    "roleLogKey": "eventLogRoleStealItem21311",
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogFirstRoleEscape",
+    "roleLogKey": "eventLogRoleEscape21311",
+    "id": 7,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogFirstRoleSave",
+    "roleLogKey": "eventLogRoleSave22311",
+    "id": 8,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogFirstRoleBreedTaoistSeed",
+    "roleLogKey": "eventLogRoleBreedTaoistSeed21311",
+    "id": 9,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogRoleAppellation1001",
+    "roleLogKey": "appellationLootRoleLogIDB1001",
+    "id": 10,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogRoleAppellation1002",
+    "roleLogKey": "appellationLootRoleLogIDB1002",
+    "id": 11,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogRoleAppellation1003",
+    "roleLogKey": "appellationLootRoleLogIDB1003",
+    "id": 12,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogRoleAppellation1004",
+    "roleLogKey": "appellationLootRoleLogIDB1004",
+    "id": 13,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogRoleAppellation1005",
+    "roleLogKey": "appellationLootRoleLogIDB1005",
+    "id": 14,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogRoleAppellation1006",
+    "roleLogKey": "appellationLootRoleLogIDB1006",
+    "id": 15,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogRoleAppellation1007",
+    "roleLogKey": "appellationLootRoleLogIDB1007",
+    "id": 16,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogRoleAppellation1008",
+    "roleLogKey": "appellationLootRoleLogIDB1008",
+    "id": 17,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogRoleAppellation1009",
+    "roleLogKey": "appellationLootRoleLogIDB1009",
+    "id": 18,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogRoleAppellation1010",
+    "roleLogKey": "appellationLootRoleLogIDB1010",
+    "id": 19,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogRoleAppellation1011",
+    "roleLogKey": "appellationLootRoleLogIDB1011",
+    "id": 20,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogRoleAppellation1012",
+    "roleLogKey": "appellationLootRoleLogIDB1012",
+    "id": 21,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogRoleAppellation1101",
+    "roleLogKey": "appellationLootRoleLogIDB1101",
+    "id": 22,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogRoleAppellation1102",
+    "roleLogKey": "appellationLootRoleLogIDB1102",
+    "id": 23,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogRoleAppellation1103",
+    "roleLogKey": "appellationLootRoleLogIDB1103",
+    "id": 24,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogRoleAppellation1104",
+    "roleLogKey": "appellationLootRoleLogIDB1104",
+    "id": 25,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogRoleAppellation1105",
+    "roleLogKey": "appellationLootRoleLogIDB1105",
+    "id": 26,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogRoleAppellation1106",
+    "roleLogKey": "appellationLootRoleLogIDB1106",
+    "id": 27,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogRoleAppellation1107",
+    "roleLogKey": "appellationLootRoleLogIDB1107",
+    "id": 28,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogRoleAppellation1108",
+    "roleLogKey": "appellationLootRoleLogIDB1108",
+    "id": 29,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogRoleAppellation1109",
+    "roleLogKey": "appellationLootRoleLogIDB1109",
+    "id": 30,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogRoleAppellation1110",
+    "roleLogKey": "appellationLootRoleLogIDB1110",
+    "id": 31,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogRoleAppellation1111",
+    "roleLogKey": "appellationLootRoleLogIDB1111",
+    "id": 32,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogRoleAppellation1112",
+    "roleLogKey": "appellationLootRoleLogIDB1112",
+    "id": 33,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogRoleAppellation1201",
+    "roleLogKey": "appellationLootRoleLogIDB1201",
+    "id": 34,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogRoleAppellation1202",
+    "roleLogKey": "appellationLootRoleLogIDB1202",
+    "id": 35,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogRoleAppellation1203",
+    "roleLogKey": "appellationLootRoleLogIDB1203",
+    "id": 36,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogRoleAppellation1204",
+    "roleLogKey": "appellationLootRoleLogIDB1204",
+    "id": 37,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogRoleAppellation1205",
+    "roleLogKey": "appellationLootRoleLogIDB1205",
+    "id": 38,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogRoleAppellation1206",
+    "roleLogKey": "appellationLootRoleLogIDB1206",
+    "id": 39,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogRoleAppellation1207",
+    "roleLogKey": "appellationLootRoleLogIDB1207",
+    "id": 40,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogRoleAppellation1208",
+    "roleLogKey": "appellationLootRoleLogIDB1208",
+    "id": 41,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogRoleAppellation1209",
+    "roleLogKey": "appellationLootRoleLogIDB1209",
+    "id": 42,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogRoleAppellation1210",
+    "roleLogKey": "appellationLootRoleLogIDB1210",
+    "id": 43,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogRoleAppellation1211",
+    "roleLogKey": "appellationLootRoleLogIDB1211",
+    "id": 44,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogRoleAppellation1212",
+    "roleLogKey": "appellationLootRoleLogIDB1212",
+    "id": 45,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogRoleAppellation1301",
+    "roleLogKey": "appellationLootRoleLogIDB1301",
+    "id": 46,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogRoleAppellation1302",
+    "roleLogKey": "appellationLootRoleLogIDB1302",
+    "id": 47,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogRoleAppellation1303",
+    "roleLogKey": "appellationLootRoleLogIDB1303",
+    "id": 48,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogRoleAppellation1304",
+    "roleLogKey": "appellationLootRoleLogIDB1304",
+    "id": 49,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogRoleAppellation1305",
+    "roleLogKey": "appellationLootRoleLogIDB1305",
+    "id": 50,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogRoleAppellation1306",
+    "roleLogKey": "appellationLootRoleLogIDB1306",
+    "id": 51,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogRoleAppellation1307",
+    "roleLogKey": "appellationLootRoleLogIDB1307",
+    "id": 52,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogRoleAppellation1308",
+    "roleLogKey": "appellationLootRoleLogIDB1308",
+    "id": 53,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogRoleAppellation1309",
+    "roleLogKey": "appellationLootRoleLogIDB1309",
+    "id": 54,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogRoleAppellation1310",
+    "roleLogKey": "appellationLootRoleLogIDB1310",
+    "id": 55,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogRoleAppellation1311",
+    "roleLogKey": "appellationLootRoleLogIDB1311",
+    "id": 56,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogRoleAppellation1312",
+    "roleLogKey": "appellationLootRoleLogIDB1312",
+    "id": 57,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogRoleAppellation1401",
+    "roleLogKey": "appellationLootRoleLogIDB1401",
+    "id": 58,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogRoleAppellation1402",
+    "roleLogKey": "appellationLootRoleLogIDB1402",
+    "id": 59,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogRoleAppellation1403",
+    "roleLogKey": "appellationLootRoleLogIDB1403",
+    "id": 60,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogRoleAppellation1404",
+    "roleLogKey": "appellationLootRoleLogIDB1404",
+    "id": 61,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogRoleAppellation1405",
+    "roleLogKey": "appellationLootRoleLogIDB1405",
+    "id": 62,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogRoleAppellation1406",
+    "roleLogKey": "appellationLootRoleLogIDB1406",
+    "id": 63,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogRoleAppellation1407",
+    "roleLogKey": "appellationLootRoleLogIDB1407",
+    "id": 64,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogRoleAppellation1408",
+    "roleLogKey": "appellationLootRoleLogIDB1408",
+    "id": 65,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogRoleAppellation1409",
+    "roleLogKey": "appellationLootRoleLogIDB1409",
+    "id": 66,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogRoleAppellation1410",
+    "roleLogKey": "appellationLootRoleLogIDB1410",
+    "id": 67,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogRoleAppellation1411",
+    "roleLogKey": "appellationLootRoleLogIDB1411",
+    "id": 68,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "careerKey": "careerLogRoleAppellation1412",
+    "roleLogKey": "appellationLootRoleLogIDB1412",
+    "id": 69,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "groupID": 1,
+    "condition": "hunger_5000",
+    "cd": 10,
+    "memory": "1705001",
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 1,
+    "condition": "hunger_5000",
+    "cd": 10,
+    "memory": "1705002",
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 2,
+    "condition": "mood_5000",
+    "cd": 10,
+    "memory": "1705003",
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "groupID": 2,
+    "condition": "mood_5000",
+    "cd": 10,
+    "memory": "1705004",
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

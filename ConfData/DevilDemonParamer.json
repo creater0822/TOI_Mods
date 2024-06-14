@@ -1,0 +1,51 @@
+[
+  {
+    "key": "initRepairMon",
+    "value": 1.0,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "addReppairMon",
+    "value": 1.0,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "unLockGrade",
+    "value": 0.0,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "unLockLevel",
+    "value": 0.0,
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "activeDuration",
+    "value": 60.0,
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "collectMonstRate",
+    "value": 50.0,
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "reppairMonthMax",
+    "value": 6.0,
+    "id": 7,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

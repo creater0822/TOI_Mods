@@ -1,0 +1,30 @@
+[
+  {
+    "key": "reveProbability",
+    "value": 60,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "reveCDMin",
+    "value": 3,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "reveCDMax",
+    "value": 3,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "weightAdd",
+    "value": 2000000,
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

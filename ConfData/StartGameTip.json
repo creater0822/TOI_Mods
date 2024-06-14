@@ -1,0 +1,3252 @@
+[
+  {
+    "desc": "startGameTipDesc1",
+    "version": "v0.8.1005",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc2",
+    "version": "v0.8.1006",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc3",
+    "version": "v0.8.1007",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc4",
+    "version": "v0.8.1008",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc5",
+    "version": "v0.8.1009",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc6",
+    "version": "v0.8.1010",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc7",
+    "version": "v0.8.1011",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 7,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc8",
+    "version": "v0.8.1012",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 8,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc9",
+    "version": "v0.8.1013",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 9,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc10",
+    "version": "v0.8.1014",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 10,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc11",
+    "version": "v0.8.1015",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 11,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc12",
+    "version": "v0.8.1016",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 12,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc13",
+    "version": "v0.8.1017",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 13,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc14",
+    "version": "v0.8.1018",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 14,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc15",
+    "version": "v0.8.1019",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 15,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc16",
+    "version": "v0.8.1020",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 16,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc17",
+    "version": "v0.8.1021",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 17,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc18",
+    "version": "v0.8.1022",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 18,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc19",
+    "version": "v0.8.1023",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 19,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc20",
+    "version": "v0.8.1024",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 20,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc21",
+    "version": "v0.8.1025",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 21,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc22",
+    "version": "v0.8.1026",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 22,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc23",
+    "version": "v0.8.1027",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 23,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc24",
+    "version": "v0.8.1028",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 24,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc25",
+    "version": "v0.8.1029",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 25,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc26",
+    "version": "v0.8.1030",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 26,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc27",
+    "version": "v0.8.1031",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 27,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc28",
+    "version": "v0.8.1032",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 28,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc29",
+    "version": "v0.8.1033",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 29,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc30",
+    "version": "v0.8.1034",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 30,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc31",
+    "version": "v0.8.1035",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 31,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc32",
+    "version": "v0.8.1036",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 32,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc33",
+    "version": "v0.8.1037",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 33,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc34",
+    "version": "v0.8.1038",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 34,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc35",
+    "version": "v0.8.1039",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 35,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc36",
+    "version": "v0.8.1040",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 36,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc37",
+    "version": "v0.8.1041",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 37,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc38",
+    "version": "v0.8.1042",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 38,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc39",
+    "version": "v0.8.1043",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 39,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc40",
+    "version": "v0.8.1044",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 40,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc41",
+    "version": "v0.8.1045",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 41,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc42",
+    "version": "v0.8.1046",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 42,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc43",
+    "version": "v0.8.1047",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 43,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc44",
+    "version": "v0.8.1048",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 44,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc45",
+    "version": "v0.8.1049",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 45,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc46",
+    "version": "v0.8.1050",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 46,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc47",
+    "version": "v0.8.1051",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 47,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc48",
+    "version": "v0.8.1052",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 48,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc49",
+    "version": "v0.8.1053",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 49,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc50",
+    "version": "v0.8.1054",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 50,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc51",
+    "version": "v0.8.1055",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 51,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc52",
+    "version": "v0.8.1056",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 52,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc53",
+    "version": "v0.8.1057",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 53,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc54",
+    "version": "v0.8.1058",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 54,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc55",
+    "version": "v0.8.1059",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 55,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc56",
+    "version": "v0.8.1060",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 56,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc57",
+    "version": "v0.8.2001",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 57,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc58",
+    "version": "v0.8.2002",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 58,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc59",
+    "version": "v0.8.2003",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 59,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc60",
+    "version": "v0.8.2004",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 60,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc61",
+    "version": "v0.8.2005",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 61,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc62",
+    "version": "v0.8.2006",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 62,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc63",
+    "version": "v0.8.2007",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 63,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc64",
+    "version": "v0.8.2008",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 64,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc65",
+    "version": "v0.8.2009",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 65,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc66",
+    "version": "v0.8.2010",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 66,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc67",
+    "version": "v0.8.2011",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 67,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc68",
+    "version": "v0.8.2012",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 68,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc69",
+    "version": "v0.8.2013",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 69,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc70",
+    "version": "v0.8.2014",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 70,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc71",
+    "version": "v0.8.2015",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 71,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc72",
+    "version": "v0.8.2016",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 72,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc73",
+    "version": "v0.8.2017",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 73,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc74",
+    "version": "v0.8.2018",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 74,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc75",
+    "version": "v0.8.2019",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 75,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc76",
+    "version": "v0.8.2020",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 76,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc77",
+    "version": "v0.8.2021",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 77,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc78",
+    "version": "v0.8.2022",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 78,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc79",
+    "version": "v0.8.2023",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 79,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc80",
+    "version": "v0.8.2024",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 80,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc81",
+    "version": "v0.8.2025",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 81,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc82",
+    "version": "v0.8.2026",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 82,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc83",
+    "version": "v0.8.2027",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 83,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc84",
+    "version": "v0.8.2028",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 84,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc85",
+    "version": "v0.8.2029",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 85,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc86",
+    "version": "v内部062001",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 86,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc87",
+    "version": "v内部062201",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 87,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc88",
+    "version": "v内部062301",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 88,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc89",
+    "version": "v内部062501",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 89,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc90",
+    "version": "v内部062801",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 90,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc91",
+    "version": "v内部062802",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 91,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc92",
+    "version": "v0.8.3001",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 92,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc93",
+    "version": "v0.8.3002",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 93,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc94",
+    "version": "v0.8.3003",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 94,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc95",
+    "version": "v0.8.3004",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 95,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc96",
+    "version": "v0.8.3005",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 96,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc97",
+    "version": "v0.8.3006",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 97,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc98",
+    "version": "v0.8.3007",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 98,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc99",
+    "version": "v0.8.3008",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 99,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc100",
+    "version": "v0.8.3009",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 100,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc101",
+    "version": "v0.8.3010",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 101,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc102",
+    "version": "v0.8.3011",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 102,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc103",
+    "version": "v0.8.3012",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 103,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc104",
+    "version": "v0.8.3013",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 104,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc105",
+    "version": "v0.8.3014",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 105,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc106",
+    "version": "v0.8.3015",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 106,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc107",
+    "version": "v0.8.3016",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 107,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc108",
+    "version": "v0.8.3017",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 108,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc109",
+    "version": "v0.8.3018",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 109,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc110",
+    "version": "v0.8.3019",
+    "show": 1,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 110,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc111",
+    "version": "v0.8.3020",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 111,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc112",
+    "version": "v0.8.3021",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 112,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc113",
+    "version": "v0.8.3022",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 113,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc114",
+    "version": "内部092401",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 114,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc115",
+    "version": "内部092601",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 115,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc116",
+    "version": "内部092801",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 116,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc117",
+    "version": "内部101101",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 117,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc118",
+    "version": "内部101201",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 118,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc119",
+    "version": "内部101401",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 119,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc120",
+    "version": "内部101501",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 120,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc121",
+    "version": "内部101502",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 121,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc122",
+    "version": "内部101601",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 122,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc123",
+    "version": "内部101701",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 123,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc124",
+    "version": "内部101702",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 124,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc125",
+    "version": "内部101901",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 125,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc126",
+    "version": "内部102001",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 126,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc127",
+    "version": "内部102101",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 127,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc128",
+    "version": "内部102102",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 128,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc129",
+    "version": "内部102201",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 129,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc130",
+    "version": "v0.8.4001",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 130,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc131",
+    "version": "v0.8.4002",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 131,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc132",
+    "version": "v0.8.4003",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 132,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc133",
+    "version": "v0.8.4004",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 133,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc134",
+    "version": "v0.8.4005",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 134,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc135",
+    "version": "v0.8.4006",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 135,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc136",
+    "version": "v0.8.4007",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 136,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc137",
+    "version": "v0.8.4008",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 137,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc138",
+    "version": "v0.8.4009",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 138,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc139",
+    "version": "v0.8.4010",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 139,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc140",
+    "version": "v0.8.4011",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 140,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc141",
+    "version": "v0.8.4012",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 141,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc142",
+    "version": "v0.8.4013",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 142,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc143",
+    "version": "v0.8.4014",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 143,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc144",
+    "version": "v0.8.4015",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 144,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc145",
+    "version": "v0.8.4016",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 145,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc146",
+    "version": "v0.8.4017",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 146,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc147",
+    "version": "v0.8.4018",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 147,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc148",
+    "version": "v0.8.4019",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 148,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc149",
+    "version": "v0.8.4020",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 149,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc150",
+    "version": "v0.8.4021",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 150,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc151",
+    "version": "v0.8.4022",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 151,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc152",
+    "version": "v0.8.4023",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 152,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc153",
+    "version": "v0.8.4024",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 153,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc154",
+    "version": "v0.8.4025",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 154,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc155",
+    "version": "v0.8.4026",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 155,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc156",
+    "version": "v0.8.4027",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 156,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc157",
+    "version": "v0.8.4028",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 157,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc158",
+    "version": "v0.8.4029",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 158,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc159",
+    "version": "v0.8.4030",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 159,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc160",
+    "version": "v0.8.4031",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 160,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc161",
+    "version": "v0.8.4032",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 161,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc162",
+    "version": "v0.8.4033",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 162,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc163",
+    "version": "v0.8.4034",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 163,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc164",
+    "version": "v0.8.4035",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 164,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc165",
+    "version": "v0.8.4036",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 165,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc166",
+    "version": "v0.8.4037",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 166,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc167",
+    "version": "v0.8.4038",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 167,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc168",
+    "version": "v0.8.4039",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 168,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc169",
+    "version": "内部",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 169,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc170",
+    "version": "内部",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 170,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc171",
+    "version": "内部",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 171,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc172",
+    "version": "内部",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 172,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc173",
+    "version": "内部",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 173,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc174",
+    "version": "内部",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 174,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc175",
+    "version": "v0.8.5001",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 175,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc176",
+    "version": "v0.8.5002",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 176,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc177",
+    "version": "v0.8.5003",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 177,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc178",
+    "version": "v0.8.5004",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 178,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc179",
+    "version": "v0.8.5005",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 179,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc180",
+    "version": "v0.8.5006",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 180,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc181",
+    "version": "v0.8.5007",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 181,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc182",
+    "version": "v0.8.5008",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 182,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc183",
+    "version": "v0.8.5009",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 183,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc184",
+    "version": "v0.8.5010",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 184,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc185",
+    "version": "v0.8.5011",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 185,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc186",
+    "version": "v0.8.5012",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 186,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc187",
+    "version": "v0.8.5013",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 187,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc188",
+    "version": "v0.8.5014",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 188,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc189",
+    "version": "v0.8.5015",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 189,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc190",
+    "version": "v0.8.5016",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 190,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc191",
+    "version": "v0.8.5017",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 191,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc192",
+    "version": "v0.8.5018",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 192,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc193",
+    "version": "v0.8.5019",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 193,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc194",
+    "version": "v0.8.5020",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 194,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc195",
+    "version": "v0.8.5021",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 195,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc196",
+    "version": "v0.8.5022",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 196,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc197",
+    "version": "v0.8.5023",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 197,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc198",
+    "version": "v0.8.5024",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 198,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc199",
+    "version": "内部",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 199,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc200",
+    "version": "v0.8.5025",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 200,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc201",
+    "version": "v0.8.5026",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 201,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc202",
+    "version": "v0.8.5027",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 202,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc203",
+    "version": "v0.8.5028",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 203,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc204",
+    "version": "内部",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 204,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc205",
+    "version": "内部",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 205,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc206",
+    "version": "内部",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 206,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc207",
+    "version": "内部",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 207,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc208",
+    "version": "内部",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 208,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc209",
+    "version": "内部",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 209,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc210",
+    "version": "内部",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 210,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc211",
+    "version": "内部",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 211,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc212",
+    "version": "内部",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 212,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc213",
+    "version": "内部",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 213,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc214",
+    "version": "内部",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 214,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc215",
+    "version": "内部",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 215,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc216",
+    "version": "内部",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 216,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc217",
+    "version": "内部",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 217,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc218",
+    "version": "v0.8.6001",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 218,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc219",
+    "version": "v0.8.6002",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 219,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc220",
+    "version": "v0.8.6003",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 220,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc221",
+    "version": "v0.8.6004",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 221,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc222",
+    "version": "v0.8.6005",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 222,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc223",
+    "version": "v0.8.6006",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 223,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc224",
+    "version": "v0.8.6007",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 224,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc225",
+    "version": "v0.8.6008",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 225,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc226",
+    "version": "v0.8.6009",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 226,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc227",
+    "version": "v0.8.6010",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 227,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc228",
+    "version": "v0.8.6011",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 228,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc229",
+    "version": "v0.8.6012",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 229,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc230",
+    "version": "v0.8.6013",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 230,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc231",
+    "version": "v0.8.6014",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 231,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc232",
+    "version": "v0.8.6015",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 232,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc233",
+    "version": "v0.8.6016",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 233,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc234",
+    "version": "v0.8.6017",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 234,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc235",
+    "version": "v0.8.6018",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 235,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc236",
+    "version": "v0.8.6019",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 236,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc237",
+    "version": "v0.8.6020",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 237,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc238",
+    "version": "v0.8.6021",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 238,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc239",
+    "version": "内部",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 239,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc240",
+    "version": "内部",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 240,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc241",
+    "version": "内部",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 241,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc242",
+    "version": "内部",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 242,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc243",
+    "version": "内部",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 243,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc244",
+    "version": "内部",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 244,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc245",
+    "version": "内部",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 245,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc246",
+    "version": "内部",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 246,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc247",
+    "version": "内部",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 247,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc248",
+    "version": "内部",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 248,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc249",
+    "version": "内部",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 249,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc250",
+    "version": "内部",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 250,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc251",
+    "version": "内部",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 251,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc252",
+    "version": "v0.8.7001",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 252,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc253",
+    "version": "v0.8.7002",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 253,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc254",
+    "version": "v0.8.7003",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 254,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc255",
+    "version": "v0.8.7004",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 255,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc256",
+    "version": "v0.8.7005",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 256,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc257",
+    "version": "v0.8.7006",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 257,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc258",
+    "version": "v0.8.7007",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 258,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc259",
+    "version": "v0.8.7008",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 259,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc260",
+    "version": "v0.8.7009",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 260,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc261",
+    "version": "v0.8.7010",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 261,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc262",
+    "version": "v0.8.7011",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 262,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc263",
+    "version": "v0.8.7012",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 263,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc264",
+    "version": "v0.8.7013",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 264,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc265",
+    "version": "v0.8.7014",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 265,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc266",
+    "version": "v0.8.7015",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 266,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc267",
+    "version": "内部",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 267,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc268",
+    "version": "内部",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 268,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc269",
+    "version": "内部",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 269,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc270",
+    "version": "内部",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 270,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc271",
+    "version": "内部",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 271,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc272",
+    "version": "内部",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 272,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc273",
+    "version": "内部",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 273,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc274",
+    "version": "内部",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 274,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc275",
+    "version": "内部",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 275,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc276",
+    "version": "内部",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 276,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc277",
+    "version": "内部",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 277,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc278",
+    "version": "内部",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 278,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc279",
+    "version": "内部",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 279,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc280",
+    "version": "内部",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 280,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc281",
+    "version": "内部",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 281,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc282",
+    "version": "内部",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 282,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc283",
+    "version": "内部",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 283,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc284",
+    "version": "v0.8.8001",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 284,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc285",
+    "version": "v0.8.8002",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 285,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc286",
+    "version": "v0.8.8003",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 286,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc287",
+    "version": "v0.8.8004",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 287,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc288",
+    "version": "v0.8.8005",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 288,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc289",
+    "version": "v0.8.8006",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 289,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc290",
+    "version": "v0.8.8007",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 290,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc291",
+    "version": "v0.8.8008",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 291,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc292",
+    "version": "v0.8.8009",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 292,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc293",
+    "version": "内部",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 293,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc294",
+    "version": "内部",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 294,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc295",
+    "version": "内部",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 295,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc296",
+    "version": "内部",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 296,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc297",
+    "version": "内部",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 297,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc298",
+    "version": "内部",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 298,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc299",
+    "version": "内部",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 299,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc300",
+    "version": "内部",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 300,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc301",
+    "version": "内部",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 301,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc302",
+    "version": "内部",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 302,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc303",
+    "version": "内部",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 303,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc304",
+    "version": "内部",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 304,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc305",
+    "version": "内部",
+    "show": 0,
+    "showEn": 0,
+    "showKr": 0,
+    "id": 305,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc306",
+    "version": "v1.0.101",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 306,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc307",
+    "version": "v1.0.102",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 307,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc308",
+    "version": "v1.0.103",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 308,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc309",
+    "version": "v1.0.104",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 309,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc310",
+    "version": "v1.0.105",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 310,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc311",
+    "version": "v1.0.106",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 311,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc312",
+    "version": "v1.0.107",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 312,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc313",
+    "version": "v1.0.108",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 313,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc314",
+    "version": "v1.0.109",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 314,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc315",
+    "version": "v1.0.110",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 315,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc316",
+    "version": "v1.0.111",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 316,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc317",
+    "version": "v1.0.112",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 0,
+    "id": 317,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc318",
+    "version": "v1.0.113",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 1,
+    "id": 318,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc319",
+    "version": "v1.0.114",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 1,
+    "id": 319,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc320",
+    "version": "v1.0.115",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 1,
+    "id": 320,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc321",
+    "version": "v1.0.116",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 1,
+    "id": 321,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc322",
+    "version": "v1.0.117",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 1,
+    "id": 322,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc323",
+    "version": "v1.1.101",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 1,
+    "id": 323,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc324",
+    "version": "v1.1.102",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 1,
+    "id": 324,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "startGameTipDesc325",
+    "version": "v1.1.103",
+    "show": 1,
+    "showEn": 1,
+    "showKr": 1,
+    "id": 325,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

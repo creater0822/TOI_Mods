@@ -1,0 +1,82 @@
+[
+  {
+    "stayTime": 12,
+    "cd": 50,
+    "spCost": 12,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "stayTime": 12,
+    "cd": 50,
+    "spCost": 18,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "stayTime": 12,
+    "cd": 50,
+    "spCost": 26,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "stayTime": 12,
+    "cd": 50,
+    "spCost": 40,
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "stayTime": 12,
+    "cd": 50,
+    "spCost": 60,
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "stayTime": 12,
+    "cd": 50,
+    "spCost": 90,
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "stayTime": 12,
+    "cd": 50,
+    "spCost": 140,
+    "id": 7,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "stayTime": 12,
+    "cd": 50,
+    "spCost": 200,
+    "id": 8,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "stayTime": 12,
+    "cd": 50,
+    "spCost": 300,
+    "id": 9,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "stayTime": 12,
+    "cd": 50,
+    "spCost": 450,
+    "id": 10,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

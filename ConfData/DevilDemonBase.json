@@ -1,0 +1,82 @@
+[
+  {
+    "collectBossCount": 10,
+    "LifeTeamCount": 1,
+    "devilDemonCount": 10,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "collectBossCount": 12,
+    "LifeTeamCount": 1,
+    "devilDemonCount": 15,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "collectBossCount": 14,
+    "LifeTeamCount": 2,
+    "devilDemonCount": 20,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "collectBossCount": 16,
+    "LifeTeamCount": 2,
+    "devilDemonCount": 25,
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "collectBossCount": 18,
+    "LifeTeamCount": 3,
+    "devilDemonCount": 30,
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "collectBossCount": 20,
+    "LifeTeamCount": 3,
+    "devilDemonCount": 35,
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "collectBossCount": 22,
+    "LifeTeamCount": 4,
+    "devilDemonCount": 40,
+    "id": 7,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "collectBossCount": 24,
+    "LifeTeamCount": 4,
+    "devilDemonCount": 45,
+    "id": 8,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "collectBossCount": 26,
+    "LifeTeamCount": 4,
+    "devilDemonCount": 50,
+    "id": 9,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "collectBossCount": 28,
+    "LifeTeamCount": 4,
+    "devilDemonCount": 55,
+    "id": 10,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

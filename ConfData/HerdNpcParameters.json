@@ -1,0 +1,212 @@
+[
+  {
+    "key": "level1MonstSkillCount",
+    "value": "1_2|2_1",
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "level2NewSkill",
+    "value": "1_1|4_1",
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "level3NewSkill",
+    "value": "2_1",
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "level4NewSkill",
+    "value": "4_1",
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "level5NewSkill",
+    "value": "2_1",
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "level6NewSkill",
+    "value": "1_1|2_1",
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "HerdNpcFleeProbability",
+    "value": "7500",
+    "id": 7,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "HerdNpcFortuitousCount",
+    "value": "2_5",
+    "id": 8,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "HerdNpcFortuitousProbability",
+    "value": "2000_3500",
+    "id": 9,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "HerdNpcFortuitousCountMax",
+    "value": "10",
+    "id": 10,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "killRoleAddAttr",
+    "value": "50",
+    "id": 11,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "killRoleAddExp",
+    "value": "100",
+    "id": 12,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "contributionRatio",
+    "value": "10_18",
+    "id": 13,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "HerdNpcMaxNumTotal",
+    "value": "55",
+    "id": 15,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "HerdNpcMaxNumLevel1",
+    "value": "15",
+    "id": 16,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "HerdNpcMaxNumLevel2",
+    "value": "13",
+    "id": 17,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "HerdNpcMaxNumLevel3",
+    "value": "9",
+    "id": 18,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "HerdNpcMaxNumLevel4",
+    "value": "7",
+    "id": 19,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "HerdNpcMaxNumLevel5",
+    "value": "5",
+    "id": 20,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "HerdNpcMaxNumLevel6",
+    "value": "3",
+    "id": 21,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "HerdNpcNumPost6",
+    "value": "1",
+    "id": 22,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "HerdNpcNumPost5",
+    "value": "2",
+    "id": 23,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "HerdNpcNumPost4",
+    "value": "4",
+    "id": 24,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "HerdNpcNumPost3",
+    "value": "6",
+    "id": 25,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "HerdNpcNumPost2",
+    "value": "8",
+    "id": 26,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "HerdNpcNumPost1",
+    "value": "45",
+    "id": 27,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "changePostMonthlog",
+    "value": "drama_monthLog21421",
+    "id": 28,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "createHerdNPCMonth",
+    "value": "6",
+    "id": 29,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "HerdNpcBattleMonthLog1",
+    "value": "drama_monthLog21422",
+    "id": 30,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "HerdNpcBattleMonthLog2",
+    "value": "drama_monthLog21423",
+    "id": 31,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

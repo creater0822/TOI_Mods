@@ -1,0 +1,16 @@
+[
+  {
+    "key": "saveGoalID",
+    "value": 201,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "helpLuckID",
+    "value": 152,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "type": 101,
+    "name": "troubleName10101",
+    "desc": "troubleDesc10101",
+    "rewardIntim": 300,
+    "rewardHumanValue": -100,
+    "taskID": 126001,
+    "id": 10101,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "type": 102,
+    "name": "troubleName10201",
+    "desc": "troubleDesc10201",
+    "rewardIntim": 300,
+    "rewardHumanValue": -100,
+    "taskID": 126001,
+    "id": 10201,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "type": 103,
+    "name": "troubleName10301",
+    "desc": "troubleDesc10301",
+    "rewardIntim": 300,
+    "rewardHumanValue": -100,
+    "taskID": 126001,
+    "id": 10301,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "type": 104,
+    "name": "troubleName10401",
+    "desc": "troubleDesc10401",
+    "rewardIntim": 300,
+    "rewardHumanValue": -100,
+    "taskID": 126001,
+    "id": 10401,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "type": 105,
+    "name": "troubleName10501",
+    "desc": "troubleDesc10501",
+    "rewardIntim": 300,
+    "rewardHumanValue": -100,
+    "taskID": 126001,
+    "id": 10501,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "type": 106,
+    "name": "troubleName10601",
+    "desc": "troubleDesc10601",
+    "rewardIntim": 300,
+    "rewardHumanValue": -100,
+    "taskID": 126001,
+    "id": 10601,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "type": 107,
+    "name": "troubleName10701",
+    "desc": "troubleDesc10701",
+    "rewardIntim": 300,
+    "rewardHumanValue": -100,
+    "taskID": 126002,
+    "id": 10701,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "type": 108,
+    "name": "troubleName10801",
+    "desc": "troubleDesc10801",
+    "rewardIntim": 300,
+    "rewardHumanValue": -100,
+    "taskID": 126002,
+    "id": 10801,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

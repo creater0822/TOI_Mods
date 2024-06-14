@@ -1,0 +1,47 @@
+[
+  {
+    "name": "塚",
+    "tc": "塚",
+    "en": "Crypt",
+    "kr": "총",
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "name": "隼",
+    "tc": "隼",
+    "en": "Hawk",
+    "kr": "준",
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "name": "犀",
+    "tc": "犀",
+    "en": "Abada",
+    "kr": "서",
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "name": "枭",
+    "tc": "梟",
+    "en": "Buteo",
+    "kr": "교",
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "name": "残",
+    "tc": "殘",
+    "en": "Grim",
+    "kr": "잔",
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "key": "min",
+    "value": 500,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "max",
+    "value": 1500,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

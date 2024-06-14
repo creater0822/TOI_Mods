@@ -1,0 +1,11 @@
+[
+  {
+    "dungeonID": 0,
+    "startDialogue": 0,
+    "positionID": 0,
+    "condition": "0",
+    "id": 123001,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

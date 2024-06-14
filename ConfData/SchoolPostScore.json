@@ -1,0 +1,44 @@
+[
+  {
+    "score": 9,
+    "heroScore": 30,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "score": 6,
+    "heroScore": 20,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "score": 4,
+    "heroScore": 15,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "score": 3,
+    "heroScore": 10,
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "score": 2,
+    "heroScore": 6,
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "score": 1,
+    "heroScore": 3,
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

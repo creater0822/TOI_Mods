@@ -1,0 +1,90 @@
+[
+  {
+    "crystalCondition": [[1, 2]],
+    "targetDungeon": 8002,
+    "monsterID": [],
+    "prodRate": 10000,
+    "prodNumMin": 2,
+    "prodNumMax": 2,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "crystalCondition": [[1, 2]],
+    "targetDungeon": 8003,
+    "monsterID": [],
+    "prodRate": 10000,
+    "prodNumMin": 2,
+    "prodNumMax": 2,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "crystalCondition": [[1, 2]],
+    "targetDungeon": 8004,
+    "monsterID": [],
+    "prodRate": 10000,
+    "prodNumMin": 2,
+    "prodNumMax": 2,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "crystalCondition": [[1, 2]],
+    "targetDungeon": 8005,
+    "monsterID": [],
+    "prodRate": 10000,
+    "prodNumMin": 2,
+    "prodNumMax": 2,
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "crystalCondition": [[30, 0]],
+    "targetDungeon": 8002,
+    "monsterID": [402202],
+    "prodRate": 10000,
+    "prodNumMin": 1,
+    "prodNumMax": 1,
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "crystalCondition": [[30, 0]],
+    "targetDungeon": 8003,
+    "monsterID": [402203],
+    "prodRate": 10000,
+    "prodNumMin": 1,
+    "prodNumMax": 1,
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "crystalCondition": [[30, 0]],
+    "targetDungeon": 8004,
+    "monsterID": [402204],
+    "prodRate": 10000,
+    "prodNumMin": 1,
+    "prodNumMax": 1,
+    "id": 7,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "crystalCondition": [[30, 0]],
+    "targetDungeon": 8005,
+    "monsterID": [402205],
+    "prodRate": 10000,
+    "prodNumMin": 1,
+    "prodNumMax": 1,
+    "id": 8,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

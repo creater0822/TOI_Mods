@@ -1,0 +1,266 @@
+[
+  {
+    "basPart": [
+      3
+    ],
+    "partWeight": 36,
+    "favor": [
+      -999,
+      -30
+    ],
+    "triggerCondition": "advancedActionCurGrade_1_0_1001|advancedActionCurGrade_1_0_1002|advancedActionCurGrade_1_0_1003|lastUpGradeMonth_0_2_24",
+    "cdGroup": 1,
+    "cd": 12,
+    "action": [
+      "2002",
+      "0"
+    ],
+    "weight": 100,
+    "desc": "motivationLog14",
+    "id": 1001,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "basPart": [
+      3
+    ],
+    "partWeight": 36,
+    "favor": [
+      -999,
+      -30
+    ],
+    "triggerCondition": "advancedActionCurGrade_1_0_1001|advancedActionCurGrade_1_0_1002|advancedActionCurGrade_1_0_1003",
+    "cdGroup": 1,
+    "cd": 12,
+    "action": [
+      "2003",
+      "0"
+    ],
+    "weight": 100,
+    "desc": "motivationLog15",
+    "id": 1002,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "basPart": [
+      3
+    ],
+    "partWeight": 36,
+    "favor": [
+      -999,
+      -30
+    ],
+    "triggerCondition": "advancedActionCurGrade_1_0_1001|advancedActionCurGrade_1_0_1002|advancedActionCurGrade_1_0_1003|gradePhase_0_3_3|curExpPercent_0_1_100",
+    "cdGroup": 1,
+    "cd": 12,
+    "action": [
+      "2003",
+      "1"
+    ],
+    "weight": 100,
+    "desc": "motivationLog16",
+    "id": 1003,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "basPart": [
+      5
+    ],
+    "partWeight": 15,
+    "favor": [
+      -999,
+      -30
+    ],
+    "triggerCondition": "advancedActionCurGrade_1_0_1004|advancedActionCurGrade_1_0_1005|gradePhase_0_3_3",
+    "cdGroup": 2,
+    "cd": 12,
+    "action": [
+      "2002",
+      "0"
+    ],
+    "weight": 100,
+    "desc": "motivationLog17",
+    "id": 1004,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "basPart": [
+      5
+    ],
+    "partWeight": 15,
+    "favor": [
+      -999,
+      -30
+    ],
+    "triggerCondition": "advancedActionCurGrade_1_0_1004|advancedActionCurGrade_1_0_1005",
+    "cdGroup": 2,
+    "cd": 12,
+    "action": [
+      "2003",
+      "0"
+    ],
+    "weight": 100,
+    "desc": "motivationLog18",
+    "id": 1005,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "basPart": [
+      6
+    ],
+    "partWeight": 15,
+    "favor": [
+      -999,
+      -30
+    ],
+    "triggerCondition": "advancedActionCurGrade_1_0_1006|advancedActionCurGrade_1_0_1007|gradePhase_0_3_3|curExpPercent_0_1_100",
+    "cdGroup": 3,
+    "cd": 12,
+    "action": [
+      "2002",
+      "0"
+    ],
+    "weight": 100,
+    "desc": "motivationLog19",
+    "id": 1006,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "basPart": [
+      6
+    ],
+    "partWeight": 15,
+    "favor": [
+      -999,
+      -30
+    ],
+    "triggerCondition": "advancedActionCurGrade_1_0_1006|advancedActionCurGrade_1_0_1007",
+    "cdGroup": 3,
+    "cd": 12,
+    "action": [
+      "2003",
+      "0"
+    ],
+    "weight": 100,
+    "desc": "motivationLog20",
+    "id": 1007,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "basPart": [
+      7
+    ],
+    "partWeight": 20,
+    "favor": [
+      -999,
+      -30
+    ],
+    "triggerCondition": "advancedActionCurGrade_1_0_1008|advancedActionCurGrade_1_0_1009|gradePhase_0_3_3|curExpPercent_0_1_100",
+    "cdGroup": 4,
+    "cd": 12,
+    "action": [
+      "2002",
+      "0"
+    ],
+    "weight": 100,
+    "desc": "motivationLog21",
+    "id": 1008,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "basPart": [
+      7
+    ],
+    "partWeight": 20,
+    "favor": [
+      -999,
+      -30
+    ],
+    "triggerCondition": "advancedActionCurGrade_1_0_1008|advancedActionCurGrade_1_0_1009",
+    "cdGroup": 4,
+    "cd": 12,
+    "action": [
+      "2003",
+      "0"
+    ],
+    "weight": 100,
+    "desc": "motivationLog22",
+    "id": 1009,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "basPart": [
+      8
+    ],
+    "partWeight": 35,
+    "favor": [
+      -999,
+      -30
+    ],
+    "triggerCondition": "advancedActionCurGrade_1_0_1010|advancedActionCurGrade_1_0_1011|advancedActionCurGrade_1_0_1012|lastUpGradeMonth_0_2_36",
+    "cdGroup": 5,
+    "cd": 12,
+    "action": [
+      "2002",
+      "0"
+    ],
+    "weight": 100,
+    "desc": "motivationLog23",
+    "id": 1010,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "basPart": [
+      8
+    ],
+    "partWeight": 35,
+    "favor": [
+      -999,
+      -30
+    ],
+    "triggerCondition": "advancedActionCurGrade_1_0_1010|advancedActionCurGrade_1_0_1011|advancedActionCurGrade_1_0_1012",
+    "cdGroup": 5,
+    "cd": 12,
+    "action": [
+      "2003",
+      "0"
+    ],
+    "weight": 100,
+    "desc": "motivationLog24",
+    "id": 1011,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "basPart": [
+      8
+    ],
+    "partWeight": 35,
+    "favor": [
+      -999,
+      -30
+    ],
+    "triggerCondition": "advancedActionCurGrade_1_0_1010|advancedActionCurGrade_1_0_1011|advancedActionCurGrade_1_0_1012|gradePhase_0_3_3|curExpPercent_0_1_100",
+    "cdGroup": 5,
+    "cd": 12,
+    "action": [
+      "2003",
+      "1"
+    ],
+    "weight": 100,
+    "desc": "motivationLog25",
+    "id": 1012,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

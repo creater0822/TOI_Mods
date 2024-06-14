@@ -1,0 +1,402 @@
+[
+  {
+    "dropID": 10001,
+    "grade": 1,
+    "rewards": 510001,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dropID": 10001,
+    "grade": 2,
+    "rewards": 510001,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dropID": 10001,
+    "grade": 3,
+    "rewards": 510001,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dropID": 10001,
+    "grade": 4,
+    "rewards": 510001,
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dropID": 10001,
+    "grade": 5,
+    "rewards": 510001,
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dropID": 10001,
+    "grade": 6,
+    "rewards": 510001,
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dropID": 10001,
+    "grade": 7,
+    "rewards": 510001,
+    "id": 7,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dropID": 10001,
+    "grade": 8,
+    "rewards": 510001,
+    "id": 8,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dropID": 10001,
+    "grade": 9,
+    "rewards": 510001,
+    "id": 9,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dropID": 10001,
+    "grade": 10,
+    "rewards": 510001,
+    "id": 10,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dropID": 10002,
+    "grade": 1,
+    "rewards": 510002,
+    "id": 11,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dropID": 10002,
+    "grade": 2,
+    "rewards": 510002,
+    "id": 12,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dropID": 10002,
+    "grade": 3,
+    "rewards": 510002,
+    "id": 13,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dropID": 10002,
+    "grade": 4,
+    "rewards": 510002,
+    "id": 14,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dropID": 10002,
+    "grade": 5,
+    "rewards": 510002,
+    "id": 15,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dropID": 10002,
+    "grade": 6,
+    "rewards": 510002,
+    "id": 16,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dropID": 10002,
+    "grade": 7,
+    "rewards": 510002,
+    "id": 17,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dropID": 10002,
+    "grade": 8,
+    "rewards": 510002,
+    "id": 18,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dropID": 10002,
+    "grade": 9,
+    "rewards": 510002,
+    "id": 19,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dropID": 10002,
+    "grade": 10,
+    "rewards": 510002,
+    "id": 20,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dropID": 10003,
+    "grade": 1,
+    "rewards": 510003,
+    "id": 21,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dropID": 10003,
+    "grade": 2,
+    "rewards": 510003,
+    "id": 22,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dropID": 10003,
+    "grade": 3,
+    "rewards": 510003,
+    "id": 23,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dropID": 10003,
+    "grade": 4,
+    "rewards": 510003,
+    "id": 24,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dropID": 10003,
+    "grade": 5,
+    "rewards": 510003,
+    "id": 25,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dropID": 10003,
+    "grade": 6,
+    "rewards": 510003,
+    "id": 26,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dropID": 10003,
+    "grade": 7,
+    "rewards": 510003,
+    "id": 27,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dropID": 10003,
+    "grade": 8,
+    "rewards": 510003,
+    "id": 28,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dropID": 10003,
+    "grade": 9,
+    "rewards": 510003,
+    "id": 29,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dropID": 10003,
+    "grade": 10,
+    "rewards": 510003,
+    "id": 30,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dropID": 10004,
+    "grade": 1,
+    "rewards": 510004,
+    "id": 31,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dropID": 10004,
+    "grade": 2,
+    "rewards": 510004,
+    "id": 32,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dropID": 10004,
+    "grade": 3,
+    "rewards": 510004,
+    "id": 33,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dropID": 10004,
+    "grade": 4,
+    "rewards": 510004,
+    "id": 34,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dropID": 10004,
+    "grade": 5,
+    "rewards": 510004,
+    "id": 35,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dropID": 10004,
+    "grade": 6,
+    "rewards": 510004,
+    "id": 36,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dropID": 10004,
+    "grade": 7,
+    "rewards": 510004,
+    "id": 37,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dropID": 10004,
+    "grade": 8,
+    "rewards": 510004,
+    "id": 38,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dropID": 10004,
+    "grade": 9,
+    "rewards": 510004,
+    "id": 39,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dropID": 10004,
+    "grade": 10,
+    "rewards": 510004,
+    "id": 40,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dropID": 90001,
+    "grade": 1,
+    "rewards": 590001,
+    "id": 41,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dropID": 90001,
+    "grade": 2,
+    "rewards": 590001,
+    "id": 42,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dropID": 90001,
+    "grade": 3,
+    "rewards": 590001,
+    "id": 43,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dropID": 90001,
+    "grade": 4,
+    "rewards": 590001,
+    "id": 44,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dropID": 90001,
+    "grade": 5,
+    "rewards": 590001,
+    "id": 45,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dropID": 90001,
+    "grade": 6,
+    "rewards": 590001,
+    "id": 46,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dropID": 90001,
+    "grade": 7,
+    "rewards": 590001,
+    "id": 47,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dropID": 90001,
+    "grade": 8,
+    "rewards": 590001,
+    "id": 48,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dropID": 90001,
+    "grade": 9,
+    "rewards": 590001,
+    "id": 49,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "dropID": 90001,
+    "grade": 10,
+    "rewards": 590001,
+    "id": 50,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

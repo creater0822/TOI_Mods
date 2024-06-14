@@ -1,0 +1,92 @@
+[
+  {
+    "xcasdzxcasdSection": [
+      100,
+      80
+    ],
+    "insaneProbability": [
+      8,
+      15
+    ],
+    "mortality": 20,
+    "insaneMortality": 40,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "xcasdzxcasdSection": [
+      79,
+      50
+    ],
+    "insaneProbability": [
+      13,
+      18
+    ],
+    "mortality": 20,
+    "insaneMortality": 45,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "xcasdzxcasdSection": [
+      49,
+      0
+    ],
+    "insaneProbability": [
+      18,
+      21
+    ],
+    "mortality": 25,
+    "insaneMortality": 50,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "xcasdzxcasdSection": [
+      -1,
+      -50
+    ],
+    "insaneProbability": [
+      21,
+      28
+    ],
+    "mortality": 30,
+    "insaneMortality": 70,
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "xcasdzxcasdSection": [
+      -51,
+      -80
+    ],
+    "insaneProbability": [
+      28,
+      38
+    ],
+    "mortality": 30,
+    "insaneMortality": 80,
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "xcasdzxcasdSection": [
+      -81,
+      -100
+    ],
+    "insaneProbability": [
+      38,
+      50
+    ],
+    "mortality": 30,
+    "insaneMortality": 90,
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

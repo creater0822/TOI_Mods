@@ -1,0 +1,74 @@
+[
+  {
+    "desc": "gamePlan1",
+    "time": "gamePlanTime1",
+    "icon": "liaoshangxiuyang",
+    "show": 1,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "gamePlan2",
+    "time": "gamePlanTime2",
+    "icon": "fabuxuanshang",
+    "show": 1,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "gamePlan3",
+    "time": "gamePlanTime3",
+    "icon": "liaoshangxiuyang",
+    "show": 1,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "gamePlan4",
+    "time": "gamePlanTime4",
+    "icon": "yanwutanglianxi",
+    "show": 1,
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "gamePlan5",
+    "time": "gamePlanTime5",
+    "icon": "beibangzhu",
+    "show": 1,
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "gamePlan6",
+    "time": "gamePlanTime6",
+    "icon": "xiulian",
+    "show": 1,
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "gamePlan7",
+    "time": "gamePlanTime7",
+    "icon": "tupochenggong",
+    "show": 1,
+    "id": 7,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "desc": "gamePlan8",
+    "time": "gamePlanTime8",
+    "icon": "jierenwu",
+    "show": 1,
+    "id": 8,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

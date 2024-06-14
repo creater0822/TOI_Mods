@@ -1,0 +1,65 @@
+[
+  {
+    "key": "schoolBattleDecideValue1",
+    "value": 0.001,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "schoolBattleDecideValue2",
+    "value": 10.0,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "schoolBattleDecideValue3",
+    "value": 0.1,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "cautiousAttCD",
+    "value": 6.0,
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "schoolBattleProbabilityMinAsk",
+    "value": 70.0,
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "schoolBattleLeaderPower",
+    "value": 70.0,
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "schoolRescueDecideValue1",
+    "value": 10.0,
+    "id": 7,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "schoolRescueRuinValue1",
+    "value": 0.0,
+    "id": 8,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "schoolRescueDecideValue2",
+    "value": 10.0,
+    "id": 9,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

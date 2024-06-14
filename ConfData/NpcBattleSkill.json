@@ -1,0 +1,2382 @@
+[
+  {
+    "group": 1001,
+    "skillType": 1,
+    "skillID": 14111,
+    "prefixID": [6],
+    "necessary": -1,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1001,
+    "skillType": 1,
+    "skillID": 14112,
+    "prefixID": [6],
+    "necessary": -1,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1001,
+    "skillType": 1,
+    "skillID": 14113,
+    "prefixID": [6],
+    "necessary": -1,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1001,
+    "skillType": 1,
+    "skillID": 14111,
+    "prefixID": [8, 9, 10],
+    "necessary": 50,
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1001,
+    "skillType": 1,
+    "skillID": 14112,
+    "prefixID": [8, 9, 10],
+    "necessary": 50,
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1001,
+    "skillType": 1,
+    "skillID": 14113,
+    "prefixID": [8, 9, 10],
+    "necessary": 50,
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1001,
+    "skillType": 1,
+    "skillID": 14111,
+    "prefixID": [14],
+    "necessary": 100,
+    "id": 7,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1001,
+    "skillType": 1,
+    "skillID": 14112,
+    "prefixID": [14],
+    "necessary": 100,
+    "id": 8,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1001,
+    "skillType": 1,
+    "skillID": 14113,
+    "prefixID": [14],
+    "necessary": 100,
+    "id": 9,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1001,
+    "skillType": 2,
+    "skillID": 24111,
+    "prefixID": [10],
+    "necessary": -1,
+    "id": 10,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1001,
+    "skillType": 2,
+    "skillID": 24113,
+    "prefixID": [10],
+    "necessary": -1,
+    "id": 11,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1001,
+    "skillType": 2,
+    "skillID": 24115,
+    "prefixID": [10],
+    "necessary": -1,
+    "id": 12,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1001,
+    "skillType": 3,
+    "skillID": 510121,
+    "prefixID": [10],
+    "necessary": 100,
+    "id": 13,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1002,
+    "skillType": 1,
+    "skillID": 15111,
+    "prefixID": [7],
+    "necessary": -1,
+    "id": 14,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1002,
+    "skillType": 1,
+    "skillID": 15111,
+    "prefixID": [7],
+    "necessary": -1,
+    "id": 15,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1002,
+    "skillType": 1,
+    "skillID": 15111,
+    "prefixID": [7],
+    "necessary": -1,
+    "id": 16,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1002,
+    "skillType": 1,
+    "skillID": 15111,
+    "prefixID": [11, 12, 13],
+    "necessary": 100,
+    "id": 17,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1002,
+    "skillType": 1,
+    "skillID": 15111,
+    "prefixID": [11, 12, 13],
+    "necessary": 100,
+    "id": 18,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1002,
+    "skillType": 1,
+    "skillID": 15111,
+    "prefixID": [11, 12, 13],
+    "necessary": 100,
+    "id": 19,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1002,
+    "skillType": 2,
+    "skillID": 25114,
+    "prefixID": [],
+    "necessary": -1,
+    "id": 20,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1002,
+    "skillType": 3,
+    "skillID": 510111,
+    "prefixID": [8],
+    "necessary": -1,
+    "id": 21,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1002,
+    "skillType": 86,
+    "skillID": 86007,
+    "prefixID": [4],
+    "necessary": -1,
+    "id": 22,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1003,
+    "skillType": 1,
+    "skillID": 14111,
+    "prefixID": [6],
+    "necessary": -1,
+    "id": 23,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1003,
+    "skillType": 1,
+    "skillID": 14113,
+    "prefixID": [6],
+    "necessary": -1,
+    "id": 24,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1003,
+    "skillType": 2,
+    "skillID": 24111,
+    "prefixID": [10],
+    "necessary": -1,
+    "id": 25,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1003,
+    "skillType": 2,
+    "skillID": 24113,
+    "prefixID": [10],
+    "necessary": -1,
+    "id": 26,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1003,
+    "skillType": 2,
+    "skillID": 24115,
+    "prefixID": [10],
+    "necessary": -1,
+    "id": 27,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1003,
+    "skillType": 3,
+    "skillID": 510141,
+    "prefixID": [4],
+    "necessary": -1,
+    "id": 28,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1003,
+    "skillType": 3,
+    "skillID": 510141,
+    "prefixID": [6],
+    "necessary": -1,
+    "id": 29,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1004,
+    "skillType": 1,
+    "skillID": 12113,
+    "prefixID": [6],
+    "necessary": -1,
+    "id": 30,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1004,
+    "skillType": 1,
+    "skillID": 12113,
+    "prefixID": [14],
+    "necessary": -1,
+    "id": 31,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1004,
+    "skillType": 1,
+    "skillID": 12113,
+    "prefixID": [16],
+    "necessary": -1,
+    "id": 32,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1004,
+    "skillType": 2,
+    "skillID": 22113,
+    "prefixID": [7],
+    "necessary": -1,
+    "id": 33,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1004,
+    "skillType": 2,
+    "skillID": 22113,
+    "prefixID": [6],
+    "necessary": -1,
+    "id": 34,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1004,
+    "skillType": 2,
+    "skillID": 22111,
+    "prefixID": [13],
+    "necessary": -1,
+    "id": 35,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1004,
+    "skillType": 2,
+    "skillID": 22113,
+    "prefixID": [13],
+    "necessary": -1,
+    "id": 36,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1004,
+    "skillType": 2,
+    "skillID": 22115,
+    "prefixID": [13],
+    "necessary": -1,
+    "id": 37,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1004,
+    "skillType": 3,
+    "skillID": 510011,
+    "prefixID": [9],
+    "necessary": -1,
+    "id": 38,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1004,
+    "skillType": 3,
+    "skillID": 510011,
+    "prefixID": [10],
+    "necessary": -1,
+    "id": 39,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1004,
+    "skillType": 3,
+    "skillID": 510011,
+    "prefixID": [11],
+    "necessary": -1,
+    "id": 40,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1004,
+    "skillType": 88,
+    "skillID": 88001,
+    "prefixID": [9],
+    "necessary": -1,
+    "id": 41,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1004,
+    "skillType": 88,
+    "skillID": 88001,
+    "prefixID": [12],
+    "necessary": -1,
+    "id": 42,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1004,
+    "skillType": 88,
+    "skillID": 88001,
+    "prefixID": [19],
+    "necessary": -1,
+    "id": 43,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1005,
+    "skillType": 1,
+    "skillID": 14113,
+    "prefixID": [6],
+    "necessary": -1,
+    "id": 44,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1005,
+    "skillType": 2,
+    "skillID": 24111,
+    "prefixID": [10],
+    "necessary": -1,
+    "id": 45,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1005,
+    "skillType": 2,
+    "skillID": 24111,
+    "prefixID": [7],
+    "necessary": -1,
+    "id": 46,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1005,
+    "skillType": 2,
+    "skillID": 24111,
+    "prefixID": [9],
+    "necessary": -1,
+    "id": 47,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1005,
+    "skillType": 88,
+    "skillID": 88003,
+    "prefixID": [9],
+    "necessary": -1,
+    "id": 48,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1005,
+    "skillType": 88,
+    "skillID": 88003,
+    "prefixID": [12],
+    "necessary": -1,
+    "id": 49,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1005,
+    "skillType": 88,
+    "skillID": 88003,
+    "prefixID": [17],
+    "necessary": -1,
+    "id": 50,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1005,
+    "skillType": 88,
+    "skillID": 88003,
+    "prefixID": [19],
+    "necessary": -1,
+    "id": 51,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1005,
+    "skillType": 87,
+    "skillID": 87003,
+    "prefixID": [4],
+    "necessary": -1,
+    "id": 52,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1006,
+    "skillType": 1,
+    "skillID": 13112,
+    "prefixID": [11],
+    "necessary": -1,
+    "id": 53,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1006,
+    "skillType": 1,
+    "skillID": 13112,
+    "prefixID": [13],
+    "necessary": -1,
+    "id": 54,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1006,
+    "skillType": 1,
+    "skillID": 13112,
+    "prefixID": [14],
+    "necessary": -1,
+    "id": 55,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1006,
+    "skillType": 1,
+    "skillID": 13112,
+    "prefixID": [16],
+    "necessary": -1,
+    "id": 56,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1006,
+    "skillType": 2,
+    "skillID": 23112,
+    "prefixID": [9],
+    "necessary": -1,
+    "id": 57,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1006,
+    "skillType": 2,
+    "skillID": 23112,
+    "prefixID": [10],
+    "necessary": -1,
+    "id": 58,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1006,
+    "skillType": 2,
+    "skillID": 23112,
+    "prefixID": [7],
+    "necessary": -1,
+    "id": 59,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1006,
+    "skillType": 2,
+    "skillID": 23112,
+    "prefixID": [11],
+    "necessary": -1,
+    "id": 60,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1006,
+    "skillType": 2,
+    "skillID": 23112,
+    "prefixID": [12],
+    "necessary": -1,
+    "id": 61,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1006,
+    "skillType": 3,
+    "skillID": 510021,
+    "prefixID": [10],
+    "necessary": -1,
+    "id": 62,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1006,
+    "skillType": 88,
+    "skillID": 88002,
+    "prefixID": [19],
+    "necessary": -1,
+    "id": 63,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1006,
+    "skillType": 88,
+    "skillID": 88002,
+    "prefixID": [9],
+    "necessary": -1,
+    "id": 64,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1006,
+    "skillType": 88,
+    "skillID": 88002,
+    "prefixID": [12],
+    "necessary": -1,
+    "id": 65,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1006,
+    "skillType": 88,
+    "skillID": 88002,
+    "prefixID": [17],
+    "necessary": -1,
+    "id": 66,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1006,
+    "skillType": 86,
+    "skillID": 86002,
+    "prefixID": [4],
+    "necessary": -1,
+    "id": 67,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1006,
+    "skillType": 86,
+    "skillID": 86002,
+    "prefixID": [5],
+    "necessary": -1,
+    "id": 68,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1006,
+    "skillType": 86,
+    "skillID": 86002,
+    "prefixID": [10],
+    "necessary": -1,
+    "id": 69,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1006,
+    "skillType": 84,
+    "skillID": 84001,
+    "prefixID": [5],
+    "necessary": -1,
+    "id": 70,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1007,
+    "skillType": 1,
+    "skillID": 15111,
+    "prefixID": [6],
+    "necessary": -1,
+    "id": 71,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1007,
+    "skillType": 1,
+    "skillID": 15111,
+    "prefixID": [8],
+    "necessary": -1,
+    "id": 72,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1007,
+    "skillType": 1,
+    "skillID": 15111,
+    "prefixID": [9],
+    "necessary": -1,
+    "id": 73,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1007,
+    "skillType": 1,
+    "skillID": 15111,
+    "prefixID": [14],
+    "necessary": -1,
+    "id": 74,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1007,
+    "skillType": 2,
+    "skillID": 52111,
+    "prefixID": [11],
+    "necessary": -1,
+    "id": 75,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1007,
+    "skillType": 2,
+    "skillID": 52111,
+    "prefixID": [13],
+    "necessary": -1,
+    "id": 76,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1007,
+    "skillType": 4,
+    "skillID": 34112,
+    "prefixID": [11],
+    "necessary": -1,
+    "id": 77,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1007,
+    "skillType": 3,
+    "skillID": 510121,
+    "prefixID": [4],
+    "necessary": -1,
+    "id": 78,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1007,
+    "skillType": 3,
+    "skillID": 510121,
+    "prefixID": [8],
+    "necessary": -1,
+    "id": 79,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1007,
+    "skillType": 3,
+    "skillID": 510121,
+    "prefixID": [10],
+    "necessary": -1,
+    "id": 80,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1007,
+    "skillType": 86,
+    "skillID": 86004,
+    "prefixID": [8],
+    "necessary": -1,
+    "id": 81,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1007,
+    "skillType": 86,
+    "skillID": 86004,
+    "prefixID": [9],
+    "necessary": -1,
+    "id": 82,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1007,
+    "skillType": 87,
+    "skillID": 87006,
+    "prefixID": [2],
+    "necessary": -1,
+    "id": 83,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1007,
+    "skillType": 88,
+    "skillID": 88003,
+    "prefixID": [19],
+    "necessary": -1,
+    "id": 84,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1007,
+    "skillType": 5,
+    "skillID": 700114,
+    "prefixID": [],
+    "necessary": -1,
+    "id": 85,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1007,
+    "skillType": 5,
+    "skillID": 700115,
+    "prefixID": [],
+    "necessary": -1,
+    "id": 86,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1007,
+    "skillType": 5,
+    "skillID": 700116,
+    "prefixID": [],
+    "necessary": -1,
+    "id": 87,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1008,
+    "skillType": 1,
+    "skillID": 16112,
+    "prefixID": [6],
+    "necessary": -1,
+    "id": 88,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1008,
+    "skillType": 1,
+    "skillID": 16112,
+    "prefixID": [8],
+    "necessary": -1,
+    "id": 89,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1008,
+    "skillType": 1,
+    "skillID": 16112,
+    "prefixID": [9],
+    "necessary": -1,
+    "id": 90,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1008,
+    "skillType": 1,
+    "skillID": 16112,
+    "prefixID": [14],
+    "necessary": -1,
+    "id": 91,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1008,
+    "skillType": 2,
+    "skillID": 52111,
+    "prefixID": [11],
+    "necessary": -1,
+    "id": 92,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1008,
+    "skillType": 2,
+    "skillID": 52111,
+    "prefixID": [13],
+    "necessary": -1,
+    "id": 93,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1008,
+    "skillType": 4,
+    "skillID": 34112,
+    "prefixID": [11],
+    "necessary": -1,
+    "id": 94,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1008,
+    "skillType": 3,
+    "skillID": 510051,
+    "prefixID": [6],
+    "necessary": -1,
+    "id": 95,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1008,
+    "skillType": 3,
+    "skillID": 510051,
+    "prefixID": [9],
+    "necessary": -1,
+    "id": 96,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1008,
+    "skillType": 3,
+    "skillID": 510051,
+    "prefixID": [10],
+    "necessary": -1,
+    "id": 97,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1008,
+    "skillType": 86,
+    "skillID": 86005,
+    "prefixID": [8],
+    "necessary": -1,
+    "id": 98,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1008,
+    "skillType": 86,
+    "skillID": 86005,
+    "prefixID": [9],
+    "necessary": -1,
+    "id": 99,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1008,
+    "skillType": 87,
+    "skillID": 87006,
+    "prefixID": [2],
+    "necessary": -1,
+    "id": 100,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1008,
+    "skillType": 88,
+    "skillID": 88003,
+    "prefixID": [19],
+    "necessary": -1,
+    "id": 101,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1009,
+    "skillType": 1,
+    "skillID": 17112,
+    "prefixID": [6],
+    "necessary": -1,
+    "id": 102,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1009,
+    "skillType": 1,
+    "skillID": 17112,
+    "prefixID": [9],
+    "necessary": -1,
+    "id": 103,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1009,
+    "skillType": 1,
+    "skillID": 17112,
+    "prefixID": [14],
+    "necessary": -1,
+    "id": 104,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1009,
+    "skillType": 2,
+    "skillID": 27115,
+    "prefixID": [10],
+    "necessary": -1,
+    "id": 105,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1009,
+    "skillType": 2,
+    "skillID": 27115,
+    "prefixID": [11],
+    "necessary": -1,
+    "id": 106,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1009,
+    "skillType": 2,
+    "skillID": 27115,
+    "prefixID": [13],
+    "necessary": -1,
+    "id": 107,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1009,
+    "skillType": 2,
+    "skillID": 27115,
+    "prefixID": [7],
+    "necessary": -1,
+    "id": 108,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1009,
+    "skillType": 4,
+    "skillID": 37111,
+    "prefixID": [13],
+    "necessary": -1,
+    "id": 109,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1009,
+    "skillType": 86,
+    "skillID": 86006,
+    "prefixID": [2],
+    "necessary": -1,
+    "id": 110,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1009,
+    "skillType": 86,
+    "skillID": 86006,
+    "prefixID": [3],
+    "necessary": -1,
+    "id": 111,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1009,
+    "skillType": 86,
+    "skillID": 86006,
+    "prefixID": [8],
+    "necessary": -1,
+    "id": 112,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1009,
+    "skillType": 87,
+    "skillID": 87006,
+    "prefixID": [2],
+    "necessary": -1,
+    "id": 113,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1009,
+    "skillType": 87,
+    "skillID": 87006,
+    "prefixID": [4],
+    "necessary": -1,
+    "id": 114,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1009,
+    "skillType": 88,
+    "skillID": 88006,
+    "prefixID": [9],
+    "necessary": -1,
+    "id": 115,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1009,
+    "skillType": 88,
+    "skillID": 88006,
+    "prefixID": [12],
+    "necessary": -1,
+    "id": 116,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1009,
+    "skillType": 88,
+    "skillID": 88006,
+    "prefixID": [17],
+    "necessary": -1,
+    "id": 117,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1009,
+    "skillType": 82,
+    "skillID": 82001,
+    "prefixID": [9],
+    "necessary": -1,
+    "id": 118,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1010,
+    "skillType": 1,
+    "skillID": 41113,
+    "prefixID": [7],
+    "necessary": -1,
+    "id": 119,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1010,
+    "skillType": 2,
+    "skillID": 51116,
+    "prefixID": [7],
+    "necessary": -1,
+    "id": 120,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1010,
+    "skillType": 2,
+    "skillID": 51116,
+    "prefixID": [10],
+    "necessary": -1,
+    "id": 121,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1010,
+    "skillType": 2,
+    "skillID": 51116,
+    "prefixID": [11],
+    "necessary": -1,
+    "id": 122,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1010,
+    "skillType": 2,
+    "skillID": 51116,
+    "prefixID": [12],
+    "necessary": -1,
+    "id": 123,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1010,
+    "skillType": 2,
+    "skillID": 51116,
+    "prefixID": [13],
+    "necessary": -1,
+    "id": 124,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1010,
+    "skillType": 3,
+    "skillID": 510111,
+    "prefixID": [8],
+    "necessary": -1,
+    "id": 125,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1010,
+    "skillType": 3,
+    "skillID": 510111,
+    "prefixID": [7],
+    "necessary": -1,
+    "id": 126,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1010,
+    "skillType": 3,
+    "skillID": 510111,
+    "prefixID": [4],
+    "necessary": -1,
+    "id": 127,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1010,
+    "skillType": 3,
+    "skillID": 510111,
+    "prefixID": [3],
+    "necessary": -1,
+    "id": 128,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1010,
+    "skillType": 86,
+    "skillID": 86007,
+    "prefixID": [4],
+    "necessary": -1,
+    "id": 129,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1010,
+    "skillType": 88,
+    "skillID": 88007,
+    "prefixID": [9],
+    "necessary": -1,
+    "id": 130,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1010,
+    "skillType": 88,
+    "skillID": 88007,
+    "prefixID": [12],
+    "necessary": -1,
+    "id": 131,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1010,
+    "skillType": 88,
+    "skillID": 88007,
+    "prefixID": [17],
+    "necessary": -1,
+    "id": 132,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1011,
+    "skillType": 1,
+    "skillID": 42112,
+    "prefixID": [6],
+    "necessary": -1,
+    "id": 133,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1011,
+    "skillType": 1,
+    "skillID": 42112,
+    "prefixID": [8],
+    "necessary": -1,
+    "id": 134,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1011,
+    "skillType": 1,
+    "skillID": 42112,
+    "prefixID": [9],
+    "necessary": -1,
+    "id": 135,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1011,
+    "skillType": 1,
+    "skillID": 42112,
+    "prefixID": [15],
+    "necessary": -1,
+    "id": 136,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1011,
+    "skillType": 2,
+    "skillID": 52113,
+    "prefixID": [7],
+    "necessary": -1,
+    "id": 137,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1011,
+    "skillType": 2,
+    "skillID": 52113,
+    "prefixID": [10],
+    "necessary": -1,
+    "id": 138,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1011,
+    "skillType": 2,
+    "skillID": 52113,
+    "prefixID": [11],
+    "necessary": -1,
+    "id": 139,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1011,
+    "skillType": 4,
+    "skillID": 62111,
+    "prefixID": [7],
+    "necessary": -1,
+    "id": 140,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1011,
+    "skillType": 4,
+    "skillID": 62111,
+    "prefixID": [10],
+    "necessary": -1,
+    "id": 141,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1011,
+    "skillType": 4,
+    "skillID": 62111,
+    "prefixID": [11],
+    "necessary": -1,
+    "id": 142,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1011,
+    "skillType": 3,
+    "skillID": 510121,
+    "prefixID": [4],
+    "necessary": -1,
+    "id": 143,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1011,
+    "skillType": 3,
+    "skillID": 510121,
+    "prefixID": [8],
+    "necessary": -1,
+    "id": 144,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1011,
+    "skillType": 3,
+    "skillID": 510121,
+    "prefixID": [10],
+    "necessary": -1,
+    "id": 145,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1011,
+    "skillType": 83,
+    "skillID": 83001,
+    "prefixID": [12],
+    "necessary": -1,
+    "id": 146,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1011,
+    "skillType": 84,
+    "skillID": 84001,
+    "prefixID": [7],
+    "necessary": -1,
+    "id": 147,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1011,
+    "skillType": 86,
+    "skillID": 86008,
+    "prefixID": [4],
+    "necessary": -1,
+    "id": 148,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1011,
+    "skillType": 86,
+    "skillID": 86008,
+    "prefixID": [8],
+    "necessary": -1,
+    "id": 149,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1011,
+    "skillType": 87,
+    "skillID": 87003,
+    "prefixID": [2],
+    "necessary": -1,
+    "id": 150,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1011,
+    "skillType": 87,
+    "skillID": 87003,
+    "prefixID": [4],
+    "necessary": -1,
+    "id": 151,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1011,
+    "skillType": 88,
+    "skillID": 88003,
+    "prefixID": [19],
+    "necessary": -1,
+    "id": 152,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1012,
+    "skillType": 1,
+    "skillID": 43111,
+    "prefixID": [6],
+    "necessary": -1,
+    "id": 153,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1012,
+    "skillType": 1,
+    "skillID": 43111,
+    "prefixID": [8],
+    "necessary": -1,
+    "id": 154,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1012,
+    "skillType": 1,
+    "skillID": 43111,
+    "prefixID": [9],
+    "necessary": -1,
+    "id": 155,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1012,
+    "skillType": 1,
+    "skillID": 43111,
+    "prefixID": [14],
+    "necessary": -1,
+    "id": 156,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1012,
+    "skillType": 1,
+    "skillID": 43111,
+    "prefixID": [15],
+    "necessary": -1,
+    "id": 157,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1012,
+    "skillType": 2,
+    "skillID": 53113,
+    "prefixID": [7],
+    "necessary": -1,
+    "id": 158,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1012,
+    "skillType": 2,
+    "skillID": 53113,
+    "prefixID": [11],
+    "necessary": -1,
+    "id": 159,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1012,
+    "skillType": 2,
+    "skillID": 53113,
+    "prefixID": [13],
+    "necessary": -1,
+    "id": 160,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1012,
+    "skillType": 4,
+    "skillID": 63112,
+    "prefixID": [7],
+    "necessary": -1,
+    "id": 161,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1012,
+    "skillType": 4,
+    "skillID": 63112,
+    "prefixID": [13],
+    "necessary": -1,
+    "id": 162,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1012,
+    "skillType": 3,
+    "skillID": 510131,
+    "prefixID": [4],
+    "necessary": -1,
+    "id": 163,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1012,
+    "skillType": 3,
+    "skillID": 510131,
+    "prefixID": [9],
+    "necessary": -1,
+    "id": 164,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1012,
+    "skillType": 3,
+    "skillID": 510131,
+    "prefixID": [10],
+    "necessary": -1,
+    "id": 165,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1012,
+    "skillType": 81,
+    "skillID": 81001,
+    "prefixID": [11],
+    "necessary": -1,
+    "id": 166,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1012,
+    "skillType": 84,
+    "skillID": 84001,
+    "prefixID": [8],
+    "necessary": -1,
+    "id": 167,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1012,
+    "skillType": 86,
+    "skillID": 86009,
+    "prefixID": [2],
+    "necessary": -1,
+    "id": 168,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1012,
+    "skillType": 86,
+    "skillID": 86009,
+    "prefixID": [4],
+    "necessary": -1,
+    "id": 169,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1012,
+    "skillType": 86,
+    "skillID": 86009,
+    "prefixID": [5],
+    "necessary": -1,
+    "id": 170,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1012,
+    "skillType": 86,
+    "skillID": 86009,
+    "prefixID": [8],
+    "necessary": -1,
+    "id": 171,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1012,
+    "skillType": 87,
+    "skillID": 87003,
+    "prefixID": [2],
+    "necessary": -1,
+    "id": 172,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1012,
+    "skillType": 87,
+    "skillID": 87003,
+    "prefixID": [4],
+    "necessary": -1,
+    "id": 173,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1012,
+    "skillType": 87,
+    "skillID": 87007,
+    "prefixID": [2],
+    "necessary": -1,
+    "id": 174,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1012,
+    "skillType": 87,
+    "skillID": 87007,
+    "prefixID": [3],
+    "necessary": -1,
+    "id": 175,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1012,
+    "skillType": 87,
+    "skillID": 87007,
+    "prefixID": [7],
+    "necessary": -1,
+    "id": 176,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1012,
+    "skillType": 88,
+    "skillID": 88009,
+    "prefixID": [19],
+    "necessary": -1,
+    "id": 177,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1013,
+    "skillType": 1,
+    "skillID": 44113,
+    "prefixID": [11],
+    "necessary": -1,
+    "id": 178,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1013,
+    "skillType": 1,
+    "skillID": 44113,
+    "prefixID": [14],
+    "necessary": -1,
+    "id": 179,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1013,
+    "skillType": 1,
+    "skillID": 44113,
+    "prefixID": [16],
+    "necessary": -1,
+    "id": 180,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1013,
+    "skillType": 2,
+    "skillID": 54112,
+    "prefixID": [7],
+    "necessary": -1,
+    "id": 181,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1013,
+    "skillType": 2,
+    "skillID": 54112,
+    "prefixID": [11],
+    "necessary": -1,
+    "id": 182,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1013,
+    "skillType": 2,
+    "skillID": 54112,
+    "prefixID": [13],
+    "necessary": -1,
+    "id": 183,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1013,
+    "skillType": 3,
+    "skillID": 510141,
+    "prefixID": [10],
+    "necessary": -1,
+    "id": 184,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1013,
+    "skillType": 86,
+    "skillID": 86010,
+    "prefixID": [5],
+    "necessary": -1,
+    "id": 185,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1013,
+    "skillType": 87,
+    "skillID": 87010,
+    "prefixID": [4],
+    "necessary": -1,
+    "id": 186,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1013,
+    "skillType": 88,
+    "skillID": 88010,
+    "prefixID": [19],
+    "necessary": -1,
+    "id": 187,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1013,
+    "skillType": 88,
+    "skillID": 88010,
+    "prefixID": [9],
+    "necessary": -1,
+    "id": 188,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1013,
+    "skillType": 88,
+    "skillID": 88010,
+    "prefixID": [12],
+    "necessary": -1,
+    "id": 189,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1013,
+    "skillType": 88,
+    "skillID": 88010,
+    "prefixID": [17],
+    "necessary": -1,
+    "id": 190,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1014,
+    "skillType": 1,
+    "skillID": 46112,
+    "prefixID": [7],
+    "necessary": -1,
+    "id": 191,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1014,
+    "skillType": 2,
+    "skillID": 56112,
+    "prefixID": [10],
+    "necessary": -1,
+    "id": 192,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1014,
+    "skillType": 2,
+    "skillID": 56112,
+    "prefixID": [11],
+    "necessary": -1,
+    "id": 193,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1014,
+    "skillType": 2,
+    "skillID": 56112,
+    "prefixID": [12],
+    "necessary": -1,
+    "id": 194,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1014,
+    "skillType": 2,
+    "skillID": 56112,
+    "prefixID": [13],
+    "necessary": -1,
+    "id": 195,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1014,
+    "skillType": 3,
+    "skillID": 510161,
+    "prefixID": [8],
+    "necessary": -1,
+    "id": 196,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1014,
+    "skillType": 3,
+    "skillID": 510161,
+    "prefixID": [9],
+    "necessary": -1,
+    "id": 197,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1014,
+    "skillType": 3,
+    "skillID": 510161,
+    "prefixID": [10],
+    "necessary": -1,
+    "id": 198,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1014,
+    "skillType": 4,
+    "skillID": 66112,
+    "prefixID": [10],
+    "necessary": -1,
+    "id": 199,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1014,
+    "skillType": 4,
+    "skillID": 66112,
+    "prefixID": [11],
+    "necessary": -1,
+    "id": 200,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1014,
+    "skillType": 4,
+    "skillID": 66112,
+    "prefixID": [12],
+    "necessary": -1,
+    "id": 201,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1014,
+    "skillType": 88,
+    "skillID": 88012,
+    "prefixID": [19],
+    "necessary": -1,
+    "id": 202,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1014,
+    "skillType": 88,
+    "skillID": 88012,
+    "prefixID": [20],
+    "necessary": -1,
+    "id": 203,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1014,
+    "skillType": 88,
+    "skillID": 88012,
+    "prefixID": [9],
+    "necessary": -1,
+    "id": 204,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1014,
+    "skillType": 88,
+    "skillID": 88012,
+    "prefixID": [12],
+    "necessary": -1,
+    "id": 205,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1014,
+    "skillType": 88,
+    "skillID": 88012,
+    "prefixID": [17],
+    "necessary": -1,
+    "id": 206,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1014,
+    "skillType": 86,
+    "skillID": 86012,
+    "prefixID": [4],
+    "necessary": -1,
+    "id": 207,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1014,
+    "skillType": 86,
+    "skillID": 86012,
+    "prefixID": [5],
+    "necessary": -1,
+    "id": 208,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1014,
+    "skillType": 86,
+    "skillID": 86012,
+    "prefixID": [10],
+    "necessary": -1,
+    "id": 209,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1014,
+    "skillType": 87,
+    "skillID": 87012,
+    "prefixID": [5],
+    "necessary": -1,
+    "id": 210,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1014,
+    "skillType": 87,
+    "skillID": 87012,
+    "prefixID": [7],
+    "necessary": -1,
+    "id": 211,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1015,
+    "skillType": 2,
+    "skillID": 53116,
+    "prefixID": [10],
+    "necessary": -1,
+    "id": 212,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1015,
+    "skillType": 3,
+    "skillID": 510111,
+    "prefixID": [8],
+    "necessary": -1,
+    "id": 213,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1015,
+    "skillType": 3,
+    "skillID": 510111,
+    "prefixID": [7],
+    "necessary": -1,
+    "id": 214,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1015,
+    "skillType": 3,
+    "skillID": 510111,
+    "prefixID": [4],
+    "necessary": -1,
+    "id": 215,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1015,
+    "skillType": 3,
+    "skillID": 510111,
+    "prefixID": [3],
+    "necessary": -1,
+    "id": 216,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1015,
+    "skillType": 86,
+    "skillID": 86007,
+    "prefixID": [4],
+    "necessary": -1,
+    "id": 217,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1016,
+    "skillType": 3,
+    "skillID": 510111,
+    "prefixID": [8],
+    "necessary": -1,
+    "id": 218,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1016,
+    "skillType": 3,
+    "skillID": 510111,
+    "prefixID": [7],
+    "necessary": -1,
+    "id": 219,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1016,
+    "skillType": 3,
+    "skillID": 510111,
+    "prefixID": [4],
+    "necessary": -1,
+    "id": 220,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1016,
+    "skillType": 3,
+    "skillID": 510111,
+    "prefixID": [3],
+    "necessary": -1,
+    "id": 221,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1016,
+    "skillType": 86,
+    "skillID": 86007,
+    "prefixID": [4],
+    "necessary": -1,
+    "id": 222,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1016,
+    "skillType": 81,
+    "skillID": 81001,
+    "prefixID": [9],
+    "necessary": -1,
+    "id": 223,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1016,
+    "skillType": 82,
+    "skillID": 82001,
+    "prefixID": [10],
+    "necessary": -1,
+    "id": 224,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1016,
+    "skillType": 83,
+    "skillID": 83001,
+    "prefixID": [11],
+    "necessary": -1,
+    "id": 225,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1016,
+    "skillType": 5,
+    "skillID": 700037,
+    "prefixID": [],
+    "necessary": -1,
+    "id": 226,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1016,
+    "skillType": 4,
+    "skillID": 61112,
+    "prefixID": [6],
+    "necessary": -1,
+    "id": 227,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1016,
+    "skillType": 4,
+    "skillID": 61112,
+    "prefixID": [7],
+    "necessary": -1,
+    "id": 228,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1016,
+    "skillType": 4,
+    "skillID": 61112,
+    "prefixID": [10],
+    "necessary": -1,
+    "id": 229,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1016,
+    "skillType": 4,
+    "skillID": 61112,
+    "prefixID": [11],
+    "necessary": -1,
+    "id": 230,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1017,
+    "skillType": 1,
+    "skillID": 45111,
+    "prefixID": [7],
+    "necessary": -1,
+    "id": 231,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1017,
+    "skillType": 2,
+    "skillID": 55112,
+    "prefixID": [13],
+    "necessary": -1,
+    "id": 232,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1017,
+    "skillType": 2,
+    "skillID": 55112,
+    "prefixID": [11],
+    "necessary": -1,
+    "id": 233,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1017,
+    "skillType": 2,
+    "skillID": 55112,
+    "prefixID": [7],
+    "necessary": -1,
+    "id": 234,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1017,
+    "skillType": 3,
+    "skillID": 510151,
+    "prefixID": [6],
+    "necessary": -1,
+    "id": 235,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1017,
+    "skillType": 3,
+    "skillID": 510151,
+    "prefixID": [9],
+    "necessary": -1,
+    "id": 236,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1017,
+    "skillType": 3,
+    "skillID": 510151,
+    "prefixID": [8],
+    "necessary": -1,
+    "id": 237,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "group": 1017,
+    "skillType": 3,
+    "skillID": 510151,
+    "prefixID": [4],
+    "necessary": -1,
+    "id": 238,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

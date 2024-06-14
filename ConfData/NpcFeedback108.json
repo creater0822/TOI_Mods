@@ -1,0 +1,16 @@
+[
+  {
+    "key": "characterPara",
+    "value": 0.64,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "basics",
+    "value": 50.0,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

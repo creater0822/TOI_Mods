@@ -1,0 +1,16 @@
+[
+  {
+    "key": "weightGrade",
+    "value": 100000,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "passSufferingProb",
+    "value": 100,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "key": "spRate1",
+    "value": 130,
+    "id": 1,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "spLevelCount1",
+    "value": 3,
+    "id": 2,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "spRate2",
+    "value": 100,
+    "id": 3,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "spLevelCount2",
+    "value": 2,
+    "id": 4,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "spRate3",
+    "value": 60,
+    "id": 5,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "spLevelCount3",
+    "value": 1,
+    "id": 6,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "weightAdd",
+    "value": 2000,
+    "id": 7,
+    "isVariant": false,
+    "isModExtend": false
+  },
+  {
+    "key": "failedRate",
+    "value": 30,
+    "id": 8,
+    "isVariant": false,
+    "isModExtend": false
+  }
+]
