@@ -8,8 +8,8 @@ This is none of other than a proportion of the game's data (incl. configs) that 
     - [Json format](#json-format)
     - [Xlsx format](#xlsx-format)
   - [4.2 References and meta-data](#42-references-and-meta-data)
-    - [StringFunctions.xlsx](#stringfunctionsxlsx)
-    - [Immortal\_IDs.xlsx](#immortal_idsxlsx)
+    - [4.2.1 StringFunctions.xlsx](#421-stringfunctionsxlsx)
+    - [4.2.2 Immortal\_IDs.xlsx](#422-immortal_idsxlsx)
   - [4.3 File-topics of interest](#43-file-topics-of-interest)
 
 ## 4.1 Data file convention
@@ -70,7 +70,7 @@ Supplementary to the above described, **folder 1** contains a bunch of Excel exa
 
 <ins>Last but most important is **folder 3**</ins>, which sadly needs to be manually translated (per cell) with either Excel's built-in translator or any online translator. Within this repo you can find the (name-only)translated Excel file [StringFunctions.xlsx](./ModExcel/StringFunctions.xlsx) and [Immortal_IDs.xlsx](./ModExcel/Immortal_IDs.xlsx) which has a decent proportion of the main sheet Microsoft/Google-Translated.
 
-### StringFunctions.xlsx
+### 4.2.1 StringFunctions.xlsx
 This file holds all(?) of the pre-coded function-references that enable their actual coded function to be called from the relationnal-database file definitions, from which the game evaluates. The content is categorized in different worksheets, of whom the majority were comprehensively given an English name by me, knowing what the respective content pertains to. *(The literal translation of the Chinese sheet names are garbage.)* So here we'll go over them one by one..
 
 **DramaFunc**<br>
@@ -102,8 +102,108 @@ Used to define sect traits and rules which are referenced in `SchoolSlogan`, a d
 **DecorationID**<br>
 I've never actually used this in ModExcel, but it's pretty much a graphical representation of which ID pertains to what picture. This might be handy if you want to add stuff to the world map or in a certain battle dungeon.
 
-### Immortal_IDs.xlsx
-...
+### 4.2.2 Immortal_IDs.xlsx
+This file contains worksheets about many different ID-categories that are (mostly) related to **battle instances**. Any worksheet that I don't describe is btw stuff that I still don't understand the meaning of. So let's get started sheet-by-sheet again:
+
+**TypeID**<br>
+This meta-data describes the essence within the data-file `BattleEffect`. If you open up `BattleEffect.json` you'll be greeted by json-objects that are **full of senseless numbers!**
+
+<details>
+<summary>See example 1:</summary>
+
+```
+{
+  "id": "30114411",
+  "typeID": "1122",
+  "targetID": "1001",
+  "value1": "8",
+  "value2": "1",
+  "value3": "&3011441_nlxh",
+  "value4": "0",
+  "value5": "0",
+  "value6": "0",
+  "value7": "0",
+  "value8": "0",
+  "overlay": "0",
+  "layCount": "1",
+  "duration": "-1",
+  "classID": "0",
+  "effect1": "Unit/jialan",
+  "effect2": "0",
+  "effect3": "0",
+  "effect4": "0",
+  "effect5": "0",
+  "effect6": "0",
+  "icon": "0",
+  "headIcon": "0",
+  "name": "0",
+  "desc": "0",
+  "valueDesc": "0"
+}
+```
+</details>
+
+The value of the key called `"typeID"` is what we need to Ctrl+F search for, within the **TypeID** worksheet. This search gives us the description *"When you consume a specified attribute, adjust the value of the attribute consumed"*. When we look further at the columns right next, we have **parameter 1 - 8**, which corresponds to the keys `value1` up to `value8`. Because `effect 1122` only has 3 parameters, the `BattleEffect` object that refers to `1122` only has meaningful data in `value1` up to `value3`. *(As `value4` - `value8` just need to be `0` and don't do anything.)* The key `"value3": "&3011441_nlxh"` is a key-reference towards an object in the data-file `BattleSkillValue`. `BattleSkillValue` is dynamic (numerical) value-definition that is used for skill description with Realm-variable colored numbered that might even have an icon with it.
+
+So if we open `BattleSkillValue` and Ctrl+F search, we find..
+
+<details>
+<summary>Example 1: reference value</summary>
+
+```
+{
+  "id": "9679",
+  "key": "&3011441_nlxh",
+  "value1": "-200",
+  "value2": "-200",
+  "value3": "-200",
+  "value4": "-200",
+  "value5": "-200",
+  "value6": "-200",
+  "value7": "-200",
+  "value8": "-200",
+  "value9": "-200",
+  "value10": "-200",
+  "valueMon": "Disable",
+  "colorBind": "0",
+  "icon": "nianli",
+  "valueScale": "x0.01|f2"
+}
+```
+</details>
+
+In here we indeed see a key named `"key": "&3011441_nlxh"`. In here we have `value1` - `value10`, which correspond to the unit's Taoist Realm *(e.g 1 = Qi Refining and 10 = Transcendent.)* 
+
+> Side-note: The object-ID in `BattleSkilLValue` (e.g. `"id": "9679"`) <ins>is independent</ins> to the object-ID in `BattleEffect`, as only the `"key"` value needs to match. *(Relational-database 101 basically)*
+
+Returning to the `BattleEffect` example, we find out that it <ins>modifies</ins> the amount of Mental Power (Focus) spent, (looking at param2) percentually reduced, by a 10,000 ratio meaning `-200 = -2%`. Note that `"valueScale": "x0.01|f2"` in `BattleSkillValue` needs to match with the described type Effect's ratio.
+
+**TargetID**<br>
+This horizontal one-row table is used to describe the data-file `BattleEffectSelection`, which is relation-linked to the key `"targetID"` inside `BattleEffect`. As you see, `BattleEffectSelection` is used to define all of the stuff that you can see are described. If we look back in the worksheet `TypeID`, each Effect Type either has the description `"Target selector ID"` under the **Action Target** column, or hasn't. The Effect types that do have such a description *can* be target-configured via the `targetID` key. Otherwise, the effect can only target the unit which is explicitly described by the (English translated) description sentence(s).
+
+**StatID**<br>
+Describes the in-battle stat IDs as the worksheet name suggests. Remember **example 1** we saw earlier where the value `8` meant `Energy`. This table explains it all. There is of course more than 1 Battle effect that refers to this ID table.
+
+**MonsterTypeID , dmgCauseTypeID , dmgReceiveTypeID**<br>
+These are quite self-explanatory.
+
+**skillAttrID**<br>
+Along with the description being somewhat self-explanatory, reading (for example) `BattleEffect` type `3002` will give a better understanding of how/where those values could be used at. Similar to the `StatID` table, there is of course more than 1 Battle effect that refers to this ID table.
+
+**HaloAttrID**<br>
+Related to auras and/or some summoned units like the Spiritual Sword, *but I haven't yet spent time to figure out 'if or which' `BattleEffect` type uses this table.*
+
+**effectAttrID**<br>
+Used by `BattleEffect` type `3004` to modify the parameter-values of other `BattleEffect` types.
+
+**targetEffectID**<br>
+Used by `BattlEffect` type `3005` to specify the ambiguous description-properties. I haven't yet spent time to figure this out.
+
+**specialEffectID**<br>
+My favorite ID table among these BattleFunction-parameter references, used by `BattleEffect` type `6001`.
+
+**Special effects ID comp**<br>
+*I haven't even figured out a clue of where this table pertains to..*
 
 ## 4.3 File-topics of interest
 *Coming soon (maybe...)*
