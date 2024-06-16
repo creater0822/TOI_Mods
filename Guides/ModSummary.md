@@ -1,5 +1,5 @@
 # Overview to modding Tale of Immortal
-> Written by Creater Cyfire, last revision: Jun 12, 2024
+> Written by Creater Cyfire, last revision: (see every individual markdown file's GitHub date/time)
 
 Modding in Tale of Immortal *-e.g. using the game's API-* is best described as *<ins>'appreciating modern art'</ins>*, or in other words:
 1. It completely lacks any form of official English documentation.
