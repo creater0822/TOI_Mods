@@ -10,7 +10,9 @@ This is none of other than a proportion of the game's data (incl. configs) that 
   - [4.2 References and meta-data](#42-references-and-meta-data)
     - [4.2.1 StringFunctions.xlsx](#421-stringfunctionsxlsx)
     - [4.2.2 Immortal\_IDs.xlsx](#422-immortal_idsxlsx)
-  - [4.3 File-topics of interest](#43-file-topics-of-interest)
+  - [4.3 Further reading](#43-further-reading)
+
+The "Table of content" reference is auto-generated into itself by VSCodium, so no suspecting me xD
 
 ## 4.1 Data file convention
 - The file name equals the data-construct which it pertains to (case-sensitive) and is defined in either json- or xlsx-format.
@@ -205,5 +207,11 @@ My favorite ID table among these BattleFunction-parameter references, used by `B
 **Special effects ID comp**<br>
 *I haven't even figured out a clue of where this table pertains to..*
 
-## 4.3 File-topics of interest
-*Coming soon (maybe...)*
+## 4.3 Further reading
+This section will be reserved for potential (more in-depth) guide documents in which I could describe which combinations of data-files can create "what" things.
+
+The list of stuff I'd potentially elaborate further:
+- Added destinies
+- Added sects
+- Added items *(mounts/rings/elixirs)*
+- Added skills *(excluding manuals/traditions, cause Idk how to make those yet)*

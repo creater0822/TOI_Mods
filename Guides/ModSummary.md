@@ -34,6 +34,8 @@ With all of that said: This summary is basically written in the perspective of (
   - [5. ModCode (using C#.Net)](#5-modcode-using-cnet)
   - [6. Source reconstruction](#6-source-reconstruction)
 
+The "Table of content" reference is auto-generated into itself by VSCodium, so no suspecting me xD
+
 ## How/where to start?
 Let's start with some quick info:
 - The game is built in `Unity 2020.3.9f99` with game type being `Il2Cpp`
@@ -168,10 +170,10 @@ Creates battle instances, which I've only superficially tried out once. So idk h
 - **Modify Resources**: Clicking this button for the first time generates the ModRes folder, which contains the default Unity project template that's been given to us by the devs.
 
 ## 4. ModExcel (json/xlsx)
-Due to the expected sheer size, I've decided to migrate this part into its standalone Markdown file. So middle-mouse [click this link](./ModExcelSummary.md) to get there for further reading.
+Due to the expected sheer size, I've decided to migrate this part into its standalone Markdown file. So middle-mouse [click this link](./SummaryModExcel.md) to get there for further reading.
 
 ## 5. ModCode (using C#.Net)
-...
+Similar to section 4, this too received its own standalone Markdown file, [click this link](./SummaryModCode.md).
 
 ## 6. Source reconstruction
 ...
