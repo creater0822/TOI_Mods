@@ -78,7 +78,7 @@ harmony.PatchAll(Assembly.GetExecutingAssembly());
 ..Which you can read more about [here](https://harmony.pardeike.net/articles/patching.html) if you want to create Harmony patches and/or write your own patch/unpatch lines.
 
 ## 5.3 The API's Event listeners
-It is finally time to answer the brute-logical questions that I proposed in [section 5.1](#51-documentation), <ins>however I'm going to do so from my *"possibly flawed understanding"* about either the game API and/or the entirety of Unity Engine games!</ins> So take it with a grain of salt, although the pure-logical/inferential observations are all true.
+It is finally time to answer the brute-logical questions that I proposed in [section 5.1](#51-documentation), <ins>however I'm going to do so from my *"possibly flawed understanding"* about either the game API and/or the entirety of Unity Engine games!</ins> So **do** take it with a grain of salt, although the pure-logical/inferential observations are all true.
 
 ...
 
@@ -87,4 +87,9 @@ It is finally time to answer the brute-logical questions that I proposed in [sec
 ...
 
 ## 5.5 Further reading
-...
+This section will be reserved for potential (more in-depth) guide documents in which I could describe which combinations of data-files can create "what" things.
+
+The list of stuff I'd potentially elaborate further:
+- Interacting with other mods (e.g. seeing what's loaded)
+- UI object location changing
+- How to invoke [...] Class to use it?
