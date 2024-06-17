@@ -176,4 +176,4 @@ Due to the expected sheer size, I've decided to migrate this part into its stand
 Similar to section 4, this too received its own standalone Markdown file, [click this link](./SummaryModCode.md).
 
 ## 6. Source reconstruction
-...
+The last and possibly "most instructive" part, [click this link](./SummaryReconstruction.md).
