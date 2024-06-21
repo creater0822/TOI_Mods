@@ -1,0 +1,11 @@
+> Nuget
+Install-Package WindowsAPICodePack-Core
+Install-Package WindowsAPICodePack-Shell
+Install-Package PresentationFramework
+
+Install-Package Microsoft-WindowsAPICodePack-Core
+Install-Package Microsoft-WindowsAPICodePack-Shell
+
+// Other stuff we don't need
+Install-Package WindowsAPICodePack-ExtendedLinguisticServices
+Install-Package WindowsAPICodePack-Sensors

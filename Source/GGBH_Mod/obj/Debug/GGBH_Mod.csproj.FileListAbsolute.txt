@@ -1,0 +1,6 @@
+C:\Users\Cyfire\source\repos\GGBH_Mod\bin\Debug\GGBH_MOD.dll
+C:\Users\Cyfire\source\repos\GGBH_Mod\bin\Debug\GGBH_MOD.pdb
+C:\Users\Cyfire\source\repos\GGBH_Mod\obj\Debug\GGBH_Mod.csproj.AssemblyReference.cache
+C:\Users\Cyfire\source\repos\GGBH_Mod\obj\Debug\GGBH_Mod.csproj.CoreCompileInputs.cache
+C:\Users\Cyfire\source\repos\GGBH_Mod\obj\Debug\GGBH_MOD.dll
+C:\Users\Cyfire\source\repos\GGBH_Mod\obj\Debug\GGBH_MOD.pdb

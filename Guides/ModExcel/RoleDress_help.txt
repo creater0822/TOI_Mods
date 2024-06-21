@@ -1,0 +1,18 @@
+bizi		nose
+lian		head
+meimao		eyebrow
+meixin		forehead
+quanlian	faceFull
+toufa		hair
+toufaqian	hairFront
+yanjing		eyes
+yifu		body
+zuiba		mouth
+zuolian		faceLeft
+youlian		faceRight
+houbei		back
+maozi		hat
+
+Lines of code for Unity Explorer to live-check appearance IDs during character creation
+UICreatePlayer ui = g.ui.GetUI<UICreatePlayer>(UIType.CreatePlayer);
+ui.property.createPlayer.playerData.unitData.propertyData.modelData.[name]

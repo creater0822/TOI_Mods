@@ -1,6 +1,8 @@
 # Originally made by Celestine Lorewriter
 import time
 import sys
+import traceback
+import logging
 import shutil # To backup the original
 import json5 # Not a builtin and might slightly be slower
 from deep_translator import GoogleTranslator # But the bottleneck's the translation anyway
@@ -15,10 +17,12 @@ def translate_json(json_file):
         data = json5.load(file)
     print("File has been read, time to translate it")
     try:
-        for item in data:
+        for index, item in enumerate(data):
             item['en'] = translate_to_english(item['ch'])
-            print(f"translated: {item['en']}")
-    except KeyboardInterrupt:
+            print(f"translated {index}: {item['en']}")
+    #except KeyboardInterrupt:
+    except (KeyboardInterrupt, RequestError) as e:
+        logging.error(traceback.format_exc())
         print(f"Script has been interupted! Trying to save the currently translated data..")
         with open(json_file, 'w', encoding='utf-8') as file:
             json5.dump(data, file, ensure_ascii=False, indent=2, quote_keys=True)
@@ -37,15 +41,17 @@ def part_translate_json(json_file):
     print("File has been read, time to translate it")
     output = []
     try:
-        for item in data:
+        for index, item in enumerate(data):
             if item['ch'] == "":
                 continue # Nothing to translate
             if (item['ch'] != item['en']) & (item['en'] != ""):
                 continue # Assuming that English is already available
             item['en'] = translate_to_english(item['ch'])
-            print(f"translated: {item['en']}")
+            print(f"translated {index}: {item['en']}")
             output.append(item) # Adds the translated dict to the output data
-    except KeyboardInterrupt:
+    #except KeyboardInterrupt:
+    except (KeyboardInterrupt, RequestError) as e:
+        logging.error(traceback.format_exc())
         print(f"Script has been interupted! Trying to save the currently translated data..")
         with open(json_file, 'w', encoding='utf-8') as file:
             json5.dump(output, file, ensure_ascii=False, indent=2, quote_keys=True)

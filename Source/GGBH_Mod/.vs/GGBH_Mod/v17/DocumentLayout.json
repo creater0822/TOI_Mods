@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cyfire\\source\\repos\\GGBH_Mod\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A387C74A-4527-4F62-8D99-54CE36FE8802}|GGBH_Mod.csproj|c:\\users\\cyfire\\source\\repos\\ggbh_mod\\modmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A387C74A-4527-4F62-8D99-54CE36FE8802}|GGBH_Mod.csproj|solutionrelative:modmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A387C74A-4527-4F62-8D99-54CE36FE8802}|GGBH_Mod.csproj|c:\\users\\cyfire\\source\\repos\\ggbh_mod\\patch_eventsmgr_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A387C74A-4527-4F62-8D99-54CE36FE8802}|GGBH_Mod.csproj|solutionrelative:patch_eventsmgr_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ModMain.cs",
+              "DocumentMoniker": "C:\\Users\\Cyfire\\source\\repos\\GGBH_Mod\\ModMain.cs",
+              "RelativeDocumentMoniker": "ModMain.cs",
+              "ToolTip": "C:\\Users\\Cyfire\\source\\repos\\GGBH_Mod\\ModMain.cs",
+              "RelativeToolTip": "ModMain.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAowE0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:19:37.22Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Patch_EventsMgr_Init.cs",
+              "DocumentMoniker": "C:\\Users\\Cyfire\\source\\repos\\GGBH_Mod\\Patch_EventsMgr_Init.cs",
+              "RelativeDocumentMoniker": "Patch_EventsMgr_Init.cs",
+              "ToolTip": "C:\\Users\\Cyfire\\source\\repos\\GGBH_Mod\\Patch_EventsMgr_Init.cs",
+              "RelativeToolTip": "Patch_EventsMgr_Init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:58:04.64Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
