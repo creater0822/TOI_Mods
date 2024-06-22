@@ -27,7 +27,7 @@ With all of that said: This summary is basically written in the perspective of (
   - [How/where to start?](#howwhere-to-start)
   - [1. Tools](#1-tools)
   - [2. All creation categories](#2-all-creation-categories)
-  - [3. Mod Creator](#3-mod-creator)
+  - [3. General Mod Creation](#3-general-mod-creation)
     - [3.1 soleID, namespace and ExcelMID](#31-soleid-namespace-and-excelmid)
     - [3.2 Mod creator features](#32-mod-creator-features)
   - [4. ModExcel (json/xlsx)](#4-modexcel-jsonxlsx)
@@ -92,7 +92,7 @@ Mods can be built upon one or multiple categories:
 
 From this point I would recommend reading my [TOI_Mod_Management_Guide](https://drive.google.com/file/d/1vmrPlddnmfrfcJGC9yQz2IT41MPYLY7U/view?usp=drive_link) first, if you haven't already and/or don't already know all basics to managing this game's mods. Assuming that you know everything described in there, we'll continue..
 
-## 3. Mod Creator
+## 3. General Mod Creation
 This tool is crucial for the generation of mod projects and exportation of playable Mod folders. Since this tool support English, I'll start with advanced settings which I would recommend any mod creator, regardless of which creation category you're focused into. After that I'll briefly summarize the tool's creative features which are highly limited.
 
 ### 3.1 soleID, namespace and ExcelMID
